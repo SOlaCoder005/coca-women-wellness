@@ -4,6 +4,61 @@
 
 /* Imports Section - End*/
 
+/*Border and Body - START */
+* {
+    margin: 0;
+    padding: 0; 
+    border: none;
+}
+
+body {
+    font-family: 'Lato', sans-serif; 
+    font-weight: 500px;
+    font-size: 18px;
+    color: #494747;
+}
+
+
+h1, h2, h3 {
+    font-family: 'Nunito', sans-serif;
+    text-transform: none;
+    letter-spacing: 1px;
+    color: #323030;
+   }
+
+header {
+    background-color: #d1d1d1;
+    padding: 20px 0 20px 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    /*justify for horizontal alignment*/
+    align-items: center;
+    /*align for vertical alignment*/
+    max-width: 60rem;
+    /*choose to use rem rather than px as it's relative to the base pixel*/
+    margin: 0 auto;
+    padding: 0 1rem;
+    /*padding has been added here to ensure the container elements do not touch the sides of web window*/
+}
+
+li {
+    display: inline-block;
+    padding: 0.125 rem;
+}
+
+li a {
+    text-decoration: none;
+    color: #494747;
+}
+
+
+/*Border and Body - END */
+
+  
+
 
 
 
@@ -12,6 +67,15 @@
 
 
 /*Media Query Section - Start*/
+
+/* for nav*/
+@media all and (max-width: 720px) {
+    .container{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+}
 
 
 

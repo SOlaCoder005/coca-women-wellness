@@ -63,12 +63,61 @@ li a {
     position: absolute; 
     top: 1.5rem;
     right: 1rem;
-
 }
 
+.open {
+    height: 100vh;
+}
 
-
+.hidden {
+    display: none;
+}
 /*Border and Body - END */
+
+/*Section - START*/
+
+#landing-section-one{
+    height: 300px; 
+    width: 100%;
+    background-color: green;
+}
+
+#landing-section-two{
+    height: 300px; 
+    width: 100%;
+    background-color: orange;
+}
+
+#landing-section-three{
+    height: 300px; 
+    width: 100%;
+    background-color: yellow;
+}
+
+/*Section - END*/
+
+/*Footer - START*/
+
+footer {
+    background-color: #d1d1d1;
+    padding: 50px 0 50px 0;
+    text-align: center;
+    position: bottom;
+}
+
+footer > p {
+    padding: 0 15px;
+}
+
+#footer-structure {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 10px;
+}
+
+/*Footer - END*/
 
   
 
@@ -80,7 +129,6 @@ li a {
 
 
 /*Media Query Section - Start*/
-
 /* for nav*/
 @media all and (max-width: 720px) {
     .container{
@@ -90,7 +138,8 @@ li a {
     nav {
         width: 100%;
         height: 0;
-        overflow: hidden; 
+        overflow: hidden;
+        transition: 250ms height ease-in-out;
     }
 
     li {
@@ -105,11 +154,7 @@ li a {
 
     .menu-icon {
         display: block;
-    }
-
-    .open {
-        height: 100vh;
-    }
+    }   
 }
 
 

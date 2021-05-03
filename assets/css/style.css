@@ -12,15 +12,14 @@
 }
 
 body {
-    font-family: 'Lato', sans-serif; 
+    font-family: Arial, Helvetica, sans-serif; 
     font-weight: 100px;
     font-size: 18px;
     color: #494747;
 }
 
-
 h1, h2, h3 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     text-transform: none;
     letter-spacing: 1px;
     color: #323030;

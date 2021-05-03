@@ -84,7 +84,7 @@ li a {
 /*Border and Body - END */
 
 /*Section - START*/
-/*index*/
+/*index - Start*/
 .landing-section-one{
     height: 300px; 
     width: 100%;   
@@ -99,6 +99,8 @@ li a {
     height: 300px; 
     width: 100%;
 }
+/*Section - End*/
+/*index - End*/
 /*p2*/
 
 
@@ -117,8 +119,9 @@ div.gallery img {
 }
   
 div.desc {
-    padding: 15px;
-    text-align: center;
+    padding: 20px;
+    text-align: left;
+    background-color: rgba(73,71,71, 0.1);
 }
   
 * {
@@ -126,13 +129,18 @@ div.desc {
 }
   
 .responsive {
-    padding: 90px 10px 90px 30px;
+    padding: 90px 10px 90px 10px;
     float: left;
-    width: 33%;
+    width: 33.3%;
+}
+
+.recipie-title {
+    padding: 10px 0 10px 0;
+    font-weight: bold;
 }
 /*Recipies - End*/
 
-/*Section - End*/
+
 
 /*Footer - Start*/
 footer {
@@ -226,6 +234,7 @@ a:hover {
         flex-direction: column;
         align-items: flex-start;
     }
+
     nav {
         width: 100%;
         height: 0;
@@ -251,7 +260,7 @@ a:hover {
   
  @media only screen and (max-width: 700px) {
     .responsive {
-      width: 49.99999%;
+      width: 50%;
       margin: 6px 0;
     }
   }

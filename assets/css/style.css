@@ -104,7 +104,7 @@ li a {
 /*p2*/
 
 
-/*Recipies - Start*/
+/*Recipes - Start*/
 div.gallery {
     border: none;
   }
@@ -134,11 +134,11 @@ div.desc {
     width: 33.3%;
 }
 
-.recipie-title {
+.recipe-title {
     padding: 10px 0 10px 0;
     font-weight: bold;
 }
-/*Recipies - End*/
+/*Recipes - End*/
 
 
 
@@ -256,7 +256,7 @@ a:hover {
         display: block;
     }   
 }
-/*For recipies - Start*/
+/*For recipes - Start*/
   
  @media only screen and (max-width: 700px) {
     .responsive {
@@ -276,5 +276,5 @@ a:hover {
     display: table;
     clear: both;
   }
-  /*For recipies - End*/
+  /*For recipes - End*/
   /*Media Query Section - END*/

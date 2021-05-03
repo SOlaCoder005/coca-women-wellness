@@ -149,39 +149,37 @@ div.desc {
 
 
 .playlist-media-icons {
+    text-align: center;
     position: fixed; 
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
-.playlist-media-icons p {
-   text-align: center;
-   font-size: 50px;
-   padding-bottom: 50px;
-   opacity: 0.5;
-}
-
 .playlist-media-icons i {
+    font-size: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
     opacity: 0.5;
-    font-size: 110px;
 }
 
-.fa-utensils {
-    margin-right: 20px;
+.playlist-media-icons > p {
+    font-size: 60px;
+    opacity: 0.5;
 }
-.fa-dumbbell {
-    margin-right: 20px;
+
+.fa-utensils {padding-right: 30px;}
+.fa-dumbbell {padding-right: 30px;}
+.fa-user-friends {padding-right: 30px;}
+.fa-music {padding-right: 30px;}
+.fa-brain {padding-right: 0px;}
+
+.playlist-media-icons > div {
+    font-size: 20px;
+    opacity: 0.5;
 }
-.fa-user-friends  {
-    margin-right: 20px;
-}
-.fa-music  {
-    margin-right: 20px;
-}
-.fa-brain  {
-    margin-right: none;
-}
+
+
 
 a, a:hover, a:focus, a:active {
     text-decoration: none;

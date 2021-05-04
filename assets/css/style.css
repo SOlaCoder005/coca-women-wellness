@@ -146,8 +146,6 @@ div.desc {
     
 
 /*Playlists -Start*/
-
-
 .playlist-media-icons {
     text-align: center;
     position: fixed; 
@@ -179,18 +177,20 @@ div.desc {
     opacity: 0.5;
 }
 
-
-
 a, a:hover, a:focus, a:active {
     text-decoration: none;
     color: inherit;
 }
-
-
 /*Playlists - End*/
 
 
 /*TESTER START*/
+
+.column {
+    float: left;
+    width: 20%;
+    background-color: red;
+}
 /*TESTER END*/
 
 /*Footer - Start*/

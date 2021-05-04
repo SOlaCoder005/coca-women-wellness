@@ -199,23 +199,28 @@ a, a:hover, a:focus, a:active {
     display: table;
     clear: both;
     }
-
+div #playlist-media-icons {
+    text-align: center;
+}
 #playlist-media-icons {
-    padding: 70px;
+    padding: 30px;
 }
 
 #playlist-media-icons i {
-        font-size: 150px;
-        padding-top: 25px;
-        padding-bottom: 25px;
+        font-size: 100px;
+        padding-top: 15px;
+        padding-bottom: 15px;
         opacity: 0.5;
 }
 
 #playlist-media-icons > p {
     font-size: 45px;
     opacity: 0.5;
-    text-align: center;  
+    text-align: center;
+    padding-top: 50px; 
+    padding-bottom: 50px;
 }
+
 
 /*TESTER END*/
 
@@ -300,10 +305,7 @@ a:hover {
     color: #e0489f;
     opacity: 0.7;
 }
-
-
 /*Footer - End*/
-
 
 
 

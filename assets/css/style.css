@@ -79,7 +79,7 @@ li a {
 .hidden {
     display: none;
 }
-/*Nav-END*/
+/*Nav-End*/
 
 /*Border and Body - END */
 
@@ -99,10 +99,12 @@ li a {
     height: 300px; 
     width: 100%;
 }
-/*Section - End*/
 /*index - End*/
-/*p2*/
+/*Section - END*/
 
+/*About - Start*/
+
+/*About - End*/
 
 /*Recipes - Start*/
 div.gallery {
@@ -146,46 +148,6 @@ div.desc {
     
 
 /*Playlists -Start*/
-.playlist-media-icons {
-    text-align: center;
-    position: fixed; 
-    top: 40%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-.playlist-media-icons i {
-    font-size: 100px;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    opacity: 0.5;
-}
-
-.playlist-media-icons > p {
-    font-size: 60px;
-    opacity: 0.5;
-}
-
-.fa-utensils {padding-right: 30px;}
-.fa-dumbbell {padding-right: 30px;}
-.fa-user-friends {padding-right: 30px;}
-.fa-music {padding-right: 30px;}
-.fa-brain {padding-right: 0px;}
-
-.playlist-media-icons > div {
-    font-size: 20px;
-    opacity: 0.5;
-}
-
-a, a:hover, a:focus, a:active {
-    text-decoration: none;
-    color: inherit;
-}
-/*Playlists - End*/
-
-
-/*TESTER START*/
-
 .column {
     float: left;
     width: 20%;
@@ -193,12 +155,12 @@ a, a:hover, a:focus, a:active {
     opacity: 0.5;
     padding: 5px;
 }
-
 .row:after {
     content: "";
     display: table;
     clear: both;
     }
+
 div #playlist-media-icons {
     text-align: center;
     padding-top: 20px;
@@ -222,6 +184,16 @@ div #playlist-media-icons {
     padding-top: 50px; 
     padding-bottom: 50px;
 }
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+/*Playlists - End*/
+
+
+/*TESTER START*/
+
 
 
 /*TESTER END*/

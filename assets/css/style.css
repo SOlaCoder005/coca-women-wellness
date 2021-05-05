@@ -201,6 +201,8 @@ a, a:hover, a:focus, a:active {
     }
 div #playlist-media-icons {
     text-align: center;
+    padding-top: 20px;
+    padding-bottom: 25px;
 }
 #playlist-media-icons {
     padding: 30px;

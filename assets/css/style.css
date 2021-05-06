@@ -166,6 +166,7 @@ div #playlist-media-icons {
     padding-top: 20px;
     padding-bottom: 25px;
 }
+
 #playlist-media-icons {
     padding: 30px;
 }
@@ -193,6 +194,39 @@ a, a:hover, a:focus, a:active {
 
 
 /*TESTER START*/
+.about-image {
+    width: 400px;
+    height: 500px;
+}
+
+#about-column-right {
+    float: right;
+    width: 40%;
+    background-color: none;
+    opacity: 0.5;
+    padding: 5px;
+}
+
+div #about-text-left {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
+#about-column-left {
+    float: left;
+    width: 40%;
+    background-color: none;
+    opacity: 0.5;
+    padding: 5px;
+}
+
+div #about-text-right {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
 
 
 

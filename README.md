@@ -4,7 +4,7 @@
 
 test test test
 
-! [pintrest moodboard](assets/docs/colour-theme/cww-website-colourtheme.png "pintrest moodboard screenshot").
+! [pintrest moodboard](https://drive.google.com/file/d/1WDs1B1RtoTF9g0_sFDl-aevgmaBxOYQ0/view?usp=sharing "pintrest moodboard screenshot").
 
 This repo is for Project 1: HTML and CSS of the Full Stack Software Development course with the Code Institute
 

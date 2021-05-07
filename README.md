@@ -4,7 +4,7 @@
 
 test test test
 
-<img src="assets/docs/charts-and-graphs/enduserstories.png">
+<img src="docs/charts-and-graphs/enduserstories.png">
 
 This repo is for Project 1: HTML and CSS of the Full Stack Software Development course with the Code Institute
 

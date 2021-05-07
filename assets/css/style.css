@@ -12,19 +12,12 @@
 body {
     font-family:'Open Sans', sans-serif;
     font-size: 20px;
-    background-color:  rgba(251, 184, 37, .5);
 }
 
 h1 h2 h3 {
-    font-family: Arial, Helvetica, sans-serif;
     text-transform: none;
     letter-spacing: 1px;
     color: #3E0D05;
-}
-
-header {
-    background-color: rgba(251, 184, 37, .8);
-    padding: 20px 0 20px 0;
 }
 
 .container {
@@ -44,9 +37,9 @@ header {
     display: block;
     margin-left: auto;
     margin-right: auto; 
-    width: 300px;
-    height: 300px;
-    padding: 5px;
+    width: 250px;
+    height: 250px;
+    float: left;
 }
 
 /*Nav -START*/
@@ -68,7 +61,7 @@ li {
 li a {
     text-decoration: none;
     color: #3E0D05;
-    opacity: 0.8;
+    font-size: 18px;
 }
 
 .menu-icon {
@@ -104,7 +97,7 @@ li a {
 /*Recipes - Start*/
 div.gallery {
     border: none;
-  }
+}
 
 div.gallery:hover {
     border: none;
@@ -130,7 +123,7 @@ div.desc {
 }
   
 .responsive {
-    padding: 90px 10px 90px 10px;
+    padding: 30px 10px 90px 10px;
     float: left;
     width: 33.3%;
 }
@@ -184,20 +177,12 @@ div #playlist-media-icons {
 
 a, a:hover, a:focus, a:active {
     text-decoration: none;
-    color: inherit;
+    color: #e0489f;
 }
 /*Playlists - End*/
 
 
 /*TESTER START*/
-
-#form-box {
-    top: 0;
-    left: 0;
-    width: 600px;
-    height: 400px;
-    border: 2px solid red; 
-}
 
 
 /*TESTER END*/
@@ -208,8 +193,8 @@ footer {
     bottom: 0;
     left: 0;
     width: 100%;
-    height: 110px;
-    padding: 20px 0 20px 0;
+    height: 90px;
+    padding: 10px 0 10px 0;
     background-color: rgba(251, 184, 37);
     text-align: center;
  }
@@ -276,15 +261,12 @@ footer {
     text-decoration: none;
     border-radius: 0;
     color: #3E0D05;
-    color: #3E0D05;
     opacity: 0.8;
 }
 
 a:hover {
     text-decoration: none;
     color: #e0489f;
-    opacity: 0.8;
-}
 /*Footer - End*/
 
 

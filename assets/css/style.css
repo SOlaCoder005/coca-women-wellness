@@ -1,7 +1,5 @@
 /* Imports Section - Start*/
-
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@302&display=swap');
-
 /* Imports Section - End*/
 
 /*Border and Body - START */
@@ -12,9 +10,25 @@
 }
 
 body {
-font-family:'Open Sans', sans-serif;
-font-size: 20px;
-background-color: rgba(251, 184, 37);
+    font-family:'Open Sans', sans-serif;
+    font-size: 20px;
+    background-color: whitesmoke;
+}
+
+/*Header - Start*/
+
+#header-style {
+    background-color: rgba(251, 184, 37);
+    height: 250px;
+}
+
+#img-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 250px;
+    height: 250px;
+    padding: 5px;
 }
    
 /*Nav -START*/

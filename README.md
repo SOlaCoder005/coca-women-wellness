@@ -90,6 +90,11 @@ I have provided links to serval documents that have supported my conceptualisati
 #### Wireframes 
 Below are links to the wireframes of the CWW website design. I have grouped the wireframes by page and devices as it is the website are intended to be responsive to different devices, hence screen sizes (incl. Desktop, mobile and tablet screens). 
 
+
+<img src="/docs/wireframes/desktopwireframespreview.png">
+
+
+
 1.	[Wireframe – HOME]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/home-pages "Wireframes for Home page") 
 2.	[Wireframe – ABOUT]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/about-pages  "Wireframes for About page")
 3.	[Wireframe – RECIPES]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/recipes-pages   "Wireframes for Recipes page")

@@ -16,7 +16,7 @@
 
 ## Section 1: Overview 
 
-This repo is for Portfolio 1: HTML & CSS project which is part of the Full Stack Software Development Diploma (5P) with the Code Institute (CI). 
+This repository is for Portfolio 1: HTML & CSS project which is part of the Full Stack Software Development Diploma (5P) with the Code Institute (CI). 
 
 #### Portfolio Chosen
 
@@ -73,7 +73,7 @@ The perceived goal(s) of the users seems to be engaging with visual and written 
 #### Valuableness of the website 
 
 I believe the site will be a valuable digital resource for two key reasons: 
-(1) The site intends to bolster users’ wellbeing through exposure to wellbeing influencers and resources primarily sourced from the African/Caribbean diaspora. Based on some excerpts from the users’ stories – several women had limited knowledge of well-being influencers, specifically those of African and/or Caribbean decent. Lack of exposure of such influencers in media has been a prevalent issue that is being addressed in the current social climate. It has led to the implementation of inclusion and diversity initiatives in media such as [#YouTubeBlack] (https://www.youtube.com/intl/ALL_za/creators/ytbvoicesfund/ “information page about YouTube Black Voices”). 
+(1) The site intends to bolster users’ wellbeing through exposure to wellbeing influencers and resources primarily sourced from the African/Caribbean diaspora. Based on some excerpts from the users’ stories – several women had limited knowledge of well-being influencers, specifically those of African and/or Caribbean decent. Lack of exposure of such influencers in media has been a prevalent issue that is being addressed in the current social climate. It has led to the implementation of inclusion and diversity initiatives in media such as [#YouTubeBlack](https://www.youtube.com/intl/ALL_za/creators/ytbvoicesfund/). 
 
 (2) The website intends to provide a non-priced, contemporary way of distributing information by presenting non-literary approaches to accessing wellbeing content. Furthermore, Mintel reports have indicated that the growth of digital resources and platforms have encouraged people to engage with more visual content, specifically on digital devices like laptops and smartphones (McGrath, 2020).  Specifically, visual media (films, art, images etc.) has greater engagement from those aged people aged 16-44. Moreover, trend reports have also indicated that around 26% of UK adults are likely to engage in traditional reading (e.g. books) (Ryan, 2020). 
 

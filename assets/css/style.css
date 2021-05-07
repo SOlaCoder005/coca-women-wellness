@@ -1,6 +1,6 @@
 /* Imports Section - Start*/
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@100&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@302&display=swap');
 
 /* Imports Section - End*/
 
@@ -12,72 +12,13 @@
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif; 
-    font-weight: 100px;
-    font-size: 18px;
+font-family:'Open Sans', sans-serif;
+font-size: 20px;
+background-color: rgba(251, 184, 37);
 }
-
-h1 h2 h3 {
-    font-family: Arial, Helvetica, sans-serif;
-    text-transform: none;
-    letter-spacing: 1px;
-    color: #3E0D05;
-}
-
-header {
-    background-color: rgba(251, 184, 37, .8);
-    padding: 20px 0 20px 0;
-}
-
-.container {
-    display: flex;
-    justify-content: space-between;
-    /*justify for horizontal alignment*/
-    align-items: center;
-    /*align for vertical alignment*/
-    max-width: 60rem;
-    /*choose to use rem rather than px as it's relative to the base pixel*/
-    margin: 0 auto;
-    padding: 0 0.5rem;
-    /*padding has been added here to ensure the container elements do not touch the sides of web window*/
-}
-
+   
 /*Nav -START*/
 
-.img-icon {
-    color: #3E0D05;
-    opacity: 0.5;
-}
-
-ul { 
-    padding: 0;
-}
-
-li {
-    display: inline-block;
-    padding: 0 1.25rem;
-}
-
-li a {
-    text-decoration: none;
-    color: #3E0D05;
-    opacity: 0.8;
-}
-
-.menu-icon {
-    display: none;
-    position: absolute; 
-    top: 1.5rem;
-    right: 1rem;
-}
-
-.open {
-    height: 100vh;
-}
-
-.hidden {
-    display: none;
-}
 
 /*Nav-End*/
 

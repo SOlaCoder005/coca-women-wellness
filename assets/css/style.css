@@ -85,20 +85,7 @@ li a {
 
 /*Section - START*/
 /*index - Start*/
-.landing-section-one{
-    height: 300px; 
-    width: 100%;   
-}
 
-#landing-section-two{
-    height: 300px; 
-    width: 100%;
-}
-
-#landing-section-three{
-    height: 300px; 
-    width: 100%;
-}
 /*index - End*/
 /*Section - END*/
 
@@ -195,7 +182,13 @@ a, a:hover, a:focus, a:active {
 
 /*TESTER START*/
 
-
+#form-box {
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 400px;
+    border: 2px solid red; 
+}
 
 
 /*TESTER END*/

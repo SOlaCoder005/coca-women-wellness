@@ -1,7 +1,7 @@
 # Coca Women Wellness Website
 
 <p align="center">
-<img width="50%" height="50%" src="/assets/images/logowtextcb.png">
+<img width="50%" height="50%" src="/assets/images/logowtext.png">
 </p>
 
 

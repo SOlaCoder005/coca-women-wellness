@@ -100,7 +100,7 @@ li a {
     /*justify for horizontal alignment*/
     align-items: center;
     /*align for vertical alignment*/
-    max-width: 70rem;
+    max-width: 60rem;
     /*choose to use rem rather than px as it's relative to the base pixel*/
     margin: 0 auto;
     /*padding has been added here to ensure the container elements do not touch the sides of web window*/
@@ -124,27 +124,20 @@ li a {
     bottom: 0px;
     left: 0px;
     opacity: 0.15;
-    }
 }/*this allows you to change the opactity of the background image on about page without changing the whole page opacity. See URL for explination*/
 
-.about-me {
- 
-}
 
 .about-me img {
-    position: relative; left: ; top:5px; /*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
+    position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
     float: left;
     border-radius: 50%;
     /*this border radius value will only work (turn square into a full circle) if the width and height of the elment are the same*/
     /*NEED TO- REVISIT and re-size the images via PS*/
     margin: 0 auto;
     opacity: .9;
-    top: 10px; 
+    text-align: center;
 }
 
-.about-text-box {
-    padding: 20px 60px 20px 60px;
-}
 
 .about-header h1 {
     position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/

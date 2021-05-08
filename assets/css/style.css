@@ -181,7 +181,7 @@ div #playlist-media-icons {
 /*FORM START*/
 
 
-.form-column1 {
+.form-column {
     float: left;
     width: 50%;
     flex: 50%;
@@ -189,8 +189,7 @@ div #playlist-media-icons {
     height: 300px;
 }
 
-.form-column2 {
-    background-color: blue;
+.our-contact {
     float: right;
     width: 50%;
     flex: 50%;

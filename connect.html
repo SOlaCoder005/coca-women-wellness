@@ -13,14 +13,14 @@
     </head>
     <body>
         <div class="container">
-            <div>
-                <span>   
+            <div><!---This opening div holds the logo and nav menu at the top of page-->
+                <span><!---This opening spanholds the logo at the top-left of page-->  
                     <img src="assets/images/logowtextncb.png" alt="woman-with-outlined-face-logo" id="img-logo">
                 </span>
                 <div class="menu-icon" id="menuIcon">
                     <img id="navClosed" class="img-icon" class="jointIcon" src="assets/svg/menu-icon.svg" alt="hamburger menu">
                     <img id="navOpen" class="jointIcon hidden" src="assets/svg/mono-close.svg" alt="close hamburger"><!--Issue to be fixed - The Nav bar will not present the x button once menu had been opened-->  
-            </div>
+            </div><!---This closing div holds the logo and nav menu at the top of page-->
         </div>
         <nav> 
             <ul>
@@ -31,20 +31,83 @@
             <li><a href="connect.html">Connect</a></li>
             </ul>
         </nav>
-        </div>
+        </div>  
 
-    <div id="form-box">
-    <form>
-        <div class="row">
-          <div class="col">
-            <input type="text" class="form-control" placeholder="First name">
-          </div>
-          <div class="col">
-            <input type="text" class="form-control" placeholder="Last name">
-          </div>
-        </div>
-    </form>
-</div>
+        <section id="connect-section">        
+            <div class="connect-container">
+                <div class="connect-form">
+                    <form action="https:\\formdump.codeinstitute.net/" method="post">
+                        <fieldset>
+                            <legend>Connect with us!</legend>
+                            <p>Would you like to stay updated on the content we share? If so, sign up today to stay updated!</p>
+                                <p>
+                                    <label for="fname">Your Name:</label>
+                                    <input type="text" name="fname" id="fname" placeholder=" your_name " required/>
+                    
+                                    <label for="email">Email Address:</label>
+                                    <input type="email" name="email" id="email" placeholder=" youremail@gmail.com " required/>
+                                </p>
+                                <br>
+                                <p>
+                                    <span>IG</span><label for="igtag"></label>
+                                    <input type="text" name="igtag" id="igtag" placeholder=" @your_tag ">
+                                </p>
+                                    <span>Twitter</span><label for="twittertag"></label>
+                                    <input type="text" name="twittertag" id="twittertag" placeholder=" @your_tag ">
+                                </p>
+                                    <span>Pinterest</span><label for="pintag"></label>
+                                    <input type="text" name="pintag" id="pintag" placeholder=" @your_tag ">
+                                </p>
+                                <br>
+                            <p>What type of content would you like to be notified about?</p>
+                                <p>
+                                <label for="recipes">Recipes</label>
+                                <input type="radio" name="content" value="recipies" id="recipes"><br>
+                    
+                                <label for="playlists">Playlists</label>
+                                <input type="radio" name="contnent" value="playlists" id="playlists"><br>
+
+                                <label for="our-socials">Our Socials</label>
+                                <input type="radio" name="contnent" value="our-socials" id="our-socials"><br>
+
+                                <label for="everything">Everything</label>
+                                <input type="radio" name="contnent" value="everything" id="everything"><br> 
+                                </p>
+                        </fieldset>
+                                <p><button type="submit" class="button-style">Sign me up!</button></p>       
+                    </form>
+                </div>
+                <div class="our-contact">
+                    <legend>Our Details</legend>
+                    <p>If you would like to attend our meetup or have any other questions, please feel free to contact us! Our detals are below.</p>
+                    <div>
+                        <i class="far fa-envelope" id="connect-links"></i>
+                        <a href="" target="_blank" rel="external"><p>missamfelicia@gmail.com</p></a>
+                    </div>
+
+                    <div>
+                        <i class="fas fa-mobile" id="connect-links"></i>
+                        <p>0754 099 409</p>
+                    </div>
+
+                    <div>
+                        <i class="fab fa-linkedin-in" id="connect-links"></i>
+                        <a href="" target="_blank" rel="external"><p>https://uk.linkedin.com/cww</p></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+            
+            
+            
+
+            
+            
+                    
+                
+
+
     
 
 

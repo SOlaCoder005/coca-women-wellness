@@ -1,4 +1,10 @@
-# Coca Women Wellness
+# Coca Women Wellness Website
+
+<p align="center">
+<img width="50%" height="50%" src="/assets/images/logowtextncb.png">
+</p>
+
+
 ## Contents
 - ### Section 1: Overview 
 - ### Section 2: User Design (UX) 

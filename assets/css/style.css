@@ -42,9 +42,8 @@ h1 h2 h3 {
     height: 250px;
     float: left;
 }
-
+/*Border and Body - END */
 /*Nav -START*/
-
 .img-icon {
     color: #3E0D05;
     opacity: 0.5;
@@ -79,15 +78,50 @@ li a {
 .hidden {
     display: none;
 }
-
 /*Nav-End*/
 
-/*Border and Body - END */
 
 /*Section - START*/
-/*index - Start*/
 
-/*index - End*/
+/*Section 1 - start*/
+#secstyle-one {
+    background-color: rgba(251, 184, 37);
+}
+
+#overview {
+    padding: 30px 10px 30px 10px;
+    text-align: center;
+}
+
+#overview i {
+    font-size: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    opacity: 0.5;
+}
+
+.overview-column {
+    float: left;
+    width: 33.3%;
+    background-color: none;
+    padding: 5px;
+}
+
+/*section 2 -start*/
+
+
+.sectwo-img {
+    height: 600px;
+    width: 100%;
+    background-image: url('../images/pexels-ezekixl-akinnewu-94624-cropped.jpg'); /*alt="african woman lying on a bed of flowers smiling"*/ 
+}
+
+#secstyle-three {
+    background-color: orangered;
+    padding: 30px 10px 30px 10px;
+}
+
+/*section 2 -end*/
 
 /*Section - END*/
 

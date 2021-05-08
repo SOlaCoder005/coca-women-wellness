@@ -92,6 +92,9 @@ li a {
 /*Section - END*/
 
 /*About - Start*/
+#about-background {
+   
+    background-image: url('../images/logowtextncb.png');
 
 /*About - End*/
 
@@ -107,13 +110,12 @@ div.gallery:hover {
 div.gallery img {
     width: 100%;
     height: auto;
+    border-radius: 50%;
+    /*this border radius value will only work (turn square into a full circle) if the width and height of the elment are the same*/
+    /*NEED TO- REVISIT and re-size the images via PS*/
+    margin: 0 auto;
 }
 
-.img-shadow {
-    box-shadow: 7px 0 7px 0 #888888;
-    border-radius: 5px; 
-}
-  
 div.desc {
     padding: 20px;
     text-align: left;
@@ -171,11 +173,10 @@ div #playlist-media-icons {
     padding-top: 25px; 
     padding-bottom: 25px;
 }
-
 /*Playlists - End*/
 
 
-/*FORM START*/
+/*Connect- Start*/
 #connect-section {
     background-image: url('../images/pexels-jeremy-bishop-2710131.jpg');
     width: 100%;
@@ -183,7 +184,7 @@ div #playlist-media-icons {
     background-size: cover;
     background-position: center;
     height: 900px;
-}
+}/*leave this alone, background on this page is exactly how I want it*/
 
 .connect-container {
     display: flex;

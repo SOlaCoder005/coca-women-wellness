@@ -6,7 +6,8 @@
 * {
     margin: 0;
     padding: 0; 
-    border: none;  
+    border: none;
+    box-sizing: border-box;
 }
 
 body {
@@ -118,10 +119,6 @@ div.desc {
     text-align: left;
 }
   
-* {
-    box-sizing: border-box;
-}
-  
 .responsive {
     padding: 30px 10px 90px 10px;
     float: left;
@@ -179,27 +176,44 @@ div #playlist-media-icons {
 
 
 /*FORM START*/
+#connect-section {
+    background-image: url('../images/pexels-jeremy-bishop-2710131.jpg');
+    /*this needs re-sizing*/
+}
 
-
-.form-column {
-    float: left;
+.connect-container {
+    display: flex;
+    padding: 20px;
+}
+.connect-form {
+    margin: 15px;
     width: 50%;
     flex: 50%;
-    padding: 10px;
-    height: 300px;
+    padding: 20px;
+    border: 3px;
+    border-radius: 30px;
+    background-color: rgba(251, 184, 37, .5);
 }
 
 .our-contact {
-    float: right;
     width: 50%;
     flex: 50%;
-    padding: 10px;
-    height: 300px;
+    padding: 20px;
+    border: 3px;
+    border-radius: 30px;
+    background-color: rgba(251, 184, 37, .5);
 }
 
-.row {
-    display: flex;
+input {
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px; 
 }
+
+label {
+
+}
+
 
 /*FORM END*/
 

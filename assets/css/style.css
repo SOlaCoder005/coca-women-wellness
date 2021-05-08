@@ -94,7 +94,7 @@ li a {
 /*About - Start*/
 
 .about-container {
-    position: relative;
+    position: relative;/*This must be set to relative to impact the pseudo element below */
     display: flex;
     justify-content: space-between;
     /*justify for horizontal alignment*/
@@ -107,14 +107,14 @@ li a {
     width: 100%;
     clear: both;
     height: 900px;
-} /*this set the positioning of the background image on the abbout page. Info Source: https://coder-coder.com/background-image-opacity/*/
+} /*this set the positioning of the background image on the abbout page. Info Source: https://coder-coder.com/background-image-opacity*/
 
 .about-container::before {
     content: "";
     background-image: url('../images/logowtextncb.png');
     background-size: cover;
     background-position: center;
-    position: absolute;
+    position: absolute;/*This must be set to absolute to respond to the parent element below*/
     top: 0px;
     right: 0px;
     bottom: 0px;
@@ -128,6 +128,7 @@ li a {
 }
 
 .about-me img {
+    position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
     float: left;
     border-radius: 50%;
     /*this border radius value will only work (turn square into a full circle) if the width and height of the elment are the same*/
@@ -136,11 +137,13 @@ li a {
 }
 
 .about-header-style {
+    position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
     color: green;
 
 }
 
 .about-header-style p {
+    position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
     font-size: medium;
     color: #3E0D05;    
 }

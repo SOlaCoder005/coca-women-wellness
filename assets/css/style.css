@@ -92,7 +92,6 @@ li a {
 /*Section - END*/
 
 /*About - Start*/
-
 .about-container {
     position: relative;/*This must be set to relative to impact the pseudo element below */
     display: flex;
@@ -126,7 +125,6 @@ li a {
     opacity: 0.15;
 }/*this allows you to change the opactity of the background image on about page without changing the whole page opacity. See URL for explination*/
 
-
 .about-me img {
     position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
     float: left;
@@ -138,6 +136,13 @@ li a {
     text-align: center;
 }
 
+.about-me {
+    box-sizing: border-box;
+}
+
+.about-header {
+    box-sizing: border-box;
+}
 
 .about-header h1 {
     position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
@@ -149,9 +154,8 @@ li a {
     position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
     font-size: medium;
     color: #3E0D05; 
-    padding: 10px;   
+    padding: 10px;
 }
-
 
 
 /*About - End*/

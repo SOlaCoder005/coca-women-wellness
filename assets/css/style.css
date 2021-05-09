@@ -162,6 +162,7 @@ li a {
 .about-container::before {
     content: "";
     background-image: url('../images/logowtextncb.png');
+    background-color: rgba(251, 184, 37);
     background-size: cover;
     background-position: center;
     position: absolute;/*This must be set to absolute to respond to the parent element below*/
@@ -169,7 +170,7 @@ li a {
     right: 0px;
     bottom: 0px;
     left: 0px;
-    opacity: 0.15;
+    opacity: 0.2;
 }/*this allows you to change the opactity of the background image on about page without changing the whole page opacity. See URL for explination*/
 
 .about-me img {
@@ -181,29 +182,30 @@ li a {
     margin: 0 auto;
     opacity: .9;
     text-align: center;
-}
-
-.about-me {
-    box-sizing: border-box;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .about-header {
     box-sizing: border-box;
-}
+    padding: 30px;
+} 
 
 .about-header h1 {
     position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
     color: green;
-    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .about-header p {
     position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
     font-size: medium;
     color: #3E0D05; 
-    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    float: inherit;
 }
-
 
 /*About - End*/
 

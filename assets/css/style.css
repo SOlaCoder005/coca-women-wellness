@@ -81,7 +81,7 @@ li a {
 /*Nav-End*/
 
 
-/*Section - START*/
+/*Home - START*/
 
 /*Section 1 - start*/
 #secstyle-one {
@@ -108,27 +108,31 @@ li a {
     padding: 10px;
 }
 
+/*section 2 -start*/
+.sectwo-img {
+    height: 600px;
+    width: 100%;
+    background-image: url('../images/pexels-rfstudio-3059812-cropped.jpg'); /*alt="african wwoman stretching in a forest on a bridge"*/ 
+}
+/*section 2 -end*/
+
+/*section 2.1 -start*/
 #video-column {
     float: left;
     background-color: none;
     width: 33.3%;
 }
+/*section 2.1 -end*/
 
-
-
-/*section 2 -start*/
-
-.sectwo-img {
+/*section 3 -start*/
+.secthree-img {
     height: 600px;
     width: 100%;
-    background-image: url('../images/pexels-ezekixl-akinnewu-94624-cropped.jpg'); /*alt="african woman lying on a bed of flowers smiling"*/ 
+    background-image: url('../images/pexels-ezekixl-akinnewu-94624-cropped.jpg'); /*alt="african woman lying on a bed of flowers"*/ 
 }
+/*section 3 -end*/
 
-
-/*section 2 -end*/
-
-/*section3 -start*/
-
+/*section 3.1 - start*/
 #secstyle-three {
     background-color: orangered;
     padding: 30px 10px 30px 10px;
@@ -143,8 +147,8 @@ li a {
     text-align: center;
     float: left;
 }
-
-/*Section - END*/
+/*section 3.1 - end*/
+/*Home - END*/
 
 /*About - Start*/
 .about-container {

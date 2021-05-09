@@ -19,6 +19,7 @@ h1 h2 h3 {
     text-transform: none;
     letter-spacing: 1px;
     font-family:'Open Sans', sans-serif;
+    color: #F0F8FF;
 }
 
 .container {
@@ -84,7 +85,9 @@ li a {
 
 /*Section 1 - start*/
 #secstyle-one {
-    background-color: rgba(251, 184, 37);
+    padding: 30px 10px 30px 10px;
+    background-color: rgba(251, 184, 37, .7);
+    color: #F0F8FF;
 }
 
 #overview {
@@ -96,7 +99,6 @@ li a {
     font-size: 70px;
     padding-top: 15px;
     padding-bottom: 15px;
-    opacity: 0.5;
 }
 
 .overview-column {
@@ -114,21 +116,24 @@ li a {
     background-image: url('../images/pexels-ezekixl-akinnewu-94624-cropped.jpg'); /*alt="african woman lying on a bed of flowers smiling"*/ 
 }
 
-#secstyle-three {
-    background-color: orangered;
-    padding: 30px 10px 30px 10px;
-}
 
 /*section 2 -end*/
 
 /*section3 -start*/
-#sec-div-box {
+
+#secstyle-three {
+    background-color: orangered;
+    padding: 30px 10px 30px 10px;
+    color: #F0F8FF;
+    opacity: 0.7;
+}
+
+.sec-circle-div {
     height: 300px;
     border: 1px transparent;
     border-radius: 50%;
     text-align: center;
     float: left;
-    padding: 15px 10px 15px 10px;
 }
 
 /*Section - END*/

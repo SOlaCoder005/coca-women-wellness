@@ -182,29 +182,24 @@ li a {
     margin: 0 auto;
     opacity: .9;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-right: 30px;
 }
 
 .about-header {
     box-sizing: border-box;
-    padding: 30px;
 } 
 
 .about-header h1 {
     position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
     color: green;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 20px;
 }
 
 .about-header p {
     position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
     font-size: medium;
     color: #3E0D05; 
-    padding-left: 10px;
-    padding-right: 10px;
-    float: inherit;
+    padding-left: 20px;
 }
 
 /*About - End*/

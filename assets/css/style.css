@@ -260,8 +260,7 @@ div.desc {
 
 div #playlist-media-icons {
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 25px;
+    padding: 25px;
 }
 
 #playlist-media-icons {
@@ -282,6 +281,7 @@ div #playlist-media-icons {
     padding-top: 25px; 
     padding-bottom: 25px;
 }
+
 /*Playlists - End*/
 
 
@@ -375,7 +375,7 @@ label {
 footer {
     position: sticky;
     /*sticky value allows the footer to stick to the browser at different screen sizes. Info Source: https://www.w3schools.com/howto/howto_css_sticky_element.asp*/
-    /*Do not touch, this has fixed the footer issue on home, about, recipes, playlist and connect pages*/
+    /*Do not touch, this has fixed the footer issue on home, about, recipes, playlist and connect pages on desktop screen and smaller*/
     bottom: 0;
     left: 0;
     width: 100%;
@@ -383,7 +383,7 @@ footer {
     padding: 10px 0 10px 0;
     background-color: rgba(251, 184, 37);
     text-align: center;
- }
+}
 
 #copyright-style {
     font-size: 15px;

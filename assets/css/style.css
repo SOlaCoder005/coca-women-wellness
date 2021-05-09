@@ -108,6 +108,14 @@ li a {
     padding: 10px;
 }
 
+#video-column {
+    float: left;
+    background-color: none;
+    width: 33.3%;
+}
+
+
+
 /*section 2 -start*/
 
 .sectwo-img {

@@ -146,11 +146,11 @@ li a {
 
 #connect-background .connect-box {
     border: transparent;
-    border-radius: 0;
     margin: auto;
     width: 800px;
     height: 600px;
     color: #F0F8FF;
+    border-radius: 5%;
 }
 
 div > legend {
@@ -158,7 +158,7 @@ div > legend {
 }
  
 .connect-box {
-    background-color: rgb(255, 13, 134);
+    background-color: rgb(255, 13, 134, .75);
     font-weight: medium;
 }
 

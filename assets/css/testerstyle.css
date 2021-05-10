@@ -152,16 +152,36 @@ li a {
 
 /*About - Start*/
 
+.secone {
+    height: 450px;
+    width: 100%;
+    background-image: url('../images/'); /*alt="african wwoman stretching in a forest on a bridge"*/ 
+    float: left;
+    background-color:  rgba(251, 184, 37, .2);
+}
 
+.about-me {
+    border-radius: 50%;
+    padding: 50px;
+    text-align: center;
+}
 
+#about {
+    padding: 50px;
+    text-align: justify;
+}
 
+#about div {
+    padding-right: 50px;
+    padding-left: 50px;
+}
 
-
-
-
-
-
-
+.about-column {
+    float: left;
+    width: 50%;
+    background-color: none;
+    padding: 10px;
+}
 
 
 /*About - End*/

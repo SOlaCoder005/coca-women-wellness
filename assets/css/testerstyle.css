@@ -148,29 +148,72 @@ li a {
     border: transparent;
     border-radius: 0;
     margin: auto;
-    width: 600px;
-    height: 500px;
+    width: 800px;
+    height: 600px;
+}
+
+div > legend {
+    padding-top: 15px; 
+}
+ 
+.connect-box {
+    background-color: rgb(255, 13, 134, .9);
+    color: #F0F8FF;
+    font-weight: medium;
+}
+
+.details > p {
+    font-size: 18px;
+}
+
+.connect-box div {
+    padding: 5px 5px; 
+}
+
+
+.handle > span {
+    padding-right: 10px;
+    padding-left: 5px;
 }
     
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-} /*delete this when transfered as it already exists*/
-
-.connect-box {
-    background-color: rgb(255, 13, 134, .5);
-    color: #F0F8FF;
+#name > label {
+    font-weight: 20px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 30px;
+}
+#email > label {
+    font-weight: 20px;
+    padding-right: 5px;
+    padding-left: 50px;
 }
 
-.connect-box div{
-    padding: 15px 15px;
+input {
+    background-color:rgb(240, 248, 255, .9);
+    border-radius: 10px;
+    padding: 5px;
+    padding-right: 5px;
+    width: px;
 }
 
-.connect-box span {
-    padding-left: 10px;
-    padding-right: 70px;
+.radio > p {
+    padding-top: 30px;
+    font-size: 18px;
 }
+
+.radio {
+    text-align: center;
+}
+
+.radio > span {
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 20px;
+}
+
+
+
+
 
 
 

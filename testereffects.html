@@ -37,33 +37,40 @@
                 <div class="connect-box">
                     <form action="https:\\formdump.codeinstitute.net/" method="post">
                         <fieldset>
-                            <legend>Connect with us!</legend>
-                            <div>
+                            <div class="details">
+                                <legend><h1>Connect with us!</h1></legend>
                                 <p>Would you like to stay updated on the content we share? If so, sign up today to stay updated!</p>
                             </div>    
                             <div>
+                                <span id="name">
                                 <label for="fname">Your Name:</label>
                                 <input type="text" name="fname" id="fname" placeholder=" your_name " required/>
-                                
+                                </span>
+                                <span id="email">
                                 <label for="email">Email Address:</label>
                                 <input type="email" name="email" id="email" placeholder=" youremail@gmail.com " required/>
+                                </span>
                             </div>
                                 
                             <div>
-                                <span>IG</span><label for="igtag"></label>
-                                <input type="text" name="igtag" id="igtag" placeholder=" @your_tag ">
-                                <br>
-                                <span>Twitter</span><label for="twittertag"></label>
-                                <input type="text" name="twittertag" id="twittertag" placeholder=" @your_tag ">
-                                <br>
-                                <span>Pinterest</span><label for="pintag"></label>
-                                <input type="text" name="pintag" id="pintag" placeholder=" @your_tag ">
+                                <span class="handle">
+                                    <span>IG</span><label for="igtag"></label>
+                                    <input type="text" name="igtag" id="igtag" placeholder=" @your_tag ">
+                                </span>  
+                                <span class="handle">   
+                                    <span>Twitter</span><label for="twittertag"></label>
+                                    <input type="text" name="twittertag" id="twittertag" placeholder=" @your_tag ">
+                                </span>  
+                                <span class="handle"> 
+                                    <span>Pinterest</span><label for="pintag"></label>
+                                    <input type="text" name="pintag" id="pintag" placeholder=" @your_tag ">
+                                </span>  
                             </div>
                                 
-                            <div>
+                            <div class="radio">
                                 <p>What type of content would you like to be notified about?</p>
                             </div>
-                            <div>
+                            <div class="radio">
                                 <span>
                                     <label for="recipes">Recipes</label>
                                     <input type="radio" name="content" value="recipies" id="recipes">
@@ -91,10 +98,7 @@
 
                 <!-- connect details below-->
             
-        
-                <div class="connect-box">
-        
-                </div>
+               
             </div>
         </section>
        

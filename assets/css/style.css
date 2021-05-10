@@ -174,36 +174,39 @@ li a {
 .about-container::before {
     content: "";
     background-image: url('../images/logowtextncb.png');
-    background-color: rgba(251, 184, 37);
     background-size: cover;
-    background-position: center;
+    background-color: rgb(255, 13, 134, .9);
+    background-position: right;
     position: absolute;/*This must be set to absolute to respond to the parent element below*/
     top: 0px;
     right: 0px;
     bottom: 0px;
     left: 0px;
-    opacity: 0.2;
+    opacity: 0.5;
 }/*this allows you to change the opactity of the background image on about page without changing the whole page opacity. See URL for explination*/
+
+.about-me{
+    padding-left: 50px;
+} 
 
 .about-me img {
     position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
-    float: left;
     border-radius: 50%;
     /*this border radius value will only work (turn square into a full circle) if the width and height of the elment are the same*/
     /*NEED TO- REVISIT and re-size the images via PS*/
     margin: 0 auto;
     opacity: .9;
-    text-align: center;
-    padding-right: 30px;
+    text-align: center; 
 }
 
 .about-header {
-    box-sizing: border-box;
-} 
+    padding: 50px;
+}
+
 
 .about-header h1 {
     position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
-    color: green;
+    color: #3E0D05;
     padding-left: 20px;
 }
 

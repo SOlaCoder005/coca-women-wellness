@@ -1,0 +1,463 @@
+/* Imports Section - Start*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@302&display=swap');
+/* Imports Section - End*/
+
+/*Border and Body - START */
+* {
+    margin: 0;
+    padding: 0; 
+    border: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+
+h1 h2 h3 {
+    text-transform: none;
+    letter-spacing: 1px;
+    font-family:'Open Sans', sans-serif;
+    color: #F0F8FF;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    /*justify for horizontal alignment*/
+    align-items: center;
+    /*align for vertical alignment*/
+    max-width: 60rem;
+    /*choose to use rem rather than px as it's relative to the base pixel*/
+    margin: 0 auto;
+    padding: 0 0.5rem;
+    /*padding has been added here to ensure the container elements do not touch the sides of web window*/
+}
+#img-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+/*Border and Body - END */
+/*Nav -START*/
+.img-icon {
+    color: #3E0D05;
+    opacity: 0.5;
+}
+
+ul { 
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    padding: 0 1.25rem;
+}
+
+li a {
+    text-decoration: none;
+    color: #3E0D05;
+    font-size: 18px;
+}
+
+.menu-icon {
+    display: none;
+    position: absolute; 
+    top: 1.5rem;
+    right: 1rem;
+}
+
+.open {
+    height: 100vh;
+}
+
+.hidden {
+    display: none;
+}
+/*Nav-End*/
+
+
+/*Home - START*/
+
+/*Section 1 - start*/
+#secstyle-one {
+    padding: 30px 10px 30px 10px;
+    background-color: rgba(251, 184, 37, .7);
+    color: #F0F8FF;
+}
+
+#overview {
+    padding: 30px 10px 30px 10px;
+    text-align: center;
+}
+
+#overview i {
+    font-size: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.overview-column {
+    float: left;
+    width: 33.3%;
+    background-color: none;
+    padding: 10px;
+}
+
+/*section 2 -start*/
+.sectwo-img {
+    height: 600px;
+    width: 100%;
+    background-image: url('../images/pexels-rfstudio-3059812-cropped.jpg'); /*alt="african wwoman stretching in a forest on a bridge"*/ 
+}
+/*section 2 -end*/
+
+/*section 2.1 -start*/
+#video-column {
+    float: left;
+    background-color: none;
+    width: 33.3%;
+}
+/*section 2.1 -end*/
+
+/*section 3 -start*/
+.secthree-img {
+    height: 600px;
+    width: 100%;
+    background-image: url('../images/pexels-ezekixl-akinnewu-94624-cropped.jpg'); /*alt="african woman lying on a bed of flowers"*/ 
+}
+/*section 3 -end*/
+
+/*section 3.1 - start*/
+#secstyle-three {
+    background-color: orangered;
+    padding: 30px 10px 30px 10px;
+    color: #F0F8FF;
+    opacity: 0.7;
+}
+
+.sec-circle-div {
+    height: 300px;
+    border: 1px transparent;
+    border-radius: 50%;
+    text-align: center;
+    float: left;
+}
+/*section 3.1 - end*/
+/*Home - END*/
+
+/*About - Start*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*About - End*/
+
+/*Recipes - Start*/
+div.gallery {
+    border: none;
+}
+
+div.gallery:hover {
+    border: none;
+}
+  
+div.gallery img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    /*this border radius value will only work (turn square into a full circle) if the width and height of the elment are the same*/
+    /*NEED TO- REVISIT and re-size the images via PS*/
+    margin: 0 auto;
+}
+
+div.desc {
+    padding: 20px;
+    text-align: left;
+}
+  
+.responsive {
+    padding: 30px 10px 90px 10px;
+    float: left;
+    width: 33.3%;
+}
+
+.recipe-title {
+    padding: 10px 0 10px 0;
+    font-weight: bold;
+}
+/*Recipes - End*/
+    
+
+/*Playlists -Start*/
+.column {
+    float: left;
+    width: 20%;
+    background-color: none;
+    opacity: 0.5;
+    padding: 5px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+div #playlist-media-icons {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}/*the padding values above allowsa the footer to be positioned at the bottom of the page on both desktop and larger monitor screens. Without it, the footer comes up half way on the larger monitore screen.*/
+
+#playlist-media-icons {
+    padding: 30px;
+}
+
+#playlist-media-icons i {
+        font-size: 70px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        opacity: 0.5;
+}
+
+#playlist-media-icons > p {
+    font-size: 45px;
+    opacity: 0.5;
+    text-align: center;
+    padding-top: 25px; 
+    padding-bottom: 25px;
+}
+
+/*Playlists - End*/
+
+
+/*Connect- Start*/
+#connect-section {
+    background-image: url('../images/pexels-jeremy-bishop-2710131.jpg');
+    width: 100%;
+    clear: left;
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}/*leave this alone, background on this page is exactly how I want it*/
+
+.connect-container {
+    display: flex;
+    padding: 10px;
+}
+
+.connect-form {
+    margin: 15px;
+    width: 50%;
+    flex: 50%;
+    padding: 20px;
+    border: 3px;
+    border-radius: 30px;
+    background-color: rgb(255, 13, 134, .5);
+    color: #F0F8FF;
+}
+
+.our-contact {
+    width: 50%;
+    flex: 50%;
+    padding: 20px;
+    border: 3px;
+    border-radius: 30px;
+    background-color: rgb(255, 13, 134, .5);
+    color: #F0F8FF;
+}
+
+input {
+    background-color:rgb(240, 248, 255, .9);
+    border-radius: 10px;
+    padding: 10px 5px 10px 5px;
+}
+
+label {
+    font-weight: 25px;
+    padding-left: 20px;
+}
+
+.button-style {
+    display: flex;
+    background-color:#F0F8FF;
+    border: 3px;
+    border-radius: 5px;
+    border-color: rgb(255, 13, 134, .8);
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    color: #3E0D05; 
+}
+
+.button {
+    text-align: center;
+}
+
+#connect-links {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto; 
+    width: 100%; 
+    font-size: 50px;
+}
+
+.our-contact div {
+    padding: 10px 10px;
+}
+
+.our-contact p {
+    text-align: center;
+    padding-top: 25px;
+    font-size: 20px;
+}
+
+
+/*FORM END*/
+
+/*Footer - Start*/
+footer {
+    position: sticky;
+    /*sticky value allows the footer to stick to the browser at different screen sizes. Info Source: https://www.w3schools.com/howto/howto_css_sticky_element.asp*/
+    /*Do not touch, this has fixed the footer issue on home, about, recipes, playlist and connect pages on desktop screen and smaller*/
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 90px;
+    padding: 10px 0 10px 0;
+    background-color: rgba(251, 184, 37);
+    text-align: center;
+}
+
+#copyright-style {
+    font-size: 15px;
+    opacity: 0.8;
+    color: #3E0D05;
+}
+
+.sm-links {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto; 
+    width: 100%; 
+    overflow: auto;
+    font-size: 30px;
+}
+
+.fa-twitter {
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 0;
+    color: #3E0D05;
+    opacity: 0.8;
+}
+
+.fa-instagram {
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 0;
+    color: #3E0D05;
+    opacity: 0.8;
+}
+
+.fa-discord {
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 0;
+    color: #3E0D05;
+    opacity: 0.8;
+}
+  
+.fa-youtube {
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 0;
+    color: #3E0D05;
+    opacity: 0.8; 
+}
+  
+.fa-pinterest {
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 0;
+    color: #3E0D05;
+    opacity: 0.8;
+}
+/*Footer - End*/
+
+
+
+/*Media Query Section - START*/
+
+/* for nav*/
+@media all and (max-width: 1280px) {
+    .container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+/*max-width has been changed to 1280px from 720px to make nav into hamburgar icon menu on tablet screens (e.g. 10" tab has typical resolution of 1280 x800) Info Sources: https://www.colourmylearning.com/2015/04/best-10-inch-windows-tablets-with-full-hd-display/#:~:text=The%20typical%20screen%20resolution%20at,screens%3B%201366%20x%20768%20pixels and https://www.scantips.com/basics1c.html*/
+    nav {
+        width: 100%;
+        height: 0;
+        overflow: hidden;
+        transition: 250ms height ease-in-out;
+    }
+
+    li {
+        display: block; 
+        text-align: center;
+        padding: 1rem 0;
+    }
+
+    li a {
+        font-size: 1.5rem;
+    }
+
+    .menu-icon {
+        display: block;
+    }   
+}
+/*For recipes - Start*/
+ @media only screen and (max-width: 700px) {
+    .responsive {
+      width: 50%;
+      margin: 6px 0;
+    }
+  }
+  
+  @media only screen and (max-width: 500px) {
+    .responsive {
+      width: 100%;
+    }
+  }
+  
+  .clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  /*For recipes - End*/
+
+   
+  /*Media Query Section - END*/

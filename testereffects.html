@@ -6,21 +6,21 @@
         <meta name="description" content=", UK">
         <meta name="keywords" content="black, women, health, wellness, mindfullness, UK">
         <title>Coca Women's Wellness</title>
-        <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+        <link rel="stylesheet" href="assets/css/testerstyle.css" type="text/css">
         <link rel="stylesheet" href="assets/css/bootstrap-sourcecode/bootstrap.min.css">
         <!--Include these css links in any page of this site-->
         <!--stytlesheet is linked this way as it links to the local bootstrap on my device-->
     </head>
     <body>
         <div class="container">
-            <div>
-                <span>   
+            <div><!---This opening div holds the logo and nav menu at the top of page-->
+                <span><!---This opening spanholds the logo at the top-left of page-->  
                     <img src="assets/images/logowtextncb.png" alt="woman-with-outlined-face-logo" id="img-logo">
                 </span>
                 <div class="menu-icon" id="menuIcon">
                     <img id="navClosed" class="img-icon" class="jointIcon" src="assets/svg/menu-icon.svg" alt="hamburger menu">
                     <img id="navOpen" class="jointIcon hidden" src="assets/svg/mono-close.svg" alt="close hamburger"><!--Issue to be fixed - The Nav bar will not present the x button once menu had been opened-->  
-            </div>
+            </div><!---This closing div holds the logo and nav menu at the top of page-->
         </div>
         <nav> 
             <ul>
@@ -33,37 +33,76 @@
         </nav>
         </div>
 
-        <section class="about-container">
-                <div class="about-me"><!--column1 that holds image of founder-->
-                    <img src="assets/images/mesimply.jpeg" alt="founder looking down smiling" width="300" height="300"> 
-                </div>
-            <div class="about-header"><!--column2 holds about & mission text-->
-            <h1> About </h1>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos, ipsum a veritatis consequatur dolores nulla consectetur est quae optio assumenda, ut eum eos! A, molestias ad veritatis unde magnam architecto?</p>
-            </div>
+        <section id="secstyle-one"><!-- section 1 - describes the purpose of the site-->
+            <div class="row">
+                <div id="overview">
+                    <h1>We are here to...</h1>
+                    <div class="overview-column"><!--icon one-->
+                        <i class="far fa-calendar-alt"></i>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis possimus, ex quo illum exercitationem illo aspernatur? Quod animi odit, id unde ratione laborum suscipit reiciendis illum porro dolore eligendi officiis!</p>
+                    </div>
 
-            <div>
-                <h1> Our mission </h1>
-                <p>As an online platform, our mission is to showcase online resources designed to develop users’ mindful practices which can help to boost overall wellbeing. For greater ease and accessibility, were use digital mediums (e.g. videos, playlists, images) to showcase primary-sourced (e.g. recipes) and secondary-sourced content. Some of these include but not limited to videos on physical exercise, mindful practices, recipes, music, social discussions and even meditations techniques. We hope you find Coca Women Wellness a useful tool your day-to-day life and hope to connect with you somewhere across our social media channels.</p>
+                    <div class="overview-column"><!--icon two-->
+                        <i class="fas fa-laptop"></i>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis possimus, ex quo illum exercitationem illo aspernatur? Quod animi odit, id unde ratione laborum suscipit reiciendis illum porro dolore eligendi officiis!</p>
+                    </div>
+
+                    <div class="overview-column"><!--icon three-->
+                        <i class="fas fa-users"></i>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis possimus, ex quo illum exercitationem illo aspernatur? Quod animi odit, id unde ratione laborum suscipit reiciendis illum porro dolore eligendi officiis!</p>
+                    </div>  
+                </div>
+            </div>  
+        </section>
+
+        <section class="sectwo-img"> <!-- section 2-->
+            <!-- section two holds image/vide site-->
+        </section>
+
+        <section> <!-- section 2.1-->
+            <div id="overview">
+                <div class="row">
+                    <div id="video-column"><!-- if adding/changing iframe to new video use the following wxh values width="350" height="315" -->
+                        <iframe width="350" height="315"  src="https://www.youtube.com/embed/2YVaxA9tqA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    
+                    <div id="video-column">
+                        <iframe width="350"  height="315" src="https://www.youtube.com/embed/videoseries?list=PLniLXGit6Sw4eSocGHUBONG4_jsh3Pb5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+
+                    <div id="video-column">
+                        <iframe width="350" height="315" src="https://www.youtube.com/embed/YnAXyTUE8Zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
             </div>
         </section>
 
+        <div class="secthree-img"> <!-- section 3-->
+            <!-- section two holds image/vide site-->
+        </div>
 
-        <section class="about-container">
-            <div class="about-row">
-                <div class="about-me"><!--column1 that holds image of founder-->
-                    <img src="assets/images/mesimply.jpeg" alt="founder looking down smiling" width="300" height="300"> 
+        <section id="secstyle-three"><!-- section 3.1 - provides meetup info site-->
+            <div class="row">
+                <div id="overview">
+                    <h1>Our socials</h1>
+                    <div class="overview-column" class="sec-circle-div"><!--icon one-->
+                        <i class="fas fa-utensils"></i>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis possimus, ex quo illum exercitationem illo aspernatur? Quod animi odit, id unde ratione laborum suscipit reiciendis illum porro dolore eligendi officiis!</p>
+                    </div>
+
+                    <div class="overview-column"  class="sec-circle-div"><!--icon two-->
+                        <i class="fas fa-video"></i>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis possimus, ex quo illum exercitationem illo aspernatur? Quod animi odit, id unde ratione laborum suscipit reiciendis illum porro dolore eligendi officiis!</p>
+                    </div>
+
+                    <div class="overview-column"  class="sec-circle-div"><!--icon three-->
+                        <i class="fas fa-utensils"></i>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis possimus, ex quo illum exercitationem illo aspernatur? Quod animi odit, id unde ratione laborum suscipit reiciendis illum porro dolore eligendi officiis!</p>
+                    </div>  
                 </div>
-                <div class="about-header"><!--column2 holds about & mission text-->
-                    <h1> About </h1>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos, ipsum a veritatis consequatur dolores nulla consectetur est quae optio assumenda, ut eum eos! A, molestias ad veritatis unde magnam architecto?</p>
-                    <br>
-                    <h1> Our mission </h1>
-                    <p>As an online platform, our mission is to showcase online resources designed to develop users’ mindful practices which can help to boost overall wellbeing. For greater ease and accessibility, were use digital mediums (e.g. videos, playlists, images) to showcase primary-sourced (e.g. recipes) and secondary-sourced content. Some of these include but not limited to videos on physical exercise, mindful practices, recipes, music, social discussions and even meditations techniques. We hope you find Coca Women Wellness a useful tool your day-to-day life and hope to connect with you somewhere across our social media channels.</p>
-                </div>
-            </div>
-        </section> 
-        
+            </div> 
+        </section>
+  
     <footer>
         <div class="sm-links">
             <a href="https://twitter.com/" target="_blank" rel="external" class="fa fa-twitter"></a>
@@ -72,11 +111,11 @@
             <a href="https://www.youtube.com/" target="_blank" rel="external" class="fa fa-youtube"></a>
             <a href="https://www.pinterest.co.uk/" target="_blank" rel="external" class="fa fa-pinterest"></a>
         </div>
-         <div id="copyright-style">Copyright<span> &#169; </span> Coca Women's Wellness. All Rights Reserved 2021.</div>  
+        <div id="copyright-style">Copyright<span> &#169; </span> Coca Women's Wellness. All Rights Reserved 2021.</div>  
     </footer>
     <!--Fontawesome script is below. Best practice to add this type of code at the bottom of body element-->
     <script src="https://kit.fontawesome.com/1699136767.js" crossorigin="anonymous"></script>
-     <script src="assets/js/bootstrap-sourcecode/bootstrap.min.js" crossorigin="anonymous"></script>
+    <script src="assets/js/bootstrap-sourcecode/bootstrap.min.js" crossorigin="anonymous"></script>
     <script src="assets/js/main.js"></script><!--Delete code if you are not using initial nav-->  
     </body>
 </html>

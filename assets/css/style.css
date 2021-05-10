@@ -181,6 +181,11 @@ li a {
     padding-left: 50px;
 }
 
+#about h1 {
+    text-align: center;
+    padding: 20px;
+}
+
 .about-column {
     float: left;
     width: 50%;

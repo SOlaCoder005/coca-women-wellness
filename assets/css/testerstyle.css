@@ -154,12 +154,11 @@ li a {
 }
     
 
-  .row:after {
-    
+.row:after {
     content: "";
     display: table;
     clear: both;
-  } /*deletw this when transfered as it already exists*/
+} /*deletw this when transfered as it already exists*/
 
 /*Connect -End */
 

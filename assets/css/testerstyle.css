@@ -82,274 +82,57 @@ li a {
 
 
 /*Home - START*/
+    /*Section 1 - start*/
 
-/*Section 1 - start*/
-#secstyle-one {
-    padding: 30px 10px 30px 10px;
-    background-color: rgba(251, 184, 37, .7);
-    color: #F0F8FF;
-}
+    /*section 1 - end*/
 
-#overview {
-    padding: 30px 10px 30px 10px;
-    text-align: center;
-}
 
-#overview i {
-    font-size: 70px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-}
+    /*section 2 -start*/
 
-.overview-column {
-    float: left;
-    width: 33.3%;
-    background-color: none;
-    padding: 10px;
-}
+    /*section 2 -end*/
 
-/*section 2 -start*/
-.sectwo-img {
-    height: 600px;
-    width: 100%;
-    background-image: url('../images/pexels-rfstudio-3059812-cropped.jpg'); /*alt="african wwoman stretching in a forest on a bridge"*/ 
-}
-/*section 2 -end*/
+    /*section 2.1 -start*/
 
-/*section 2.1 -start*/
-#video-column {
-    float: left;
-    background-color: none;
-    width: 33.3%;
-}
-/*section 2.1 -end*/
+    /*section 2.1 -end*/
 
-/*section 3 -start*/
-.secthree-img {
-    height: 600px;
-    width: 100%;
-    background-image: url('../images/pexels-ezekixl-akinnewu-94624-cropped.jpg'); /*alt="african woman lying on a bed of flowers"*/ 
-}
-/*section 3 -end*/
+    /*section 3 -start*/
 
-/*section 3.1 - start*/
-#secstyle-three {
-    background-color: orangered;
-    padding: 30px 10px 30px 10px;
-    color: #F0F8FF;
-    opacity: 0.7;
-}
+    /*section 3 -end*/
 
-.sec-circle-div {
-    height: 300px;
-    border: 1px transparent;
-    border-radius: 50%;
-    text-align: center;
-    float: left;
-}
-/*section 3.1 - end*/
+    /*section 3.1 - start*/
+
+    /*section 3.1 - end*/
 /*Home - END*/
 
 /*About - Start*/
 
-.secone {
-    height: 450px;
-    width: 100%;
-    background-image: url('../images/'); /*alt="african wwoman stretching in a forest on a bridge"*/ 
-    float: left;
-    background-color:  rgba(251, 184, 37, .2);
-}
+    /*Section 1 - start*/
 
-.about-me {
-    border-radius: 50%;
-    padding: 50px;
-    text-align: center;
-}
+    /*section 1 - end*/
 
-#about {
-    padding: 50px;
-    text-align: justify;
-}
+    /*section 2 -start*/
 
-#about div {
-    padding-right: 50px;
-    padding-left: 50px;
-}
-
-.about-column {
-    float: left;
-    width: 50%;
-    background-color: none;
-    padding: 10px;
-}
-
+    /*section 2 -end*/
 
 /*About - End*/
 
 /*Recipes - Start*/
-div.gallery {
-    border: none;
-}
 
-div.gallery:hover {
-    border: none;
-}
-  
-div.gallery img {
-    width: 100%;
-    height: auto;
-    border-radius: 50%;
-    /*this border radius value will only work (turn square into a full circle) if the width and height of the elment are the same*/
-    /*NEED TO- REVISIT and re-size the images via PS*/
-    margin: 0 auto;
-}
 
-div.desc {
-    padding: 20px;
-    text-align: left;
-}
-  
-.responsive {
-    padding: 30px 10px 90px 10px;
-    float: left;
-    width: 33.3%;
-}
-
-.recipe-title {
-    padding: 10px 0 10px 0;
-    font-weight: bold;
-}
 /*Recipes - End*/
     
 
 /*Playlists -Start*/
-.column {
-    float: left;
-    width: 20%;
-    background-color: none;
-    opacity: 0.5;
-    padding: 5px;
-}
 
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-div #playlist-media-icons {
-    text-align: center;
-    padding-top: 50px;
-    padding-bottom: 80px;
-}/*the padding values above allowsa the footer to be positioned at the bottom of the page on both desktop and larger monitor screens. Without it, the footer comes up half way on the larger monitore screen.*/
-
-#playlist-media-icons {
-    padding: 30px;
-}
-
-#playlist-media-icons i {
-        font-size: 70px;
-        padding-top: 15px;
-        padding-bottom: 15px;
-        opacity: 0.5;
-}
-
-#playlist-media-icons > p {
-    font-size: 45px;
-    opacity: 0.5;
-    text-align: center;
-    padding-top: 25px; 
-    padding-bottom: 25px;
-}
 
 /*Playlists - End*/
 
 
 /*Connect- Start*/
-#connect-section {
-    background-image: url('../images/pexels-jeremy-bishop-2710131.jpg');
-    width: 100%;
-    clear: left;
-    background-size: cover;
-    background-position: center;
-    height: 900px;
-}/*leave this alone, background on this page is exactly how I want it*/
-
-.connect-container {
-    display: flex;
-    padding: 10px;
-}
-
-.connect-form {
-    margin: 15px;
-    width: 50%;
-    flex: 50%;
-    padding: 20px;
-    border: 3px;
-    border-radius: 30px;
-    background-color: rgb(255, 13, 134, .5);
-    color: #F0F8FF;
-}
-
-.our-contact {
-    width: 50%;
-    flex: 50%;
-    padding: 20px;
-    border: 3px;
-    border-radius: 30px;
-    background-color: rgb(255, 13, 134, .5);
-    color: #F0F8FF;
-}
-
-input {
-    background-color:rgb(240, 248, 255, .9);
-    border-radius: 10px;
-    padding: 10px 5px 10px 5px;
-}
-
-label {
-    font-weight: 25px;
-    padding-left: 20px;
-}
-
-.button-style {
-    display: flex;
-    background-color:#F0F8FF;
-    border: 3px;
-    border-radius: 5px;
-    border-color: rgb(255, 13, 134, .8);
-    padding: 10px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 150px;
-    color: #3E0D05; 
-}
-
-.button {
-    text-align: center;
-}
-
-#connect-links {
-    text-decoration: none;
-    display: flex;
-    justify-content: center;
-    margin: 0 auto; 
-    width: 100%; 
-    font-size: 50px;
-}
-
-.our-contact div {
-    padding: 10px 10px;
-}
-
-.our-contact p {
-    text-align: center;
-    padding-top: 25px;
-    font-size: 20px;
-}
 
 
-/*FORM END*/
+
+/*Connect -End */
 
 /*Footer - Start*/
 footer {

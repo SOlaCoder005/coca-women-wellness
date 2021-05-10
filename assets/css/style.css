@@ -112,7 +112,7 @@ li a {
 .sectwo-img {
     height: 600px;
     width: 100%;
-    background-image: url('../images/pexels-rfstudio-3059812-cropped.jpg'); /*alt="african wwoman stretching in a forest on a bridge"*/ 
+    background-image: url('../images/pexels-rfstudio-3059812-cropped.jpg'); /*alt="african woman stretching in a forest on a bridge"*/ 
 }
 /*section 2 -end*/
 
@@ -151,71 +151,41 @@ li a {
 /*Home - END*/
 
 /*About - Start*/
-.about-container {
-    position: relative;/*This must be set to relative to impact the pseudo element below */
-    display: flex;
-    justify-content: space-between;
-    /*justify for horizontal alignment*/
-    align-items: center;
-    /*align for vertical alignment*/
-    max-width: 60rem;
-    /*choose to use rem rather than px as it's relative to the base pixel*/
-    margin: 0 auto;
-    /*padding has been added here to ensure the container elements do not touch the sides of web window*/
+
+/*section 1 - start*/
+.secone {
+    height: 450px;
     width: 100%;
-    clear: both;
-    height: 900px;
-} /*this set the positioning of the background image on the abbout page. Info Source: https://coder-coder.com/background-image-opacity*/
-
-.about-row {
-    padding: 50px;
+    background-image: url('../images/'); /*alt="african wwoman stretching in a forest on a bridge"*/ 
+    float: left;
 }
 
-.about-container::before {
-    content: "";
-    background-image: url('../images/logowtextncb.png');
-    background-size: cover;
-    background-color: rgb(255, 13, 134, .9);
-    background-position: right;
-    position: absolute;/*This must be set to absolute to respond to the parent element below*/
-    top: 0px;
-    right: 0px;
-    bottom: 0px;
-    left: 0px;
-    opacity: 0.5;
-}/*this allows you to change the opactity of the background image on about page without changing the whole page opacity. See URL for explination*/
-
-.about-me{
-    padding-left: 50px;
-} 
-
-.about-me img {
-    position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
+.about-me {
     border-radius: 50%;
-    /*this border radius value will only work (turn square into a full circle) if the width and height of the elment are the same*/
-    /*NEED TO- REVISIT and re-size the images via PS*/
-    margin: 0 auto;
-    opacity: .9;
-    text-align: center; 
-}
-
-.about-header {
     padding: 50px;
+    text-align: center;
+}
+/*section 1 - end*/
+
+/*section 2 - start*/
+#about {
+    padding: 50px;
+    text-align: justify;
+    background-color:  rgba(251, 184, 37, .7);
 }
 
-
-.about-header h1 {
-    position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
-    color: #3E0D05;
-    padding-left: 20px;
+#about div {
+    padding-right: 50px;
+    padding-left: 50px;
 }
 
-.about-header p {
-    position: relative;/*This must be set to relative to overlap to the background elemnt, this should be included in every element you want to overlap in the about section*/
-    font-size: medium;
-    color: #3E0D05; 
-    padding-left: 20px;
+.about-column {
+    float: left;
+    width: 50%;
+    background-color: none;
+    padding: 10px;
 }
+/*section 2 - end*/
 
 /*About - End*/
 
@@ -294,7 +264,6 @@ div #playlist-media-icons {
     padding-top: 25px; 
     padding-bottom: 25px;
 }
-
 /*Playlists - End*/
 
 
@@ -380,9 +349,7 @@ label {
     padding-top: 25px;
     font-size: 20px;
 }
-
-
-/*FORM END*/
+/*Connect - end*/
 
 /*Footer - Start*/
 footer {

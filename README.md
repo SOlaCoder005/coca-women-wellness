@@ -26,7 +26,7 @@ This repository is for Portfolio 1: HTML & CSS project which is part of the Full
 
 #### Portfolio Chosen
 
-Out of several project briefs presented, I chose to Project Example Idea 0. As the project asked that the designer (me) ‘…bring your own ideas to life…” through the creation of a website.  To provide more conceptual structure to the project, the CWW website loosely reflects the project objectives presented in Project Example 3.  
+Out of several project briefs presented, I chose Project Example Idea 0. As the project asked that the designer (me) ‘…bring your own ideas to life…” through the creation of a website.  To provide more conceptual structure to the project, the Coca Women Welleness (CWW) website uses the concept in Project Idea Example 3 as a point of reference.  
 
 Akin to the objectives in example 3, the Coca Women’s Wellness (CWW) website is  for users that are looking to access artefacts and resources (e.g. videos, recipes, social activities) that help bolster and teach _”...body/mind self-improvement techniques’_.
 

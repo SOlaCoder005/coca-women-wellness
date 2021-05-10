@@ -5,7 +5,7 @@
 /*Border and Body - START */
 * {
     margin: 0;
-    padding: 0; 
+    padding: 0;
     border: none;
     box-sizing: border-box;
 }
@@ -157,25 +157,23 @@ li a {
 /*About - Start*/
 
 /*section 1 - start*/
-.secone {
-    height: 450px;
-    width: 100%;
-    background-image: url('../images/'); /*alt="african wwoman stretching in a forest on a bridge"*/ 
-    float: left;
-}
 
-.about-me {
-    border-radius: 50%;
+.secone div { 
     padding: 50px;
     text-align: center;
 }
+
+.secone img {
+    border-radius: 50%;
+}
+
 /*section 1 - end*/
 
 /*section 2 - start*/
 #about {
     padding: 50px;
-    text-align: justify;
     background-color: rgba(255, 13, 134, .2);
+    text-align: justify;
 }
 
 #about div {
@@ -360,8 +358,6 @@ footer {
     position: sticky;
     /*sticky value allows the footer to stick to the browser at different screen sizes. Info Source: https://www.w3schools.com/howto/howto_css_sticky_element.asp*/
     /*Do not touch, this has fixed the footer issue on home, about, recipes, playlist and connect pages on desktop screen and smaller*/
-    bottom: 0;
-    left: 0;
     width: 100%;
     height: 90px;
     padding: 10px 0 10px 0;

@@ -144,21 +144,35 @@ li a {
     padding-bottom: 100px;
 }/*leave this alone, background on this page is exactly how I want it*/
 
-
 #connect-background .connect-box {
-    border: 15px solid green;
-    border-radius: 20%;
+    border: transparent;
+    border-radius: 0;
     margin: auto;
     width: 600px;
     height: 500px;
 }
     
-
 .row:after {
     content: "";
     display: table;
     clear: both;
-} /*deletw this when transfered as it already exists*/
+} /*delete this when transfered as it already exists*/
+
+.connect-box {
+    background-color: rgb(255, 13, 134, .5);
+    color: #F0F8FF;
+}
+
+.connect-box div{
+    padding: 15px 15px;
+}
+
+.connect-box span {
+    padding-left: 10px;
+    padding-right: 70px;
+}
+
+
 
 /*Connect -End */
 

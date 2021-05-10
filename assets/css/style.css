@@ -108,6 +108,10 @@ li a {
     padding: 10px;
 }
 
+.overview-column p {
+    font-size: 14px;
+}
+
 /*section 2 -start*/
 .sectwo-img {
     height: 600px;

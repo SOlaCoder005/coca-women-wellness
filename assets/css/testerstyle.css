@@ -150,6 +150,7 @@ li a {
     margin: auto;
     width: 800px;
     height: 600px;
+    color: #F0F8FF;
 }
 
 div > legend {
@@ -157,8 +158,7 @@ div > legend {
 }
  
 .connect-box {
-    background-color: rgb(255, 13, 134, .9);
-    color: #F0F8FF;
+    background-color: rgb(255, 13, 134);
     font-weight: medium;
 }
 
@@ -200,7 +200,7 @@ div > legend {
 }
 
 input {
-    background-color:rgb(240, 248, 255, .9);
+    background-color:rgb(240, 248, 255);
     border-radius: 10px;
     padding: 5px;
     text-align: center;   
@@ -222,8 +222,16 @@ input {
 }
 
 
+div .button-style  {
+    border-radius: transparent;   
+    text-align: center;
+    padding: 20px; 
+}
 
-
+.button-style input { 
+    padding: 10px;
+    font-size: 18px;  
+}
 
 
 

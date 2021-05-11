@@ -275,87 +275,181 @@ div #playlist-media-icons {
 
 
 /*Connect- Start*/
-#connect-section {
+#connect-background {
     background-image: url('../images/pexels-jeremy-bishop-2710131.jpg');
     width: 100%;
     clear: left;
     background-size: cover;
     background-position: center;
-    height: 900px;
+    height: 100%;
+    padding-top: 150px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 150px;
 }/*leave this alone, background on this page is exactly how I want it*/
 
-.connect-container {
-    display: flex;
+#connect-background .connect-box {
+    border: transparent;
+    margin: auto;
+    width: 800px;
+    height: 500px;
+    color: #F0F8FF;
+    border-radius: 1%;
+}
+
+div > legend {
+    padding-top: 15px; 
+}
+ 
+.connect-box {
+    background-color: rgb(255, 13, 134, .75);
+    font-weight: medium;
+}
+
+.user-details > p {
+    font-size: 18px;
+}
+
+.connect-box div {
+    padding: 5px 5px; 
+}
+
+.handle > span {
+    padding: 100px 80px 100px 80px;
+}
+
+.handle  i {
+    color: rgba(240, 248, 255);
+    font-size: 20px;
     padding: 10px;
 }
 
-.connect-form {
-    margin: 15px;
-    width: 50%;
-    flex: 50%;
-    padding: 20px;
-    border: 3px;
-    border-radius: 30px;
-    background-color: rgb(255, 13, 134, .5);
-    color: #F0F8FF;
+.handle > input {
+    padding: 10px;
+}
+    
+#name > label {
+    font-weight: 20px;
+    padding-right: 5px;
+    padding-left: 50px;
+    padding-bottom: 30px;
 }
 
-.our-contact {
-    width: 50%;
-    flex: 50%;
-    padding: 20px;
-    border: 3px;
-    border-radius: 30px;
-    background-color: rgb(255, 13, 134, .5);
-    color: #F0F8FF;
-}
-
-input {
-    background-color:rgb(240, 248, 255, .9);
-    border-radius: 10px;
-    padding: 10px 5px 10px 5px;
-}
-
-label {
-    font-weight: 25px;
+#email > label {
+    font-weight: 20px;
     padding-left: 20px;
 }
 
-.button-style {
-    display: flex;
-    background-color:#F0F8FF;
-    border: 3px;
-    border-radius: 5px;
-    border-color: rgb(255, 13, 134, .8);
-    padding: 10px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 150px;
-    color: #3E0D05; 
+input {
+    background-color:rgb(240, 248, 255);
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;   
 }
 
-.button {
+.radio > p {
+    padding-top: 30px;
+    font-size: 18px;
+}
+
+.radio {
     text-align: center;
 }
 
-#connect-links {
-    text-decoration: none;
-    display: flex;
-    justify-content: center;
-    margin: 0 auto; 
-    width: 100%; 
-    font-size: 50px;
-}
-
-.our-contact div {
-    padding: 10px 10px;
-}
-
-.our-contact p {
-    text-align: center;
-    padding-top: 25px;
+.radio > span {
+    padding-left: 25px;
+    padding-right: 25px;
     font-size: 20px;
 }
+
+div .button-style  {
+    border-radius: transparent;   
+    text-align: center;
+    padding: 20px; 
+}
+
+.button-style input { 
+    padding: 10px;
+    font-size: 18px;
+    background-color: rgba(251, 184, 37, .85); 
+    color: rgb(240, 248, 255);
+    font-weight: medium;
+}
+
+.our-details > i {
+    padding: 5px;
+    font-size: 30px;
+    color: rgb(240, 248, 255);  
+}
+
+.our-details > p {
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(240, 248, 255);
+}
+
+.our-details a {
+    text-decoration: none;
+}
+
+#name input:hover{
+    color: rgb(255, 13, 134, .75);
+}
+
+#email input:hover{
+    color: rgb(255, 13, 134, .75);
+}
+
+.handle input:hover{
+    color: rgb(255, 13, 134, .75);
+}
+
+.radio label:hover {
+    color: rgba(251, 184, 37);
+}
+
+.our-details i:hover {
+    color: rgba(251, 184, 37);
+}
+
+/* pop-up bottom-right - Source Code has been amended to suit my site, but originally sourced from W3Schools - https://www.w3schools.com/howto/howto_js_callout.asp*/
+.callout {
+    position: fixed;
+    bottom: 100px;
+    right: 20px;
+    margin-left: 20px;
+    max-width: 300px;
+  }
+  
+  .callout-header {
+    padding: 10px 15px;
+    background-color: rgb(255, 13, 134, .75);
+    font-size: 20px;
+    color: rgb(240, 248, 255);
+    text-align: center;
+    border-radius: 1%;
+  }
+  
+  .callout-container {
+    padding: 15px;
+    background-color: rgb(255, 13, 134);
+    color: rgb(240, 248, 255);
+    border-radius: 1%;
+  }
+  
+  .closebtn {
+    position: absolute;
+    top: 5px;
+    right: 15px;
+    color: rgb(240, 248, 255);
+    font-size: 30px;
+    cursor: pointer;
+  }
+  
+  .closebtn:hover {
+    color: lightgrey;
+  }
+
 /*Connect - end*/
 
 /*Footer - Start*/

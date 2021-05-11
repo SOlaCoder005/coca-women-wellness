@@ -250,8 +250,8 @@ div.desc {
 div #playlist-media-icons {
     text-align: center;
     padding-top: 20px;
-    padding-bottom: 20px;
-}/*the padding values above allowsa the footer to be positioned at the bottom of the page on both desktop and larger monitor screens. Without it, the footer comes up half way on the larger monitore screen.*/
+    padding-bottom: 80px;
+}/*the padding-bottom value (above) allows the footer to be positioned at the bottom of the page on both desktop and larger monitor screens. Without it, the footer comes up half way on the larger monitore screen.*/
 
 #playlist-media-icons {
     padding: 30px;

@@ -148,7 +148,7 @@ li a {
     border: transparent;
     margin: auto;
     width: 800px;
-    height: 600px;
+    height: 550px;
     color: #F0F8FF;
     border-radius: 5%;
 }
@@ -170,20 +170,18 @@ div > legend {
     padding: 5px 5px; 
 }
 
-
 .handle > span {
-    padding-right: 100px;
-    padding-left: 100px;
+    padding: 100px 80px 100px 80px;
 }
 
 .handle  i {
     color: rgba(240, 248, 255);
-    font-size: 30px;
+    font-size: 20px;
+    padding: 10px;
 }
 
 .handle > input {
-    padding-right: 40px;
-    padding-left: 30px;
+    padding: 10px;
 }
     
 #name > label {
@@ -221,7 +219,6 @@ input {
     font-size: 20px;
 }
 
-
 div .button-style  {
     border-radius: transparent;   
     text-align: center;
@@ -236,20 +233,30 @@ div .button-style  {
     font-weight: medium;
 }
 
+.our-details > i {
+    padding: 30px;
+    font-size: 40px;
+}
+
+#name input:hover{
+    color: rgb(255, 13, 134, .75);
+}
+
+#email input:hover{
+    color: rgb(255, 13, 134, .75);
+}
+
 .handle input:hover{
     color: rgb(255, 13, 134, .75);
 }
 
-.radio label:hover{
+.radio label:hover {
     color: rgba(251, 184, 37);
 }
 
-.our-details > i {
-    padding: 20px;
-    font-size: 40px;
+.our-details i:hover {
+    color: rgba(251, 184, 37);
 }
-
-
 
 /*Connect -End */
 

@@ -118,6 +118,53 @@ li a {
 
 /*Recipes - Start*/
 
+.recipie1 {
+    background-color: greenyellow;
+}
+
+.recipie2 {
+    background-color: orange;
+}
+
+.recipie3 {
+    background-color:yellow;
+}
+
+div.gallery {
+    border: none;
+}
+
+div.gallery:hover {
+    border: none;
+}
+  
+div.gallery img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    /*this border radius value will only work (turn square into a full circle) if the width and height of the elment are the same*/
+    /*NEED TO- REVISIT and re-size the images via PS*/
+    margin: 0 auto;
+}
+
+div.desc {
+    padding: 20px;
+    text-align: left;
+}
+  
+.responsive {
+    padding: 30px 10px 90px 10px;
+    float: left;
+    width: 33.3%;
+}
+
+.recipe-title {
+    padding: 10px 0 10px 0;
+    font-weight: bold;
+}
+
+
+
 
 /*Recipes - End*/
     

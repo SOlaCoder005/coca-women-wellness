@@ -138,17 +138,17 @@ li a {
     background-size: cover;
     background-position: center;
     height: 100%;
-    padding-top: 100px;
+    padding-top: 150px;
     padding-left: 25px;
     padding-right: 25px;
-    padding-bottom: 100px;
+    padding-bottom: 150px;
 }/*leave this alone, background on this page is exactly how I want it*/
 
 #connect-background .connect-box {
     border: transparent;
     margin: auto;
     width: 800px;
-    height: 550px;
+    height: 500px;
     color: #F0F8FF;
     border-radius: 5%;
 }
@@ -234,8 +234,20 @@ div .button-style  {
 }
 
 .our-details > i {
-    padding: 30px;
-    font-size: 40px;
+    padding: 5px;
+    font-size: 30px;
+    color: rgb(240, 248, 255);
+   
+}
+
+.our-details > p {
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(240, 248, 255);
+}
+
+.our-details a {
+    text-decoration: none;
 }
 
 #name input:hover{
@@ -257,6 +269,41 @@ div .button-style  {
 .our-details i:hover {
     color: rgba(251, 184, 37);
 }
+
+/* pop-up bottom-right - Source Code has been amended to suit my site, but originally sourced from W3Schools - https://www.w3schools.com/howto/howto_js_callout.asp*/
+.callout {
+    position: fixed;
+    bottom: 100px;
+    right: 20px;
+    margin-left: 20px;
+    max-width: 300px;
+  }
+  
+  .callout-header {
+    padding: 10px 15px;
+    background: #555;
+    font-size: 30px;
+    color: white;
+  }
+  
+  .callout-container {
+    padding: 15px;
+    background-color: #ccc;
+    color: black
+  }
+  
+  .closebtn {
+    position: absolute;
+    top: 5px;
+    right: 15px;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+  }
+  
+  .closebtn:hover {
+    color: lightgrey;
+  }
 
 /*Connect -End */
 

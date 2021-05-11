@@ -137,6 +137,7 @@ li a {
   color: blue;
   box-sizing: border-box;
   padding: 25px;
+  position: relative; /* this interacts with .recipe-col img element*/
 }
 
 .recipe-col:nth-child(1){
@@ -161,6 +162,7 @@ li a {
   max-width: 230px;
   font-size: 12px;
   margin: 28px;
+  display: none; /*hides the caption section temporaily*/
 }
 
 .recipe-caption button {
@@ -173,7 +175,13 @@ li a {
   margin-top: 20px;
   cursor: pointer;
   font-size: 12px;
+}
 
+.recipe-col img {
+  width:200px;
+  position:absolute;
+  right: 0;
+  bottom: 0;
 }
 /*Recipes - End*/
     

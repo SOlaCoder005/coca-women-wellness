@@ -271,6 +271,10 @@ div #playlist-media-icons {
     padding-top: 25px; 
     padding-bottom: 25px;
 }
+
+#playlist-media-icons div > p {
+    text-align: center;
+}
 /*Playlists - End*/
 
 

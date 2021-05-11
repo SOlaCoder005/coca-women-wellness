@@ -183,6 +183,17 @@ li a {
   right: 0;
   bottom: 0;
 }
+.recipe-col:hover {
+  flex-grow: 2.5;/*changes the width of the box when hovered over*/
+  transition: 0.6s; /*changes the spped of the recipe-col widths*/
+}
+.recipe-col:hover .recipe-caption {
+  display: block; /*allows the captiomn to appear when hover function is enabled*/
+}
+
+.recipe-col:hover h2 {
+  text-align: left; /*allows the captiomn to appear when hover function is enabled*/
+}
 /*Recipes - End*/
     
 

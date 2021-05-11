@@ -281,22 +281,24 @@ div .button-style  {
   
   .callout-header {
     padding: 10px 15px;
-    background: #555;
-    font-size: 30px;
-    color: white;
+    background-color: rgb(255, 13, 134, .75);
+    font-size: 20px;
+    color: rgb(240, 248, 255);
+    text-align: center;
   }
   
   .callout-container {
     padding: 15px;
-    background-color: #ccc;
-    color: black
+    background-color: rgb(255, 13, 134);
+    color: rgb(240, 248, 255);
   }
+  
   
   .closebtn {
     position: absolute;
     top: 5px;
     right: 15px;
-    color: white;
+    color: rgb(240, 248, 255);
     font-size: 30px;
     cursor: pointer;
   }

@@ -44,6 +44,8 @@ h1 h2 h3 {
     height: 250px;
     float: left;
 }
+
+
 /*Border and Body - END */
 /*Nav -START*/
 .img-icon {
@@ -124,6 +126,8 @@ li a {
   text-align: center;
   padding: 10px;
 }
+
+
 
 #recipe-boxes{
     content: "";

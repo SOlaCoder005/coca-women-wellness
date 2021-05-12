@@ -8,6 +8,7 @@
     padding: 0;
     border: none;
     box-sizing: border-box;
+    color: #3E0D05;
 }
 
 body {
@@ -43,6 +44,7 @@ h1 h2 h3 {
     height: 250px;
     float: left;
 }
+
 /*Border and Body - END */
 /*Nav -START*/
 .img-icon {
@@ -201,6 +203,13 @@ li a {
 .recipe-header {
     text-align: center;
     padding: 10px;
+}
+
+.recipe-header a {
+    text-align: center;
+    padding: 10px;
+    color: #3E0D05;
+    text-decoration: none;
 }
   
 #recipe-boxes{

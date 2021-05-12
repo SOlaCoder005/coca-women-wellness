@@ -120,6 +120,11 @@ li a {
 
 /*Recipes - Start*/
 
+.recipe-header {
+  text-align: center;
+  padding: 10px;
+}
+
 #recipe-boxes{
     content: "";
     display: table;
@@ -148,15 +153,35 @@ section #recipe-boxes{
 #column2 {
   background-color: rgba(255, 13, 134, .2);
   width: 50%;
-  padding: 25px;
+  padding: 30px;
   margin-left: auto;
   margin-right: auto;
   border-radius: 2.5%;
 }
 
+#column2 h2 {
+  padding: 5px 5px;
+}
+
+#column2 i {
+  padding: 5px 5px;
+  font-size: 20px;
+  font-weight: medium;
+}
+
+#column2 span {
+  padding-right: 10px;
+}
+
+#column2 p {
+  padding: 5px 5px;
+}
+
 #column2 li {
   display: list-item;
 }
+
+
 
 
 /*Recipes - End*/

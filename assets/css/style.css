@@ -208,7 +208,6 @@ div.gallery:hover {
 div.gallery img {
     width: 100%;
     height: auto;
-    border-radius: 50%;
     /*this border radius value will only work (turn square into a full circle) if the width and height of the elment are the same*/
     /*NEED TO- REVISIT and re-size the images via PS*/
     margin: 0 auto;

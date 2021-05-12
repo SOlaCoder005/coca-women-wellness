@@ -181,6 +181,10 @@ section #recipe-boxes{
   display: list-item;
 }
 
+#footer {
+  text-decoration: none;
+} 
+
 
 
 

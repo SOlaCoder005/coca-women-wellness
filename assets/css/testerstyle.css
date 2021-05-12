@@ -8,6 +8,7 @@
     padding: 0; 
     border: none;
     box-sizing: border-box;
+    color: #3E0D05;
 }
 
 body {
@@ -136,7 +137,6 @@ section #recipe-boxes{
   width: 50%;
 }
 
-
 #column1 img {
   width: 75%; /*dont change this lines images nicely with the instruction boxes*/
   display: block;
@@ -151,11 +151,6 @@ section #recipe-boxes{
   margin-left: auto;
   margin-right: auto;
 }
-
-
-
-
-
 
 
 /*Recipes - End*/

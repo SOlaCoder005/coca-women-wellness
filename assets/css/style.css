@@ -117,6 +117,7 @@ li a {
 .sectwo-img {
     height: 600px;
     width: 100%;
+    text-align: center;
     background-image: url('../images/pexels-rfstudio-3059812-cropped.jpg'); /*alt="african woman stretching in a forest on a bridge"*/ 
 }
 /*section 2 -end*/

@@ -152,6 +152,10 @@ section #recipe-boxes{
   margin-right: auto;
 }
 
+#column2 li {
+  display: list-item;
+}
+
 
 /*Recipes - End*/
     

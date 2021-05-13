@@ -5,13 +5,15 @@ body, html {
 body {
     margin: 0;
     display: grid; 
-    grid-template-columns: auto 27% 27% 27%;
-    grid-template-rows: 8% 30% auto 10%;
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(auto, 6);
     grid-template-areas:
-    "sidebar header header header"
-    "sidebar sect1 sect2 sect3"
-    "sidebar main main main"
-    "sidebar footer footer footer";
+    "header"
+    "sect1" 
+    "sect2" 
+    "sect3"
+    "main"
+    "footer";
 }
 
 aside {
@@ -49,3 +51,17 @@ footer {
     background-color: red;
 }
 
+
+@media only screen and (min-width:768px) {
+    body {
+        margin: 0;
+        display: grid; 
+        grid-template-columns: auto 27% 27% 27%;
+        grid-template-rows: 8% 30% auto 10%;
+        grid-template-areas:
+        "sidebar header header header"
+        "sidebar sect1 sect2 sect3"
+        "sidebar main main main"
+        "sidebar footer footer footer";
+    }/*larger screen settings*/
+}

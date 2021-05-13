@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@302&display=swap');
 /* Imports Section - End*/
 
+
 /*Border and Body - START */
 * {
     margin: 0;
@@ -21,7 +22,6 @@ h1 h2 h3 {
     color: #F0F8FF;
 }
 
-
 #img-logo {
     display: block;
     margin-left: auto;
@@ -32,6 +32,7 @@ h1 h2 h3 {
 }
 
 /*Border and Body - END */
+
 
 /*Nav -START*/
 
@@ -86,7 +87,6 @@ li a {
 
 
 /*Home - START*/
-
 /*Section 1 - start*/
 #secstyle-one {
     padding: 30px 10px 30px 10px;
@@ -160,8 +160,9 @@ li a {
 /*section 3.1 - end*/
 /*Home - END*/
 
-/*About - Start*/
 
+
+/*About - Start*/
 /*section 1 - start*/
 
 .secone div { 
@@ -196,10 +197,10 @@ li a {
     width: 50%;
     padding: 10px;
 }
-
 /*section 2 - end*/
-
 /*About - End*/
+
+
 
 /*Recipes - Start*/
 .recipe-header {
@@ -272,8 +273,9 @@ section #recipe-boxes{
 #footer {
     text-decoration: none;
 } 
-/*Recipes - End*/
-    
+/*Recipes - End*     
+
+
 /*Playlists -Start*/
 .column {
     float: left;

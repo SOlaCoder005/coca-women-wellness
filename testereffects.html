@@ -6,12 +6,13 @@
         <meta name="description" content=", UK">
         <meta name="keywords" content="black, women, health, wellness, mindfullness, UK">
         <title>Coca Women's Wellness</title>
-        <link rel="stylesheet" href="assets/css/testerstyle.css" type="text/css">
+        <link rel="stylesheet" href="assets/css/style.css" type="text/css">
         <link rel="stylesheet" href="assets/css/bootstrap-sourcecode/bootstrap.min.css">
         <!--Include these css links in any page of this site-->
         <!--stytlesheet is linked this way as it links to the local bootstrap on my device-->
     </head>
     <body>
+        <div class="container">
         <div id="nav-container">
             <div><!---This opening div holds the logo and nav menu at the top of page-->
                 <span><!---This opening spanholds the logo at the top-left of page-->  
@@ -33,112 +34,95 @@
         </nav>
         </div>
 
-        <section class="recipe-header">
-            <h2>Our Recipes</h2>
-            <p><em>Below we have provided a couple of scrumptious recipies! Please feel free to try them out asnd share your results with us on one of our<a href="#footer"> social media channels!</a></em></p>
+        <section id="secstyle-one"><!-- section 1 - describes the purpose of the site-->
+            <div class="row">
+                <div id="overview">
+                    <h1>What we offer...</h1>
+                    <div class="overview-column"><!--icon one-->
+                        <i class="far fa-calendar-alt"></i>
+                        <h2>Socials</h2>
+                        <p>As we are based in the UK, we hold a mixture of online and ‘in-person’ meetups. As of June 2021, we hold regular fortnightly meetings, most of our ‘in-person’ meetups are held in the city of Manchester. However, we do host an annual group get-away to a destination of choice.</p>
+                    </div>
+
+                    <div class="overview-column"><!--icon two-->
+                        <i class="fas fa-laptop"></i>
+                        <h2>Resources</h2>
+                        <p>Coca Women Wellness hopes to provide useful digital resources that can help develop ‘mindful’ techniques and evoke inspiring conversation around several wellbeing topics. Further, as one of our core initiatives are to focus on the wellbeing of communities from the African & Caribbean diaspora – much of the resources showcased on this site has been curated by African & Caribbean influencers.</p>
+                    </div>
+
+                    <div class="overview-column"><!--icon three-->
+                        <i class="fas fa-users"></i>
+                        <h2>Community</h2>
+                        <p>Through our social media channels and forums (check out our discord), we aspire to foster an online community for women, particularly of the African & Caribbean diaspora. Our community strives to facilitate positive, thought-provoking discussion around topics and common socio-cultural factors that often impacts wellbeing. </p>
+                    </div>  
+                </div>
+            </div>  
         </section>
 
-        <section id="recipe-boxes"><!--First recipe image and instructions-->
-            <div id="column1">
-                <img src="assets/images/pexels-pixabay-357573.jpg"  class="img-shadow" alt="stacked pancakes on a plate with honey drizzled over them">
-            </div>
-            <div id="column2">
-                <h2>Gluten-free Pancakes</h2>
-                    <span><i class="far fa-clock"></i> 30-munites</span><span><i class="fas fa-utensils"></i> Serves 3 people</span>
-                    <p>For some, gluten free food can help aid digestion and inflammation! With that in mind, these gluten free pancakes are a beautiful treat for anyone with a sweet tooth. At least we can feel less guilty about eating it as it is gluten free!</p>
-                <h4>Ingredients</h4>
-                    <ul>
-                        <li>250g gluten-free plain flour</li>
-                        <li>¼ cup of coconut sugar (use any sugar/sweetener of your choice)</li>
-                        <li>¼ tsp Xanthan gum (optional, depending on whether the flour has a raising agent in it already)</li>
-                        <li>1 egg</li>
-                        <li>250ml Almond milk (use any milk/sweetener of your choice)</li>
-                        <li>Dairy free / gluten-free butter of your choice</li>
-                        <li>Honey</li>
-                        <li>Sliced strawberries (as much as you want as this is for the topping)</li>
-                    </ul>
-                <h4>Instructions</h4>
-                    <ol>
-                        <li>Turn your oven hob on and let the frying pan heat up to a medium heat.</li>
-                        <li>Mix the milk, sugar, and egg together until fully combined</li>
-                        <li>Add the flour to the milk, egg, and sugar mixture. Mix well until fully combined.</li>
-                        <li>Once the frying pan is hot, add some butter to the pan and let it spread around the pan base.</li>
-                        <li>Add the pancake batter to the pan. Wait for the bottom of the pancake to brown and then flip.</li>
-                        <li>Once both sides are brown, remove the pancake from the pan and place on the plate. </li>
-                        <li>Repeat the process until the pancake batter has been used. Stack each pancake on top of each other.</li>
-                        <li>Drizzle honey over the pancakes and add strawberries on top for extra flavour!</li>
-                    </ol>
-            </div>
+        <section class="sectwo-img"> <!-- section 2-->
+            <!-- section two holds image/vide site-->
         </section>
+        
+        <section> <!-- section 2.1-->
+            <div id="overview">
+                <div class="row">
+                    <div id="video-column"><!-- if adding/changing iframe to new video use the following wxh values width="350" height="315" -->
+                        <iframe  src="https://www.youtube.com/embed/2YVaxA9tqA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    
+                    <div id="video-column">
+                        <iframe src="https://www.youtube.com/embed/videoseries?list=PLniLXGit6Sw4eSocGHUBONG4_jsh3Pb5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
 
-        <section id="recipe-boxes"><!--Second recipe image and instructions-->
-            <div id="column1">
-                <img src="assets/images/pexels-charlotte-may-5947012.jpg"  class="img-shadow" alt="fizzy red drink pured into a glass infront of a black background">
-            </div>
-            <div id="column2">
-                <h2>Sorrel Juice</h2>
-                    <span><i class="far fa-clock"></i> 45-munites</span>
-                    <p>Sorrel juice is a traditional drink served in many areas of the world, particularly in the Caribbean! The leaves are consumable and has anti-inflammatory properties. It is also used to help treat bacterial infections. It’s great to add to herbal teas too!</p>
-                <h4>Ingredients</h4> 
-                    <ul>
-                        <li>1 cup of dried Sorrel leaves</li>
-                        <li>2 Oranges (Keep the rind, we will need this)</li>
-                        <li>1 Cinnamon stick</li>
-                        <li>1 Lemon</li>
-                        <li>1 tsp of cloves</li>
-                        <li>500ml of water</li>
-                    </ul>
-                <h4>Instructions</h4>
-                    <ol>
-                        <li>Add water to a pot and place pot on the hob.</li>
-                        <li>Wash the sorrel leaves and add to the pot.</li>
-                        <li>Cut the lemon in half and squeeze some of the juice into the pot. The quantity is up to you, just remember lemon juice is bitter and too much can make the juice bitter tasting. </li>
-                        <li>Peel some of the rind off the orange and add to the pot.</li>
-                        <li>Squeeze all the juice of the orange into the pot.</li>
-                        <li>Break the cinnamon stick into pieces and ad to the pot and add the cloves also. </li>
-                        <li>Place the pot onto the oven hob and bring the pot to a rolling boil.</li>
-                        <li>Once boiling, reduce the heat to a medium-low temperature. Add the lid to the pot and let the mixture simmer for 30 minutes.</li>
-                        <li>After 30-minutes remove the pot from the pot and drain the juice through a strainer into another large bowl or container.</li>
-                        <li>Allow the juice to fully cool down in this container and then store in the fridge. I like to transfer the juice to a glass bottle before putting it into the fridge.</li>
-                    </ol>
+                    <div id="video-column">
+                        <iframe  src="https://www.youtube.com/embed/YnAXyTUE8Zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
             </div>
         </section>
 
-        <section id="recipe-boxes"><!--Third recipe image and instructions-->
-            <div id="column1">
-                <img src="assets/images/pexels-vicky-tran-3273989.jpg"  class="img-shadow" alt="lemon, cinamon and tea in a mason jar">
-            </div>
-            <div id="column2">
-                <h2>Ginger Cinnamon Tea</h2>
-                <span><i class="far fa-clock"></i> 15-munites</span>
-                <p>Some of the key health benefits of ginger is that it can help lower blood sugar levels and aid indigestion. Similarly, cinnamon also has anti-inflammatory properties and can help to strengthen the body’s sensitivity to insulin! Besides the health benefits it tastes amazing and feels ‘yummy going into the tummy’.</p>
-                <h3>Ingredients</h3> 
-                    <ul>
-                        <li>1 tsp of ginger or 3 slices of large ginger root</li>
-                        <li>¼ tsp on cinnamon powder of ½ a cinnamon stick</li>
-                        <li>1 slice of lemon</li>
-                        <li>Hot water (quantity depends on the size of your mug!)</li>
-                    </ul>
-                <h3>Instructions</h3><!--ISSUE list items willl not display when using the standand source code menthod (i.e. <ol><li></li></ol>)-->
-                    <ol>
-                        <li>Fill your kettle with water and bring to a boil.</li>
-                        <li>If using ginger powder, measure one teas spoon and add to your mug.</li>
-                        <li>Add the cinnamon powder too.</li>
-                        <li>Cut a slice of lemon and add to your cup.</li>
-                        <li>Once the water has boiled, add it to the mug and stir, let the tea steep for 1-2 minutes and enjoy your tea!</li>
-                    </ol>
-                        <p> If using the ginger root slices and cinnamon stick, boil the kettle and then…</p>
-                    <ol>
-                        <li>Cut the slices of ginger and add to a small pot.</li>
-                        <li>Break the cinnamon sticks into small pieces and add to the pot too.</li>
-                        <li>Once the water has boiled, add enough to the small pot so it covers the ingredients. Bring the pot to boil for 5-10 minutes.</li>
-                        <li>Then, through using a strainer, strain the mixture into your mug and then stir.</li>
-                        <li>Add the lemon slice into your tea and enjoy!</li>
-                    </ol>
-            </div>
-        </section>  
+        <div class="secthree-img"> <!-- section 3-->
+            <!-- section two holds image/vide site-->
+        </div>
+
+        <section id="secstyle-three"><!-- section 3.1 - provides meetup info site-->
+            <div class="row">
+                <div id="overview">
+                    <h1>Our socials</h1>
+                    <div class="overview-column" class="sec-circle-div"><!--icon one-->
+                        <a href="https://www.eventbrite.co.uk/" target="_blank" ref="external"><i class="fas fa-utensils"></i></a>
+                        <h4>In-person Social</h4>
+                        <span>Date:</span><span> 04/06/2021</span>
+                        <br>
+                        <span>Time:</span><span> 19:00-21:00pm</span>
+                        <br>
+                        <span>Location:</span><span> Bar Burrito, Picaddily Manchester, UK</span>
+                    </div>
+
+                    <div class="overview-column"  class="sec-circle-div"><!--icon two-->
+                        <a href="https://zoom.us/" target="_blank" ref="external"><i class="fas fa-video"></i></a>
+                        <h4>Online Social</h4>
+                        <span>Date:</span><span> 18/06/2021</span>
+                        <br>
+                        <span>Time:</span><span> 19:00-20:30pm</span>
+                        <br>
+                        <span>Location:</span><span> Zoom</span>                    
+                    </div>
+
+                    <div class="overview-column"  class="sec-circle-div"><!--icon three-->
+                        <a href="https://www.eventbrite.co.uk/" target="_blank" ref="external"><i class="fas fa-utensils"></i></a>
+                        <h4>In-person Social</h4>
+                        <span>Date:</span><span> 02/07/2021</span>
+                        <br>
+                        <span>Time:</span><span> 19:00-21:00pm</span>
+                        <br>
+                        <span>Location:</span><span> Pizza Hut, Picaddily Manchester, UK</span>
+                    </div>  
+                </div>
+            </div> 
+        </section>
     <footer>
-        <div id="footer" class="sm-links"><!--This id is linked to the top pargraph on this page-->
+        <div class="sm-links">
             <a href="https://twitter.com/" target="_blank" rel="external" class="fa fa-twitter"></a>
             <a href="https://discord.com/" target="_blank" rel="external" class="fab fa-discord"></a>
             <a href="https://www.instagram.com/" target="_blank" rel="external" class="fa fa-instagram"></a>
@@ -147,10 +131,12 @@
         </div>
         <div id="copyright-style">Copyright<span> &#169; </span> Coca Women's Wellness. All Rights Reserved 2021.</div>  
     </footer>
+    </div>
     <!--Fontawesome script is below. Best practice to add this type of code at the bottom of body element-->
-        <script src="https://kit.fontawesome.com/1699136767.js" crossorigin="anonymous"></script>
-        <script src="assets/js/bootstrap-sourcecode/bootstrap.min.js" crossorigin="anonymous"></script>
-        <script src="assets/js/main.js"></script><!--Delete code if you are not using initial nav-->  
+    <script src="https://kit.fontawesome.com/1699136767.js" crossorigin="anonymous"></script>
+    <script src="assets/js/bootstrap-sourcecode/bootstrap.min.js" crossorigin="anonymous"></script>
+    <script src="assets/js/main.js"></script><!--Delete code if you are not using initial nav-->  
     </body>
+    
 </html>
 </DOCTYPE>

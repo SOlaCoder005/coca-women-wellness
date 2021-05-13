@@ -84,28 +84,74 @@ li a {
 }
 /*Nav-End*/
 
-
 /*Home - START*/
-    /*Section 1 - start*/
+/*Section 1 - start*/
+#secstyle-one {
+  padding: 30px 10px 30px 10px;
+  background-color: rgba(251, 184, 37, .7);
+  color: #F0F8FF;
+}
 
-    /*section 1 - end*/
+#overview {
+  padding: 30px 10px 30px 10px;
+  text-align: center;
+}
+
+#overview i {
+  font-size: 70px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.overview-column {
+  float: left;
+  width: 33.3%;
+  background-color: none;
+  padding: 10px;
+}
+
+.overview-column p {
+  font-size: 14px;
+}
+
+/*section 2 -start*/
 
 
-    /*section 2 -start*/
 
-    /*section 2 -end*/
+/*section 2 -end*/
 
-    /*section 2.1 -start*/
+/*section 2.1 -start*/
+#video-column {
+  float: left;
+  background-color: none;
+  width: auto;
+}
+/*section 2.1 -end*/
 
-    /*section 2.1 -end*/
+/*section 3 -start*/
+.secthree-img {
+  height: 600px;
+  width: 100%;
+  background-image: url('../images/pexels-ezekixl-akinnewu-94624-cropped.jpg'); /*alt="african woman lying on a bed of flowers"*/ 
+}
+/*section 3 -end*/
 
-    /*section 3 -start*/
+/*section 3.1 - start*/
+#secstyle-three {
+  background-color: orangered;
+  padding: 30px 10px 30px 10px;
+  color: #F0F8FF;
+  opacity: 0.7;
+}
 
-    /*section 3 -end*/
-
-    /*section 3.1 - start*/
-
-    /*section 3.1 - end*/
+.sec-circle-div {
+  height: 300px;
+  border: 1px transparent;
+  border-radius: 50%;
+  text-align: center;
+  float: left;
+}
+/*section 3.1 - end*/
 /*Home - END*/
 
 /*About - Start*/
@@ -283,54 +329,33 @@ footer {
 
 /*Media Query Section - START*/
 
-/* for nav*/
-@media all and (max-width: 1280px) {
-    .container {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-/*max-width has been changed to 1280px from 720px to make nav into hamburgar icon menu on tablet screens (e.g. 10" tab has typical resolution of 1280 x800) Info Sources: https://www.colourmylearning.com/2015/04/best-10-inch-windows-tablets-with-full-hd-display/#:~:text=The%20typical%20screen%20resolution%20at,screens%3B%201366%20x%20768%20pixels and https://www.scantips.com/basics1c.html*/
-    nav {
-        width: 100%;
-        height: 0;
-        overflow: hidden;
-        transition: 250ms height ease-in-out;
-    }
+/* sourced from https://getbootstrap.com/docs/5.0/layout/breakpoints/ */
 
-    li {
-        display: block; 
-        text-align: center;
-        padding: 1rem 0;
-    }
 
-    li a {
-        font-size: 1.5rem;
-    }
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
 
-    .menu-icon {
-        display: block;
-    }   
 }
-/*For recipes - Start*/
- @media only screen and (max-width: 700px) {
-    .responsive {
-      width: 50%;
-      margin: 6px 0;
-    }
-  }
-  
-  @media only screen and (max-width: 500px) {
-    .responsive {
-      width: 100%;
-    }
-  }
-  
-  .clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-  /*For recipes - End*/
+
+/*  Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+ 
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+ 
+ }
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+
+}
 
    
-  /*Media Query Section - END*/
+/*Media Query Section - END*/

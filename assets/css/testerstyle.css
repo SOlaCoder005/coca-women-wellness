@@ -16,8 +16,6 @@ body {
     font-size: 16px;
 }
 
-
-
 #nav-container {
   display: flex;
   justify-content: space-between;
@@ -82,6 +80,8 @@ li a {
 
 /*Connect - Start*/
 
+
+
 #connect-background {
     background-image: url('../images/pexels-jeremy-bishop-2710131.jpg');
     width: 100%;
@@ -95,18 +95,13 @@ li a {
 .cwu-form {
     background-color: rgb(255, 13, 134, .5);
     font-weight: medium;
-    width: 60%;
+    width: 70%;
     height: 100%;
     padding: 50px;
     color: rgba(240, 248, 255);
     border-radius: 1px white solid;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.user-details > p {
-    font-size: 18px;
+    display: table;
+    margin: 0 auto;
 }
 
 
@@ -136,14 +131,11 @@ li a {
     background-color:rgb(240, 248, 255);
     border-radius: 10px;
     padding: 5px;
-    text-align: center;  
 }
     
 .cwu-form > label {
     font-weight: 20px;
-    padding-right: 5px;
-    padding-left: 50px;
-    padding-bottom: 30px;
+
     color: rgba(240, 248, 255);
 }
 
@@ -253,6 +245,7 @@ footer {
     padding: 15px 0 15px 0;
     background-color: rgba(251, 184, 37);
     text-align: center;
+    margin-top: auto;
 }
 
 #copyright-style {

@@ -21,6 +21,20 @@ h1 h2 h3 {
     color: #F0F8FF;
 }
 
+
+#img-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+
+/*Border and Body - END */
+
+/*Nav -START*/
+
 #nav-container {
     display: flex;
     justify-content: space-between;
@@ -34,17 +48,6 @@ h1 h2 h3 {
     /*padding has been added here to ensure the container elements do not touch the sides of web window*/
 }/*This affects the position of the nav and logo on all site pages*/
 
-#img-logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto; 
-    width: 250px;
-    height: 250px;
-    float: left;
-}
-
-/*Border and Body - END */
-/*Nav -START*/
 .img-icon {
     color: #3E0D05;
     opacity: 0.5;
@@ -57,11 +60,11 @@ ul {
 li {
     display: inline-block;
     padding: 0 1.25rem;
+    font-weight: 600;
 }
 
 li a {
     text-decoration: none;
-    color: #3E0D05;
     font-size: 18px;
 }
 
@@ -105,7 +108,6 @@ li a {
 .overview-column {
     float: left;
     width: 33.3%;
-    background-color: none;
     padding: 10px;
 }
 
@@ -126,7 +128,6 @@ li a {
 /*section 2.1 -start*/
 #video-column {
     float: left;
-    background-color: none;
     width: 33.3%;
 }
 /*section 2.1 -end*/
@@ -254,7 +255,6 @@ section #recipe-boxes{
 #column2 i {
     padding: 5px 5px;
     font-size: 20px;
-    font-weight: medium;
 }
   
 #column2 span {
@@ -278,8 +278,6 @@ section #recipe-boxes{
 .column {
     float: left;
     width: 20%;
-    background-color: none;
-    opacity: 0.5;
     padding: 5px;
 }
 
@@ -332,12 +330,10 @@ div #playlist-media-icons {
 
 .cwu-form {
     background-color: rgb(255, 13, 134, .75);
-    font-weight: medium;
     width: 60%;
     height: 50%;
     padding: 20px;
     color: rgba(240, 248, 255);
-    border-radius: 1px white solid;
     display: table;
     margin: 0 auto;
 }
@@ -355,6 +351,7 @@ div #playlist-media-icons {
 
 .cwu-form > p {
     color: rgba(240, 248, 255);
+    font-weight: 500;
 }
 
 .cwu-form  i {
@@ -371,7 +368,6 @@ div #playlist-media-icons {
 }
     
 .cwu-form > label {
-    font-weight: 20px;
     padding-right: 10px;
     padding-left: 5px;
     padding-top: 5px;
@@ -394,7 +390,6 @@ div .button-style  {
     font-size: 20px;
     background-color: rgba(251, 184, 37, .85); 
     color: rgb(240, 248, 255);
-    font-weight: medium;
 }
 
 input:hover{

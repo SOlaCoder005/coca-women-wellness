@@ -115,8 +115,6 @@ li a {
 }
 
 /*section 2 -start*/
-
-/*section 2 -end*/
 .sectwo-img {
     height: 400px;
     width: 100%;
@@ -124,6 +122,8 @@ li a {
     background-image: url('../images/pexels-rfstudio-3059812_croppedsecondattempt.jpg'); 
     /*alt="african woman stretching in a forest on a bridge"*/ 
 }
+/*section 2 -end*/
+
 /*section 2.1 -start*/
 #video-column {
     float: left;

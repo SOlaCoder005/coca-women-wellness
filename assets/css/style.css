@@ -115,14 +115,15 @@ li a {
 }
 
 /*section 2 -start*/
-.sectwo-img {
-    height: 600px;
-    width: 100%;
-    text-align: center;
-    background-image: url('../images/pexels-rfstudio-3059812-cropped.jpg'); /*alt="african woman stretching in a forest on a bridge"*/ 
-}
-/*section 2 -end*/
 
+/*section 2 -end*/
+.sectwo-img {
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    background-image: url('../images/pexels-rfstudio-3059812_croppedsecondattempt.jpg'); 
+    /*alt="african woman stretching in a forest on a bridge"*/ 
+}
 /*section 2.1 -start*/
 #video-column {
     float: left;
@@ -133,10 +134,12 @@ li a {
 
 /*section 3 -start*/
 .secthree-img {
-    height: 600px;
+    height: 700px;
     width: 100%;
-    background-image: url('../images/pexels-ezekixl-akinnewu-94624-cropped.jpg'); /*alt="african woman lying on a bed of flowers"*/ 
-}
+    background-size: cover;
+    background-image: url('../images/pexels-ezekixl-akinnewu-946240_croppedsecondattempt.jpg'); 
+   /*alt="african woman lying on a bed of flowers"*/ 
+ }
 /*section 3 -end*/
 
 /*section 3.1 - start*/

@@ -1,0 +1,75 @@
+body, html {
+    height: 100vh;
+}
+
+body{
+    margin:0;
+    display: grid;
+    grid-template-columns: 100%; /*this is for mobile setting, always start with mobile setting first*/
+    grid-template-rows: repeat(auto, 6); /*respectively allocated for - 6= header, sections (1-3), main and footer. These should all be of equal height when done this way*/
+    grid-template-areas:
+    "header" /*1st row*/
+    "sect1" /*2nd row*/
+    "sect2" /*3rd row*/
+    "sect3" /*4th row*/
+    "main"/*5th row*/
+    "footer"; /*6th row*/
+}
+
+/*next place a grid area property on the elments in html grid test page, these mys correspond with the rows above*/
+aside {
+    grid-area: sidebar;
+    background-color: blue;
+}
+
+header {
+    grid-area: header;
+    background-color: purple;
+}
+
+section:nth-of-type(1) {
+    grid-area: sect1;
+    background-color: orange;
+}
+
+section:nth-of-type(2) {
+    grid-area: sect2;
+    background-color:greenyellow ;
+}
+
+section:nth-of-type(3) {
+    grid-area: sect3;
+    background-color: yellow ;
+}
+
+
+main {
+    grid-area: main;
+    background-color: orangered ;
+}
+
+footer {
+    grid-area: footer;
+    background-color: pink;
+}
+
+/*The above provides a template of the website but without media queries it will not be responsive. Below will show how to make the page responsive*/
+
+
+ @media only screen and (max-width: 768px) {
+    /*1st - copy body property into this media section*/
+    /*not for mobile*/
+    body {
+        margin: 0;
+        display: grid;
+        grid-template-columns: auto 27% 27% 27%; /*respectivwly alllocated for - side-bar, second, third, fourth columns */
+        grid-template-rows: 8% 30% auto 10%; /*respectively allocated for - header sections main footer*/
+        grid-template-areas:
+        "sidebar header header header "/*first row*/
+        "sidebar sect1 sect2 sect3"/*second row*/
+        "sidebar main main main"/*third row*/
+        "sidebar footer footer footer"; /*fourth row*/
+    }
+}
+
+/*This was taughthttps://www.youtube.com/watch?v=qTGbWfEEnKI

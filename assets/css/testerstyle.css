@@ -10,12 +10,16 @@
     border: none;
 }
 
+body, htmnl {
+    height:100%;
+}
+
 body {
     font-family: 'Raleway', sans-serif;
     font-size: 20px;
     clear: both;
     width: auto;
-
+    margin: 0;
 }
 
 h1 h2 h3 h4 h5 {
@@ -39,12 +43,21 @@ header {
     float: left;
 }
 
+main {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax (19rem, 1fr));
+}
+
 /*Border and Body - END */
 
 
 /*Nav -START*/
+#menu {
+    font-size: 100%;
+    letter-spacing: 2px;
+}
 
-nav li {
+#menu li {
     display: inline-block;
     font-weight: 400;
     float: right;
@@ -53,7 +66,7 @@ nav li {
     line-height: 200px;
 }
 
-li a {
+#menu a {
     text-decoration: none;
     font-size: 20px;
     color: #C54F00;
@@ -106,6 +119,8 @@ li a:hover {
     width: 100%;
     background-size: cover;
     background-image: url('../images/pexels-rfstudio-3059812_croppedsecondattempt.jpg'); 
+
+    position: relative;
     /*alt="african woman stretching in a forest on a bridge"*/ 
 }
 /*section 2 -end*/
@@ -124,6 +139,7 @@ li a:hover {
     background-size: cover;
     background-image: url('../images/pexels-ezekixl-akinnewu-946240_croppedsecondattempt.jpg'); 
    /*alt="african woman lying on a bed of flowers"*/ 
+   position: relative;
  }
 /*section 3 -end*/
 
@@ -469,54 +485,7 @@ footer {
 
 /*Media Query Section - START*/
 
-/* for nav*/
-@media all and (max-width: 1280px) {
-    .container {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-/*max-width has been changed to 1280px from 720px to make nav into hamburgar icon menu on tablet screens (e.g. 10" tab has typical resolution of 1280 x800) Info Sources: https://www.colourmylearning.com/2015/04/best-10-inch-windows-tablets-with-full-hd-display/#:~:text=The%20typical%20screen%20resolution%20at,screens%3B%201366%20x%20768%20pixels and https://www.scantips.com/basics1c.html*/
-    nav {
-        width: 100%;
-        height: 0;
-        overflow: hidden;
-        transition: 250ms height ease-in-out;
-    }
-
-    li {
-        display: block; 
-        text-align: center;
-        padding: 1rem 0;
-    }
-
-    li a {
-        font-size: 1.5rem;
-    }
-
-    .menu-icon {
-        display: block;
-    }   
-}
-/*For recipes - Start*/
- @media only screen and (max-width: 700px) {
-    .responsive {
-      width: 50%;
-      margin: 6px 0;
-    }
-  }
-  
-  @media only screen and (max-width: 500px) {
-    .responsive {
-      width: 100%;
-    }
-  }
-  
-  .clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-  /*For recipes - End*/
 
    
   /*Media Query Section - END*/
+  

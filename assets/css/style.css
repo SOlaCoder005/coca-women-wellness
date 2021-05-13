@@ -108,7 +108,7 @@ li a:hover {
 }
 
 #overview i {
-    font-size: 50px;
+    font-size: 30px;
     padding-top: 15px;
     padding-bottom: 15px;
     color: #C54F00;
@@ -153,16 +153,10 @@ li a:hover {
 
 /*section 3.1 - start*/
 #secstyle-three {
-    background-color: rgba(255, 13, 134);
+    background-color: rgb(255,218,0);
     padding: 20px 10px 20px 10px;
     text-transform: uppercase;
-    color: rgb(255, 221, 241);
-}
-
-.overview-column > a {
-    font-size: 50px;
-    text-decoration: none;
-    color: rgb(255, 221, 241);
+    color: #C54F00;
 }
 
 .sec-circle-div {
@@ -172,6 +166,7 @@ li a:hover {
     text-align: center;
     float: left;
 }
+
 /*section 3.1 - end*/
 /*Home - END*/
 
@@ -463,13 +458,12 @@ footer {
     height: 100px;
     padding: 15px 0 15px 0;
     text-align: center;
-    background-color: rgb(255,218,0);
 }
 
 #copyright-style {
     font-size: 15px;
     opacity: 0.8;
-    color: rgb(62,13,5);
+    color: #C54F00;
 }
 
 .sm-links  {
@@ -485,7 +479,7 @@ footer {
     text-align: center;
     text-decoration: none;
     border-radius: 0;
-    color: rgb(62,13,5);
+    color: #C54F00;
     opacity: 0.8; 
     font-size: 25px;
 }

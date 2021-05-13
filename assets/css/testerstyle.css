@@ -2,86 +2,311 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@302&display=swap');
 /* Imports Section - End*/
 
+
 /*Border and Body - START */
 * {
     margin: 0;
-    padding: 0; 
+    padding: 0;
     border: none;
-    box-sizing: border-box;
-    color: #3E0D05;
 }
 
 body {
     font-family: 'Raleway', sans-serif;
-    font-size: 16px;
+    font-size: 20px;
+    clear: both;
+    width: auto;
+
 }
 
-#nav-container {
-  display: flex;
-  justify-content: space-between;
-  /*justify for horizontal alignment*/
-  align-items: center;
-  /*align for vertical alignment*/
-  max-width: 60rem;
-  /*choose to use rem rather than px as it's relative to the base pixel*/
-  margin: 0 auto;
-  padding: 0 0.5rem;
-  /*padding has been added here to ensure the container elements do not touch the sides of web window*/
-}/*This affects the position of the nav and logo on all site pages*/
+h1 h2 h3 h4 h5 {
+    letter-spacing: 1px;
+    font-family:'Open Sans', sans-serif;
+}
+
+header {
+    background-color: white;
+    width: 100%;
+    height: 250px;
+    margin: 0;
+}
 
 #img-logo {
     display: block;
     margin-left: auto;
     margin-right: auto; 
-    width: 250px;
-    height: 250px;
+    width: 230px;
+    height: 230px;
     float: left;
 }
 
-
 /*Border and Body - END */
+
+
 /*Nav -START*/
-.img-icon {
-    color: #3E0D05;
-    opacity: 0.5;
-}
 
-ul { 
-    padding: 0;
-}
-
-li {
+nav li {
     display: inline-block;
-    padding: 0 1.25rem;
+    font-weight: 400;
+    float: right;
+    list-style-type: none;
+    margin-right: 100px;
+    line-height: 200px;
 }
 
 li a {
     text-decoration: none;
-    color: #3E0D05;
-    font-size: 18px;
+    font-size: 20px;
+    color: #C54F00;
+    text-transform: capitalize;
 }
 
-.menu-icon {
-    display: none;
-    position: absolute; 
-    top: 1.5rem;
-    right: 1rem;
+.active {
+    border-bottom: dashed 2px #C54F00;
 }
 
-.open {
-    height: 100vh;
-}
-
-.hidden {
-    display: none;
+li a:hover {
+    color: rgba(255, 13, 134, .7);
 }
 /*Nav-End*/
 
 
-/*Connect - Start*/
+/*Home - START*/
+/*Section 1 - start*/
+#secstyle-one {
+    padding: 30px 10px 30px 10px;
+    background-color: rgb(255,218,0);
+    color: #C54F00;
+}
+
+#overview {
+    padding: 30px 10px 30px 10px;
+    text-align: center;
+}
+
+#overview i {
+    font-size: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #C54F00;
+}
+
+.overview-column {
+    float: left;
+    width: 33.3%;
+    padding: 10px;
+}
+
+.overview-column p {
+    font-size: 14px;
+}
+
+/*section 2 -start*/
+.sectwo-img {
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    background-image: url('../images/pexels-rfstudio-3059812_croppedsecondattempt.jpg'); 
+    /*alt="african woman stretching in a forest on a bridge"*/ 
+}
+/*section 2 -end*/
+
+/*section 2.1 -start*/
+#video-column {
+    float: left;
+    width: 33.3%;
+}
+/*section 2.1 -end*/
+
+/*section 3 -start*/
+.secthree-img {
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    background-image: url('../images/pexels-ezekixl-akinnewu-946240_croppedsecondattempt.jpg'); 
+   /*alt="african woman lying on a bed of flowers"*/ 
+ }
+/*section 3 -end*/
+
+/*section 3.1 - start*/
+#secstyle-three {
+    background-color: rgb(255,218,0);
+    padding: 20px 10px 20px 10px;
+    text-transform: uppercase;
+    color: #C54F00;
+}
+
+.sec-circle-div {
+    height: 300px;
+    border: 1px transparent;
+    border-radius: 50%;
+    text-align: center;
+    float: left;
+}
+
+/*section 3.1 - end*/
+/*Home - END*/
 
 
 
+/*About - Start*/
+/*section 1 - start*/
+
+.secone div { 
+    padding: 50px;
+    text-align: center;
+}
+
+.secone img {
+    border-radius: 50%;
+}
+/*section 1 - end*/
+
+/*section 2 - start*/
+#about {
+    padding: 50px;
+    background-color: rgba(255, 13, 134, .2);
+    text-align: justify;
+}
+
+#about div {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+#about h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+.about-column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
+/*section 2 - end*/
+/*About - End*/
+
+
+
+/*Recipes - Start*/
+.recipe-header {
+    text-align: center;
+    padding: 10px;
+}
+
+.recipe-header a {
+    text-align: center;
+    padding: 10px;
+    color: #3E0D05;
+    text-decoration: none;
+}
+  
+#recipe-boxes{
+    content: "";
+    display: table;
+    clear: both;
+    padding: 20px 20px;
+}
+  
+section #recipe-boxes{
+    padding: 10px 10px;
+}
+  
+#recipe-boxes div {
+    float: left;
+    height: auto;
+    width: 50%;
+}
+  
+#column1 img {
+    width: 75%; /*dont change this lines images nicely with the instruction boxes*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2.5%;
+}
+  
+#column2 {
+    background-color: rgba(255, 13, 134, .2);
+    width: 50%;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2.5%;
+}
+  
+#column2 h2 {
+    padding: 5px 5px;
+}
+  
+#column2 i {
+    padding: 5px 5px;
+    font-size: 20px;
+}
+  
+#column2 span {
+    padding-right: 10px;
+}
+  
+#column2 p {
+    padding: 5px 5px;
+}
+  
+#column2 li {
+    display: list-item;
+}
+  
+#footer {
+    text-decoration: none;
+} 
+/*Recipes - End*     
+
+
+/*Playlists -Start*/
+.column {
+    float: left;
+    width: 20%;
+    padding: 5px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+div #playlist-media-icons {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 80px;
+}/*the padding-bottom value (above) allows the footer to be positioned at the bottom of the page on both desktop and larger monitor screens. Without it, the footer comes up half way on the larger monitore screen.*/
+
+#playlist-media-icons {
+    padding: 30px;
+}
+
+#playlist-media-icons i {
+        font-size: 70px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        opacity: 0.5;
+}
+
+#playlist-media-icons > p {
+    font-size: 45px;
+    opacity: 0.5;
+    text-align: center;
+    padding-top: 25px; 
+    padding-bottom: 25px;
+}
+
+#playlist-media-icons div > p {
+    text-align: center;
+}
+/*Playlists - End*/
+
+
+/*Connect- Start*/
 #connect-background {
     background-image: url('../images/pexels-jeremy-bishop-2710131.jpg');
     width: 100%;
@@ -93,27 +318,28 @@ li a {
 
 .cwu-form {
     background-color: rgb(255, 13, 134, .75);
-    font-weight: medium;
     width: 60%;
     height: 50%;
     padding: 20px;
     color: rgba(240, 248, 255);
-    border-radius: 1px white solid;
     display: table;
     margin: 0 auto;
 }
 
 .cwu-form > h1 {
     color: rgba(240, 248, 255);
+    padding-bottom: 25px;
 }
 
 .cwu-form > h5 {
     color: rgba(240, 248, 255);
-    padding-top: 25px;
+    padding-top: 20px;
+    padding-bottom: 5px;
 }
 
 .cwu-form > p {
     color: rgba(240, 248, 255);
+    font-weight: 500;
 }
 
 .cwu-form  i {
@@ -123,14 +349,13 @@ li a {
     padding-left: 15px;
 }
 
-.cwu-form > input {
+.cwu-form input {
     background-color:rgb(240, 248, 255);
     border-radius: 10px;
     padding: 5px;
 }
     
 .cwu-form > label {
-    font-weight: 20px;
     padding-right: 10px;
     padding-left: 5px;
     padding-top: 5px;
@@ -153,7 +378,6 @@ div .button-style  {
     font-size: 20px;
     background-color: rgba(251, 184, 37, .85); 
     color: rgb(240, 248, 255);
-    font-weight: medium;
 }
 
 input:hover{
@@ -163,7 +387,6 @@ input:hover{
 .cwu-form i:hover{
     color: rgba(251, 184, 37);
 }
-
 
 /* pop-up bottom-right - Source Code has been amended to suit my site, but originally sourced from W3Schools - https://www.w3schools.com/howto/howto_js_callout.asp*/
 .callout {
@@ -200,9 +423,7 @@ input:hover{
 .closebtn:hover {
     color:  rgb(255, 13, 134, .75);
 }
-
-/*Connect - End*/
-
+/*Connect - end*/
 
 /*Footer - Start*/
 footer {
@@ -212,69 +433,35 @@ footer {
     width: 100%;
     height: 100px;
     padding: 15px 0 15px 0;
-    background-color: rgba(251, 184, 37);
     text-align: center;
-    margin-top: auto;
 }
 
 #copyright-style {
     font-size: 15px;
     opacity: 0.8;
-    color: #3E0D05;
+    color: #C54F00;
 }
 
-.sm-links {
+.sm-links  {
     display: flex;
     justify-content: center;
     margin: 0 auto; 
     width: 100%; 
     overflow: auto;
-    font-size: 30px;
 }
 
-.fa-twitter {
+.sm-links a {
     padding: 10px;
     text-align: center;
     text-decoration: none;
     border-radius: 0;
-    color: #3E0D05;
-    opacity: 0.8;
-}
-
-.fa-instagram {
-    padding: 10px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 0;
-    color: #3E0D05;
-    opacity: 0.8;
-}
-
-.fa-discord {
-    padding: 10px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 0;
-    color: #3E0D05;
-    opacity: 0.8;
-}
-  
-.fa-youtube {
-    padding: 10px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 0;
-    color: #3E0D05;
+    color: #C54F00;
     opacity: 0.8; 
+    font-size: 25px;
 }
-  
-.fa-pinterest {
-    padding: 10px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 0;
-    color: #3E0D05;
-    opacity: 0.8;
+
+.sm-links a:hover {
+    color: rgba(255, 13, 134, .7);
 }
 /*Footer - End*/
 
@@ -282,33 +469,54 @@ footer {
 
 /*Media Query Section - START*/
 
-/* sourced from https://getbootstrap.com/docs/5.0/layout/breakpoints/ */
+/* for nav*/
+@media all and (max-width: 1280px) {
+    .container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+/*max-width has been changed to 1280px from 720px to make nav into hamburgar icon menu on tablet screens (e.g. 10" tab has typical resolution of 1280 x800) Info Sources: https://www.colourmylearning.com/2015/04/best-10-inch-windows-tablets-with-full-hd-display/#:~:text=The%20typical%20screen%20resolution%20at,screens%3B%201366%20x%20768%20pixels and https://www.scantips.com/basics1c.html*/
+    nav {
+        width: 100%;
+        height: 0;
+        overflow: hidden;
+        transition: 250ms height ease-in-out;
+    }
 
+    li {
+        display: block; 
+        text-align: center;
+        padding: 1rem 0;
+    }
 
-/* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) { 
+    li a {
+        font-size: 1.5rem;
+    }
 
+    .menu-icon {
+        display: block;
+    }   
 }
-
-/*  Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) { 
-
-}
-
-/* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) { 
- 
-}
-
-/* X-Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) { 
- 
- }
-
-/* XX-Large devices (larger desktops, 1400px and up) */
-@media (min-width: 1400px) { 
-
-}
+/*For recipes - Start*/
+ @media only screen and (max-width: 700px) {
+    .responsive {
+      width: 50%;
+      margin: 6px 0;
+    }
+  }
+  
+  @media only screen and (max-width: 500px) {
+    .responsive {
+      width: 100%;
+    }
+  }
+  
+  .clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  /*For recipes - End*/
 
    
-/*Media Query Section - END*/
+  /*Media Query Section - END*/

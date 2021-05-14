@@ -2,56 +2,52 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@302&display=swap');
 /* Imports Section - End*/
 
-
-/*Border and Body - START */
-* {
-    margin: 0;
-    padding: 0;
-    border: none;
-}
-
-body, htmnl {
-    height:100%;
+body, html {
+    height: 100vh;
 }
 
 body {
-    font-family: 'Raleway', sans-serif;
-    font-size: 20px;
-    clear: both;
-    width: auto;
     margin: 0;
+    display: grid; 
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(auto, 6);
+    grid-template-areas:
+    "header"
+    "sect1" 
+    "sect2" 
+    "sect3"
+    "main"
+    "footer";
 }
 
-h1 h2 h3 h4 h5 {
-    letter-spacing: 1px;
-    font-family:'Open Sans', sans-serif;
+aside {
+    grid-area: sidebar;
+    background-color: purple;
 }
 
-header {
-    background-color: white;
-    width: 100%;
-    height: 250px;
-    margin: 0;
+div iframe {
+    display: inline-block;
+    vertical-align: middle;
+    
 }
+
+/*HEADER -BELOW*/
 
 #img-logo {
     display: block;
     margin-left: auto;
     margin-right: auto; 
-    width: 230px;
-    height: 230px;
+    width: 250px;
+    height: 250px;
     float: left;
 }
 
-main {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax (19rem, 1fr));
+header {
+    grid-area: header;
+    background-color: rgb(255,218,0);
+    height: 250px;
 }
 
-/*Border and Body - END */
-
-
-/*Nav -START*/
 #menu {
     font-size: 100%;
     letter-spacing: 2px;
@@ -80,15 +76,10 @@ main {
 li a:hover {
     color: rgba(255, 13, 134, .7);
 }
-/*Nav-End*/
-
-
-/*Home - START*/
-/*Section 1 - start*/
-#secstyle-one {
-    padding: 30px 10px 30px 10px;
-    background-color: rgb(255,218,0);
-    color: #C54F00;
+/* Home - SECTION 1 BELOW*/
+section:nth-of-type(1) {
+    grid-area: sect1;
+    background-color: white;
 }
 
 #overview {
@@ -113,37 +104,23 @@ li a:hover {
     font-size: 14px;
 }
 
-/*section 2 -start*/
-.sectwo-img {
-    height: 400px;
-    width: 100%;
-    background-size: cover;
-    background-image: url('../images/pexels-rfstudio-3059812_croppedsecondattempt.jpg'); 
-
-    position: relative;
-    /*alt="african woman stretching in a forest on a bridge"*/ 
+/* Home - SECTION 2 BELOW*/
+section:nth-of-type(2){
+    grid-area: sect2;
+    background-color: white;
 }
-/*section 2 -end*/
 
-/*section 2.1 -start*/
 #video-column {
     float: left;
     width: 33.3%;
 }
-/*section 2.1 -end*/
 
-/*section 3 -start*/
-.secthree-img {
-    height: 700px;
-    width: 100%;
-    background-size: cover;
-    background-image: url('../images/pexels-ezekixl-akinnewu-946240_croppedsecondattempt.jpg'); 
-   /*alt="african woman lying on a bed of flowers"*/ 
-   position: relative;
- }
-/*section 3 -end*/
+/* Home - SECTION 3 BELOW*/
+section:nth-of-type(3){
+    grid-area: sect3;
+    background-color: white;
+}
 
-/*section 3.1 - start*/
 #secstyle-three {
     background-color: rgb(255,218,0);
     padding: 20px 10px 20px 10px;
@@ -152,302 +129,23 @@ li a:hover {
 }
 
 .sec-circle-div {
-    height: 300px;
     border: 1px transparent;
     border-radius: 50%;
     text-align: center;
     float: left;
 }
+/*MAIN BELOW*/
 
-/*section 3.1 - end*/
-/*Home - END*/
-
-
-
-/*About - Start*/
-/*section 1 - start*/
-
-.secone div { 
-    padding: 50px;
-    text-align: center;
+main {
+    grid-area: main;
+    background-color: rgba(255, 13, 134, .8);
 }
 
-.secone img {
-    border-radius: 50%;
-}
-/*section 1 - end*/
+/*FOOTER BELOW*/
 
-/*section 2 - start*/
-#about {
-    padding: 50px;
-    background-color: rgba(255, 13, 134, .2);
-    text-align: justify;
-}
-
-#about div {
-    padding-right: 50px;
-    padding-left: 50px;
-}
-
-#about h1 {
-    text-align: center;
-    padding: 20px;
-}
-
-.about-column {
-    float: left;
-    width: 50%;
-    padding: 10px;
-}
-/*section 2 - end*/
-/*About - End*/
-
-
-
-/*Recipes - Start*/
-.recipe-header {
-    text-align: center;
-    padding: 10px;
-}
-
-.recipe-header a {
-    text-align: center;
-    padding: 10px;
-    color: #3E0D05;
-    text-decoration: none;
-}
-  
-#recipe-boxes{
-    content: "";
-    display: table;
-    clear: both;
-    padding: 20px 20px;
-}
-  
-section #recipe-boxes{
-    padding: 10px 10px;
-}
-  
-#recipe-boxes div {
-    float: left;
-    height: auto;
-    width: 50%;
-}
-  
-#column1 img {
-    width: 75%; /*dont change this lines images nicely with the instruction boxes*/
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 2.5%;
-}
-  
-#column2 {
-    background-color: rgba(255, 13, 134, .2);
-    width: 50%;
-    padding: 30px;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 2.5%;
-}
-  
-#column2 h2 {
-    padding: 5px 5px;
-}
-  
-#column2 i {
-    padding: 5px 5px;
-    font-size: 20px;
-}
-  
-#column2 span {
-    padding-right: 10px;
-}
-  
-#column2 p {
-    padding: 5px 5px;
-}
-  
-#column2 li {
-    display: list-item;
-}
-  
-#footer {
-    text-decoration: none;
-} 
-/*Recipes - End*     
-
-
-/*Playlists -Start*/
-.column {
-    float: left;
-    width: 20%;
-    padding: 5px;
-}
-
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-div #playlist-media-icons {
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 80px;
-}/*the padding-bottom value (above) allows the footer to be positioned at the bottom of the page on both desktop and larger monitor screens. Without it, the footer comes up half way on the larger monitore screen.*/
-
-#playlist-media-icons {
-    padding: 30px;
-}
-
-#playlist-media-icons i {
-        font-size: 70px;
-        padding-top: 15px;
-        padding-bottom: 15px;
-        opacity: 0.5;
-}
-
-#playlist-media-icons > p {
-    font-size: 45px;
-    opacity: 0.5;
-    text-align: center;
-    padding-top: 25px; 
-    padding-bottom: 25px;
-}
-
-#playlist-media-icons div > p {
-    text-align: center;
-}
-/*Playlists - End*/
-
-
-/*Connect- Start*/
-#connect-background {
-    background-image: url('../images/pexels-jeremy-bishop-2710131.jpg');
-    width: 100%;
-    clear: left;
-    background-size: cover;
-    background-position: center;
-    height: 900px;
-}/*leave this alone, background on this page is exactly how I want it*/
-
-.cwu-form {
-    background-color: rgb(255, 13, 134, .75);
-    width: 60%;
-    height: 50%;
-    padding: 20px;
-    color: rgba(240, 248, 255);
-    display: table;
-    margin: 0 auto;
-}
-
-.cwu-form > h1 {
-    color: rgba(240, 248, 255);
-    padding-bottom: 25px;
-}
-
-.cwu-form > h5 {
-    color: rgba(240, 248, 255);
-    padding-top: 20px;
-    padding-bottom: 5px;
-}
-
-.cwu-form > p {
-    color: rgba(240, 248, 255);
-    font-weight: 500;
-}
-
-.cwu-form  i {
-    color: rgba(240, 248, 255);
-    font-size: 25px;
-    padding-right: 5px;
-    padding-left: 15px;
-}
-
-.cwu-form input {
-    background-color:rgb(240, 248, 255);
-    border-radius: 10px;
-    padding: 5px;
-}
-    
-.cwu-form > label {
-    padding-right: 10px;
-    padding-left: 5px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    color: rgba(240, 248, 255);
-}
-
-div input { 
-    text-align: center;
-    padding: 15px; 
-    border-radius: 15%; 
-}
-
-div .button-style  {  
-    text-align: center;
-    padding: 20px; 
-}
-
-.button-style input { 
-    font-size: 20px;
-    background-color: rgba(251, 184, 37, .85); 
-    color: rgb(240, 248, 255);
-}
-
-input:hover{
-    color: rgb(255, 13, 134, .75);
-}
-
-.cwu-form i:hover{
-    color: rgba(251, 184, 37);
-}
-
-/* pop-up bottom-right - Source Code has been amended to suit my site, but originally sourced from W3Schools - https://www.w3schools.com/howto/howto_js_callout.asp*/
-.callout {
-    position: fixed;
-    bottom: 100px;
-    right: 20px;
-    margin-left: 20px;
-    max-width: 300px;
-}
-  
-.callout-header {
-    padding: 10px 15px;
-    background-color:  rgb(240, 248, 255);
-    font-size: 20px;
-    color: rgb(255, 13, 134, .75);
-    text-align: center;
-}
-  
-.callout-container {
-    padding: 15px;
-    background-color: rgb(255, 13, 134, .75);
-    color: rgb(240, 248, 255);
-}
-  
-.closebtn {
-    position: absolute;
-    top: 5px;
-    right: 15px;
-    color: rgba(251, 184, 37);
-    font-size: 30px;
-    cursor: pointer;
-}
-  
-.closebtn:hover {
-    color:  rgb(255, 13, 134, .75);
-}
-/*Connect - end*/
-
-/*Footer - Start*/
 footer {
-    position: sticky;
-    /*sticky value allows the footer to stick to the browser at different screen sizes. Info Source: https://www.w3schools.com/howto/howto_css_sticky_element.asp*/
-    /*Do not touch, this has fixed the footer issue on home, about, recipes, playlist and connect pages on desktop screen and smaller*/
-    width: 100%;
-    height: 100px;
+    grid-area: footer;
+    background-color: rgb(255,218,0);
     padding: 15px 0 15px 0;
     text-align: center;
 }
@@ -479,13 +177,20 @@ footer {
 .sm-links a:hover {
     color: rgba(255, 13, 134, .7);
 }
-/*Footer - End*/
 
 
+/*MEDIA QUERY BELOW*/
 
-/*Media Query Section - START*/
-
-
-   
-  /*Media Query Section - END*/
-  
+@media only screen and (min-width:768px) {
+    body {
+        margin: 0;
+        display: grid; 
+        grid-template-columns: 27% auto auto auto;
+        grid-template-rows: 8% 30% auto 10%;
+        grid-template-areas:
+        "sidebar header header header"
+        "sidebar sect1 sect2 sect3"
+        "sidebar main main main"
+        "sidebar footer footer footer";
+    }/*larger screen settings*/
+}

@@ -24,12 +24,14 @@ aside {
     grid-area: sidebar;
     background-color:  white;
 }
+
 #vid-col {
     width: 100%;
     padding: 25px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
 div iframe {
     display: inline-block;
     vertical-align: middle;  
@@ -38,20 +40,21 @@ div iframe {
 /*HEADER -BELOW*/
 
 #img-logo {
-    margin-left: 25px;
-    margin-right: 25px; 
     width: 200px;
     height: 200px;
-    float: left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 header {
     grid-area: header;
     background-color: white;
-    height: 250px;
 }
 
 #menu {
+    font-size: 100%;
     letter-spacing: 2px;
 }
 
@@ -61,13 +64,13 @@ header {
     float: right;
     list-style-type: none;
     margin-right: 100px;
-    line-height: 150px;
-    font-size: 15px;
+    line-height: 70px;
 }
 
 #menu a {
     text-decoration: none;
-    color: #3E0D05;
+    font-size: 20px;
+    color: #C54F00;
     text-transform: capitalize;
 }
 
@@ -188,7 +191,7 @@ footer {
     body {
         margin: 0;
         display: grid; 
-        grid-template-columns: auto 27% 27% 27%;
+        grid-template-columns: 27% auto auto auto;
         grid-template-rows: 8% 30% auto 10%;
         grid-template-areas:
         "sidebar header header header"

@@ -22,34 +22,36 @@ body {
 
 aside {
     grid-area: sidebar;
-    background-color: purple;
+    background-color:  white;
 }
-
+#vid-col {
+    width: 100%;
+    padding: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 div iframe {
     display: inline-block;
-    vertical-align: middle;
-    
+    vertical-align: middle;  
 }
 
 /*HEADER -BELOW*/
 
 #img-logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto; 
-    width: 250px;
-    height: 250px;
+    margin-left: 25px;
+    margin-right: 25px; 
+    width: 200px;
+    height: 200px;
     float: left;
 }
 
 header {
     grid-area: header;
-    background-color: rgb(255,218,0);
+    background-color: white;
     height: 250px;
 }
 
 #menu {
-    font-size: 100%;
     letter-spacing: 2px;
 }
 
@@ -59,13 +61,13 @@ header {
     float: right;
     list-style-type: none;
     margin-right: 100px;
-    line-height: 200px;
+    line-height: 150px;
+    font-size: 15px;
 }
 
 #menu a {
     text-decoration: none;
-    font-size: 20px;
-    color: #C54F00;
+    color: #3E0D05;
     text-transform: capitalize;
 }
 
@@ -76,46 +78,17 @@ header {
 li a:hover {
     color: rgba(255, 13, 134, .7);
 }
-/* Home - SECTION 1 BELOW*/
+/* Home - SECTIONS BELOW*/
 section:nth-of-type(1) {
     grid-area: sect1;
     background-color: white;
 }
 
-#overview {
-    padding: 30px 10px 30px 10px;
-    text-align: center;
-}
-
-#overview i {
-    font-size: 30px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    color: #C54F00;
-}
-
-.overview-column {
-    float: left;
-    width: 33.3%;
-    padding: 10px;
-}
-
-.overview-column p {
-    font-size: 14px;
-}
-
-/* Home - SECTION 2 BELOW*/
 section:nth-of-type(2){
     grid-area: sect2;
     background-color: white;
 }
 
-#video-column {
-    float: left;
-    width: 33.3%;
-}
-
-/* Home - SECTION 3 BELOW*/
 section:nth-of-type(3){
     grid-area: sect3;
     background-color: white;
@@ -134,26 +107,56 @@ section:nth-of-type(3){
     text-align: center;
     float: left;
 }
+
 /*MAIN BELOW*/
 
 main {
     grid-area: main;
-    background-color: rgba(255, 13, 134, .8);
+    background-color: white;
+}
+
+#overview {
+    padding: 30px 10px 30px 10px;
+    text-align: center;
+}
+
+#overview i {
+    font-size: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color:#C54F00;
+}
+
+#overview h1 {
+    color: #C54F00;
+    padding-bottom: 10px;
+}
+.overview-column {
+    float: left;
+    width: 33.3%;
+    padding: 10px;
+    color: #C54F00;
+}
+
+.overview-column p {
+    font-size: 14px;
+    color: #C54F00;
+    padding: 5px;
 }
 
 /*FOOTER BELOW*/
 
 footer {
     grid-area: footer;
-    background-color: rgb(255,218,0);
-    padding: 15px 0 15px 0;
+    background-color: white;
+    padding: 10px 0 15px 0;
     text-align: center;
 }
 
 #copyright-style {
     font-size: 15px;
     opacity: 0.8;
-    color: #C54F00;
+    color: #3E0D05;
 }
 
 .sm-links  {
@@ -165,11 +168,11 @@ footer {
 }
 
 .sm-links a {
-    padding: 10px;
+    padding: 5px;
     text-align: center;
     text-decoration: none;
     border-radius: 0;
-    color: #C54F00;
+    color: #3E0D05;
     opacity: 0.8; 
     font-size: 25px;
 }
@@ -185,7 +188,7 @@ footer {
     body {
         margin: 0;
         display: grid; 
-        grid-template-columns: 27% auto auto auto;
+        grid-template-columns: auto 27% 27% 27%;
         grid-template-rows: 8% 30% auto 10%;
         grid-template-areas:
         "sidebar header header header"

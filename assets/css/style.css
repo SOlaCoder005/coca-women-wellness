@@ -277,11 +277,11 @@ section #recipe-boxes{
     padding: 50px;
 }
 
-#playlist-header p {
-    font-size: 45px;
-    opacity: 0.5;
+#playlist-header h2 {
+    font-size: 40px;
     padding-top: 25px; 
     padding-bottom: 25px;
+    color: rgba(63, 25, 202, 0.6);
 }
 
 #playlist-type {
@@ -316,22 +316,22 @@ section #recipe-boxes{
     font-size: 70px;
     padding-top: 15px;
     padding-bottom: 15px;
-    color: rgb(255, 134, 5, .8);
+    color: rgba(63, 25, 202, 0.6);
 }
 
 #playlist-type2 i {
     font-size: 70px;
     padding-top: 15px;
     padding-bottom: 15px;
-    color: rgb(255, 134, 5, .8);
+    color:  rgba(63, 25, 202, 0.6);
 }
 
 #playlist-type i:hover {
-    color: rgba(255, 13, 134, .5);
+    color: rgba(255, 13, 134);
 }
 
 #playlist-type2 i:hover {
-    color: rgba(255, 13, 134, .5);
+    color: rgba(255, 13, 134);
 }
 
 /*CONNECT BELOW*/

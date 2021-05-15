@@ -2,13 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald&display=swap');
 /* Imports Section - End*/
 
-body, p, html {
+body, html {
     height: 100vh;
     font-family: 'Open Sans', sans-serif;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Oswald', sans-serif;
 }
 
 body {
@@ -66,7 +62,6 @@ header {
     width: 50%;
     text-align: center; 
     letter-spacing: .1em;
-    font-family: 'Oswald', sans-serif;
 }
 
 #menu a {
@@ -75,11 +70,18 @@ header {
     margin-right: 10px;
     color: white;
     font-weight: 600;
+    font-family: 'Oswald', sans-serif;
 }
 
 #menu a:hover {
     color: rgba(255, 13, 134);
 }
+
+.active {
+    text-decoration: dashed white;
+    font-size: 20px;
+}
+
 
 /* HOME - GRID SECTIONS BELOW*/
 section:nth-of-type(1) {
@@ -163,9 +165,10 @@ main {
 
 #about {
     padding: 30px;
-    background-color: rgba(247, 33, 104, .3);
+    background-color: rgba(253, 139, 196, 0.9);
     margin-bottom: 20px;
     margin-right: 20px;
+    margin-left: 20px;
 }
 
 
@@ -506,22 +509,6 @@ footer {
 
 
 /*MEDIA QUERY BELOW*/
-@media only screen and  (min-width: 576px) {  
-    body {
-        margin: 0;
-        display: grid; 
-        grid-template-columns: 100%;
-        grid-template-rows: repeat(auto, 6);
-        grid-template-areas:
-        "header"
-        "sect1" 
-        "sect2" 
-        "sect3"
-        "main"
-        "footer";
-    }
-}
-
 @media only screen and (min-width:768px) {
     body {
         margin: 0;

@@ -289,13 +289,27 @@ section #recipe-boxes{
     width: 33.3%;
     padding: 25px;
     text-align: center;
+    font-size: 14px;
+}
+
+#playlist-type  p {
+    padding: 10px;
+    margin: 5px;
+    text-align: justify;
 }
 
 #playlist-type2 {
     float: left;
-    width: 49%;
+    width: 50%;
     padding: 25px;
     text-align: center;
+    font-size: 14px;
+}
+
+#playlist-type2  p {
+    padding: 10px;
+    margin: 5px;
+    text-align: justify;
 }
 
 #playlist-type i {

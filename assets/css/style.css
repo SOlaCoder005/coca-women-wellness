@@ -263,7 +263,7 @@ section #recipe-boxes{
 
 #playlist-img {
     width: 100%;
-    height: auto;
+    height: 100%;
 }
 
 .row:after {
@@ -336,36 +336,38 @@ section #recipe-boxes{
 
 /*CONNECT BELOW*/
 .our-details {
-    display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-    text-align: center;
     font-size: 16px;
     font-weight: 500;
+    text-align: justify;
+    display: inline-block;
+}
+
+.our-details > p {
+    text-decoration: none;
+    color: white;
+    margin: 15px; 
+    font-size: 18px; 
+    font-weight: 500; 
+    text-decoration: underline;
 }
 
 .our-details i {
-    font-size: 40px;
-    color: rgba(255, 134, 5, .8);
-    margin-bottom: 20px;
-    margin-top: 10px;
+    font-size: 30px;
+    color: white;
+    padding: 5px;
 }
 
 .our-details a {
     text-decoration: none;
-    color: rgba(255, 134, 5, .8);
-    padding: 10px;
-    border: 2px solid rgba(255, 134, 5, .8);
-    margin-bottom: 10px;  
+    color: white;
+    padding: 5px; 
 }
 
-.our-details p {
+.our-details span {
     padding: 10px;
-    color: rgba(255, 134, 5, .8);
-    border: 2px solid rgba(255, 134, 5, .8);
-    border-radius: 2.5%;
-    margin-bottom: 10px;
+    color: white;
 }
 
 #connect-background {
@@ -416,7 +418,7 @@ section #recipe-boxes{
 }
     
 .cwu-form > label {
-    padding: 5px 10px;
+    padding: 5px;
     margin-left: 5px; 
     margin-right: 5px; 
     margin-top: 5px; 
@@ -432,7 +434,6 @@ input {
     border-radius: 2.5%;
     background-color: white;
 }
-
 
 div input {
     margin-top: 25px;
@@ -461,6 +462,10 @@ input:hover {
 }
 
 .our-details a:hover {
+    color: rgba(255, 13, 134, .8); 
+}
+
+.our-details i:hover {
     color: rgba(255, 13, 134, .8); 
 }
 

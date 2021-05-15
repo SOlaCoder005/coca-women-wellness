@@ -2,108 +2,111 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@302&display=swap');
 /* Imports Section - End*/
 
-
-/*Border and Body - START */
-* {
-    margin: 0;
-    padding: 0;
-    border: none;
-}
-
-body {
-    font-family: 'Raleway', sans-serif;
-    font-size: 20px;
-}
-
-h1 h2 h3 {
-    letter-spacing: 1px;
-    font-family:'Open Sans', sans-serif;
-}
-
-#img-logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto; 
-    width: 250px;
-    height: 250px;
-    float: left;
-}
-
-/*Border and Body - END */
-
-
-/*Nav -START*/
-
-#nav-container {
-    display: flex;
-    justify-content: space-between;
-    /*justify for horizontal alignment*/
-    align-items: center;
-    /*align for vertical alignment*/
-    max-width: 60rem;
-    /*choose to use rem rather than px as it's relative to the base pixel*/
-    margin: 0 auto;
-    padding: 0 0.5rem;
-    /*padding has been added here to ensure the container elements do not touch the sides of web window*/
-}/*This affects the position of the nav and logo on all site pages*/
-
-.img-icon {
-    color: #3E0D05;
-    opacity: 0.5;
-}
-
-ul { 
-    padding: 0;
-}
-
-li {
-    display: inline-block;
-    padding: 0 1.25rem;
-    font-weight: 500;
-}
-
-li a {
-    text-decoration: none;
-    font-size: 20px;
-    color: #C54F00;
-    text-transform: uppercase;
-}
-
-.menu-icon {
-    display: none;
-    position: absolute; 
-    top: 1.5rem;
-    right: 1rem;
-}
-
-.open {
+body, html {
     height: 100vh;
 }
 
-.hidden {
-    display: none;
+body {
+    margin: 0;
+    display: grid; 
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(auto, 6);
+    grid-template-areas:
+    "header"
+    "sect1" 
+    "sect2" 
+    "sect3"
+    "main"
+    "footer";
 }
 
-#navClosed .img-icon{
+aside {
+    grid-area: sidebar;
+    background-color:  white;
+}
+
+#vid-col {
+    padding: 20px 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+div iframe {
+    display: inline-block;
+    vertical-align: middle; 
+    width: 100%;
+}
+
+/*HEADER -BELOW*/
+#img-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:200px;
+    height:200px;
+    float: left;
+}
+
+header {
+    grid-area: header;
+}
+
+
+#menu li {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center; 
+    letter-spacing: normal;
+}
+
+#menu a {
+    text-decoration: none;
+    font-size: 20px;
     color: #C54F00;
+    text-transform: capitalize;
+    font-size: 20px;
+    margin-right: 10px;
 }
 
-li a:hover {
+#menu a:hover {
     color: rgba(255, 13, 134, .7);
 }
-/*Nav-End*/
 
+/* HOME - GRID SECTIONS BELOW*/
+section:nth-of-type(1) {
+    grid-area: sect1;
+    background-color: white;
+}
 
-/*Home - START*/
-/*Section 1 - start*/
-#secstyle-one {
-    padding: 30px 10px 30px 10px;
-    background-color: rgb(255,218,0);
-    color: #C54F00;
+section:nth-of-type(2){
+    grid-area: sect2;
+    background-color: white;
+}
+
+section:nth-of-type(3){
+    grid-area: sect3;
+    background-color: white;
+}
+
+.sec-circle-div {
+    border: 1px transparent;
+    border-radius: 50%;
+    text-align: center;
+    float: left;
+}
+
+/*HOME - MAIN BELOW*/
+
+main {
+    grid-area: main;
+    background-color: white;
 }
 
 #overview {
-    padding: 30px 10px 30px 10px;
+    padding: 30px;
     text-align: center;
 }
 
@@ -111,108 +114,65 @@ li a:hover {
     font-size: 30px;
     padding-top: 15px;
     padding-bottom: 15px;
-    color: #C54F00;
+    color:#C54F00;
 }
 
+#overview h1 {
+    color: #C54F00;
+    padding-bottom: 10px;
+}
 .overview-column {
     float: left;
     width: 33.3%;
     padding: 10px;
+    color: #C54F00;
 }
 
 .overview-column p {
     font-size: 14px;
-}
-
-/*section 2 -start*/
-.sectwo-img {
-    height: 400px;
-    width: 100%;
-    background-size: cover;
-    background-image: url('../images/pexels-rfstudio-3059812_croppedsecondattempt.jpg'); 
-    /*alt="african woman stretching in a forest on a bridge"*/ 
-}
-/*section 2 -end*/
-
-/*section 2.1 -start*/
-#video-column {
-    float: left;
-    width: 33.3%;
-}
-/*section 2.1 -end*/
-
-/*section 3 -start*/
-.secthree-img {
-    height: 700px;
-    width: 100%;
-    background-size: cover;
-    background-image: url('../images/pexels-ezekixl-akinnewu-946240_croppedsecondattempt.jpg'); 
-   /*alt="african woman lying on a bed of flowers"*/ 
- }
-/*section 3 -end*/
-
-/*section 3.1 - start*/
-#secstyle-three {
-    background-color: rgb(255,218,0);
-    padding: 20px 10px 20px 10px;
-    text-transform: uppercase;
     color: #C54F00;
-}
-
-.sec-circle-div {
-    height: 300px;
-    border: 1px transparent;
-    border-radius: 50%;
-    text-align: center;
-    float: left;
-}
-
-/*section 3.1 - end*/
-/*Home - END*/
-
-
-
-/*About - Start*/
-/*section 1 - start*/
-
-.secone div { 
-    padding: 50px;
-    text-align: center;
-}
-
-.secone img {
-    border-radius: 50%;
-}
-/*section 1 - end*/
-
-/*section 2 - start*/
-#about {
-    padding: 50px;
-    background-color: rgba(255, 13, 134, .2);
+    padding: 10px;
+    margin:5px;
     text-align: justify;
 }
 
-#about div {
-    padding-right: 50px;
-    padding-left: 50px;
+.overview-column span {
+    font-size: 14px;
+    color: #C54F00;
+    text-align: justify;
 }
 
-#about h1 {
-    text-align: center;
-    padding: 20px;
+/*ABOUT-BELOW*/
+#about-img {
+    width: 100%;
+    height: auto;
 }
 
-.about-column {
-    float: left;
-    width: 50%;
-    padding: 10px;
+.sect2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;   
 }
-/*section 2 - end*/
-/*About - End*/
+
+.sect2 img {
+    border-radius: 50%;
+}
+
+#about {
+    padding: 30px;
+    background-color: rgba(247, 33, 104, .3);
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
 
 
+/*RECIPES - BELOW*/
+aside img {
+    width: 100%;
+    height: 100%;
+}
 
-/*Recipes - Start*/
 .recipe-header {
     text-align: center;
     padding: 10px;
@@ -239,20 +199,35 @@ section #recipe-boxes{
 #recipe-boxes div {
     float: left;
     height: auto;
-    width: 50%;
+    width: 100%;
 }
   
-#column1 img {
-    width: 75%; /*dont change this lines images nicely with the instruction boxes*/
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+#img-col1 {
     border-radius: 2.5%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 430px;
+    margin-bottom: 210px;/*margin bottom has been set this way/spec value to help alignment with text boxes on page*/
 }
-  
+
+#img-col2 {
+    border-radius: 2.5%;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 360px; /*margin bottom has been set this way/spec value to help alignment with text boxes on page*/
+}
+
+#img-col3 {
+    border-radius: 2.5%;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 #column2 {
-    background-color: rgba(255, 13, 134, .2);
-    width: 50%;
+    background-color: rgb(255, 218, 0, .2);
+    width: 100%;
     padding: 30px;
     margin-left: auto;
     margin-right: auto;
@@ -283,14 +258,12 @@ section #recipe-boxes{
 #footer {
     text-decoration: none;
 } 
-/*Recipes - End*     
 
+/*PLAYLIST BELOW*/
 
-/*Playlists -Start*/
-.column {
-    float: left;
-    width: 20%;
-    padding: 5px;
+#playlist-img {
+    width: 100%;
+    height: auto;
 }
 
 .row:after {
@@ -299,171 +272,196 @@ section #recipe-boxes{
     clear: both;
 }
 
-div #playlist-media-icons {
+#playlist-header {
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 80px;
-}/*the padding-bottom value (above) allows the footer to be positioned at the bottom of the page on both desktop and larger monitor screens. Without it, the footer comes up half way on the larger monitore screen.*/
-
-#playlist-media-icons {
-    padding: 30px;
+    padding: 50px;
 }
 
-#playlist-media-icons i {
-        font-size: 70px;
-        padding-top: 15px;
-        padding-bottom: 15px;
-        opacity: 0.5;
-}
-
-#playlist-media-icons > p {
+#playlist-header p {
     font-size: 45px;
     opacity: 0.5;
-    text-align: center;
     padding-top: 25px; 
     padding-bottom: 25px;
 }
 
-#playlist-media-icons div > p {
+#playlist-type {
+    float: left;
+    width: 33.3%;
+    padding: 25px;
     text-align: center;
 }
-/*Playlists - End*/
 
-
-/*Connect- Start*/
-#connect-background {
-    background-image: url('../images/pexels-jeremy-bishop-2710131.jpg');
-    width: 100%;
-    clear: left;
-    background-size: cover;
-    background-position: center;
-    height: 900px;
-}/*leave this alone, background on this page is exactly how I want it*/
-
-.cwu-form {
-    background-color: rgb(255, 13, 134, .75);
-    width: 60%;
-    height: 50%;
-    padding: 20px;
-    color: rgba(240, 248, 255);
-    display: table;
-    margin: 0 auto;
+#playlist-type2 {
+    float: left;
+    width: 49%;
+    padding: 25px;
+    text-align: center;
 }
 
-.cwu-form > h1 {
-    color: rgba(240, 248, 255);
-    padding-bottom: 25px;
+#playlist-type i {
+    font-size: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: rgb(255, 134, 5, .8);
 }
 
-.cwu-form > h5 {
-    color: rgba(240, 248, 255);
-    padding-top: 20px;
-    padding-bottom: 5px;
+#playlist-type2 i {
+    font-size: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: rgb(255, 134, 5, .8);
 }
 
-.cwu-form > p {
-    color: rgba(240, 248, 255);
+#playlist-type i:hover {
+    color: rgba(255, 13, 134, .5);
+}
+
+#playlist-type2 i:hover {
+    color: rgba(255, 13, 134, .5);
+}
+
+/*CONNECT BELOW*/
+.our-details {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+    font-size: 16px;
     font-weight: 500;
 }
 
-.cwu-form  i {
-    color: rgba(240, 248, 255);
-    font-size: 25px;
-    padding-right: 5px;
-    padding-left: 15px;
+.our-details i {
+    font-size: 40px;
+    color: rgba(255, 134, 5, .8);
+    margin-bottom: 20px;
+    margin-top: 10px;
 }
 
-.cwu-form input {
-    background-color:rgb(240, 248, 255);
-    border-radius: 10px;
+.our-details a {
+    text-decoration: none;
+    color: rgba(255, 134, 5, .8);
+    padding: 10px;
+    border: 2px solid rgba(255, 134, 5, .8);
+    margin-bottom: 10px;  
+}
+
+.our-details p {
+    padding: 10px;
+    color: rgba(255, 134, 5, .8);
+    border: 2px solid rgba(255, 134, 5, .8);
+    border-radius: 2.5%;
+    margin-bottom: 10px;
+}
+
+#connect-background {
+    background-color: rgba(255, 134, 5, .75);
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    margin: 25px; 
+    border-radius: 1%;
+}
+
+.cwu-form {
+    color: white;
+}
+
+.cwu-form  h1 {
+    padding: 10px; 
+}
+
+.cwu-form  p {
+    padding: 5px 5px;
+    margin: 15px; 
+    font-size: 16px; 
+    font-weight: 500; 
+}
+
+.cwu-form  i {
+    font-size: 25px;
+    margin-left: 20px; 
+    margin-right: 5px; 
+    margin-top: 5px; 
+    margin-bottom: 5px; 
+}
+
+.handle  i {
+    font-size: 25px;
+    margin-left: 20px; 
+    margin-bottom: 5px; 
+    display: block;
     padding: 5px;
+}
+
+.handle  input {
+    margin-left: 20px; 
+    margin-bottom: 5px; 
+    padding: 10px;
+    display: block;
 }
     
 .cwu-form > label {
-    padding-right: 10px;
-    padding-left: 5px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    color: rgba(240, 248, 255);
+    padding: 5px 10px;
+    margin-left: 5px; 
+    margin-right: 5px; 
+    margin-top: 5px; 
+    margin-bottom: 5px; 
+    font-size: 16px; 
+    font-weight: 600; 
 }
 
-div input { 
-    text-align: center;
-    padding: 15px; 
-    border-radius: 15%; 
+input { 
+    padding: 10px;   
+    font-weight: 400; 
+    border-style: none;
+    border-radius: 2.5%;
+    background-color: white;
 }
 
-div .button-style  {  
-    text-align: center;
-    padding: 20px; 
+
+div input {
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    width: 50%;
+    display: block;
 }
 
-.button-style input { 
-    font-size: 20px;
-    background-color: rgba(251, 184, 37, .85); 
-    color: rgb(240, 248, 255);
-}
-
-input:hover{
-    color: rgb(255, 13, 134, .75);
-}
-
+.button-style input  {
+    border: 2px solid white;
+    background-color: transparent;
+    color: white;
+    width: 200px;
+    height: 50px;
+    font-weight: 500px;
+}  
+    
 .cwu-form i:hover{
-    color: rgba(251, 184, 37);
+    color: rgba(255, 13, 134, .8);
 }
 
-/* pop-up bottom-right - Source Code has been amended to suit my site, but originally sourced from W3Schools - https://www.w3schools.com/howto/howto_js_callout.asp*/
-.callout {
-    position: fixed;
-    bottom: 100px;
-    right: 20px;
-    margin-left: 20px;
-    max-width: 300px;
+input:hover {
+    color: rgba(255, 13, 134, .8);
 }
-  
-.callout-header {
-    padding: 10px 15px;
-    background-color:  rgb(240, 248, 255);
-    font-size: 20px;
-    color: rgb(255, 13, 134, .75);
-    text-align: center;
-}
-  
-.callout-container {
-    padding: 15px;
-    background-color: rgb(255, 13, 134, .75);
-    color: rgb(240, 248, 255);
-}
-  
-.closebtn {
-    position: absolute;
-    top: 5px;
-    right: 15px;
-    color: rgba(251, 184, 37);
-    font-size: 30px;
-    cursor: pointer;
-}
-  
-.closebtn:hover {
-    color:  rgb(255, 13, 134, .75);
-}
-/*Connect - end*/
 
-/*Footer - Start*/
+.our-details a:hover {
+    color: rgba(255, 13, 134, .8); 
+}
+
+/*FOOTER BELOW*/
 footer {
-    position: sticky;
-    /*sticky value allows the footer to stick to the browser at different screen sizes. Info Source: https://www.w3schools.com/howto/howto_css_sticky_element.asp*/
-    /*Do not touch, this has fixed the footer issue on home, about, recipes, playlist and connect pages on desktop screen and smaller*/
-    width: 100%;
-    height: 100px;
-    padding: 15px 0 15px 0;
+    grid-area: footer;
+    background-color: white;
+    padding: 10px 0 15px 0;
     text-align: center;
 }
 
 #copyright-style {
     font-size: 15px;
     opacity: 0.8;
-    color: #C54F00;
+    color: #3E0D05;
 }
 
 .sm-links  {
@@ -475,72 +473,32 @@ footer {
 }
 
 .sm-links a {
-    padding: 10px;
+    padding: 5px;
     text-align: center;
     text-decoration: none;
     border-radius: 0;
-    color: #C54F00;
+    color: #3E0D05;
     opacity: 0.8; 
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .sm-links a:hover {
     color: rgba(255, 13, 134, .7);
 }
-/*Footer - End*/
 
 
+/*MEDIA QUERY BELOW*/
 
-/*Media Query Section - START*/
-
-/* for nav*/
-@media all and (max-width: 1280px) {
-    .container {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-/*max-width has been changed to 1280px from 720px to make nav into hamburgar icon menu on tablet screens (e.g. 10" tab has typical resolution of 1280 x800) Info Sources: https://www.colourmylearning.com/2015/04/best-10-inch-windows-tablets-with-full-hd-display/#:~:text=The%20typical%20screen%20resolution%20at,screens%3B%201366%20x%20768%20pixels and https://www.scantips.com/basics1c.html*/
-    nav {
-        width: 100%;
-        height: 0;
-        overflow: hidden;
-        transition: 250ms height ease-in-out;
-    }
-
-    li {
-        display: block; 
-        text-align: center;
-        padding: 1rem 0;
-    }
-
-    li a {
-        font-size: 1.5rem;
-    }
-
-    .menu-icon {
-        display: block;
-    }   
+@media only screen and (min-width:768px) {
+    body {
+        margin: 0;
+        display: grid; 
+        grid-template-columns: 27% auto auto auto;
+        grid-template-rows: auto;
+        grid-template-areas:
+        "sidebar header header header"
+        "sidebar sect1 sect2 sect3"
+        "sidebar main main main"
+        "sidebar footer footer footer";
+    }/*larger screen settings*/
 }
-/*For recipes - Start*/
- @media only screen and (max-width: 700px) {
-    .responsive {
-      width: 50%;
-      margin: 6px 0;
-    }
-  }
-  
-  @media only screen and (max-width: 500px) {
-    .responsive {
-      width: 100%;
-    }
-  }
-  
-  .clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-  /*For recipes - End*/
-
-   
-  /*Media Query Section - END*/

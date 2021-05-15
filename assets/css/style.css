@@ -4,7 +4,6 @@
 
 body, html {
     height: 100vh;
-    font-family: 'Open Sans', sans-serif;
 }
 
 body {
@@ -77,26 +76,25 @@ header {
     color: rgba(255, 13, 134);
 }
 
-.active {
-    text-decoration: dashed white;
-    font-size: 20px;
-}
 
 
 /* HOME - GRID SECTIONS BELOW*/
 section:nth-of-type(1) {
     grid-area: sect1;
     background-color: white;
+    font-family: 'Open Sans', sans-serif;
 }
 
 section:nth-of-type(2){
     grid-area: sect2;
     background-color: white;
+    font-family: 'Oswald', sans-serif;
 }
 
 section:nth-of-type(3){
     grid-area: sect3;
     background-color: white;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .sec-circle-div {
@@ -111,6 +109,7 @@ section:nth-of-type(3){
 main {
     grid-area: main;
     background-color: white;
+    font-family: 'Open Sans', sans-serif;
 }
 
 #overview {
@@ -346,11 +345,10 @@ section #recipe-boxes{
     font-size: 16px;
     font-weight: 500;
     text-align: left;
-    display: inline-block;
+    display: inline;
 }
 
-.our-details > p {
-    text-decoration: none;
+.our-details > h5 {
     color: white;
     margin: 15px; 
     font-size: 18px; 
@@ -377,19 +375,21 @@ section #recipe-boxes{
 
 #connect-background {
     background-color: rgba(255, 134, 5, .75);
-    width: 100%;
+    width: 90%;
     height: auto;
     padding: 20px;
-    margin: 25px; 
     border-radius: 1%;
+    margin: 50px 25px;
+    margin-left: auto;
+    margin-right: 25px;
 }
 
 .cwu-form {
     color: white;
 }
 
-.cwu-form  h1 {
-    padding: 10px; 
+.cwu-form  h1, h5 {
+    padding-top: 30px; 
 }
 
 .cwu-form  p {
@@ -400,7 +400,7 @@ section #recipe-boxes{
 }
 
 .cwu-form  i {
-    font-size: 25px;
+    font-size: 20px;
     margin-left: 20px; 
     margin-right: 5px; 
     margin-top: 5px; 
@@ -411,7 +411,7 @@ section #recipe-boxes{
     font-size: 25px;
     margin-left: 20px; 
     margin-bottom: 5px; 
-    display: block;
+    display: inline-block;
     padding: 5px;
 }
 
@@ -419,20 +419,15 @@ section #recipe-boxes{
     margin-left: 20px; 
     margin-bottom: 5px; 
     padding: 10px;
-    display: block;
 }
     
-.cwu-form > label {
+.cwu-form label {
     padding: 5px;
-    margin-left: 5px; 
-    margin-right: 5px; 
-    margin-top: 5px; 
-    margin-bottom: 5px; 
     font-size: 16px; 
     font-weight: 600; 
 }
 
-input { 
+.cwu-form input { 
     padding: 10px;   
     font-weight: 400; 
     border-style: none;
@@ -441,21 +436,25 @@ input {
 }
 
 div input {
-    margin-top: 25px;
+    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 25px;
-    width: 50%;
-    display: block;
+    margin-bottom: 20px;
+    width: auto;
 }
+
 
 .button-style input  {
     border: 2px solid white;
     background-color: transparent;
     color: white;
-    width: 200px;
     height: 50px;
-    font-weight: 500px;
+    font-weight: 500;
+    display: inline-block;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }  
     
 .cwu-form i:hover{

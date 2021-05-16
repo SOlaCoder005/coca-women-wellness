@@ -46,9 +46,6 @@ div iframe {
     font-size: 50px;
 }
 
-
-
-
 /*HEADER -BELOW*/
 #img-logo {
     display: block;
@@ -63,7 +60,6 @@ header {
     grid-area: header;
     background-color: rgba(255, 215, 0);
 }
-
 
 #menu li {
     list-style-type: none;
@@ -494,6 +490,7 @@ footer {
 #copyright-style {
     font-size: 15px;
     opacity: 0.8;
+    color: rgb(204, 204, 204);
 }
 
 .sm-links  {
@@ -511,10 +508,11 @@ footer {
     border-radius: 0;
     opacity: 0.8; 
     font-size: 30px;
+    color: rgb(204, 204, 204);
 }
 
 .sm-links a:hover {
-    color: rgba(255, 13, 134, .7);
+    color: rgba(255, 215, 0);
 }
 
 

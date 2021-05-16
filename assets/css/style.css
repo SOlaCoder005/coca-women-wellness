@@ -37,6 +37,18 @@ div iframe {
     width: 100%;
 }
 
+.navbar-toggler {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+
+
+
 /*HEADER -BELOW*/
 #img-logo {
     display: block;
@@ -73,10 +85,8 @@ header {
 }
 
 #menu a:hover {
-    color: rgba(255, 13, 134);
+    color: #ffa500;
 }
-
-
 
 /* HOME - GRID SECTIONS BELOW*/
 section:nth-of-type(1) {
@@ -88,7 +98,7 @@ section:nth-of-type(1) {
 section:nth-of-type(2){
     grid-area: sect2;
     background-color: white;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 section:nth-of-type(3){
@@ -105,6 +115,13 @@ section:nth-of-type(3){
 }
 
 /*HOME - MAIN BELOW*/
+.img-index {
+    width: 100%;
+    height: 100%;
+    object-fit: none;
+    object-position: 50% 50%;
+   
+}/*property values amended. Source video: https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s */
 
 main {
     grid-area: main;
@@ -146,10 +163,12 @@ main {
 }
 
 /*ABOUT-BELOW*/
-#about-img {
+.img-about {
     width: 100%;
-    height: auto;
-}
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 50%; 
+}/*property values amended. Source video: https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s */
 
 .sect2 {
     display: block;
@@ -164,7 +183,7 @@ main {
 
 #about {
     padding: 30px;
-    background-color: rgba(253, 139, 196, 0.9);
+    background-color: rgba(253, 139, 196, 0.5);
     margin-bottom: 20px;
     margin-right: 20px;
     margin-left: 20px;
@@ -172,10 +191,12 @@ main {
 
 
 /*RECIPES - BELOW*/
-aside img {
+.img-recipes {
     width: 100%;
     height: 100%;
-}
+    object-fit: cover;
+    object-position: 50% 50%; 
+}/*property values amended. Source video: https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s */
 
 .recipe-header {
     text-align: center;
@@ -194,6 +215,9 @@ aside img {
     display: table;
     clear: both;
     padding: 20px 20px;
+    border: 1px solid rgb(62, 13, 5, .5);
+    border-radius: 5px;
+    margin: 50px;
 }
   
 section #recipe-boxes{
@@ -206,31 +230,14 @@ section #recipe-boxes{
     width: 100%;
 }
   
-#img-col1 {
-    border-radius: 2.5%;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-top: 430px;
-    margin-bottom: 210px;/*margin bottom has been set this way/spec value to help alignment with text boxes on page*/
-}
-
-#img-col2 {
-    border-radius: 2.5%;
-    padding: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 360px; /*margin bottom has been set this way/spec value to help alignment with text boxes on page*/
-}
-
-#img-col3 {
-    border-radius: 2.5%;
-    padding: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
+.center-recipe {
+    display: block;
+    margin-left: 35%;
+    margin-right: auto;
+    width: 50%;
 }
 
 #column2 {
-    background-color: rgb(255, 218, 0, .2);
     width: 100%;
     padding: 30px;
     margin-left: auto;
@@ -264,11 +271,12 @@ section #recipe-boxes{
 } 
 
 /*PLAYLIST BELOW*/
-
-#playlist-img {
+.img-playlists {
     width: 100%;
     height: 100%;
-}
+    object-fit: cover;
+    object-position: 50% 50%; 
+}/*property values amended. Source video: https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s */
 
 .row:after {
     content: "";
@@ -339,6 +347,12 @@ section #recipe-boxes{
 }
 
 /*CONNECT BELOW*/
+.img-connect {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}/*property values amended. Source video: https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s */
+
 .our-details {
     margin-left: auto;
     margin-right: auto;
@@ -349,7 +363,6 @@ section #recipe-boxes{
 }
 
 .our-details > h5 {
-    color: white;
     margin: 15px; 
     font-size: 18px; 
     font-weight: 500; 
@@ -358,23 +371,20 @@ section #recipe-boxes{
 
 .our-details i {
     font-size: 30px;
-    color: white;
     padding: 5px;
 }
 
 .our-details a {
     text-decoration: none;
-    color: white;
     padding: 5px; 
 }
 
 .our-details span {
     padding: 10px;
-    color: white;
 }
 
 #connect-background {
-    background-color: rgba(255, 134, 5, .75);
+    background-color: rgba(238, 238, 238);
     width: 90%;
     height: auto;
     padding: 20px;
@@ -385,7 +395,6 @@ section #recipe-boxes{
 }
 
 .cwu-form {
-    color: white;
 }
 
 .cwu-form  h1, h5 {
@@ -408,11 +417,11 @@ section #recipe-boxes{
 }
 
 .handle  i {
-    font-size: 25px;
+    font-size: 30px;
     margin-left: 20px; 
     margin-bottom: 5px; 
     display: inline-block;
-    padding: 5px;
+    padding: 10px;
 }
 
 .handle  input {
@@ -443,11 +452,9 @@ div input {
     width: auto;
 }
 
-
 .button-style input  {
     border: 2px solid white;
     background-color: transparent;
-    color: white;
     height: 50px;
     font-weight: 500;
     display: inline-block;
@@ -458,19 +465,23 @@ div input {
 }  
     
 .cwu-form i:hover{
-    color: rgba(255, 13, 134, .8);
+    color: #ffa500;
 }
 
 input:hover {
-    color: rgba(255, 13, 134, .8);
+    color: #ffa500;
 }
 
 .our-details a:hover {
-    color: rgba(255, 13, 134, .8); 
+    color: #ffa500;
 }
 
 .our-details i:hover {
-    color: rgba(255, 13, 134, .8); 
+    color: #ffa500;
+}
+
+.button-style:hover {
+    color: #ffa500;
 }
 
 /*FOOTER BELOW*/

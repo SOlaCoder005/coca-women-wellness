@@ -499,6 +499,7 @@ footer {
 
 
 /*MEDIA QUERY BELOW*/
+/*Note - Changing the conditon from "max-width" to "min-width" on the media quey allows the photo to collapse on top of header rather than be removed completely*/
 
 @media all and (min-width: 500px) {
     body {

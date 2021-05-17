@@ -111,7 +111,6 @@ main {
 }
 
 #overview {
-    padding: 30px;
     text-align: center;
 }
 
@@ -124,7 +123,7 @@ main {
 
 #overview h1 {
     padding-bottom: 50px;
-    font-weight: 700;
+    font-weight: 550;
 }
 
 #overview h3 {
@@ -195,9 +194,23 @@ main {
     object-position: 70%; 
 }/*property values amended. Source video: https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s */
 
+.recipes-header-style {
+    background-color: rgb(253, 239, 160);
+    font-weight: 600;
+}
+
 .recipe-header {
     text-align: center;
     padding: 10px;
+} 
+
+.recipe-header h2 {    
+    padding: 25px 50px;
+    font-size: 40px;
+}
+
+.recipe-header p {    
+    padding-bottom: 50px;
 }
 
 .recipe-header a {
@@ -207,7 +220,7 @@ main {
     text-decoration: none;
 }
   
-#recipe-boxes{
+#recipe-boxes {
     content: "";
     display: table;
     clear: both;
@@ -275,6 +288,11 @@ section #recipe-boxes{
     object-position: 50% 50%; 
 }/*property values amended. Source video: https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s */
 
+.playlists-header-style {
+    background-color: rgba(63, 25, 202);
+    font-weight: 600;
+}
+
 .row:after {
     content: "";
     display: table;
@@ -288,9 +306,7 @@ section #recipe-boxes{
 
 #playlist-header h2 {
     font-size: 40px;
-    padding-top: 25px; 
-    padding-bottom: 25px;
-    color: rgba(63, 25, 202, 0.6);
+    color: rgba(63, 25, 202);
 }
 
 #playlist-type {
@@ -349,6 +365,34 @@ section #recipe-boxes{
     height: 100%;
     object-fit: cover;
 }/*property values amended. Source video: https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s */
+
+.connect-header-style {
+    background-color: rgb(255, 165, 0);
+    font-weight: 600;
+}
+
+#connect-hover a {
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 10px;
+    color: white;
+    font-weight: 600;
+    font-family: 'Oswald', sans-serif;
+}/* This #connect-hover tag has had be made as the homepage colour blends in withthe header color of the connect.html page*/
+
+#connect-hover li {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center; 
+    letter-spacing: .1em;
+}/* This #connect-hover tag has had be made as the homepage colour blends in withthe header color of the connect.html page*/
+
+#connect-hover a:hover{
+    color: rgb(255, 216, 61);
+}/* This #connect-hover tag has had be made as the homepage colour blends in withthe header color of the connect.html page*/
 
 .our-details {
     margin-left: auto;
@@ -459,23 +503,23 @@ div input {
 }  
     
 .cwu-form i:hover{
-    color: #ffa500;
+    color: rgb(255, 165, 0);
 }
 
 input:hover {
-    color: #ffa500;
+    color: rgb(255, 165, 0);
 }
 
 .our-details a:hover {
-    color: #ffa500;
+    color: rgb(255, 165, 0);
 }
 
 .our-details i:hover {
-    color: #ffa500;
+    color: rgb(255, 165, 0);
 }
 
 .button-style:hover {
-    color: #ffa500;
+    color: rgb(255, 165, 0);
 }
 
 /*FOOTER BELOW*/

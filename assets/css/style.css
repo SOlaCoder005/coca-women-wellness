@@ -18,7 +18,7 @@ body {
     "sect3"
     "main"
     "footer";
-}
+}/*This sourcecode has been amended to suit my website based on advice from this tutorial: https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11*/
 
 aside {
     grid-area: sidebar;
@@ -513,7 +513,7 @@ footer {
 
 
 /*MEDIA QUERY BELOW*/
-@media only screen and (min-width:768px) {
+@media only screen and (min-width: 768px) {
     body {
         margin: 0;
         display: grid; 
@@ -525,4 +525,4 @@ footer {
         "sidebar main main main"
         "sidebar footer footer footer";
     }/*larger screen settings*/
-}
+}/*This sourcecode has been amended to suit my website based on advice from this tutorial: https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11*/

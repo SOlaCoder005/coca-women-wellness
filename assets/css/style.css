@@ -6,20 +6,6 @@ body, html {
     height: 100vh;
 }
 
-body {
-    margin: 0;
-    display: grid; 
-    grid-template-columns: 100%;
-    grid-template-rows: repeat(auto, 6);
-    grid-template-areas:
-    "header"
-    "sect1" 
-    "sect2" 
-    "sect3"
-    "main"
-    "footer";
-}/*This sourcecode has been amended to suit my website based on advice from this tutorial: https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11*/
-
 aside {
     grid-area: sidebar;
     background-color:  white;
@@ -513,6 +499,24 @@ footer {
 
 
 /*MEDIA QUERY BELOW*/
+
+@media all and (max-width: 500px) {
+    body {
+        margin: 0;
+        display: grid; 
+        grid-template-columns: 100%;
+        grid-template-rows: repeat(auto, 6);
+        grid-template-areas:
+        "header"
+        "sect1" 
+        "sect2" 
+        "sect3"
+        "main"
+        "footer";
+    }/*For standard mobile screen size*/
+    /*This sourcecode has been amended to suit my website based on advice from this tutorial: https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11*/
+}
+
 @media only screen and (min-width: 768px) {
     body {
         margin: 0;
@@ -524,5 +528,5 @@ footer {
         "sidebar sect1 sect2 sect3"
         "sidebar main main main"
         "sidebar footer footer footer";
-    }/*larger screen settings*/
+    }/*For standard desktop screen settings*/
 }/*This sourcecode has been amended to suit my website based on advice from this tutorial: https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11*/

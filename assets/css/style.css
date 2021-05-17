@@ -323,22 +323,22 @@ section #recipe-boxes{
     font-size: 70px;
     padding-top: 15px;
     padding-bottom: 15px;
-    color: rgba(63, 25, 202, 0.6);
+    color: rgba(63, 25, 202);
 }
 
 #playlist-type2 i {
     font-size: 70px;
     padding-top: 15px;
     padding-bottom: 15px;
-    color:  rgba(63, 25, 202, 0.6);
+    color:  rgba(63, 25, 202);
 }
 
 #playlist-type i:hover {
-    color: rgba(255, 13, 134);
+    color: rgba(63, 25, 202, .5);
 }
 
 #playlist-type2 i:hover {
-    color: rgba(255, 13, 134);
+    color: rgba(63, 25, 202, .5);
 }
 
 /*CONNECT BELOW*/

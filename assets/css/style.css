@@ -185,13 +185,12 @@ main {
     margin-left: 20px;
 }
 
-
 /*RECIPES - BELOW*/
 .img-recipes {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    object-position: 50% 50%; 
+    object-position: 55%; 
 }/*property values amended. Source video: https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s */
 
 .recipe-header {

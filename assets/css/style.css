@@ -325,7 +325,7 @@ section #recipe-boxes{
     text-decoration: none;
 } 
 
-/*PLAYLISTS BELOW*/
+/*PLAYLISTS PAGE - STARTS*/
 .img-playlists {
     width: 100%;
     height: 100%;
@@ -427,12 +427,16 @@ section #recipe-boxes{
     color: rgba(63, 25, 202, .5);
 }
 
-/*CONNECT BELOW*/
+/*PLAYLISTS PAGE - ENDS*/
+
+
+/*CONNECT PAGE - STARTS*/
+
 .img-connect {
     width: 100%;
     height: 100%;
     object-fit: cover;
-}/*property values amended. Source video: https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s */
+}/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
 
 .connect-header-style {
     background-color: rgb(255, 165, 0);
@@ -440,21 +444,14 @@ section #recipe-boxes{
     font-family: 'Oswald', sans-serif;
 }
 
-.connect-footer-style {
-    background-color:rgb(255, 165, 0);
-}
-
-.connect-footer-style > .sm-links a:hover {
-    color:  rgb(255, 215, 0);
-}/* This '.connect-footer-style...' tag has had been made as the other footer hover colour blends in with the footer color of the connect.html page*/
-
+/*Note: The '#connect-hover...' elements (below) have been created as the :hover values on the other pages' header sections blends in with the header background-colour on the connect.html page*/
 #connect-hover a {
     text-decoration: none;
     font-size: 30px;
     margin-right: 10px;
     color: white;
     font-weight: 600;
-}/* This #connect-hover tag has had be made as the homepage colour blends in withthe header color of the connect.html page*/
+}
 
 #connect-hover li {
     list-style-type: none;
@@ -464,11 +461,11 @@ section #recipe-boxes{
     width: 50%;
     text-align: center; 
     letter-spacing: .1em;
-}/* This #connect-hover tag has had be made as the homepage colour blends in with the header color of the connect.html page*/
+}
 
 #connect-hover a:hover{
     color: rgb(255, 216, 61);
-}/* This #connect-hover tag has had be made as the homepage colour blends in with the header color of the connect.html page*/
+}
 
 .our-details {
     margin-left: auto;
@@ -522,7 +519,6 @@ section #recipe-boxes{
     font-size: 16px; 
     font-weight: 500; 
 }
-
 
 .cwu-form  h2 {
     padding-top: 15px; 
@@ -612,13 +608,26 @@ input:hover {
     color: rgb(99, 172, 229);
 }
 
-/*FOOTER BELOW*/
+/*Note: The '.connect-footer-style...' elements (below) has been created as the other :hover elements on the other pages' footers blends in with the footer background-colour of the connect.html page*/
+.connect-footer-style {
+    background-color:rgb(255, 165, 0);
+}
+
+.connect-footer-style > .sm-links a:hover {
+    color:  rgb(255, 215, 0);
+}
+
+/*CONNECT PAGE - END*/
+
+
+/*FOOTER -STARTS*/
+
 footer {
     grid-area: footer;
     padding: 10px 0 20px 0;
     text-align: center;
     margin-top: 20px;
-}
+}/*The declarations in this code/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 
 #copyright-style {
     font-size: 15px;
@@ -647,8 +656,11 @@ footer {
     color:  rgb(255, 165, 0);
 }
 
-/*MEDIA QUERY BELOW*/
+/*FOOTER - ENDS*/
+
+/*MEDIA QUERIES - START*/
 /*Note: Do not change media query declation. Changing the declaration from "max-width:px;" to "min-width:;" on the media quey allows the aside image to stack on-top of header rather than be removed completely*/
+
 @media all and (max-width: 320px) {
     body {
         margin: 0;
@@ -664,8 +676,7 @@ footer {
         "footer";
     }
     /*For standard mobile screen size*/
-}
-    /*The declarations in this code/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
+}/*The declarations in this code/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 
 @media only screen and (min-width: 768px) {
     body {
@@ -680,5 +691,6 @@ footer {
         "sidebar footer footer footer";
     }
     /*For standard desktop screen size*/
-}
-/*The declarations in this code/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
+}/*The declarations in this code/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
+
+/*MEDIA QUERIES - ENDS*/

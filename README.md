@@ -132,19 +132,21 @@ To help better visualise the final outcome of the CWW website, I chose to resear
 
 ## Section 4: Technologies Used
 
-    In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
--	AI – for logo, used RGB color mode as its more compatible with digital formatting 
--	PS -for color balance  
--	InD – for logo text 
--	Ref it – to reference my sources for acknowledgement section 
--	Google Drive 
--	Pintrest -hosted my mood board for colour schemes (include live link to board)
--	Youtube – For Tutorials 
--	Bootstrap 
--	VS Code
--	GitPod
--	GitHub
--	Dillinger (Markdown complier tool)
+Please find below a list of all the technologies that have been used to help build this website. 
+-	Adobe Illustrator (AI): This was used to design my logo for the website. 
+-	Adobe Photoshop (PS): This was used to help design my logo for the website and also select specific colour values that form the colour scheme of the website. 
+-	Adobe InDesign – This was used to help design my logo for the website. Specifically, this software was used to align and apply the ‘coca Women Welless’ name to the logo once it was created through AI. 
+-	[Cite This for Me]( https://www.citethisforme.com/): This was primarily used to cite the websites and resources I referred to help build the site.  
+-	Google Drive: This was mainly used to backup my repo once saved to my local drive.
+-	[Pinterest]( https://www.pinterest.co.uk/feli_fierce/cww_website_colourtheme/): An application where I collated visuals for my mood board for the website’s colour schemes (include live link to board).
+-	Youtube: Referred to for useful coding and UXD tips and tutorials 
+-	[Bootstrap.com]( https://getbootstrap.com/): Provided useful components that assisted my site’s functionality (e.g. responsive navigation menu)
+-	[VSCode]( https://code.visualstudio.com/): An open source IDE that can be used online and locally on your desktop.
+-	[GitPod]( https://www.gitpod.io/): An IDE that can be used online and locally on your desktop.
+-	[GitHub]( https://github.com/): A version control software that can has both desktop and online platforms.
+-	[Dillinger](https://dillinger.io/): An extremely useful markdown complier tool that allows you to check your code is formatted correctly on the README.md file. 
+-   [Responsively](https://responsively.app/download): Web Browser that allows you to check the degree to which you website is responsive on various device sizes and screen orientations. 
+
 
 ## Section 5: JQuery
 The project uses JQuery to simplify DOM manipulation.

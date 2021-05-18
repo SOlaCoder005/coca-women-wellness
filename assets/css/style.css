@@ -1,6 +1,11 @@
-/* Imports Section - Start*/
+/* IMPORTS SECTION -STARTS*/
+
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald&display=swap');
-/* Imports Section - End*/
+
+/* IMPORTS SECTION - ENDS*/
+
+
+/*SITE-WIDE STYLES - STARTS*/
 
 body, html {
     height: 100vh;
@@ -9,7 +14,7 @@ body, html {
 aside {
     grid-area: sidebar;
     background-color:  white;
-}
+}/*The declarations in these codes/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 
 #vid-col {
     padding: 20px 20px;
@@ -23,16 +28,11 @@ div iframe {
     width: 100%;
 }
 
-.navbar-toggler {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
-    font-weight: 500;
-    font-size: 50px;
-}
+/*SITE-WIDE STYLES - ENDS*/
 
-/*HEADER -BELOW*/
+
+/*NAVIGATION MENU - STARTS*/
+
 #img-logo {
     display: block;
     margin-left: auto;
@@ -45,7 +45,7 @@ div iframe {
 header {
     grid-area: header;
     background-color: rgb(255, 215, 0);
-}
+}/*The declarations in these codes/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 
 #menu li {
     list-style-type: none;
@@ -70,7 +70,21 @@ header {
     color: rgb(255, 165, 0);
 }
 
-/* HOME - GRID SECTIONS BELOW*/
+.navbar-toggler {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+/*NAVIGATION MENU - ENDS*/
+
+
+/*SECTION - STARTS*/
+/*The declarations in these codes/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
+
 section:nth-of-type(1) {
     grid-area: sect1;
     background-color: white;
@@ -89,26 +103,23 @@ section:nth-of-type(3){
     font-family: 'Open Sans', sans-serif;
 }
 
-.sec-circle-div {
-    border: 1px transparent;
-    border-radius: 50%;
-    text-align: center;
-    float: left;
-}
+/*SECTION - ENDS*/
 
-/*HOME - MAIN BELOW*/
+
+/*HOME (INDEX) PAGE - STARTS*/
+
 .img-index {
     width: 100%;
     height: 100%;
     object-fit: cover;
     object-position: 50% 50%;  
-}/*property values amended. Source video: https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s */
+}/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
 
 main {
     grid-area: main;
     background-color: white;
     font-family: 'Open Sans', sans-serif;
-}
+}/*The declarations in this code/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 
 #overview {
     text-align: center;
@@ -159,7 +170,6 @@ main {
     background-color: rgb(255, 215, 0);
 }
 
-
 #overview i:hover{
     color: rgb(255, 165, 0, .7);
 }
@@ -167,6 +177,9 @@ main {
 .overview-column i:hover{
     color: rgb(255, 165, 0, .7);
 }
+
+/*HOME (INDEX) PAGE - ENDS*/
+
 
 /*ABOUT PAGE - STARTS*/
 
@@ -217,6 +230,7 @@ main {
 }/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.w3schools.com/howto/howto_css_image_center.asp]*/
 
 /*ABOUT PAGE - ENDS*/
+
 
 /*RECIPES PAGE - STARTS*/
 
@@ -330,6 +344,7 @@ section #recipe-boxes{
 }/*Note: This element is for the in-text hyperlink on the recipes page. The feature has only been used once on the recipes page.*/
 
 /*RECIPES PAGE - ENDS*/
+
 
 /*PLAYLISTS PAGE - STARTS*/
 

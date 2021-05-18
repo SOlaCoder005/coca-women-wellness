@@ -133,19 +133,18 @@ To help better visualise the final outcome of the CWW website, I chose to resear
 ## Section 4: Technologies Used
 
 Please find below a list of all the technologies that have been used to help build this website. 
--	Adobe Illustrator (AI): This was used to design my logo for the website. 
--	Adobe Photoshop (PS): This was used to help design my logo for the website and also select specific colour values that form the colour scheme of the website. 
--	Adobe InDesign – This was used to help design my logo for the website. Specifically, this software was used to align and apply the ‘coca Women Welless’ name to the logo once it was created through AI. 
--	[Cite This for Me]( https://www.citethisforme.com/): This was primarily used to cite the websites and resources I referred to help build the site.  
--	Google Drive: This was mainly used to backup my repo once saved to my local drive.
+-	[Adobe Creative Cloud](https://www.adobe.com/uk/creativecloud.html): Specifically, I used the applications - Illustrator (AI), Photoshop (PS) and InDesign (InD) to create the website log. In more detail AI was used to create the design (from my hand drawing), PS used to help design my logo for the website and also select specific colour values that form the colour scheme of the website. Lastly, InD was used to apply and align the ‘Coca Women Wellness’ name to the logo once it was created in AI. 
+-	[Cite This for Me](https://www.citethisforme.com/): This was primarily used to cite the websites and resources I referred to help build the site.  
+-	[Google Drive](https://drive.google.com/): This was mainly used to backup my repo once saved to my local drive.
 -	[Pinterest]( https://www.pinterest.co.uk/feli_fierce/cww_website_colourtheme/): An application where I collated visuals for my mood board for the website’s colour schemes (include live link to board).
--	Youtube: Referred to for useful coding and UXD tips and tutorials 
+-	[Youtube]( https://www.youtube.com/): Referred to for useful coding and UXD tips and tutorials 
 -	[Bootstrap.com]( https://getbootstrap.com/): Provided useful components that assisted my site’s functionality (e.g. responsive navigation menu)
 -	[VSCode]( https://code.visualstudio.com/): An open source IDE that can be used online and locally on your desktop.
 -	[GitPod]( https://www.gitpod.io/): An IDE that can be used online and locally on your desktop.
 -	[GitHub]( https://github.com/): A version control software that can has both desktop and online platforms.
 -	[Dillinger](https://dillinger.io/): An extremely useful markdown complier tool that allows you to check your code is formatted correctly on the README.md file. 
 -   [Responsively](https://responsively.app/download): Web Browser that allows you to check the degree to which you website is responsive on various device sizes and screen orientations. 
+ 
 
 
 ## Section 5: JQuery

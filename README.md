@@ -212,9 +212,9 @@ Learn.codeinstitute.net. 2021. 27_HTML_Forms_Form_Attributes | Code Institute. [
 
 -	Merriam-Webster.com,  2021.  [online]. Available at: https://www.merriam-webster.com/dictionary/mindfulness Accessed: 06/05/2021.
 
--	Ryan, L., 2020. Leisure Time: Inc Impact of COVID-19 - UK - November 2020.
-
 - Market Research Report. [online] Available at: <https://reports.mintel.com/display/989940/?fromSearch=%3Ffilters.category%3D138%26filters.strategic-topic%3D78%26freetext%3DDigital%2520Entertainment%26last_filter%3Dcategory> [Accessed 7 May 2021].
+
+- Ryan, L., 2020. Leisure Time: Inc Impact of COVID-19 - UK - November 2020.
 
 - Side, H., 2021. How to Align Divs Side by Side. [online] W3docs.com. Available at: <https://www.w3docs.com/snippets/css/how-to-align-divs-side-by-side.html> [Accessed 18 May 2021].
 

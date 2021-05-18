@@ -44,7 +44,7 @@ div iframe {
 
 header {
     grid-area: header;
-    background-color: rgb(255, 216, 61);
+    background-color: rgb(255, 215, 0);
 }
 
 #menu li {
@@ -156,8 +156,9 @@ main {
 }
 
 .home-footer-style {
-    background-color:rgb(255, 216, 61);
+    background-color: rgb(255, 215, 0);
 }
+
 
 #overview i:hover{
     color: rgb(255, 165, 0, .7);
@@ -349,8 +350,16 @@ section #recipe-boxes{
 
 #playlist-header {
     text-align: center;
-    padding: 50px;
+    padding: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
+
+#playlist-header p {
+    text-align: left;
+    padding: 10px;
+    color: rgb(62, 13, 5, .9);
+} 
 
 #playlist-header h2 {
     color: rgba(63, 25, 202);
@@ -363,7 +372,7 @@ section #recipe-boxes{
     padding: 25px;
     text-align: center;
     font-size: 14px;
-    color: rgb(62, 13, 5, .85);
+    color: rgb(62, 13, 5, .9);
     font-weight: 450;
 }
 
@@ -382,7 +391,7 @@ section #recipe-boxes{
     width: 50%;
     padding: 25px;
     text-align: center;
-    color: rgb(62, 13, 5, .85);
+    color: rgb(62, 13, 5, .9);
     font-weight: 450;
 }
 
@@ -428,11 +437,16 @@ section #recipe-boxes{
 .connect-header-style {
     background-color: rgb(255, 165, 0);
     font-weight: 600;
+    font-family: 'Oswald', sans-serif;
 }
 
 .connect-footer-style {
     background-color:rgb(255, 165, 0);
 }
+
+.connect-footer-style > .sm-links a:hover {
+    color:  rgb(255, 215, 0);
+}/* This '.connect-footer-style...' tag has had been made as the other footer hover colour blends in with the footer color of the connect.html page*/
 
 #connect-hover a {
     text-decoration: none;
@@ -440,7 +454,6 @@ section #recipe-boxes{
     margin-right: 10px;
     color: white;
     font-weight: 600;
-    font-family: 'Oswald', sans-serif;
 }/* This #connect-hover tag has had be made as the homepage colour blends in withthe header color of the connect.html page*/
 
 #connect-hover li {
@@ -451,11 +464,11 @@ section #recipe-boxes{
     width: 50%;
     text-align: center; 
     letter-spacing: .1em;
-}/* This #connect-hover tag has had be made as the homepage colour blends in withthe header color of the connect.html page*/
+}/* This #connect-hover tag has had be made as the homepage colour blends in with the header color of the connect.html page*/
 
 #connect-hover a:hover{
     color: rgb(255, 216, 61);
-}/* This #connect-hover tag has had be made as the homepage colour blends in withthe header color of the connect.html page*/
+}/* This #connect-hover tag has had be made as the homepage colour blends in with the header color of the connect.html page*/
 
 .our-details {
     margin-left: auto;
@@ -471,6 +484,7 @@ section #recipe-boxes{
     font-size: 18px; 
     font-weight: 500; 
     text-decoration: underline;
+    color:rgb(255, 165, 0);
 }
 
 .our-details i {
@@ -481,25 +495,25 @@ section #recipe-boxes{
 .our-details a {
     text-decoration: none;
     padding: 5px; 
+    color:rgb(255, 165, 0);
 }
 
 .our-details span {
     padding: 10px;
+    color:rgb(255, 165, 0);
 }
 
 #connect-background {
-    background-color: rgba(238, 238, 238);
+    background-color: rgb(99, 172, 229, .15);
     width: 90%;
     height: auto;
     padding: 20px;
+    border: 2px solid rgb(255, 165, 0);
     border-radius: 1%;
     margin: 50px 25px;
     margin-left: auto;
-    margin-right: 25px;
-}
-
-.cwu-form  h1, h5 {
-    padding-top: 30px; 
+    margin-right: auto;
+    color:rgb(255, 165, 0);
 }
 
 .cwu-form  p {
@@ -507,6 +521,19 @@ section #recipe-boxes{
     margin: 15px; 
     font-size: 16px; 
     font-weight: 500; 
+}
+
+
+.cwu-form  h2 {
+    padding-top: 15px; 
+    padding-bottom: 5px;
+    font-weight: 600;
+}
+
+.cwu-form h5 {
+    margin-top: 30px;
+    margin-bottom: 15px; 
+    font-weight: 600;
 }
 
 .cwu-form  i {
@@ -523,6 +550,7 @@ section #recipe-boxes{
     margin-bottom: 5px; 
     display: inline-block;
     padding: 10px;
+    color:rgb(255, 165, 0);
 }
 
 .handle  input {
@@ -533,16 +561,14 @@ section #recipe-boxes{
     
 .cwu-form label {
     padding: 5px;
-    font-size: 16px; 
-    font-weight: 600; 
+    font-weight: 550; 
 }
 
 .cwu-form input { 
     padding: 10px;   
-    font-weight: 400; 
-    border-style: none;
-    border-radius: 2.5%;
-    background-color: white;
+    border: 2px solid rgb(255, 165, 0);
+    border-radius: 3%;
+    background-color: rgb(255, 255, 255);
 }
 
 div input {
@@ -554,39 +580,36 @@ div input {
 }
 
 .button-style input  {
-    border: 2px solid white;
+    border: 2px solid rgb(255, 165, 0);
     background-color: transparent;
     height: 50px;
-    font-weight: 500;
+    font-weight: 600;
     display: inline-block;
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    color: rgb(255, 165, 0);
 }  
     
 .cwu-form i:hover{
-    color: rgb(255, 165, 0);
+    color: rgb(99, 172, 229);
 }
 
 input:hover {
-    color: rgb(255, 165, 0);
+    color: rgb(99, 172, 229);
 }
 
 .our-details a:hover {
-    color: rgb(255, 165, 0);
+    color: rgb(99, 172, 229);
 }
 
 .our-details i:hover {
-    color: rgb(255, 165, 0);
+    color: rgb(99, 172, 229);
 }
 
-.button-style:hover {
-    color: rgb(255, 165, 0);
-}
-
-.connect-footer-style a:hover {
-    color: rgba(255, 216, 61);
+.button-style input:hover {
+    color: rgb(99, 172, 229);
 }
 
 /*FOOTER BELOW*/
@@ -621,7 +644,7 @@ footer {
 }
 
 .sm-links a:hover {
-    color: rgba(255, 215, 0);
+    color:  rgb(255, 165, 0);
 }
 
 /*MEDIA QUERY BELOW*/

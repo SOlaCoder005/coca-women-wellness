@@ -648,7 +648,7 @@ footer {
 }
 
 /*MEDIA QUERY BELOW*/
-/*Note - Changing the conditon from "max-width" to "min-width" on the media quey allows the photo to collapse on top of header rather than be removed completely*/
+/*Note: Do not change media query declation. Changing the declaration from "max-width:px;" to "min-width:;" on the media quey allows the aside image to stack on-top of header rather than be removed completely*/
 @media all and (max-width: 320px) {
     body {
         margin: 0;
@@ -662,9 +662,10 @@ footer {
         "sect3"
         "main"
         "footer";
-    }/*For standard mobile screen size*/
-    /*This sourcecode has been amended to suit my website based on advice from this tutorial: https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11*/
+    }
+    /*For standard mobile screen size*/
 }
+    /*The declarations in this code/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 
 @media only screen and (min-width: 768px) {
     body {
@@ -677,5 +678,7 @@ footer {
         "sidebar sect1 sect2 sect3"
         "sidebar main main main"
         "sidebar footer footer footer";
-    }/*For standard desktop screen settings*/
-}/*This sourcecode has been amended to suit my website based on advice from this tutorial: https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11*/
+    }
+    /*For standard desktop screen size*/
+}
+/*The declarations in this code/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/

@@ -213,6 +213,8 @@ Learn.codeinstitute.net. 2021. 27_HTML_Forms_Form_Attributes | Code Institute. [
 
 - Market Research Report. [online] Available at: <https://reports.mintel.com/display/989940/?fromSearch=%3Ffilters.category%3D138%26filters.strategic-topic%3D78%26freetext%3DDigital%2520Entertainment%26last_filter%3Dcategory> [Accessed 7 May 2021].
 
+- Powell, K., 2018. How to use CSS object-fit to control your images. [online] Available at: <https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s> [Accessed 18 May 2021].
+
 - Ryan, L., 2020. Leisure Time: Inc Impact of COVID-19 - UK - November 2020. Market Research Report. [online] Available at: <https://reports.mintel.com/display/989940/?fromSearch=%3Ffilters.category%3D138%26filters.strategic-topic%3D78%26freetext%3DDigital%2520Entertainment%26last_filter%3Dcategory> [Accessed 7 May 2021].
 
 - Side, H., 2021. How to Align Divs Side by Side. [online] W3docs.com. Available at: <https://www.w3docs.com/snippets/css/how-to-align-divs-side-by-side.html> [Accessed 18 May 2021].

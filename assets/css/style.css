@@ -112,6 +112,7 @@ main {
 
 #overview {
     text-align: center;
+    color: rgb(62, 13, 5, .85);
 }
 
 #overview i {
@@ -121,13 +122,20 @@ main {
     color: rgb(255, 216, 61);
 }
 
-#overview h1 {
-    padding-bottom: 50px;
-    font-weight: 550;
+#overview h2 {
+    margin-top:50px;
+    font-weight: 600;
 }
 
 #overview h3 {
     font-weight: 600;
+}
+
+#overview p {
+    padding: 5px;
+    margin: 15px;
+    text-align: left;
+    font-weight: 450;
 }
 
 .overview-column {
@@ -141,10 +149,14 @@ main {
 }
 
 .overview-column p {
-    padding: 10px;
+    padding: 5px;
     margin: 5px;
     text-align: left;
     font-weight: 450;
+}
+
+.home-footer-style {
+    background-color:rgb(255, 216, 61);
 }
 
 #overview i:hover{
@@ -167,15 +179,8 @@ main {
     background-color: rgba(253, 139, 196, .7);
 }
 
-.sect2 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 25px;   
-}
-
-.sect2 img {
-    border-radius: 50%;
+.about-footer-style {
+    background-color:rgba(253, 139, 196, .7);
 }
 
 #about {
@@ -184,6 +189,29 @@ main {
     margin-bottom: 20px;
     margin-right: 20px;
     margin-left: 20px;
+}
+
+#about h2 {
+    padding:  5px;
+    font-weight:600;
+    color:rgb(62, 13, 5, .85);
+}
+
+#about p {
+    font-weight: 450;
+    color:rgb(62, 13, 5, .85);
+}
+
+#about i {
+    font-size: 40px;
+}
+
+.sect2 img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;   
 }
 
 /*RECIPES - BELOW*/
@@ -199,6 +227,10 @@ main {
     font-weight: 600;
 }
 
+.recipes-footer-style {
+    background-color:rgb(253, 239, 160, .5);
+}
+
 .recipe-header {
     text-align: center;
     padding: 10px;
@@ -206,17 +238,20 @@ main {
 
 .recipe-header h2 {    
     padding: 25px 50px;
-    font-size: 40px;
+    font-weight: 600;
+    color: rgb(62, 13, 5, .85);
 }
 
 .recipe-header p {    
-    padding-bottom: 50px;
+    padding-bottom: 25px;
+    color: rgb(62, 13, 5, .85);
+    font-weight: 450;
 }
 
 .recipe-header a {
     text-align: center;
     padding: 10px;
-    color: #3E0D05;
+    color: rgb(62, 13, 5, .85);
     text-decoration: none;
 }
   
@@ -225,9 +260,11 @@ main {
     display: table;
     clear: both;
     padding: 20px 20px;
-    border: 1px solid rgb(62, 13, 5, .5);
+    border: none;
     border-radius: 5px;
     margin: 50px;
+    background-color: rgb(253, 239, 160, .5);
+    color: rgb(62, 13, 5, .85);
 }
   
 section #recipe-boxes{
@@ -253,12 +290,19 @@ section #recipe-boxes{
     margin-left: auto;
     margin-right: auto;
     border-radius: 2.5%;
+    font-weight: 450;
 }
   
 #column2 h2 {
     padding: 5px 5px;
+    font-weight: 600;
 }
-  
+
+#column2 h3 {
+    padding: 5px 5px;
+    font-weight: 600;
+}
+
 #column2 i {
     padding: 5px 5px;
     font-size: 20px;
@@ -280,7 +324,7 @@ section #recipe-boxes{
     text-decoration: none;
 } 
 
-/*PLAYLIST BELOW*/
+/*PLAYLISTS BELOW*/
 .img-playlists {
     width: 100%;
     height: 100%;
@@ -291,6 +335,10 @@ section #recipe-boxes{
 .playlists-header-style {
     background-color: rgba(63, 25, 202);
     font-weight: 600;
+}
+
+.playlists-footer-style {
+    background-color:rgba(63, 25, 202);
 }
 
 .row:after {
@@ -305,8 +353,8 @@ section #recipe-boxes{
 }
 
 #playlist-header h2 {
-    font-size: 40px;
     color: rgba(63, 25, 202);
+    font-weight: 600;
 }
 
 #playlist-type {
@@ -315,6 +363,12 @@ section #recipe-boxes{
     padding: 25px;
     text-align: center;
     font-size: 14px;
+    color: rgb(62, 13, 5, .85);
+    font-weight: 450;
+}
+
+#playlist-type h2 {
+    font-weight: 600;
 }
 
 #playlist-type  p {
@@ -328,7 +382,12 @@ section #recipe-boxes{
     width: 50%;
     padding: 25px;
     text-align: center;
-    font-size: 14px;
+    color: rgb(62, 13, 5, .85);
+    font-weight: 450;
+}
+
+#playlist-type2 h2 {
+    font-weight: 600;
 }
 
 #playlist-type2  p {
@@ -369,6 +428,10 @@ section #recipe-boxes{
 .connect-header-style {
     background-color: rgb(255, 165, 0);
     font-weight: 600;
+}
+
+.connect-footer-style {
+    background-color:rgb(255, 165, 0);
 }
 
 #connect-hover a {
@@ -522,17 +585,22 @@ input:hover {
     color: rgb(255, 165, 0);
 }
 
+.connect-footer-style a:hover {
+    color: rgba(255, 216, 61);
+}
+
 /*FOOTER BELOW*/
 footer {
     grid-area: footer;
-    padding: 10px 0 15px 0;
+    padding: 10px 0 20px 0;
     text-align: center;
+    margin-top: 20px;
 }
 
 #copyright-style {
     font-size: 15px;
-    opacity: 0.8;
-    color: rgb(204, 204, 204);
+    color: rgb(255, 255, 255);
+    font-weight: 500;
 }
 
 .sm-links  {
@@ -548,19 +616,16 @@ footer {
     text-align: center;
     text-decoration: none;
     border-radius: 0;
-    opacity: 0.8; 
     font-size: 30px;
-    color: rgb(204, 204, 204);
+    color: white;
 }
 
 .sm-links a:hover {
     color: rgba(255, 215, 0);
 }
 
-
 /*MEDIA QUERY BELOW*/
 /*Note - Changing the conditon from "max-width" to "min-width" on the media quey allows the photo to collapse on top of header rather than be removed completely*/
-
 @media all and (max-width: 320px) {
     body {
         margin: 0;

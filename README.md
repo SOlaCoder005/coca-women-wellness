@@ -94,11 +94,24 @@ While these resources are appropriate and invaluable to addressing and supportin
 
 ### 2.3 UX Design - Development 
 
-I have provided links to serval documents that have supported my conceptualisation and implementation of designing the CWW website below. The content ranges from wireframes, mood bards, visual inspiration for choosing colour themes for the website: 
+#### Development: Planning the website using the Strategy Plane and User Stories
+
+Based on the users’ feedback, and implementing some methods outlined in UX Design’s 5 Planes model; a [matrix]( https://github.com/SOlaCoder005/coca-women-wellness/blob/87aae1964f9cf4c8f7e7d118db7e51870c817589/docs/charts-and-graphs/strategyplane-matrix.PNG) was made to identify and rank the 5 key [deliverables]( https://github.com/SOlaCoder005/coca-women-wellness/blob/e7ae1506f253f050498deeae2b2e13b4c218ba80/docs/charts-and-graphs/strategyplane-table.PNG) of the CWW website. In more detail: 
+
+- The deliverables were valued by perceived importance, viability, and feasibility. 
+
+- The analysis of the matrix indicated that the following deliverables were the most salient, ranking on a scale of 1-5, from highest to lowest importance respectively:
+
+1.	Provide resources that helps users learn mindful, wellbeing and self-improvement techniques. (a)
+2.	Create a functional website with easy navigation. (d)
+3.	Provide resources that promote well-being of African Diaspora Women (b)
+4.	Promote African Diaspora wellbeing content creators (c)
+5.	Increase user interaction across social media platforms (e)
+
 
 #### Development: Wireframes and other Design Documents
 
-Below are links to serval documents that have supported the conceptualisation and implementation of designing the CWW website. The content ranges from wireframes, mood bards, visual inspiration for choosing colour themes for the website.
+Below are links to serval documents that have supported the conceptualisation and implementation of designing the CWW website. The content ranges from wireframes, mood bards, tables, matrix charts, and even existing websites that has inspired the create of CWW (e.g. colour themes for the website). 
 
 #### Wireframes 
 The wireframes depict the preliminary concept for the CWW website design and have been grouped by page and device type. The structure and appearance of the live CWW website varies considerably from the preliminary wireframes. The contributing factors for these difference has been documented in the [testing document](https://github.com/SOlaCoder005/coca-women-wellness/blob/a5c2068f53f901115928df67ad9651ef0c35415e/docs/testing/TESTING.md) within the current readme and repository. Although the final structure of the site differs considerably to the preliminary wireframes; the CWW responds to different device parameters and hence screen sizes (incl. Desktop, mobile and tablet screens). 

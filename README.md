@@ -96,7 +96,11 @@ I have provided links to serval documents that have supported my conceptualisati
 
 #### 2.3.1 Development: Wireframes, Mockups Design Documents
 
-Below are links to serval documents that have supported the conceptualisation and implementation of designing the CWW website. The content ranges from wireframes, mood bards, visual inspiration for choosing colour themes for the website: 
+Below are links to serval documents that have supported the conceptualisation and implementation of designing the CWW website. The content ranges from wireframes, mood bards, visual inspiration for choosing colour themes for the website.
+
+#### Wireframes 
+The wireframes depict the preliminary concept for the CWW website design and have been grouped by page and device type. The structure and appearance of the live CWW website varies considerably from the preliminary wireframes. The contributing factors for these difference has been documented in the [testing document](https://github.com/SOlaCoder005/coca-women-wellness/blob/a5c2068f53f901115928df67ad9651ef0c35415e/docs/testing/TESTING.md) within the current readme and repository. Although the final structure of the site differs considerably to the preliminary wireframes; the CWW responds to different device parameters and hence screen sizes (incl. Desktop, mobile and tablet screens). 
+
 
 
 <img src="/docs/wireframes/desktopwireframespreview.png">

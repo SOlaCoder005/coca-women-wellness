@@ -48,31 +48,30 @@ With these definitions in mind, rather than being interchangeable, wellbeing and
 
 #### The User: The target audience
 
-Given the negative impact that current sociocultural and social-economic issues have had on society (e.g. COVID-19 and continued social inequality), there has been increased discourse around raising awareness of, and providing greater support to, improving people’s wellbeing. Further, there has been an increased volume of socio-economic initiatives that aim to bolster the mental, social, and emotional wellbeing of minority groups, particularly those in the African and/or Caribbean diaspora. Considering this, my website shall offer primary and secondary wellbeing media and resources (e.g. images, videos, tutorials, influencers, and recipes) curated by, and for, communities of the African/Caribbean diaspora. 
+Given the negative impact that current sociocultural and social-economic issues have had on society (e.g. COVID-19 and continued social inequality), there has been increased discourse on raising awareness around, and providing greater support for improving people’s wellbeing. Further, there has been an increased volume of socio-economic initiatives that aim to bolster the mental, social, and emotional wellbeing of minority groups, particularly those in the African and/or Caribbean diaspora. Considering this, CWW offers primary and secondary wellbeing media and resources (e.g. images, videos, tutorials, influencers, and recipes) curated by, and for, communities of the African/Caribbean diaspora. 
  
-#### The User: Key demographic(s)
+#### The User: Key Demographic(s)
 
-The term demographics relates to thew characteristics of a population and the specific groups within it. Given the proposal, I will be focusing on women’s wellbeing. The key demographic factors considered when forming CWW were sex, age and ethnicity. In more detail the demographical factors the site intends to target are women between the ages of 16-40 of African/Caribbean ethnicity. 
-
-#### The User: User Stories
-
-Prior to creating the website, I conducted some market research to gain insight into the potential expectations that the target audience would have when visiting wellbeing sites that offer content and resources around mindfulness. As such I asked several women the following questions:
-
-1.	Do you visit any wellbeing sites/apps? If so could provide some names?
-2.	Do you follow any black female wellbeing influencers?
-3.	Do you think wellbeing content created by and created for black women would help support your wellbeing?
-4.	If you were looking at a well-being site designed to promote the well-being of black women - what type of content would you like to see? 
-5.	How would you like wellbeing topics/content to be presented to you (e.g. via blogs, videos, images, courses, or books)?
-
-#### User expectations and compelling experiences 
-
-In response to the questions listed above, the users interviewed provided the following feedback. I have no include the name of those interviewed to keep their identity private. 
-
-<img src="/docs/charts-and-graphs/enduserstories.PNG">
+The term demographics relates to the characteristics of a population and the specific groups within it. Given the proposal, CWW focuses on women’s wellbeing. The key demographic factors considered when forming CWW were sex, age and ethnicity. In more detail the demographical factors the site intends to target are women between the ages of 16-40 of African/Caribbean ethnicity.  
 
 #### The User: Type 
 
-Given the nature of the site and the feedback I have gained from the user stories – it is suggestive that the primary end-users users of this site are women of African and/or Caribbean heritage, the primary target audience.
+Given the nature of the site and the feedback gained from the user stories – it is suggestive that the primary end-users that would visit this site are women of African and/or Caribbean heritage. 
+
+#### The User: User Stories
+
+Prior to creating the website, some market research was conducted to gain insight into the potential expectations that the target audience has when visiting sites that offer content and resources around mindfulness and/or wellbeing. As such, several women were asked  the following questions:
+
+1.	Do you visit any wellbeing sites/apps? If so could provide some names?
+2.	Do you follow any black female wellbeing influencers?
+3.	Do you think wellbeing content created by and for black women would help support your wellbeing?
+4.	If you were looking at a wellbeing site designed to promote the wellbeing of black women - what type of content would you like to see? 
+5.	How do you prefer wellbeing topics/content to be presented to you (e.g. via blogs, videos, images, courses, or books)?
+
+
+#### User expectations and compelling experiences 
+
+Based on the questions listed above and the users’ [feedback]( https://github.com/SOlaCoder005/coca-women-wellness/blob/93c3d7b03878c346b075efd8e5690c09955af063/docs/charts-and-graphs/enduserstories.PNG), it appeared as though many preferred to engage with visual content and were particularly interested in topics around food, relationships, and skincare. Please note: the names of users have not been included in this repository to keep their identity private.
 
 #### The User: Desired Goals - what it is that they want to achieve 
 

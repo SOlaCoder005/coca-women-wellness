@@ -418,6 +418,10 @@ section .recipe-boxes{
     object-position: 50% 50%; 
 }/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
 
+iframe {
+    border-width: 0;
+}
+
 .playlists-header-style {
     background-color: rgba(63, 25, 202);
     font-weight: 600;

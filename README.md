@@ -144,7 +144,8 @@ Keeping cultural characteristics in mind, a combination of brown and other warm 
 
 
 Arguably many of these cultures have assigned positive connotations to the colour yellow. For instance, concepts around wealth, femininity and fertility in some African cultures are often illustrated with yellow aspects, this can be incorporated into garment colour schemes and even religious characterisations. For instance, the Yoruba Orisha – Oshun has been often been drawn wearing yellow garments (Britannica.com, 2021).  Similarly, within the Caribbean, specifically Rastafarian cultures, the colour yellow has been included in their native attire and artefacts. Yellow in this culture is used to signify wealth and prosperity (BBC.co.uk, 2009).  
-The additional colours throughout the site were sourced from the primary left-hand images displayed on each of the website’s pages. Each colour has their opacity levels altered throughout the website (e.g. in :hover functions) in order to convey visual depth in each page. The primary colours used across the pages are listed below: 
+
+The other colours throughout the site were sourced from the primary left-hand images displayed on each of the website’s pages. Each colour had their opacity levels altered throughout the website (e.g. in :hover functions) in order to convey visual depth in each page. The primary colours used across the pages are listed below: 
 
 - Yellow: rgb(255, 215, 0)
 - Orange: rgb(255, 165, 0)

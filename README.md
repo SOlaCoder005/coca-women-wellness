@@ -146,20 +146,20 @@ Keeping cultural characteristics in mind, a combination of brown and other warm 
 Arguably many of these cultures have assigned positive connotations to the colour yellow. For instance, concepts around wealth, femininity and fertility in some African cultures are often illustrated with yellow aspects, this can be incorporated into garment colour schemes and even religious characterisations. For instance, the Yoruba Orisha – Oshun has been often been drawn wearing yellow garments (Britannica.com, 2021).  Similarly, within the Caribbean, specifically Rastafarian cultures, the colour yellow has been included in their native attire and artefacts. Yellow in this culture is used to signify wealth and prosperity (BBC.co.uk, 2009).  
 The additional colours throughout the site were sourced from the primary left-hand images displayed on each of the website’s pages. Each colour has their opacity levels altered throughout the website (e.g. in :hover functions) in order to convey visual depth in each page. The primary colours used across the pages are listed below: 
 
-- Yellow: rgb(255, 215, 0);
-- Orange: rgb(255, 165, 0);
-- Burgundy/Brown: rgb(62, 13, 5);
-- Pink: rgb(253, 139, 196);
-- Cream: rgb(253, 239, 160);
-- Electric Blue: rgb(63, 25, 202);
+- Yellow: rgb(255, 215, 0)
+- Orange: rgb(255, 165, 0)
+- Burgundy/Brown: rgb(62, 13, 5)
+- Pink: rgb(253, 139, 196)
+- Cream: rgb(253, 239, 160)
+- Electric Blue: rgb(63, 25, 202)
 
 #### Design: Fonts 
 
 The fonts used on the CWW site were imported from [Google Fonts](https://fonts.google.com/) and were used on the website for the following reasons: 
 
-**Oswald**: This is a considerably ‘weighted’ sans-serif font. It was used on the header sections to ensure that the navigation titles remained prominent across the varying header colours.
+- **Oswald**: This is a considerably ‘weighted’ sans-serif font. It was used on the header sections to ensure that the navigation titles remained prominent across the varying header colours.
 
-**Open Sans**: Aside from the header, this font was used throughout the site. It was chosen to compliment the ‘feminine’ theme of the site. Arguably, round shapes are often associated with feminine characteristics. As such, the rounded characteristics of this font conveys a softer tone to the overall page compared to the Oswald font and vibrant colours used. 
+- **Open Sans**: Aside from the header, this font was used throughout the site. It was chosen to compliment the ‘feminine’ theme of the site. Arguably, round shapes are often associated with feminine characteristics. As such, the rounded characteristics of this font conveys a softer tone to the overall page compared to the Oswald font and vibrant colours used. 
 
 ## Section 3: Features
     In this section, you should go over the different parts of your project and describe each in a sentence or so.
@@ -194,6 +194,7 @@ Please find below a list of all the technologies that have been used to help bui
 
  
 ## Section 5: JQuery
+
 The project uses JQuery to simplify DOM manipulation.
 
 ## Section 6: Testing

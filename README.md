@@ -83,19 +83,20 @@ The Coca Women Wellness website provides serves two key purposes that increases 
 With this in my CWW intends to both bolster users’ exposure to digital content and resources that helps develop positive mindfulness practices which will likely promote overall wellbeing. A secondary initiative for the website is to expose users to influencers that curate content around this subject matter – wellbeing, with the African/Caribbean diaspora in mind.  
  
 
-#### Competitors: How does CWW differs competitors and substitutes?
+#### Competitors: How does CWW differs competitors?
 
 Arguably, a lot of wellbeing and mindfulness websites portray a clinical narrative which is often reflected in their content (e.g. aesthetical design) and services (e.g. therapeutic services and treatment). For instance, sites such as [Rethink Mental Illness]( https://www.rethink.org/advice-and-information/living-with-mental-illness/wellbeing-physical-health/black-asian-and-minority-ethnic-mental-health/) offer clinical services such as counselling and priced therapeutic materials (e.g. meditation courses, books). Moreover, a Google search of the phrase ‘black wellbeing’ presented a list of wide range of articles and resources written in extremely formal tones. 
 
 While these resources are appropriate and invaluable to addressing and supporting matters around wellbeing, CWW has been designed with a more informal tone. Specifically, CWW presents aspires to host wellbeing resources through a more informal relaxed tone, reflecting websites such as [World Changer Life]( https://www.worldchangerlife.com/), [Kwanda]( https://kwanda.co/), [Black Zen](https://www.blackzen.co/#services-and-more) and [Black Women Healing Retreats]( https://www.blackwomenhealingretreats.com/about-black-women-healing-retreats.html).  
  
 
-### 2.3 UX Design Wireframes, Mockups design documents
+### 2.3 UX Design - Development 
 
 I have provided links to serval documents that have supported my conceptualisation and implementation of designing the CWW website below. The content ranges from wireframes, mood bards, visual inspiration for choosing colour themes for the website: 
 
-#### Wireframes 
-Below are links to the wireframes of the CWW website design. I have grouped the wireframes by page and devices as it is the website are intended to be responsive to different devices, hence screen sizes (incl. Desktop, mobile and tablet screens). 
+#### 2.3.1 Development: Wireframes, Mockups Design Documents
+
+Below are links to serval documents that have supported the conceptualisation and implementation of designing the CWW website. The content ranges from wireframes, mood bards, visual inspiration for choosing colour themes for the website: 
 
 
 <img src="/docs/wireframes/desktopwireframespreview.png">

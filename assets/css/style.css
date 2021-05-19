@@ -263,7 +263,7 @@ main {
     text-decoration: none;
 }
   
-#recipe-boxes {
+.recipe-boxes {
     content: "";
     display: table;
     clear: both;
@@ -271,15 +271,14 @@ main {
     border: none;
     border-radius: 5px;
     margin: 50px;
-    background-color: rgb(253, 239, 160, .5);
     color: rgb(62, 13, 5, .85);
 }
   
-section #recipe-boxes{
+section .recipe-boxes{
     padding: 10px 10px;
 }
   
-#recipe-boxes div {
+.recipe-boxes div {
     float: left;
     height: auto;
     width: 100%;
@@ -292,46 +291,122 @@ section #recipe-boxes{
     width: 50%;
 }
 
-#column2 {
+/*For RECIPE-BOX1*/
+#box1 {
     width: 100%;
     padding: 30px;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 2.5%;
+    border-radius: 1%;
     font-weight: 500;
+    background-color: rgb(253, 239, 160, .5);
 }
   
-#column2 h2 {
+#box1 h2 {
     padding: 5px 5px;
     font-weight: 600;
 }
 
-#column2 h3 {
+#box1 h3 {
     padding: 5px 5px;
     font-weight: 600;
 }
 
-#column2 i {
+#box1 i {
     padding: 5px 5px;
     font-size: 20px;
 }
   
-#column2 span {
+#box1 span {
     padding-right: 10px;
 }
   
-#column2 p {
+#box1 p {
     padding: 5px 5px;
 }
   
-#column2 li {
+#box1 li {
+    display: list-item;
+}
+
+/*For RECIPE-BOX2*/
+#box2 {
+    width: 100%;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1%;
+    font-weight: 500;
+    background-color: rgb(253, 239, 160, .5);
+}
+  
+#box2 h2 {
+    padding: 5px 5px;
+    font-weight: 600;
+}
+
+#box2 h3 {
+    padding: 5px 5px;
+    font-weight: 600;
+}
+
+#box2 i {
+    padding: 5px 5px;
+    font-size: 20px;
+}
+  
+#box2 span {
+    padding-right: 10px;
+}
+  
+#recipe-box2 p {
+    padding: 5px 5px;
+}
+  
+#box2 li {
+    display: list-item;
+}
+/*For RECIPE-BOX3*/
+#box3 {
+    width: 100%;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1%;
+    font-weight: 500;
+    background-color: rgb(253, 239, 160, .5);
+}
+  
+#box3 h2 {
+    padding: 5px 5px;
+    font-weight: 600;
+}
+
+#box3 h3 {
+    padding: 5px 5px;
+    font-weight: 600;
+}
+
+#box3 i {
+    padding: 5px 5px;
+    font-size: 20px;
+}
+  
+#box3 span {
+    padding-right: 10px;
+}
+  
+#box3 p {
+    padding: 5px 5px;
+}
+  
+#box3 li {
     display: list-item;
 }
   
 #footer {
     text-decoration: none;
 }/*Note: This element is for the in-text hyperlink on the recipes page. The feature has only been used once on the recipes page.*/
-
 /*RECIPES PAGE - ENDS*/
 
 

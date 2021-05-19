@@ -94,7 +94,7 @@ While these resources are appropriate and invaluable to addressing and supportin
 
 I have provided links to serval documents that have supported my conceptualisation and implementation of designing the CWW website below. The content ranges from wireframes, mood bards, visual inspiration for choosing colour themes for the website: 
 
-#### 2.3.1 Development: Wireframes, Mockups Design Documents
+#### 2.3.2 Development: Wireframes and other Design Documents
 
 Below are links to serval documents that have supported the conceptualisation and implementation of designing the CWW website. The content ranges from wireframes, mood bards, visual inspiration for choosing colour themes for the website.
 
@@ -113,7 +113,6 @@ The wireframes depict the preliminary concept for the CWW website design and hav
 4.	[Wireframe – PLAYLISTS]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/playlists-pages "Wireframes for Playlists page")
 5.	[Wireframe – CONNECT]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/playlists-pages "Wireframes for Connect page")
 
-##### Mockups 
 
 ### Moodboards and Diagrams
 

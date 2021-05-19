@@ -1,4 +1,4 @@
-/* IMPORTS SECTION -STARTS*/
+/*IMPORTS SECTION - STARTS*//*This import has been sourced from Google Fonts website: [https://fonts.google.com/]*/
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald&display=swap');
 
@@ -565,7 +565,7 @@ section #recipe-boxes{
     
 .cwu-form label {
     padding: 5px;
-    font-weight: 550; 
+    font-weight: 600; 
 }
 
 .cwu-form input { 
@@ -664,6 +664,7 @@ footer {
 /*FOOTER - ENDS*/
 
 /*MEDIA QUERIES - START*/
+
 /*Note: Do not change media query declations. Changing the declaration from "max-width:px;" to "min-width:px;" on the media quey allows the aside image to stack on-top of header rather than be removed completely*/
 
 @media all and (max-width: 320px) {

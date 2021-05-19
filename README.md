@@ -144,7 +144,10 @@ Please find below a list of all the technologies that have been used to help bui
 -	[GitPod]( https://www.gitpod.io/): An IDE that can be used online and locally on your desktop.
 -	[GitHub]( https://github.com/): A version control software that can has both desktop and online platforms.
 -	[Dillinger](https://dillinger.io/): An extremely useful markdown complier tool that allows you to check your code is formatted correctly on the README.md file. 
--   [Responsively](https://responsively.app/download): Web Browser that allows you to check the degree to which you website is responsive on various device sizes and screen orientations. 
+-   [Responsively](https://responsively.app/download): Web Browser that allows you to check the degree to which you website is responsive on various device sizes and screen orientations.
+- [W3C Validator](https://validator.w3.org/): This has been used to check the quality of my HTML code and ensures it passes coding standards.
+- [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/): This has been used to check the quality of my HTML code and ensures it passes coding standards.
+
  
 ## Section 5: JQuery
 The project uses JQuery to simplify DOM manipulation.

@@ -6,7 +6,6 @@
 
 
 /*SITE-WIDE STYLES - STARTS*/
-
 body, html {
     height: 100vh;
 }
@@ -27,12 +26,10 @@ div iframe {
     vertical-align: middle; 
     width: 100%;
 }
-
 /*SITE-WIDE STYLES - ENDS*/
 
 
 /*NAVIGATION MENU - STARTS*/
-
 #img-logo {
     display: block;
     margin-left: auto;
@@ -78,13 +75,11 @@ header {
     font-weight: 500;
     font-size: 50px;
 }
-
 /*NAVIGATION MENU - ENDS*/
 
 
 /*SECTION - STARTS*/
 /*The declarations in these codes/elements has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
-
 section:nth-of-type(1) {
     grid-area: sect1;
     background-color: white;
@@ -102,12 +97,10 @@ section:nth-of-type(3){
     background-color: white;
     font-family: 'Open Sans', sans-serif;
 }
-
 /*SECTION - ENDS*/
 
 
 /*HOME (INDEX) PAGE - STARTS*/
-
 .img-index {
     width: 100%;
     height: 100%;
@@ -177,12 +170,10 @@ main {
 .overview-column i:hover{
     color: rgb(255, 165, 0, .7);
 }
-
 /*HOME (INDEX) PAGE - ENDS*/
 
 
 /*ABOUT PAGE - STARTS*/
-
 .img-about {
     width: 100%;
     height: 100%;
@@ -228,12 +219,10 @@ main {
     margin-right: auto;
     padding: 25px;  
 }/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.w3schools.com/howto/howto_css_image_center.asp]*/
-
 /*ABOUT PAGE - ENDS*/
 
 
 /*RECIPES PAGE - STARTS*/
-
 .img-recipes {
     width: 100%;
     height: 100%;
@@ -347,7 +336,6 @@ section #recipe-boxes{
 
 
 /*PLAYLISTS PAGE - STARTS*/
-
 .img-playlists {
     width: 100%;
     height: 100%;
@@ -448,12 +436,10 @@ section #recipe-boxes{
 #playlist-type2 i:hover {
     color: rgba(63, 25, 202, .5);
 }
-
 /*PLAYLISTS PAGE - ENDS*/
 
 
 /*CONNECT PAGE - STARTS*/
-
 .img-connect {
     width: 100%;
     height: 100%;
@@ -638,12 +624,10 @@ input:hover {
 .connect-footer-style > .sm-links a:hover {
     color:  rgb(255, 215, 0);
 }
-
 /*CONNECT PAGE - END*/
 
 
 /*FOOTER -STARTS*/
-
 footer {
     grid-area: footer;
     padding: 10px 0 20px 0;
@@ -677,11 +661,10 @@ footer {
 .sm-links a:hover {
     color:  rgb(255, 165, 0);
 }
-
 /*FOOTER - ENDS*/
 
 /*MEDIA QUERIES - START*/
-/*Note: Do not change media query declation. Changing the declaration from "max-width:px;" to "min-width:;" on the media quey allows the aside image to stack on-top of header rather than be removed completely*/
+/*Note: Do not change media query declations. Changing the declaration from "max-width:px;" to "min-width:px;" on the media quey allows the aside image to stack on-top of header rather than be removed completely*/
 
 @media all and (max-width: 320px) {
     body {

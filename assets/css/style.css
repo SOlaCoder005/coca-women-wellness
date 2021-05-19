@@ -14,18 +14,6 @@ aside {
     grid-area: sidebar;
     background-color:  white;
 }/*The declarations in these codes/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
-
-#vid-col {
-    padding: 20px 20px;
-    margin-top: 25px;
-    margin-bottom: 25px;
-}
-
-div iframe {
-    display: inline-block;
-    vertical-align: middle; 
-    width: 100%;
-}
 /*SITE-WIDE STYLES - ENDS*/
 
 
@@ -418,7 +406,13 @@ section .recipe-boxes{
     object-position: 50% 50%; 
 }/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
 
-iframe {
+div iframe {
+    display: inline-block;
+    vertical-align: middle; 
+    width: 100%;
+    padding: 20px 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
     border-width: 0;
 }
 
@@ -440,12 +434,8 @@ iframe {
 #playlist-header {
     text-align: center;
     padding: 25px;
-    margin-top: 10px;
+    margin-top: 30px; 
     margin-bottom: 10px;
-}
-
-#playlist-header p {
-    text-align: left;
     padding: 10px;
     color: rgb(62, 13, 5, .9);
 } 
@@ -455,30 +445,28 @@ iframe {
     font-weight: 600;
 }
 
-#playlist-type {
+#playlist-type div {
     float: left;
     width: 33.3%;
     padding: 25px;
     text-align: center;
-    font-size: 14px;
     color: rgb(62, 13, 5, .9);
     font-weight: 500;
 }
 
 #playlist-type h2 {
     font-weight: 600;
+    padding: 10px;
 }
 
 #playlist-type  p {
     padding: 10px;
-    margin: 5px;
     text-align: left;
 }
 
 #playlist-type i {
     font-size: 70px;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding: 15px 15px;
     color: rgba(63, 25, 202);
 }
 
@@ -486,7 +474,7 @@ iframe {
     color: rgba(63, 25, 202, .5);
 }
 
-#playlist-type2 {
+#playlist-type2 div {
     float: left;
     width: 50%;
     padding: 25px;
@@ -497,18 +485,17 @@ iframe {
 
 #playlist-type2 h2 {
     font-weight: 600;
+    padding: 10px;
 }
 
 #playlist-type2  p {
     padding: 10px;
-    margin: 5px;
     text-align: left;
 }
 
 #playlist-type2 i {
     font-size: 70px;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding: 15px 15px;
     color:  rgba(63, 25, 202);
 }
 

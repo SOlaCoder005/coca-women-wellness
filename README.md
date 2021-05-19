@@ -26,17 +26,20 @@ This repository is for Portfolio 1: HTML & CSS project which is part of the Full
 
 #### Portfolio Chosen
 
-Out of several project briefs presented, I chose Project Example Idea 0. As the project asked that the designer (me) ‘…bring your own ideas to life…” through the creation of a website.  To provide more conceptual structure to the project, the Coca Women Welleness (CWW) website uses the concept in Project Idea Example 3 as a point of reference.  
+Out of several project briefs presented, Project Example Idea 0 was chosen as the project asked the designer to ‘…bring your own ideas to life…” through the creation of a website.  To provide more conceptual structure to the project, the Coca Women Wellness (CWW) website uses the concepts presented in Project Idea Example 3 as a point of reference.  
 
-Akin to the objectives in example 3, the Coca Women’s Wellness (CWW) website is  for users that are looking to access artefacts and resources (e.g. videos, recipes, social activities) that help bolster and teach _”...body/mind self-improvement techniques’_.
+Akin to the objectives in example 3, the Coca Women’s Wellness (CWW) website aims to attract users that seek to access artefacts and resources (e.g. videos, recipes, social activities) aimed to bolster and teach _”...body/mind self-improvement techniques’_.
 
 #### Mindfulness vs. Wellbeing: Semantic meaning 
 
-Arguably, the terms _‘wellbeing’_  and  _‘mindfulness’_ are often used interchangeably, it is worth noting that wellbeing is considered a _‘… broad concept…relating to…personal dignity (including treatment of the individual with respect)…, physical and mental health and emotional wellbeing,.. social and economic wellbeing… Wellbeing encompasses several areas of life.'.  It is a common consensus that _‘…using a holistic approach to ensure a clear understanding of the individual’s views is vital to identifying and defining wellbeing in each case.”_ (Hpft.nhs.uk., 2021).
+While the terms _‘wellbeing’_  and  _‘mindfulness’_ are often used interchangeably. It is worth noting that wellbeing is considered a _‘… broad concept…relating to…personal dignity (including treatment of the individual with respect)…, physical and mental health and emotional wellbeing,.. social and economic wellbeing. To summarise, ‘…Wellbeing encompasses several areas of life.'.  As such, it is a growing consensus that _‘…using a holistic approach to ensure a clear understanding of the individual’s views is vital to identifying and defining wellbeing in each case.”_ (Hpft.nhs.uk., 2021).
 
 Similarly, mindfulness is characterised as _“…the practice of maintaining a non-judgmental state of heightened or complete awareness of one's thoughts, emotions, or experiences on a moment-to-moment basis.”_  (Merriam-Webster.com, 2021).
+With these definitions in mind, rather than being interchangeable, wellbeing and mindfulness can be regarded as adjoining concepts, where developing mindful practices (in whatever area of life) is likely to positively impact overall wellbeing.
 
-With these definitions in mind, rather than being interchangeable, wellbeing and mindfulness are adjoining concepts, where developing mindful practices (in whatever area of life) is likely to positively impact overall wellbeing. In more detail, the CWW site aims to develop users’ mindful practices (e.g. yoga, meditation etc.) which can help to boost overall wellbeing. Ideally, the website will provide digital mediums to reach this goal will include (videos on physical exercise, mindful practices, recipes, music, social activities and even meditations techniques). Such resources have been choosing to be included on the site to reflect the feedback from the users’ stories. Such stories were gathered at the early stages of website development. This shall be expanded on in later sections of this file. 
+#### The website: Coca Women Wellness
+
+The CWW site aims to develop users’ mindful practices (e.g. yoga, meditation etc.) which can help to boost overall wellbeing. The website hosts several digital mediums to reach this goal (e.g. videos on physical exercise, mindful practices, recipes, music, social activities and even meditations techniques). Such resources have been included on the site to reflect the feedback gained from users’ stories. Such stories were gathered at the early stages of website development and shall be expanded on in later sections of this file. 
 
 ## Section 2: User Design (UX) 
 

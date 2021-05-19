@@ -129,7 +129,7 @@ The wireframes depict the preliminary concept for the CWW website design and hav
 5.	[Wireframe – CONNECT]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/playlists-pages "Wireframes for Connect page")
 
 
-### Design: Moodboards and Diagrams
+#### Design: Moodboards and Diagrams
 
 As part of the preliminary conceptualisation of the CWW website, the designer chose to research some popular wellbeing websites that depicted common cultural characteristics within different communities of the African/Caribbean diaspora. Below are links to the moodboards and documents that helped to direct the design process and rationale behind the website: 
 

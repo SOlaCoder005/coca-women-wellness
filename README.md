@@ -68,14 +68,9 @@ Prior to creating the website, some market research was conducted to gain insigh
 4.	If you were looking at a wellbeing site designed to promote the wellbeing of black women - what type of content would you like to see? 
 5.	How do you prefer wellbeing topics/content to be presented to you (e.g. via blogs, videos, images, courses, or books)?
 
+#### The User: Desired Goals - what do the users want to achieve? 
 
-#### User expectations and compelling experiences 
-
-Based on the questions listed above and the users’ [feedback]( https://github.com/SOlaCoder005/coca-women-wellness/blob/93c3d7b03878c346b075efd8e5690c09955af063/docs/charts-and-graphs/enduserstories.PNG), it appeared as though many preferred to engage with visual content and were particularly interested in topics around food, relationships, and skincare. Please note: the names of users have not been included in this repository to keep their identity private.
-
-#### The User: Desired Goals - what it is that they want to achieve 
-
-The perceived goal(s) of the users seems to be engaging with visual and written content that will develop and positively impact multiple facets of their well-being of women. From the user’s stories such facets include, but are not limited to, meditation practices, relationship content, hair. As such, the nature of the site will intend to focus on common narratives relevant to African/Caribbean culture. 
+Based on the questions listed above and the users’ [feedback]( https://github.com/SOlaCoder005/coca-women-wellness/blob/93c3d7b03878c346b075efd8e5690c09955af063/docs/charts-and-graphs/enduserstories.PNG);  the users’ salient goal when visiting the site is to engage with visual and written content that develops and positively impacts multiple facets of their wellbeing. From the users’ stories, such facets include, but are not limited to; meditation practices, relationship content, hair and ‘healthy’ food recipes. As such, the CWW site inherently focus on such topics, through the lens of African/Caribbean culture. 
 
 ### 2.2 UX Design – Website value 
 

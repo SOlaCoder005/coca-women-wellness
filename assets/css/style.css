@@ -688,7 +688,7 @@ footer {
         margin: 0;
         display: grid; 
         grid-template-columns: 100%;
-        grid-template-rows: repeat(6);
+        grid-template-rows: auto;
         grid-template-areas:
         "header"
         "sect1" 

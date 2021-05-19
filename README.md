@@ -20,6 +20,11 @@
 - ### Section 12: References
 
 
+
+<img src="/assets/images/DeviceMockupCWW.png">
+
+
+
 ## Section 1: Overview 
 
 This repository is for Portfolio 1: HTML & CSS project which is part of the Full Stack Software Development Diploma (5P) with the Code Institute (CI). 

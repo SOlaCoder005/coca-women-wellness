@@ -34,6 +34,10 @@ Akin to the objectives in example 3, the Coca Women’s Wellness (CWW) website a
 
 The CWW site aims to develop users’ mindful practices (e.g. yoga, meditation etc.) which can help to boost overall wellbeing. The website hosts several digital mediums to reach this goal (e.g. videos on physical exercise, mindful practices, recipes, music, social activities and even meditations techniques). Such resources have been included on the site to reflect the feedback gained from users’ stories. Such stories were gathered at the early stages of website development and shall be expanded on in later sections of this file. 
 
+
+<img src="/assets/images/CWW-live-home.PNG">
+
+
 #### Mindfulness vs. Wellbeing: Semantic meaning 
 
 While the terms _‘wellbeing’_  and  _‘mindfulness’_ are often used interchangeably. It is worth noting that wellbeing is considered a _‘… broad concept…relating to…personal dignity (including treatment of the individual with respect)…, physical and mental health and emotional wellbeing,.. social and economic wellbeing. To summarise, ‘…Wellbeing encompasses several areas of life.'.  As such, it is a growing consensus that _‘…using a holistic approach to ensure a clear understanding of the individual’s views is vital to identifying and defining wellbeing in each case.”_ (Hpft.nhs.uk., 2021).

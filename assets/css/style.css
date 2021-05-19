@@ -146,7 +146,7 @@ main {
     padding: 5px;
     margin: 15px;
     text-align: left;
-    font-weight: 450;
+    font-weight: 500;
 }
 
 .overview-column {
@@ -163,7 +163,7 @@ main {
     padding: 5px;
     margin: 5px;
     text-align: left;
-    font-weight: 450;
+    font-weight: 500;
 }
 
 .home-footer-style {
@@ -213,7 +213,7 @@ main {
 }
 
 #about p {
-    font-weight: 450;
+    font-weight: 500;
     color:rgb(62, 13, 5, .85);
 }
 
@@ -264,7 +264,7 @@ main {
 .recipe-header p {    
     padding-bottom: 25px;
     color: rgb(62, 13, 5, .85);
-    font-weight: 450;
+    font-weight: 500;
 }
 
 .recipe-header a {
@@ -309,7 +309,7 @@ section #recipe-boxes{
     margin-left: auto;
     margin-right: auto;
     border-radius: 2.5%;
-    font-weight: 450;
+    font-weight: 500;
 }
   
 #column2 h2 {
@@ -395,7 +395,7 @@ section #recipe-boxes{
     text-align: center;
     font-size: 14px;
     color: rgb(62, 13, 5, .9);
-    font-weight: 450;
+    font-weight: 500;
 }
 
 #playlist-type h2 {
@@ -425,7 +425,7 @@ section #recipe-boxes{
     padding: 25px;
     text-align: center;
     color: rgb(62, 13, 5, .9);
-    font-weight: 450;
+    font-weight: 500;
 }
 
 #playlist-type2 h2 {

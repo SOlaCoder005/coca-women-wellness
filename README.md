@@ -30,13 +30,11 @@ Out of several project briefs presented, Project Example Idea 0 was chosen as th
 
 Akin to the objectives in example 3, the Coca Women’s Wellness (CWW) website aims to attract users that seek to access artefacts and resources (e.g. videos, recipes, social activities) aimed to bolster and teach _”...body/mind self-improvement techniques’_.
 
+<img src="/assets/images/CWW-live-home.PNG">
+
 #### Coca Women Wellness - the website
 
 The CWW site aims to develop users’ mindful practices (e.g. yoga, meditation etc.) which can help to boost overall wellbeing. The website hosts several digital mediums to reach this goal (e.g. videos on physical exercise, mindful practices, recipes, music, social activities and even meditations techniques). Such resources have been included on the site to reflect the feedback gained from users’ stories. Such stories were gathered at the early stages of website development and shall be expanded on in later sections of this file. 
-
-
-<img src="/assets/images/CWW-live-home.PNG">
-
 
 #### Mindfulness vs. Wellbeing: Semantic meaning 
 
@@ -98,7 +96,7 @@ While these resources are appropriate and invaluable to addressing and supportin
 
 I have provided links to serval documents that have supported my conceptualisation and implementation of designing the CWW website below. The content ranges from wireframes, mood bards, visual inspiration for choosing colour themes for the website: 
 
-#### 2.3.2 Development: Wireframes and other Design Documents
+#### Development: Wireframes and other Design Documents
 
 Below are links to serval documents that have supported the conceptualisation and implementation of designing the CWW website. The content ranges from wireframes, mood bards, visual inspiration for choosing colour themes for the website.
 

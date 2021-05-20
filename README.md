@@ -293,4 +293,4 @@ I received inspiration for this project from X
 
 ## Section 11: References
 
-Several resources have been referred to throughout the development of the Coca Women Website. A list has been provided, [here](docs\charts-and-graphs\refs.md).
+Several resources have been referred to throughout the development of the Coca Women Website. A list has been provided, [here](/docs/charts-and-graphs/refs.md).

@@ -229,10 +229,23 @@ The subsections below summarise the most salient testing findings:
 ### 6.1 Validator Testing
 To ensure that the source code for the CWW met industry standards, each page was run through the [W3C Validator](https://validator.w3.org/) and [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator). 
 
-In more detail, the W3C Validator was used to test the HTML code whereas the Jigsaw Validator tested the CSS code. To ensure the continuity of the source code, it was tested through these platforms both by file upload and via direct input. The code passed the test in both formats and the results can be found [here](/docs/testing/validator-results-pass). 
+In more detail, the W3C Validator was used to test the HTML code whereas the Jigsaw Validator tested the CSS code. To ensure the continuity of the source code, it was tested through these platforms both by file upload and via direct input. The code passed the test in both formats and the results can be found [here](/docs/testing/validator-results-pass).
 
 
+### 6.2 Other testing
+Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING.md); labelled as ‘TESTING.md’) report an two additional tests were ran on ‘bugs’ that frequently arose until a solution was found. For instance:  of the site’s functionality. 
 
+#### Blurry images on the CWW’s pages: 
+
+- Issue: While the photos used on the site were sourced from Pixabay.com with a high resolution, the images were blurry on several web browsers and device screens.  
+
+- Solution: After conducting further research into image quality within coding, the issue was resolved by using the property **‘object-fix:___;’** as a function within the .css style sheet.
+
+#### Images failed to display on one web browser but not the other: 
+
+- Issue: When using an android tablet, the images on CWW did not display on a Google Chrome browser but did on the Microsoft Edge browser. This issue persisted after clearing the cache and cookies data on the Google Chrome browser multiple times.  However, during this time, the images were displaying on Google Chrome browsers on android mobile devices (e.g. Oppo Reno Z) and Google Chrome’s desktop application. 
+
+-  Solution: The issue was resolved by manually resizing images’ dimensions (px)  and reducing the resolution (dpi) values. This was achieved using Adobe Photoshop. Arguably, this method can cause issues when printing images, however as the images were to be displayed digitally, reducing the resolution of the images did not have a detrimental impact on the images’ aesthetics.  After resizing, the images showed on both browsers on tablet, mobile and desktop devices. 
 
 
 ## Section 7: Deployment

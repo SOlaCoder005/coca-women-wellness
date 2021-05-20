@@ -196,7 +196,7 @@ Please find below a list of all the technologies that have been used to help bui
 - [Google Fonts](https://fonts.google.com/): This platform was used to select and import the deired font into my source code.
 -	[Pinterest]( https://www.pinterest.co.uk/feli_fierce/cww_website_colourtheme/): An application where I collated visuals for my mood board for the website’s colour schemes (include live link to board).
 -	[Youtube]( https://www.youtube.com/): Referred to for useful coding and UXD tips and tutorials.
--	[Bootstrap.com]( https://getbootstrap.com/): Provided useful components that assisted my site’s functionality (e.g. responsive navigation menu)
+-	[Bootstrap.com]( https://getbootstrap.com/): Provided useful components that assisted my site’s functionality (e.g. responsive navigation menu).
 -	[VSCode]( https://code.visualstudio.com/): An open source IDE that can be used online and locally on your desktop.
 -	[GitPod]( https://www.gitpod.io/): An IDE that can be used online and locally on your desktop.
 -	[GitHub]( https://github.com/): A version control software that can has both desktop and online platforms.

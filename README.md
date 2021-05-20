@@ -203,12 +203,14 @@ Please find below a list of all the technologies that have been used to help bui
 -	[Google Drive](https://drive.google.com/): This was mainly used to backup my repo once saved to my local drive.
 -   [Google Fonts](https://fonts.google.com/): This platform was used to select and import the deired font into my source code.
 -   [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/): This has been used to check the quality of my CSS code and ensures it passes coding standards.
--   [Pexels](https://www.pexels.com/) - Aside from the CWW logo, some of the photos included on the live website has been sourced from Pexels. Pexels provides royalty-free stock images. 
--   [Pixabay](https://pixabay.com/) - Aside from the CWW logo, some of the photos included on the live website has been sourced from Pixabay. Pexels provides royalty-free stock images. 
+-   [Pexels](https://www.pexels.com/): Aside from the CWW logo, some of the photos included on the live website has been sourced from Pexels. Pexels provides royalty-free stock images. 
+-   [Pixabay](https://pixabay.com/): Aside from the CWW logo, some of the photos included on the live website has been sourced from Pixabay. Pexels provides royalty-free stock images. 
 -   [Pinterest](https://www.pinterest.co.uk/feli_fierce/cww_website_colourtheme/): An application where I collated visuals for my mood board for the website’s colour schemes (include live link to board).
 -   [Responsively](https://responsively.app/download): Web Browser that allows you to check the degree to which you website is responsive on various device sizes and screen orientations.
--	[VSCode](https://code.visualstudio.com/): An open source IDE that can be used online and locally on your desktop.
+-   [Stack Overflow](https://stackoverflow.com/): This was used as a reference tool to assist with both HTML coding techniques.[VSCode](https://code.visualstudio.com/): An open source IDE that can be used online and locally on your desktop.
 -   [W3C Validator](https://validator.w3.org/): This has been used to check the quality of my HTML code and ensures it passes coding standards.
+-   [W3 Schools](https://www.w3schools.com/): This was used as a reference tool to assist with HTML coding techniques. 
+-   [W3.CSS](https://www.w3schools.com/w3css/default.asp): This was used as a reference tool to assist with CSS coding techniques.
 -   [Youtube](https://www.youtube.com/): Referred to for useful coding and UXD tips and tutorials.
 
 

@@ -168,6 +168,13 @@ The fonts used on the CWW site were imported from [Google Fonts](https://fonts.g
 - **Open Sans**: Aside from the header, this font was used throughout the site. It was chosen to compliment the ‘feminine’ theme of the site. Arguably, round shapes are often associated with feminine characteristics. As such, the rounded characteristics of this font conveys a softer tone to the overall page compared to the Oswald font and vibrant colours used. 
 
 ## Section 3: Features
+
+<img src="/assets/images/website-screenshots-and-elements/CWW-live-home.PNG">
+<img src="/assets/images/website-screenshots-and-elements/CWW-live-about.png">
+<img src="/assets/images/website-screenshots-and-elements/CWW-live-recipes.png">
+<img src="/assets/images/website-screenshots-and-elements/CWW-live-playlists.png">
+<img src="/assets/images/website-screenshots-and-elements/CWW-live-connect.png">
+
     In this section, you should go over the different parts of your project and describe each in a sentence or so.
 
     Existing Features

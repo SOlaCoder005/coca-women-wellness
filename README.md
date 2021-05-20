@@ -199,7 +199,7 @@ Please find below a list of all the technologies that have been used to help bui
 -	[GitHub](https://github.com/): A version control software that can has both desktop and online platforms. 
 -   [GitPod](https://www.gitpod.io/): An IDE that can be used online and locally on your desktop.
 -	[Google Drive](https://drive.google.com/): This was mainly used to backup my repo once saved to my local drive.
--   [Google Fonts](https://fonts.google.com/): This platform was used to select and import the deired font into my source code.
+-   [Google Fonts](https://fonts.google.com/): This platform was used to select and import the desired font into my source code.
 -   [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/): This has been used to check the quality of my CSS code and ensures it passes coding standards.
 -   [Pexels](https://www.pexels.com/): Aside from the CWW logo, some of the photos included on the live website has been sourced from Pexels. Pexels provides royalty-free stock images. 
 -   [Pixabay](https://pixabay.com/): Aside from the CWW logo, some of the photos included on the live website has been sourced from Pixabay. Pexels provides royalty-free stock images. 
@@ -224,7 +224,13 @@ A series of tests have been conducted on the CWW site’s functionality and its 
 - Explanation of how the issues above contributed to the need to change CWW site’s functional structure and design. 
 - Methods undertaken to create and test the current CWW site’s structure and responsiveness. 
 
-The subsections below summarise the most salient testing findings undertaken for the project: 
+The subsections below summarise the most salient testing findings:
+
+### 6.1 Validator Testing
+To ensure that the source code for the CWW met industry standards, each page was run through the [W3C Validator](https://validator.w3.org/) and [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator). 
+
+In more detail, the W3C Validator was used to test the HTML code whereas the Jigsaw Validator tested the CSS code. To ensure the continuity of the source code, it was tested through these platforms both by file upload and via direct input. The code passed the test in both formats and the results can be found [here](/docs/testing/validator-results-pass). 
+
 
 
 

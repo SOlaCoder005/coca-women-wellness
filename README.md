@@ -21,10 +21,6 @@
 
 
 
-<img src="/assets/images/website-screenshots-and-elements/DeviceMockupCWW.png">
-
-
-
 ## Section 1: Overview 
 
 This repository is for Portfolio 1: HTML & CSS project which is part of the Full Stack Software Development Diploma (5P) with the Code Institute (CI). 
@@ -35,9 +31,13 @@ Out of several project briefs presented, Project Example Idea 0 was chosen as th
 
 Akin to the objectives in example 3, the Coca Women’s Wellness (CWW) website aims to attract users that seek to access artefacts and resources (e.g. videos, recipes, social activities) aimed to bolster and teach _”...body/mind self-improvement techniques’_.
 
-<img src="/assets/images/website-screenshots-and-elements/CWW-live-home.PNG">
 
 #### Coca Women Wellness - the website
+
+
+<img src="/assets/images/website-screenshots-and-elements/DeviceMockupCWW.png">
+
+
 
 The CWW site aims to develop users’ mindful practices (e.g. yoga, meditation etc.) which can help to boost overall wellbeing. The website hosts several digital mediums to reach this goal (e.g. videos on physical exercise, mindful practices, recipes, music, social activities and even meditations techniques). Such resources have been included on the site to reflect the feedback gained from users’ stories. Such stories were gathered at the early stages of website development and shall be expanded on in later sections of this file. 
 
@@ -118,7 +118,8 @@ Based on the users’ feedback, and implementing some methods outlined in UX Des
 
 Below are links to serval documents that have supported the conceptualisation and implementation of designing the CWW website. The content ranges from wireframes, mood bards, tables, matrix charts, and even existing websites that has inspired the create of CWW (e.g. colour themes for the website). 
 
-#### Wireframes 
+#### Wireframes
+
 The wireframes depict the preliminary concept for the CWW website design and have been grouped by page and device type. The structure and appearance of the live CWW website varies considerably from the preliminary wireframes. The contributing factors for these difference has been documented in the [testing document](https://github.com/SOlaCoder005/coca-women-wellness/blob/a5c2068f53f901115928df67ad9651ef0c35415e/docs/testing/TESTING.md) within the current readme and repository. Although the final structure of the site differs considerably to the preliminary wireframes; the CWW responds to different device parameters and hence screen sizes (incl. Desktop, mobile and tablet screens). 
 
 
@@ -144,9 +145,7 @@ As part of the preliminary conceptualisation of the CWW website, the designer ch
 
 Keeping cultural characteristics in mind, a combination of brown and other warm hues were incorporated into the colour scheme CWW. For instance, the conscious decision to apply yellow as the primary colour scheme of the homepage was linked to the strong social-cultural, semantic, and symbolic meaning it conveys within several African/Caribbean communities. 
 
-
-<img src="/assets/images/website-screenshots-and-elements/CWW-live-home-header.PNG">
-
+<img src="/assets/images/website-screenshots-and-elements/CWW-live-home.PNG">
 
 Arguably many of these cultures have assigned positive connotations to the colour yellow. For instance, concepts around wealth, femininity and fertility in some African cultures are often illustrated with yellow aspects, this can be incorporated into garment colour schemes and even religious characterisations. For instance, the Yoruba Orisha – Oshun has been often been drawn wearing yellow garments (Britannica.com, 2021).  Similarly, within the Caribbean, specifically Rastafarian cultures, the colour yellow has been included in their native attire and artefacts. Yellow in this culture is used to signify wealth and prosperity (BBC.co.uk, 2009).  
 
@@ -162,6 +161,10 @@ The other colours throughout the site were sourced from the primary left-hand im
 #### Design: Fonts 
 
 The fonts used on the CWW site were imported from [Google Fonts](https://fonts.google.com/) and were used on the website for the following reasons: 
+
+
+<img src="/assets/images/website-screenshots-and-elements/CWW-live-home-header.PNG">
+
 
 - **Oswald**: This is a considerably ‘weighted’ sans-serif font. It was used on the header sections to ensure that the navigation titles remained prominent across the varying header colours.
 

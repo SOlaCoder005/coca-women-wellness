@@ -234,7 +234,7 @@ In more detail, the W3C Validator was used to test the HTML code whereas the Jig
 
 
 ### 6.2 Other testing
-Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING.md) report two additional ‘bugs’ frequently arose throughout the development of the CWW site, until a solution was found. For instance:  
+Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING.md) report, two additional ‘bugs’ frequently arose throughout the development of the CWW site, until a solution was found. For instance:  
 
 #### Blurry images on the CWW’s pages: 
 - Issue: While the photos used on the site were sourced from Pixabay.com with a high resolution, the images were blurry on several web browsers and device screens.  

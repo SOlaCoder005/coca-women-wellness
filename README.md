@@ -12,12 +12,11 @@
 - ### Section 4: Technologies Used
 - ### Section 5: JQuery
 - ### Section 6: Testing
-- ### Section 7: Contact form
-- ### Section 8: Deployment
-- ### Section 9: Credits
-- ### Section 10: Content
-- ### Section 11: Acknowledgements
-- ### Section 12: References
+- ### Section 7: Deployment
+- ### Section 8: Credits
+- ### Section 9: Content
+- ### Section 10: Acknowledgements
+- ### Section 11: References
 
 
 
@@ -36,7 +35,6 @@ Akin to the objectives in example 3, the Coca Women’s Wellness (CWW) website a
 
 
 <img src="/assets/images/website-screenshots-and-elements/DeviceMockupCWW.png">
-
 
 
 The CWW site aims to develop users’ mindful practices (e.g. yoga, meditation etc.) which can help to boost overall wellbeing. The website hosts several digital mediums to reach this goal (e.g. videos on physical exercise, mindful practices, recipes, music, social activities and even meditations techniques). Such resources have been included on the site to reflect the feedback gained from users’ stories. Such stories were gathered at the early stages of website development and shall be expanded on in later sections of this file. 
@@ -213,33 +211,25 @@ Please find below a list of all the technologies that have been used to help bui
 -   [W3.CSS](https://www.w3schools.com/w3css/default.asp): This was used as a reference tool to assist with CSS coding techniques.
 -   [Youtube](https://www.youtube.com/): Referred to for useful coding and UXD tips and tutorials.
 
-
-
-
  
 ## Section 5: JQuery
 
 The project uses JQuery to simplify DOM manipulation.
 
 ## Section 6: Testing
-    In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-    Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+A series of tests have been conducted on the CWW site’s functionality and its source-code. An extensive report of the tests conducted can be accessed [here](/docs/testing/TESTING.md); labelled as ‘TESTING.md’. The report discusses the multiple factors that arose throughout the testing process of the site. The key points discussed in the report include:
 
-    For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+- Responsiveness issues with CWW site’s initial design and structure (reflected in the wireframes). 
+- Explanation of how the issues above contributed to the need to change CWW site’s functional structure and design. 
+- Methods undertaken to create and test the current CWW site’s structure and responsiveness. 
 
-## Section 7: Contact form
-    Go to the "Contact Us" page
-    Try to submit the empty form and verify that an error message about the required fields appears
-    Try to submit the form with an invalid email address and verify that a relevant error message appears
-    Try to submit the form with all inputs valid and verify that a success message appears.
-    In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+The subsections below summarise the most salient testing findings undertaken for the project: 
 
-    You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
-    If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-## Section 8: Deployment
+
+## Section 7: Deployment
 
     This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
@@ -250,10 +240,10 @@ The project uses JQuery to simplify DOM manipulation.
     Separate git branch?
     In addition, if it is not obvious, you should also describe how to run your code locally.
 
-## Section 9: Credits
+## Section 8: Credits
     An material /people that have helped you create the website
 
-## Section 10: Content
+## Section 9: Content
 The text for section Y was copied from the Wikipedia article Z
     Media
     The photos used in this site were obtained from ...
@@ -264,9 +254,9 @@ COLOUR SCHEME
 NOTE TO SELF- UPLOAD FILES TO YOUR GOOGLE DRIVE AND GRANT PUBLIC ACCESS
 
 
-## Section 11: Acknowledgements
+## Section 10: Acknowledgements
 I received inspiration for this project from X
-## Section 12: References
+## Section 11: References
 -	BBC.co.uk. 2009. ”Rastafari at a glance”. [online]. Available at: https://www.bbc.co.uk/religion/religions/rastafari/ataglance/glance.shtml#:~:text=Rastafarian%20colours&text=Red%20signifies%20the%20blood%20of,the%20Africans%20who%20initiated%20Rastafari (Accessed: 07/05/21)
 -	Britannica.com. 2021. [online]. Available at: https://www.britannica.com/topic/Oshun (Accessed:07/05/21).
 - Developer.mozilla.org. 2021. @media - CSS: Cascading Style Sheets | MDN. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/CSS/@media> [Accessed 18 May 2021].

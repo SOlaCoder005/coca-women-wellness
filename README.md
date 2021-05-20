@@ -21,7 +21,7 @@
 
 
 
-<img src="/assets/images/DeviceMockupCWW.png">
+<img src="/assets/images/website-screenshots-and-elements/DeviceMockupCWW.png">
 
 
 
@@ -35,7 +35,7 @@ Out of several project briefs presented, Project Example Idea 0 was chosen as th
 
 Akin to the objectives in example 3, the Coca Women’s Wellness (CWW) website aims to attract users that seek to access artefacts and resources (e.g. videos, recipes, social activities) aimed to bolster and teach _”...body/mind self-improvement techniques’_.
 
-<img src="/assets/images/CWW-live-home.PNG">
+<img src="/assets/images/website-screenshots-and-elements/CWW-live-home.PNG">
 
 #### Coca Women Wellness - the website
 
@@ -145,7 +145,7 @@ As part of the preliminary conceptualisation of the CWW website, the designer ch
 Keeping cultural characteristics in mind, a combination of brown and other warm hues were incorporated into the colour scheme CWW. For instance, the conscious decision to apply yellow as the primary colour scheme of the homepage was linked to the strong social-cultural, semantic, and symbolic meaning it conveys within several African/Caribbean communities. 
 
 
-<img src="/assets/images/CWW-live-home-header.PNG">
+<img src="/assets/images/website-screenshots-and-elements/CWW-live-home-header.PNG">
 
 
 Arguably many of these cultures have assigned positive connotations to the colour yellow. For instance, concepts around wealth, femininity and fertility in some African cultures are often illustrated with yellow aspects, this can be incorporated into garment colour schemes and even religious characterisations. For instance, the Yoruba Orisha – Oshun has been often been drawn wearing yellow garments (Britannica.com, 2021).  Similarly, within the Caribbean, specifically Rastafarian cultures, the colour yellow has been included in their native attire and artefacts. Yellow in this culture is used to signify wealth and prosperity (BBC.co.uk, 2009).  

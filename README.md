@@ -223,7 +223,7 @@ A series of tests have been conducted on the CWW site’s functionality and its 
 - Responsiveness issues with CWW site’s initial design and structure (reflected in the wireframes). 
 - Explanation of how the issues above contributed to the need to change CWW site’s functional structure and design. 
 - Methods undertaken to create and test the current CWW site’s structure and responsiveness. 
-- User Stories testing process 
+- User Stories testing process. 
 
 The subsections below summarise the most salient testing findings:
 

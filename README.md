@@ -232,7 +232,6 @@ To ensure that the source code for the CWW met industry standards, each page was
 In more detail, the W3C Validator was used to test the HTML code whereas the Jigsaw Validator tested the CSS code. To ensure the continuity of the source code, it was tested through these platforms both by file upload and via direct input. The code passed the test in both formats and the results can be found [here](/docs/testing/validator-results-pass).
 
 
-
 ### 6.2 Other testing
 Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING.md) report, two additional ‘bugs’ frequently arose throughout the development of the CWW site, until a solution was found. For instance:  
 
@@ -241,11 +240,26 @@ Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING
 
 - Solution: After conducting further research into image quality within coding, the issue was resolved by using the property **‘object-fix:___;’** as a function within the .css style sheet. 
 
-#### Images failed to display on one web browser but not the other: 
+#### CWW's images failed to display on one web browser but not the other: 
 
 - Issue: When using an android tablet, the images on CWW did not display on a Google Chrome browser but did on the Microsoft Edge browser. This issue persisted after clearing the cache and cookies data on the Google Chrome browser multiple times.  However, during this time, the images were displaying on Google Chrome browsers on android mobile devices (e.g. Oppo Reno Z) and Google Chrome’s desktop application. 
 
 -  Solution: The issue was resolved by manually resizing images’ dimensions (px) and reducing the resolution (dpi) values. This was achieved using Adobe Photoshop. Arguably, this method can cause issues when printing images, however as the images were to be displayed digitally, reducing the resolution of the images did not have a detrimental impact on the images’ aesthetics.  After resizing, the images showed on both browsers on tablet, mobile and desktop devices. 
+
+### 6.3 Unfixed Bugs 
+
+#### 6.3.1 Structural Integrity: The awkward positioning of the label and input elements of the form on the ‘CONNECT’ page 
+
+- Issue: An unresolved bug on the CWW site is the positioning of the form’s input boxes on the connect page, when orientated vertically.  For instance, when the form is accessed on a mobile or tablet; the email address input element will not display on same line as its label. However, the positioning of these elements aligns when the devices are rotated and used horizontally. 
+
+#### 6.3.2 Structural Integrity: The positioning of the text on the ‘HOME’, ‘RECIPES’ and ‘PLAYLISTS’ pages 
+
+- Issue: Another unresolved bug on the CWW site is the positioning of the text when displayed on a vertical mobile screen. The text sections become extremely narrow and present awkward aesthetic formatting. Akin to the other bug, this is not an issue when a mobile or tablet device is rotated and used horizontally. As it is natural for mobile devices to be held vertically, to improve user experience, the layout of the CWW website should be responsive to vertical rotation effectively. 
+
+#### Potential cause for bugs: 
+
+The bugs highlighted above has resulted from the programmer’s current limited knowledge around coding principles for responsive design. This limitation shall be resolved through further study and implementation of gained knowledge in future coding projects.   
+
  
 
 ## Section 7: Deployment

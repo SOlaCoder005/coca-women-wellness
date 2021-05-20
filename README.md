@@ -32,7 +32,7 @@ Out of several project briefs presented, Project Example Idea 0 was chosen as th
 Akin to the objectives in example 3, the Coca Women’s Wellness (CWW) website aims to attract users that seek to access artefacts and resources (e.g. videos, recipes, social activities) aimed to bolster and teach _”...body/mind self-improvement techniques’_.
 
 
-#### Coca Women Wellness - the website
+### 1.1 Coca Women Wellness - the website
 
 
 <img src="/assets/images/website-screenshots-and-elements/DeviceMockupCWW.png">

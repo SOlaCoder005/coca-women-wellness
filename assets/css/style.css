@@ -40,7 +40,7 @@ header {
 #menu a {
     text-decoration: none;
     font-size: 30px;
-    color: #3e0d05d9;
+    color: rgba(62, 13, 5, 0.8);
     font-weight: 600;
     font-family: 'Oswald', sans-serif;
 }
@@ -53,9 +53,8 @@ header {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding: 5px;
+    padding: 10px;
     font-weight: 500;
-    font-size: 50px;
 }
 /*NAVIGATION MENU - ENDS*/
 
@@ -119,7 +118,7 @@ main {
     font-weight: 500;
     font-family: 'Oswald', sans-serif;
     letter-spacing: .05em;
-    font-size: 3.8rem;/*60px*/
+    font-size: 60px;
 }
 
 .home-headline h3 {
@@ -177,7 +176,7 @@ color: rgb(255, 215, 0);
 }
 
 .homeicon:hover{
-    color: rgb(255, 165, 0, .5);
+    color: rgb(255, 165, 0, .6);
 }
 
 
@@ -454,11 +453,11 @@ div iframe {
     background-color:rgba(63, 25, 202);
 }
 
-.row:after {
+/* .row:after {
     content: "";
     display: table;
     clear: both;
-}
+} */
 
 #playlist-header {
     text-align: center;
@@ -469,11 +468,12 @@ div iframe {
     color: rgb(62, 13, 5, .9);
 } 
 
-#playlist-header h2 {
-    color: rgba(63, 25, 202);
+#playlist-header h1 {
+    color: rgba(63, 25, 202, .5);
     font-weight: 500;
     font-family: 'Oswald', sans-serif;
     letter-spacing: .05em;
+    font-size: 60px;
 }
 
 .playlisticon i {
@@ -500,7 +500,6 @@ div iframe {
     font-weight: 600;
     font-family: 'Oswald', sans-serif;
 }
-
 
 #connect-background {
     background-color: rgb(99, 172, 229, .15);
@@ -645,7 +644,6 @@ input:hover {
 .connect-footer-style {
     background-color:rgb(255, 165, 0);
 }
-
 /*CONNECT PAGE - END*/
 
 
@@ -687,7 +685,6 @@ footer {
 
 /*MEDIA QUERIES - STARTS*/
 
-
 /*Some of the declarations in the media query code has been influenced by the principles shown in Original Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 /*For standard mobile screens in portrait orientation*/
 /*Aside/Sidebar element stacks underneath header*/
@@ -709,7 +706,6 @@ footer {
     } 
 }
 
-
 /*For standard tablet screens in portrait orientation*/
 /*Aside/Sidebar element stacks underneath header*/
 @media only screen and (min-width: 768px) {
@@ -728,7 +724,6 @@ footer {
         "footer";
     }
 }
-
 
 /*Standard to larger dekstop/laptop screens. The conditions values have been set in response reccomendations from Bootstrap.com: [https://getbootstrap.com/docs/5.0/layout/breakpoints/] */
 @media only screen and  (min-width: 992px) {
@@ -760,5 +755,4 @@ footer {
         "sidebar footer footer footer";
     }
 }
-
 /*MEDIA QUERIES - ENDS*/

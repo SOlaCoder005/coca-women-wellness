@@ -674,6 +674,21 @@ footer {
         "main"
         "footer";
     }
+}@media all and (max-width: 768px) {
+    body {
+        margin: 0;
+        display: grid; 
+        grid-template-columns: 100%;
+        grid-template-rows: auto;
+        grid-template-areas:
+        "header"
+        "sidebar"
+        "sect1" 
+        "sect2" 
+        "sect3"
+        "main"
+        "footer";
+    }
 }
 
 /*The declarations in this code/element has been created by myself, influenced by the principles shown in Original Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/

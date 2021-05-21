@@ -2,6 +2,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald&display=swap');
 
+
+/*SITE WIDE PROPERTIES -STARTS*/
 /*The declarations in these codes/element has been amended to suit the need of my website. Origin Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 body, html {
     height: 100vh;
@@ -11,6 +13,8 @@ aside {
     grid-area: sidebar;
     background-color:  rgb(255, 255, 255);
 }
+/*SITE WIDE PROPERTIES -ENDS*/
+
 
 /*NAVIGATION MENU - STARTS*/
 #img-logo {
@@ -59,30 +63,7 @@ header {
 /*NAVIGATION MENU - ENDS*/
 
 
-/*SECTION - START
-*The declarations in these codes/elements has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]
-section:nth-of-type(1) {
-    grid-area: sect1;
-    background-color: white;
-    font-family: 'Open Sans', sans-serif;
-}
-
-section:nth-of-type(2){
-    grid-area: sect2;
-    background-color: white;
-    font-family: 'Open Sans', sans-serif;
-}
-
-section:nth-of-type(3){
-    grid-area: sect3;
-    background-color: white;
-    font-family: 'Open Sans', sans-serif;
-}
-SECTION - ENDS*/
-
-
 /*HOME (INDEX) PAGE - STARTS*/
-
 /*The properties and values in this code/element has been amended to suit the need of my website. Origin Source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
 .img-index {
     width: 100%;
@@ -178,18 +159,17 @@ color: rgb(255, 215, 0);
 .homeicon:hover{
     color: rgb(255, 165, 0, .6);
 }
-
-
 /*HOME (INDEX) PAGE - ENDS*/
 
 
 /*ABOUT PAGE - STARTS*/
+/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
 .img-about {
     width: 100%;
     height: 100%;
     object-fit: cover;
     object-position: 50% 50%; 
-}/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
+}
 
 .about-header-style {
     background-color: rgba(253, 139, 196, .7);
@@ -226,23 +206,25 @@ color: rgb(255, 215, 0);
     font-size: 40px;
 }
 
+/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.w3schools.com/howto/howto_css_image_center.asp]*/
 .founder img {
     border-radius: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding: 25px;  
-}/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.w3schools.com/howto/howto_css_image_center.asp]*/
+}
 /*ABOUT PAGE - ENDS*/
 
 
 /*RECIPES PAGE - STARTS*/
+/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
 .img-recipes {
     width: 100%;
     height: 100%;
     object-fit: cover;
     object-position: 70%; 
-}/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
+}
 
 .recipes-header-style {
     background-color: rgb(253, 239, 160);
@@ -419,20 +401,22 @@ section .recipe-boxes {
 #box3 li {
     display: list-item;
 }
-  
+
+/*Note: This element is for the in-text hyperlink on the recipes page. The feature has only been used once on the recipes page.*/  
 #footer {
     text-decoration: none;
-}/*Note: This element is for the in-text hyperlink on the recipes page. The feature has only been used once on the recipes page.*/
+}
 /*RECIPES PAGE - ENDS*/
 
 
 /*PLAYLISTS PAGE - STARTS*/
+/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
 .img-playlists {
     width: 100%;
     height: 100%;
     object-fit: cover;
     object-position: 50% 50%; 
-}/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
+}
 
 div iframe {
     display: inline-block;
@@ -452,12 +436,6 @@ div iframe {
 .playlists-footer-style {
     background-color:rgba(63, 25, 202);
 }
-
-/* .row:after {
-    content: "";
-    display: table;
-    clear: both;
-} */
 
 #playlist-header {
     text-align: center;
@@ -489,11 +467,12 @@ div iframe {
 
 
 /*CONNECT PAGE - STARTS*/
+/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
 .img-connect {
     width: 100%;
     height: 100%;
     object-fit: cover;
-}/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
+}
 
 .connect-header-style {
     background-color: rgb(255, 165, 0);
@@ -648,13 +627,13 @@ input:hover {
 
 
 /*FOOTER -STARTS*/
+/*The declarations in this code/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 footer {
     grid-area: footer;
     padding: 10px 0 20px 0;
     text-align: center;
     margin-top: 20px;
-}/*The declarations in this code/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
-
+}
 #copyright-style {
     font-size: 15px;
     color: #3e0d05d9;
@@ -683,10 +662,8 @@ footer {
 }
 /*FOOTER - ENDS*/
 
-/*MEDIA QUERIES - STARTS*/
 
-/*Some of the declarations in the media query code has been influenced by the principles shown in Original Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
-/*For standard mobile screens in portrait orientation*/
+/*MEDIA QUERIES - STARTS*/
 /*Aside/Sidebar element stacks underneath header*/
 @media only screen and  (min-width: 320px) {
 
@@ -725,7 +702,8 @@ footer {
     }
 }
 
-/*Standard to larger dekstop/laptop screens. The conditions values have been set in response reccomendations from Bootstrap.com: [https://getbootstrap.com/docs/5.0/layout/breakpoints/] */
+/*Standard to larger dekstop/laptop screens. The conditions values have been set in response reccomendations from Bootstrap.com: [https://getbootstrap.com/docs/5.0/layout/breakpoints/]*/
+/*Aside/Sidebar element positions on the left-side of the device's screen*/
 @media only screen and  (min-width: 992px) {
     body {
             margin: 0;
@@ -741,6 +719,7 @@ footer {
 }
 
 /*Larger desktop screens. The conditions values have been set in response reccomendations from Bootstrap.com:[https://getbootstrap.com/docs/5.0/layout/breakpoints/] */
+/*Aside/Sidebar element positions on the left-side of the device's screen*/
 @media only screen and (min-width: 1200px) {
 
     body {
@@ -756,3 +735,5 @@ footer {
     }
 }
 /*MEDIA QUERIES - ENDS*/
+/*Some of the declarations in the media query code has been influenced by the principles shown in Original Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
+/*For standard mobile screens in portrait orientation*/

@@ -483,51 +483,18 @@ div iframe {
     font-family: 'Oswald', sans-serif;
 }
 
-.our-details {
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 16px;
-    font-weight: 500;
-    text-align: left;
-    display: inline;
-}
-
-.our-details h5 {
-    font-size: 18px; 
-    font-weight: 600; 
-    text-decoration: underline;
-    color:rgb(255, 165, 0);
-    margin-top: 5px;
-}
-
-.our-details i {
-    font-size: 30px;
-    padding: 5px;
-    margin-bottom: 10px;
-}
-
-.our-details a {
-    text-decoration: none;
-    padding: 5px; 
-    color:rgb(255, 165, 0);
-}
-
-.our-details span {
-    padding-bottom: 20px;
-    color:rgb(255, 165, 0);
-}
 
 #connect-background {
     background-color: rgb(99, 172, 229, .15);
-    width: 90%;
+    width: 98%;
     height: auto;
-    padding: 20px;
+    padding: 25px;
     border: 2px solid rgb(255, 165, 0);
     border-radius: 1%;
-    margin: 50px 25px;
+    margin: 25px 25px;
     margin-left: auto;
     margin-right: auto;
-    color:rgb(255, 165, 0);
+    color: rgb(255, 165, 0);
 }
 
 .cwu-form  p {
@@ -550,7 +517,7 @@ div iframe {
 }
 
 .cwu-form  i {
-    font-size: 20px;
+    font-size: 30px;
     margin-left: 20px; 
     margin-right: 5px; 
     margin-top: 5px; 
@@ -559,17 +526,14 @@ div iframe {
 
 .handle  i {
     font-size: 30px;
-    margin-left: 20px; 
-    margin-bottom: 5px; 
+    /* margin-left: 20px;  */
+    
     display: inline-block;
-    padding: 10px;
     color: rgb(255, 165, 0);
 }
 
 .handle  input {
-    margin-left: 20px; 
-    margin-bottom: 5px; 
-    padding: 10px;
+    padding: 5px;
 }
     
 .cwu-form label {
@@ -578,7 +542,7 @@ div iframe {
 }
 
 .cwu-form input { 
-    padding: 10px;   
+    padding: 5px;   
     border: 2px solid rgb(255, 165, 0);
     border-radius: 3%;
     background-color: rgb(255, 255, 255);
@@ -623,6 +587,40 @@ input:hover {
 
 .button-style input:hover {
     color: rgb(99, 172, 229);
+}
+
+.our-details {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: left;
+    display: inline;
+}
+
+.our-details h5 {
+    font-size: 18px; 
+    font-weight: 700; 
+    color:rgb(255, 165, 0);
+    text-decoration: underline;
+    margin-top: 5px;
+}
+
+.our-details i {
+    font-size: 30px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.our-details a {
+    text-decoration: none;
+    padding: 5px; 
+    color:rgb(255, 165, 0);
+}
+
+.our-details span {
+    padding-bottom: 20px;
+    color:rgb(255, 165, 0);
 }
 
 /*Note: The '.connect-footer-style...' elements (below) has been created as the other :hover elements on the other pages' footers blends in with the footer background-colour of the connect.html page*/

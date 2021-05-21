@@ -687,10 +687,32 @@ footer {
 
 /*MEDIA QUERIES - STARTS*/
 
-/*The declarations in this code/element has been created by myself, influenced by the principles shown in Original Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
-/*Note: Do not change media query declations. Changing the declaration to "max-width:px;" on the media quey allows the aside image to stack on-top of header rather than be removed completely*/
-/*For samll-standard mobile screen size*/
-@media all and (min-width: 320px) {
+
+/*Some of the declarations in the media query code has been influenced by the principles shown in Original Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
+/*For standard mobile screens in portrait orientation*/
+/*Aside/Sidebar element stacks underneath header*/
+@media only screen and  (min-width: 320px) {
+
+    body {
+        margin: 0;
+        display: grid; 
+        grid-template-columns: 100%;
+        grid-template-rows: auto;
+        grid-template-areas:
+        "header"
+        "sidebar"
+        "sect1" 
+        "sect2" 
+        "sect3"
+        "main"
+        "footer";
+    } 
+}
+
+
+/*For standard tablet screens in portrait orientation*/
+/*Aside/Sidebar element stacks underneath header*/
+@media only screen and (min-width: 768px) {
     body {
         margin: 0;
         display: grid; 
@@ -707,9 +729,25 @@ footer {
     }
 }
 
-/*The declarations in this code/element has been created by myself, influenced by the principles shown in Original Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
-  /*For standard desktop screen size*/
-@media only screen and (min-width: 768px) {
+
+/*Standard to larger dekstop/laptop screens. The conditions values have been set in response reccomendations from Bootstrap.com: [https://getbootstrap.com/docs/5.0/layout/breakpoints/] */
+@media only screen and  (min-width: 992px) {
+    body {
+            margin: 0;
+            display: grid; 
+            grid-template-columns: 20% auto auto auto;
+            grid-template-rows: auto;
+            grid-template-areas:
+            "sidebar header header header"
+            "sidebar sect1 sect2 sect3"
+            "sidebar main main main"
+            "sidebar footer footer footer";
+    }
+}
+
+/*Larger desktop screens. The conditions values have been set in response reccomendations from Bootstrap.com:[https://getbootstrap.com/docs/5.0/layout/breakpoints/] */
+@media only screen and (min-width: 1200px) {
+
     body {
         margin: 0;
         display: grid; 
@@ -721,5 +759,6 @@ footer {
         "sidebar main main main"
         "sidebar footer footer footer";
     }
-}  
+}
+
 /*MEDIA QUERIES - ENDS*/

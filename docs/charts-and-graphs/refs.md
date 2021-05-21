@@ -7,7 +7,6 @@ Below are a list of references that has aided the programmer's knowledge and und
 -	BBC.co.uk. 2009. ”Rastafari at a glance”. [online]. Available at: https://www.bbc.co.uk/religion/religions/rastafari/ataglance/glance.shtml#:~:text=Rastafarian%20colours&text=Red%20signifies%20the%20blood%20of,the%20Africans%20who%20initiated%20Rastafari (Accessed: 07/05/21)
 -	Britannica.com. 2021. [online]. Available at: https://www.britannica.com/topic/Oshun (Accessed:07/05/21).
 - Developer.mozilla.org. 2021. @media - CSS: Cascading Style Sheets | MDN. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/CSS/@media> [Accessed 18 May 2021].
-
 - Developer.mozilla.org. 2021. justify-content - CSS: Cascading Style Sheets | MDN. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content> [Accessed 18 May 2021].
 - DunkDesign, K., Bosh, H., Agarwal, A. and Liu, J., 2021. "The frameborder attribute on the iframe element is obsolete. Use CSS instead.". [online] Stack Overflow. Available at: <https://stackoverflow.com/questions/26274082/the-frameborder-attribute-on-the-iframe-element-is-obsolete-use-css-instead> [Accessed 19 May 2021].
 -	Hpft.nhs.uk. 2021. The Care Act: Wellbeing. [online] Available at: <https://www.hpft.nhs.uk/information-and-resources/care-act-2014/the-care-act-wellbeing/> [Accessed 7 May 2021].

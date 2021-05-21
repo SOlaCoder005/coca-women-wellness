@@ -37,6 +37,7 @@ header {
     width: 50%;
     text-align: center; 
     letter-spacing: .1em;
+    
 }
 
 #menu a {
@@ -46,6 +47,7 @@ header {
     color: white;
     font-weight: 600;
     font-family: 'Oswald', sans-serif;
+    font-size: 35px;
 }
 
 #menu a:hover {

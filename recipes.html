@@ -7,19 +7,29 @@
         <meta name="keywords" content="black, women, health, wellness, mindfullness, UK">
         <title>Coca Women Wellness</title>
         <link rel="stylesheet" href="assets/css/style.css" type="text/css">
-        <link rel="stylesheet" href="assets/css/bootstrap-sourcecode/bootstrap.min.css"><!--Include these css links in any page of this site--><!--stytlesheet is linked this way as it links to the local bootstrap on my device-->
+        <!--Include this stylesheet link in any page of this site-->
+        <!--The stytlesheet below is linked this way as it links to the local bootstrap css and js folders on my device and included in this repo-->
+        <link rel="stylesheet" href="assets/css/bootstrap-sourcecode/bootstrap.min.css">
+        <!-- All images on the website have been sourced from Pexels.com: [https://www.pexels.com/]-->
     </head>
     <body>
+
+        <!--This tag holds the sidebar image-->
         <aside>
-            <img class="img-recipes" src="assets/images/pexels-rodnae-productions-6004793.jpg" alt="#"> 
+            <img class="img-recipes" src="assets/images/pexels-rodnae-productions-6004793.jpg" alt="lady cooking in kitchen"> 
         </aside>
         
+        <!--The class 'recipes-header-style dictates the stylyling of the element (e.g. cream for the recipes.html)'-->
         <header class="recipes-header-style">
-            <nav class="navbar navbar-expand-lg navbar-custom navbar-light"><!--nav bar code has been sourced from Bootstrap.com. Source:https://getbootstrap.com/docs/4.0/components/navbar/-->
+
+            <!--nav bar code has been sourced from Bootstrap.com. However, I have customsied some of the elements Origin Source:https://getbootstrap.com/docs/4.0/components/navbar/-->
+            <nav class="navbar navbar-expand-lg navbar-custom navbar-light">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
                 </button>
-                <a href="index.html"><img src="assets/images/logowtextncb.png" alt="woman-with-outlined-face-logo" id="img-logo"></a>
+
+                <!--Do not change this <a> tag as it holds the logo for the website-->
+                <a href="index.html"><img src="assets/images/logowtextncb.png" alt="woman with outlined face logo" id="img-logo"></a>
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
                     <ul class="navbar-nav mr-auto" id="menu">
                         <li class="nav-item active">
@@ -42,7 +52,6 @@
               </nav>
         </header>
 
-        
         <main>
 
             <section class="recipe-header">
@@ -50,11 +59,16 @@
                 <p>Below we have provided a couple of scrumptious recipies! Please feel free to try them out asnd share your results with us on one of our<a href="#footer"><em>social media channels!</em></a></p>
             </section>
 
-            <img src="assets/images/pexels-pixabay-357573.jpg" class="center-recipe" alt="stacked pancakes on a plate with honey drizzled over them" >
-        
-            <section class="recipe-boxes"><!--First recipe image and instructions-->
+            <!--First center image-->
+            <img src="assets/images/pexels-pixabay-357573.jpg" class="center-recipe" alt="stacked pancakes on a plate with honey drizzled over them">
+
+            <!--The aria-label has been used insted of aria-labelledby as there is no visible text text is not visble. For more information: [https://www.w3.org/TR/wai-aria/#aria-label]-->
+            <!--The "aria-hidden=true" element been applied to the icon tags as they have sematic meaning. For more information: [https://fontawesome.com/how-to-use/on-the-web/other-topics/accessibility]-->
+            <!--Instructions are below-->
+            <section class="recipe-boxes">
                 <div id="box1">
                     <h2>Gluten-free Pancakes</h2>
+
                         <span><i class="far fa-clock"></i> 30-minutes</span><span><i class="fas fa-utensils"></i> Serves 3 people</span>
                         <p>For some, gluten free food can help aid digestion and inflammation! With that in mind, these gluten free pancakes are a beautiful treat for anyone with a sweet tooth. At least we can feel less guilty about eating it as it is gluten free!</p>
                     <h3>Ingredients</h3>
@@ -81,10 +95,12 @@
                         </ol>
                 </div>
             </section>
-    
+
+            <!--Second center image-->
             <img src="assets/images/pexels-charlotte-may-5947012.jpg" class="center-recipe" alt="fizzy red drink pured into a glass infront of a black background">
-        
-            <section class="recipe-boxes"><!--Second recipe image and instructions-->
+
+            
+            <section class="recipe-boxes">
                 <div id="box2">
                     <h2>Sorrel Juice</h2>
                         <span><i class="far fa-clock"></i> 45-minutes</span>
@@ -114,9 +130,11 @@
                 </div>
             </section>
 
+                <!--Third center image-->   
                 <img src="assets/images/pexels-vicky-tran-3273989.jpg"  class="center-recipe" alt="lemon, cinamon and tea in a mason jar">
-
-            <section class="recipe-boxes"><!--Second recipe image and instructions-->
+            
+            <!--Instructions are below-->
+            <section class="recipe-boxes">
                 <div id="box3">
                     <h2>Ginger Cinnamon Tea</h2>
                     <span><i class="far fa-clock"></i> 15-minutes</span>
@@ -128,7 +146,7 @@
                             <li>1 slice of lemon</li>
                             <li>Hot water (quantity depends on the size of your mug!)</li>
                         </ul>
-                    <h3>Instructions</h3><!--ISSUE list items willl not display when using the standand source code menthod (i.e. <ol><li></li></ol>)-->
+                    <h3>Instructions</h3>
                         <ol>
                             <li>Fill your kettle with water and bring to a boil.</li>
                             <li>If using ginger powder, measure one teaspoon and add to your mug.</li>
@@ -147,20 +165,32 @@
                 </div>
             </section>
         </main>
+
+        <!--The class 'recipes-footer-style' dictates the stylyling of the element (e.g. pink for the about.html)'-->
+        <!--The 'id=footer' is linked to the top paragraph of this page-->
         <footer id="footer" class="recipes-header-style">
-            <div class="sm-links">
-                <a href="https://twitter.com/" target="_blank" rel="external" class="fa fa-twitter"></a>
-                <a href="https://discord.com/" target="_blank" rel="external" class="fab fa-discord"></a>
-                <a href="https://www.instagram.com/" target="_blank" rel="external" class="fa fa-instagram"></a>
-                <a href="https://www.youtube.com/" target="_blank" rel="external" class="fa fa-youtube"></a>
-                <a href="https://www.pinterest.co.uk/" target="_blank" rel="external" class="fa fa-pinterest"></a>
+
+            <!--The links opens up a new tab for the destination page-->
+            <a href="https://twitter.com/" target="_blank" rel="external" aria-label="twitter-tag" aria-hidden="true" class="fa fa-twitter"></a>
+            <a href="https://discord.com/" target="_blank" rel="external" aria-label="discord-tag" aria-hidden="true" class="fab fa-discord"></a>
+            <a href="https://www.instagram.com/" target="_blank" rel="external" aria-label="instagram-tag" aria-hidden="true" class="fa fa-instagram"></a>
+            <a href="https://www.youtube.com/" target="_blank" rel="external" aria-label="youtube-tag" aria-hidden="true" class="fa fa-youtube"></a>
+            <a href="https://www.pinterest.co.uk/" target="_blank" rel="external" aria-label="pinterest-tag" aria-hidden="true" class="fa fa-pinterest"></a>
             </div>
             <div id="copyright-style">Copyright<span> &#169; </span> Coca Women's Wellness. All Rights Reserved 2021.</div>
-        </footer> 
-        <script src="https://kit.fontawesome.com/1699136767.js" crossorigin="anonymous"></script><!--Fontawesome script is below. Best practice to add this type of code at the bottom of body element-->
+        </footer>
+
+        <!--Fontawesome script is below, this supports the icons used throughout the website's pages-->
+        <script src="https://kit.fontawesome.com/1699136767.js" crossorigin="anonymous"></script>
+
+        <!--This sourcecode has been included to assist with some functionalities on the site as I am using some Bootstrap elements. Soucre: https://getbootstrap.com/docs/4.0/getting-started/introduction/-->
         <script src="assets/js/bootstrap-sourcecode/bootstrap.min.js" crossorigin="anonymous"></script>
+
+        <!--This sourcecode has been included to assist with some functionalities on the site as I am using some Bootstrap elements. Soucre: https://getbootstrap.com/docs/4.0/getting-started/introduction/-->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+        <!-- Did not delete this script, used as back up <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script> -->
+        <!--This sourcecode has been included to assist with some functionalities on the site as I am using some Bootstrap elements. Soucre: https://getbootstrap.com/docs/4.0/getting-started/introduction/-->
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
     </body>
 </html> 

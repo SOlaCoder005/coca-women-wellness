@@ -703,9 +703,9 @@ footer {
 /*MEDIA QUERIES - STARTS*/
 
 /*The declarations in this code/element has been created by myself, influenced by the principles shown in Original Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
-/*Note: Do not change media query declations. Changing the declaration from "max-width:px;" to "min-width:px;" on the media quey allows the aside image to stack on-top of header rather than be removed completely*/
+/*Note: Do not change media query declations. Changing the declaration to "max-width:px;"on the media quey allows the aside image to stack on-top of header rather than be removed completely*/
 /*For samll-standard mobile screen size*/
-@media all and (max-width: 500px) {
+@media all and (max-width: 768px) {
     body {
         margin: 0;
         display: grid; 

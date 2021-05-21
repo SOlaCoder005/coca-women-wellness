@@ -116,7 +116,9 @@ main {
     font-size: 50px;
     padding-top: 10px;
     padding-bottom: 10px;
-    color: rgb(255, 216, 61);
+}
+.col-sm .homeicon {
+color: rgb(255, 216, 61);
 }
 
 .col-sm h2 {
@@ -441,36 +443,37 @@ div iframe {
     font-weight: 600;
 }
 
-#playlist-type div {
+
+/* .playlist-type {
     float: left;
     width: 33.3%;
     padding: 25px;
     text-align: center;
     color: rgb(62, 13, 5, .9);
     font-weight: 500;
-}
+} */
 
-#playlist-type h2 {
+/* .playlist-type h2 {
     font-weight: 600;
     padding: 10px;
-}
+} */
 
-#playlist-type  p {
+/* .playlist-type  p {
     padding: 10px;
     text-align: left;
-}
+} */
 
-#playlist-type i {
+.playlisticon i {
     font-size: 70px;
-    padding: 15px 15px;
+    padding: 5px 5px;
     color: rgba(63, 25, 202);
 }
 
-#playlist-type i:hover {
+.playlisticon i:hover {
     color: rgba(63, 25, 202, .5);
 }
-
-#playlist-type2 div {
+/* 
+.playlist-type2 div {
     float: left;
     width: 50%;
     padding: 25px;
@@ -479,25 +482,25 @@ div iframe {
     font-weight: 500;
 }
 
-#playlist-type2 h2 {
+.playlist-type2 h2 {
     font-weight: 600;
     padding: 10px;
 }
 
-#playlist-type2  p {
+.playlist-type2  p {
     padding: 10px;
     text-align: left;
 }
 
-#playlist-type2 i {
+.playlist-type2 i {
     font-size: 70px;
     padding: 15px 15px;
     color:  rgba(63, 25, 202);
 }
 
-#playlist-type2 i:hover {
+.playlist-type2 i:hover {
     color: rgba(63, 25, 202, .5);
-}
+} */
 /*PLAYLISTS PAGE - ENDS*/
 
 

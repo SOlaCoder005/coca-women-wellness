@@ -192,6 +192,7 @@ The fonts used on the CWW site were imported from [Google Fonts](https://fonts.g
 
 Please find below a list of all the technologies that have been used to help build this website. 
 -	[Adobe Creative Cloud](https://www.adobe.com/uk/creativecloud.html): Specifically, I used the applications - Illustrator (AI), Photoshop (PS) and InDesign (InD) to create the website log. In more detail AI was used to create the design (from my hand drawing), PS used to help design my logo for the website and also select specific colour values that form the colour scheme of the website. Lastly, InD was used to apply and align the ‘Coca Women Wellness’ name to the logo once it was created in AI. 
+-   [Balsamiq]()
 -	[Bootstrap](https://getbootstrap.com/): Provided useful components that assisted my site’s functionality (e.g. responsive navigation menu).
 -	[Cite This for Me](https://www.citethisforme.com/): This was primarily used to cite the websites and resources I referred to help build the site. 
 -   [Dillinger](https://dillinger.io/): An extremely useful markdown complier tool that allows you to check your code is formatted correctly on the README.md file.
@@ -201,11 +202,13 @@ Please find below a list of all the technologies that have been used to help bui
 -	[Google Drive](https://drive.google.com/): This was mainly used to backup my repo once saved to my local drive.
 -   [Google Fonts](https://fonts.google.com/): This platform was used to select and import the desired font into my source code.
 -   [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/): This has been used to check the quality of my CSS code and ensures it passes coding standards.
+-   [Lighthouse]()
 -   [Pexels](https://www.pexels.com/): Aside from the CWW logo, some of the photos included on the live website has been sourced from Pexels. Pexels provides royalty-free stock images. 
 -   [Pixabay](https://pixabay.com/): Aside from the CWW logo, some of the photos included on the live website has been sourced from Pixabay. Pexels provides royalty-free stock images. 
 -   [Pinterest](https://www.pinterest.co.uk/feli_fierce/cww_website_colourtheme/): An application where I collated visuals for my mood board for the website’s colour schemes (include live link to board).
 -   [Responsively](https://responsively.app/download): Web Browser that allows you to check the degree to which you website is responsive on various device sizes and screen orientations.
 -   [Stack Overflow](https://stackoverflow.com/): This was used as a reference tool to assist with both HTML coding techniques.[VSCode](https://code.visualstudio.com/): An open source IDE that can be used online and locally on your desktop.
+-   [Wave]()
 -   [W3C Validator](https://validator.w3.org/): This has been used to check the quality of my HTML code and ensures it passes coding standards.
 -   [W3 Schools](https://www.w3schools.com/): This was used as a reference tool to assist with HTML coding techniques. 
 -   [W3.CSS](https://www.w3schools.com/w3css/default.asp): This was used as a reference tool to assist with CSS coding techniques.
@@ -218,7 +221,7 @@ The project uses JQuery to simplify DOM manipulation.
 
 ## Section 6: Testing
 
-A series of tests have been conducted on the CWW site’s functionality and its source-code. An extensive report of the tests conducted can be accessed [here](/docs/testing/TESTING.md); labelled as ‘TESTING.md’. The report discusses the multiple factors that arose throughout the testing process of the site. The key points discussed in the report include:
+A series of tests have been conducted on the CWW site’s functionality and its source-code. An extensive report of the tests conducted can be accessed [here](/docs/testing/TESTING.md); titled as ‘TESTING.md’. The report discusses the multiple factors that arose throughout the testing process of the site. The key points discussed in the report include:
 
 - Responsiveness issues with CWW site’s initial design and structure (reflected in the wireframes). 
 - Explanation of how the issues above contributed to the need to change CWW site’s functional structure and design. 

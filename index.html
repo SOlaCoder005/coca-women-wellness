@@ -7,22 +7,23 @@
         <meta name="keywords" content="black, women, health, wellness, mindfullness, UK">
         <title>Coca Women Wellness</title>
         <link rel="stylesheet" href="assets/css/style.css" type="text/css">
-        <!--Include these css links in any page of this site-->
-        <!--Stytlesheet is linked this way as it links to the local bootstrap css and js folders on my device-->
+        <!--Include this stylesheet link in any page of this site-->
+        <!--The stytlesheet below is linked this way as it links to the local bootstrap css and js folders on my device and included in this repo-->
         <link rel="stylesheet" href="assets/css/bootstrap-sourcecode/bootstrap.min.css">
     </head>
     <body>
-        <aside>
+        <aside> <!--This tag holds the sidebar image-->
             <img class="img-index" src="assets/images/pexels-photo-1666073.jpeg" alt="young lady in yellow dress smiling"> 
         </aside>
 
         <header>
-            <!--nav bar code has been sourced from Bootstrap.com. Source:https://getbootstrap.com/docs/4.0/components/navbar/-->
+            <!--nav bar code has been sourced from Bootstrap.com. However, I have customsied some of the elements Origin Source:https://getbootstrap.com/docs/4.0/components/navbar/-->
             <nav class="navbar navbar-expand-lg navbar-custom navbar-light">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-icon"></span>
                 </button>
-                <a href="index.html"><img src="assets/images/logowtextncb.png" alt="woman-with-outlined-face-logo" id="img-logo"></a>
+                <!--Do not change this <a> tag as it holds the logo for the website-->
+                <a href="index.html"><img src="assets/images/logowtextncb.png" alt="woman with outlined face logo" id="img-logo"></a>
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
                     <ul class="navbar-nav mr-auto" id="menu">
                         <li class="nav-item active">
@@ -45,14 +46,14 @@
               </nav>
         </header>
 
-        <!--The grid system has been sourced from Bootstrap: [https://getbootstrap.com/docs/4.1/layout/grid/]. The class selector names and property values were set by myself-->
+        <!--The grid system has been sourced from Bootstrap: [https://getbootstrap.com/docs/4.1/layout/grid/]. However I have cutomised the styling property values (see style.css file in this repo)-->
         <main class="container">
             <div class="home-headline">
                 <h1>COCA WOMEN WELLNESS</h1> 
             </div>
             <div class="row">
                 <div class="col-sm">
-                    <!--The aria-label has been used insted of aria-labelledby as the label text is not visble. For more information: [https://www.w3.org/TR/wai-aria/#aria-label]-->
+                    <!--The aria-label has been used insted of aria-labelledby as there is no visible text text is not visble. For more information: [https://www.w3.org/TR/wai-aria/#aria-label]-->
                     <!--The "aria-hidden=true" element been applied to the icon tags as they have sematic meaning. For more information: [https://fontawesome.com/how-to-use/on-the-web/other-topics/accessibility]-->
                     <a href="#oursocial" aria-label="calendar-icon" class="homeicon"><i class="far fa-calendar-alt" aria-hidden="true"></i></a>
                     <h3>Our Socials</h3>
@@ -107,20 +108,25 @@
                 </div>  
             </div>
         </main>
+        <!--The class 'home-footer-style dictates the stylyling of the element (e.g. yellow for the index.html)'-->
         <footer class="home-footer-style" id="footer">
             <div class="sm-links">
-                <a href="https://twitter.com/" target="_blank" rel="external" aria-label="twitter-tag" class="fa fa-twitter"></a>
-                <a href="https://discord.com/" target="_blank" rel="external" aria-label="discord-tag" class="fab fa-discord"></a>
-                <a href="https://www.instagram.com/" target="_blank" rel="external" aria-label="instagram-tag" class="fa fa-instagram"></a>
-                <a href="https://www.youtube.com/" target="_blank" rel="external" aria-label="youtube-tag" class="fa fa-youtube"></a>
-                <a href="https://www.pinterest.co.uk/" target="_blank" rel="external" aria-label="pinterest-tag" class="fa fa-pinterest"></a>
+                <a href="https://twitter.com/" target="_blank" rel="external" aria-label="twitter-tag" aria-hidden="true" class="fa fa-twitter"></a>
+                <a href="https://discord.com/" target="_blank" rel="external" aria-label="discord-tag" aria-hidden="true" class="fab fa-discord"></a>
+                <a href="https://www.instagram.com/" target="_blank" rel="external" aria-label="instagram-tag" aria-hidden="true" class="fa fa-instagram"></a>
+                <a href="https://www.youtube.com/" target="_blank" rel="external" aria-label="youtube-tag" aria-hidden="true" class="fa fa-youtube"></a>
+                <a href="https://www.pinterest.co.uk/" target="_blank" rel="external" aria-label="pinterest-tag" aria-hidden="true" class="fa fa-pinterest"></a>
             </div>
             <div id="copyright-style">Copyright<span> &#169; </span> Coca Women's Wellness. All Rights Reserved 2021.</div>
         </footer> 
-        <script src="https://kit.fontawesome.com/1699136767.js" crossorigin="anonymous"></script><!--Fontawesome script is below. Best practice to add this type of code at the bottom of body element-->
+        <!--Fontawesome script is below, this supports the icons used trhought the website's pages-->
+        <script src="https://kit.fontawesome.com/1699136767.js" crossorigin="anonymous"></script>
         <script src="assets/js/bootstrap-sourcecode/bootstrap.min.js" crossorigin="anonymous"></script>
+        <!--This sourcecode has been included to assist with some functionalities on the site as I am using some Bootstrap elements. Soucre: https://getbootstrap.com/docs/4.0/getting-started/introduction/-->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+        <!--This sourcecode has been included to assist with some functionalities on the site as I am using some Bootstrap elements. Soucre: https://getbootstrap.com/docs/4.0/getting-started/introduction/-->
+        <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script> -->
+        <!--This sourcecode has been included to assist with some functionalities on the site as I am using some Bootstrap elements. Soucre: https://getbootstrap.com/docs/4.0/getting-started/introduction/-->
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
     </body>
 </html>

@@ -60,6 +60,10 @@ header {
     padding: 10px;
     font-weight: 500;
 }
+
+.active{
+    text-decoration: underline;
+}
 /*NAVIGATION MENU - ENDS*/
 
 
@@ -484,12 +488,12 @@ div iframe {
     background-color: rgb(99, 172, 229, .15);
     width: 98%;
     height: auto;
-    padding: 25px;
+    padding: 40px;
     border: 2px solid rgb(255, 165, 0);
-    border-radius: 1%;
-    margin: 25px 25px;
+    border-radius: 2%;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 10px;
     color: rgb(255, 165, 0);
 }
 
@@ -514,7 +518,7 @@ div iframe {
 
 .cwu-form  i {
     font-size: 30px;
-    margin-left: 20px; 
+    margin-left: 5px; 
     margin-right: 5px; 
     margin-top: 5px; 
     margin-bottom: 5px; 
@@ -522,10 +526,9 @@ div iframe {
 
 .handle  i {
     font-size: 30px;
-    /* margin-left: 20px;  */
-    
     display: inline-block;
     color: rgb(255, 165, 0);
+    text-align: left;
 }
 
 .handle  input {
@@ -573,14 +576,6 @@ input:hover {
     color: rgb(99, 172, 229);
 }
 
-.our-details a:hover {
-    color: rgb(99, 172, 229);
-}
-
-.our-details i:hover {
-    color: rgb(99, 172, 229);
-}
-
 .button-style input:hover {
     color: rgb(99, 172, 229);
 }
@@ -588,37 +583,39 @@ input:hover {
 .our-details {
     margin-left: auto;
     margin-right: auto;
-    font-size: 20px;
     font-weight: 500;
     text-align: left;
-    display: inline;
+    padding: 20px;
 }
 
 .our-details h5 {
-    font-size: 18px; 
     font-weight: 700; 
     color:rgb(255, 165, 0);
     text-decoration: underline;
-    margin-top: 5px;
 }
 
 .our-details i {
     font-size: 30px;
     padding: 5px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 .our-details a {
     text-decoration: none;
-    padding: 5px; 
     color:rgb(255, 165, 0);
 }
 
 .our-details span {
-    padding-bottom: 20px;
     color:rgb(255, 165, 0);
 }
 
+.our-details a:hover {
+    color: rgb(99, 172, 229);
+}
+
+.our-details i:hover {
+    color: rgb(99, 172, 229);
+}
 /*Note: The '.connect-footer-style...' elements (below) has been created as the other :hover elements on the other pages' footers blends in with the footer background-colour of the connect.html page*/
 .connect-footer-style {
     background-color:rgb(255, 165, 0);
@@ -665,7 +662,7 @@ footer {
 
 /*MEDIA QUERIES - STARTS*/
 /*Aside/Sidebar element stacks underneath header*/
-@media only screen and  (min-width: 320px) {
+@media only screen and  (max-width: 500px) {
 
     body {
         margin: 0;
@@ -681,11 +678,18 @@ footer {
         "main"
         "footer";
     } 
+
+    .handle i {
+        font-size: 30px;
+        display: block;
+        color: rgb(255, 165, 0);
+        text-align: left;
+    }
 }
 
 /*For standard tablet screens in portrait orientation*/
 /*Aside/Sidebar element stacks underneath header*/
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
     body {
         margin: 0;
         display: grid; 
@@ -700,6 +704,14 @@ footer {
         "main"
         "footer";
     }
+
+    .handle i {
+        font-size: 30px;
+        display: block;
+        color: rgb(255, 165, 0);
+        text-align: left;
+    }
+
 }
 
 /*Standard to larger dekstop/laptop screens. The conditions values have been set in response reccomendations from Bootstrap.com: [https://getbootstrap.com/docs/5.0/layout/breakpoints/]*/

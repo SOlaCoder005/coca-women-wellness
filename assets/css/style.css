@@ -523,17 +523,18 @@ div iframe {
     display: inline;
 }
 
-.our-details > h4 {
-    margin: 15px; 
+.our-details h5 {
     font-size: 18px; 
-    font-weight: 500; 
+    font-weight: 600; 
     text-decoration: underline;
     color:rgb(255, 165, 0);
+    margin-top: 5px;
 }
 
 .our-details i {
     font-size: 30px;
     padding: 5px;
+    margin-bottom: 10px;
 }
 
 .our-details a {
@@ -543,7 +544,7 @@ div iframe {
 }
 
 .our-details span {
-    padding: 10px;
+    padding-bottom: 20px;
     color:rgb(255, 165, 0);
 }
 
@@ -660,9 +661,6 @@ input:hover {
     background-color:rgb(255, 165, 0);
 }
 
-.connect-footer-style > .sm-links a:hover {
-    color:  rgb(255, 255, 255);
-}
 /*CONNECT PAGE - END*/
 
 

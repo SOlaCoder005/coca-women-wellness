@@ -689,7 +689,7 @@ footer {
 
 /*For standard tablet screens in portrait orientation*/
 /*Aside/Sidebar element stacks underneath header*/
-@media only screen and (max-width: 768px) {
+@media only screen and (min-width: 700px) {
     body {
         margin: 0;
         display: grid; 
@@ -711,12 +711,11 @@ footer {
         color: rgb(255, 165, 0);
         text-align: left;
     }
-
 }
 
 /*Standard to larger dekstop/laptop screens. The conditions values have been set in response reccomendations from Bootstrap.com: [https://getbootstrap.com/docs/5.0/layout/breakpoints/]*/
 /*Aside/Sidebar element positions on the left-side of the device's screen*/
-@media only screen and  (min-width: 992px) {
+@media only screen and  (min-width: 900px) {
     body {
             margin: 0;
             display: grid; 

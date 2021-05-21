@@ -2,12 +2,11 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald&display=swap');
 
-/* IMPORTS SECTION - ENDS*/
-
+/*The declarations in these codes/element has been amended to suit the need of my website. Origin Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 body, html {
     height: 100vh;
 }
-/*The declarations in these codes/element has been amended to suit the need of my website. Origin Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
+
 aside {
     grid-area: sidebar;
     background-color:  rgb(255, 255, 255);
@@ -20,7 +19,6 @@ aside {
     margin-right: auto;
     width:250px;
     height:250px;
-    float: left;
 }
 
 /*The declarations in these codes/element has been amended to suit the need of my website. Origin Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
@@ -35,19 +33,16 @@ header {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    text-align: center; 
-    letter-spacing: .1em;
-    
+    text-align: center;  
+    letter-spacing: .1em; 
 }
 
 #menu a {
     text-decoration: none;
     font-size: 30px;
-    margin-right: 10px;
     color: #3e0d05d9;
-    font-weight: 600;
+    font-weight: 700;
     font-family: 'Oswald', sans-serif;
-    font-size: 35px;
 }
 
 #menu a:hover {
@@ -58,7 +53,7 @@ header {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding: 10px;
+    padding: 5px;
     font-weight: 500;
     font-size: 50px;
 }
@@ -96,11 +91,33 @@ SECTION - ENDS*/
     object-fit: cover;
     object-position: 50% 50%;  
 }
+
+.img-banner-index {
+    opacity: 0.9;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 50%; 
+    margin-top:  20px; 
+    margin-bottom:  20px; 
+} 
+
 /*The declarations in this code/element has been amended to suit the need of my website. Origin Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 main {
     grid-area: main;
     background-color: white;
     font-family: 'Open Sans', sans-serif;
+}
+
+.home-headline h2 {
+    text-align: center;
+    padding: 25px;
+    margin-top: 30px; 
+    margin-bottom: 10px;
+    padding: 10px;
+    color: rgb(62, 13, 5, .9);
+    font-weight: 600;
+    text-decoration: underline;
 }
 
 /*The '.col-sm' class selector is part of Bootstrap sourcecode (see index.html). However, the property values set are my own. [https://getbootstrap.com/docs/4.1/layout/grid/]*/
@@ -118,7 +135,7 @@ main {
     padding-bottom: 10px;
 }
 .col-sm .homeicon {
-color: rgb(255, 216, 61);
+color: rgb(255, 215, 0);
 }
 
 .col-sm h2 {
@@ -145,13 +162,11 @@ color: rgb(255, 216, 61);
     background-color: rgb(255, 215, 0);
 }
 
-#overview i:hover{
-    color: rgb(255, 165, 0, .7);
+.homeicon:hover{
+    color: rgb(255, 165, 0, .5);
 }
 
-.overview-column i:hover{
-    color: rgb(255, 165, 0, .7);
-}
+
 /*HOME (INDEX) PAGE - ENDS*/
 
 
@@ -657,9 +672,9 @@ footer {
 /*MEDIA QUERIES - STARTS*/
 
 /*The declarations in this code/element has been created by myself, influenced by the principles shown in Original Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
-/*Note: Do not change media query declations. Changing the declaration to "max-width:px;"on the media quey allows the aside image to stack on-top of header rather than be removed completely*/
+/*Note: Do not change media query declations. Changing the declaration to "max-width:px;" on the media quey allows the aside image to stack on-top of header rather than be removed completely*/
 /*For samll-standard mobile screen size*/
-@media all and (max-width: 500px) {
+@media all and (min-width: 320px) {
     body {
         margin: 0;
         display: grid; 
@@ -682,7 +697,7 @@ footer {
     body {
         margin: 0;
         display: grid; 
-        grid-template-columns: 27% auto auto auto;
+        grid-template-columns: 20% auto auto auto;
         grid-template-rows: auto;
         grid-template-areas:
         "sidebar header header header"
@@ -691,7 +706,4 @@ footer {
         "sidebar footer footer footer";
     }
 }  
-
-
-
 /*MEDIA QUERIES - ENDS*/

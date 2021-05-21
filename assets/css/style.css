@@ -514,7 +514,7 @@ div iframe {
 }
 
 /*Note: The '#connect-hover...' elements (below) have been created as the :hover values on the other pages' header sections blends in with the header background-colour on the connect.html page*/
-#connect-hover a {
+/* #connect-hover a {
     text-decoration: none;
     font-size: 30px;
     margin-right: 10px;
@@ -535,7 +535,7 @@ div iframe {
 
 #connect-hover a:hover{
     color: #ffff;
-}
+} */
 
 .our-details {
     margin-left: auto;
@@ -684,7 +684,7 @@ input:hover {
 }
 
 .connect-footer-style > .sm-links a:hover {
-    color:  rgb(255, 215, 0);
+    color:  rgb(255, 255, 255);
 }
 /*CONNECT PAGE - END*/
 
@@ -699,7 +699,7 @@ footer {
 
 #copyright-style {
     font-size: 15px;
-    color: rgb(255, 255, 255);
+    color: #3e0d05d9;
     font-weight: 500;
 }
 
@@ -717,11 +717,11 @@ footer {
     text-decoration: none;
     border-radius: 0;
     font-size: 30px;
-    color: white;
+    color: #3e0d05d9;
 }
 
 .sm-links a:hover {
-    color:  rgb(255, 165, 0);
+    color:  rgb(255, 255, 255);;
 }
 /*FOOTER - ENDS*/
 

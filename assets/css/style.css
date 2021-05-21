@@ -29,7 +29,7 @@ header {
 
 #menu li {
     list-style-type: none;
-    display: inline-block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
@@ -41,7 +41,7 @@ header {
     text-decoration: none;
     font-size: 30px;
     color: #3e0d05d9;
-    font-weight: 700;
+    font-weight: 600;
     font-family: 'Oswald', sans-serif;
 }
 
@@ -109,6 +109,18 @@ main {
     font-family: 'Open Sans', sans-serif;
 }
 
+.home-headline h1 {
+    text-align: center;
+    padding: 25px;
+    margin-top: 30px; 
+    margin-bottom: 10px;
+    padding: 30px;
+    color: rgb(62, 13, 5, .9);
+    font-weight: 500;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: .05em;
+}
+
 .home-headline h2 {
     text-align: center;
     padding: 25px;
@@ -116,8 +128,9 @@ main {
     margin-bottom: 10px;
     padding: 10px;
     color: rgb(62, 13, 5, .9);
-    font-weight: 600;
-    text-decoration: underline;
+    font-weight: 500;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: .05em;
 }
 
 /*The '.col-sm' class selector is part of Bootstrap sourcecode (see index.html). However, the property values set are my own. [https://getbootstrap.com/docs/4.1/layout/grid/]*/
@@ -134,6 +147,7 @@ main {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
 .col-sm .homeicon {
 color: rgb(255, 215, 0);
 }
@@ -144,7 +158,7 @@ color: rgb(255, 215, 0);
 }
 
 .col-sm h3 {
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .col-sm h4 {
@@ -247,8 +261,10 @@ color: rgb(255, 215, 0);
 
 .recipe-header h2 {    
     padding: 25px 50px;
-    font-weight: 600;
     color: rgb(62, 13, 5, .85);
+    font-weight: 500;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: .05em;
 }
 
 .recipe-header p {    
@@ -455,7 +471,9 @@ div iframe {
 
 #playlist-header h2 {
     color: rgba(63, 25, 202);
-    font-weight: 600;
+    font-weight: 500;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: .05em;
 }
 
 .playlisticon i {

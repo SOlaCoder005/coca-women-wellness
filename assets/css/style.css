@@ -4,18 +4,14 @@
 
 /* IMPORTS SECTION - ENDS*/
 
-
-/*SITE-WIDE STYLES - STARTS*/
 body, html {
     height: 100vh;
 }
-
+/*The declarations in these codes/element has been amended to suit the need of my website. Origin Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 aside {
     grid-area: sidebar;
-    background-color:  hsl(0, 0%, 100%);
-}/*The declarations in these codes/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
-/*SITE-WIDE STYLES - ENDS*/
-
+    background-color:  rgb(255, 255, 255);
+}
 
 /*NAVIGATION MENU - STARTS*/
 #img-logo {
@@ -27,10 +23,11 @@ aside {
     float: left;
 }
 
+/*The declarations in these codes/element has been amended to suit the need of my website. Origin Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 header {
     grid-area: header;
     background-color: rgb(255, 215, 0);
-}/*The declarations in these codes/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
+}
 
 #menu li {
     list-style-type: none;
@@ -66,8 +63,8 @@ header {
 /*NAVIGATION MENU - ENDS*/
 
 
-/*SECTION - STARTS*/
-/*The declarations in these codes/elements has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
+/*SECTION - START
+*The declarations in these codes/elements has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]
 section:nth-of-type(1) {
     grid-area: sect1;
     background-color: white;
@@ -85,64 +82,57 @@ section:nth-of-type(3){
     background-color: white;
     font-family: 'Open Sans', sans-serif;
 }
-/*SECTION - ENDS*/
+SECTION - ENDS*/
 
 
 /*HOME (INDEX) PAGE - STARTS*/
+
+/*The properties and values in this code/element has been amended to suit the need of my website. Origin Source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
 .img-index {
     width: 100%;
     height: 100%;
     object-fit: cover;
     object-position: 50% 50%;  
-}/*The properties and values in this code/element has been amended to suit the need of my website. Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
-
+}
+/*The declarations in this code/element has been amended to suit the need of my website. Origin Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 main {
     grid-area: main;
     background-color: white;
     font-family: 'Open Sans', sans-serif;
-}/*The declarations in this code/element has been amended to suit the need of my website. Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
-
-.overview {
-    text-align: center;
-    color: rgb(62, 13, 5, .85);
 }
 
-.overview i {
+/*The '.col-sm' class selector is part of Bootstrap sourcecode (see index.html). However, the property values set are my own. [https://getbootstrap.com/docs/4.1/layout/grid/]*/
+.col-sm {
+    width:24%;
+    height: auto;
+    text-align: center;
+    color: rgb(62, 13, 5, .85);
+    padding: 30px;
+}
+
+.col-sm i {
     font-size: 50px;
     padding-top: 10px;
     padding-bottom: 10px;
     color: rgb(255, 216, 61);
 }
 
-.overview h2 {
+.col-sm h2 {
     margin-top:50px;
     font-weight: 600;
 }
 
-.overview h3 {
+.col-sm h3 {
     font-weight: 600;
 }
 
-.overview p {
+.col-sm h4 {
+    font-weight: 600;
+}
+
+.col-sm p {
     padding: 5px;
     margin: 15px;
-    text-align: left;
-    font-weight: 500;
-}
-
-.overview-column {
-    float: left;
-    width: 33.3%;
-    padding: 10px;
-}
-
-.overview-column h4 {
-    font-weight: 600;
-}
-
-.overview-column p {
-    padding: 5px;
-    margin: 5px;
     text-align: left;
     font-weight: 500;
 }
@@ -176,10 +166,13 @@ main {
 .about-footer-style {
     background-color:rgba(253, 139, 196, .7);
 }
-
+ .about-container{
+     box-sizing: border-box;
+ }
+ 
 .about {
     padding: 30px;
-    background-color: rgba(253, 139, 196, 0.7);
+    background-image: linear-gradient(to right, rgba(250, 175, 225), rgba(250, 175, 225, 0.3));
     margin-bottom: 20px;
     margin-right: 20px;
     margin-left: 20px;
@@ -729,10 +722,11 @@ footer {
 }
 /*FOOTER - ENDS*/
 
-/*MEDIA QUERIES - START*/
+/*MEDIA QUERIES - STARTS*/
 
+/*The declarations in this code/element has been created by myself, influenced by the principles shown in Original Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 /*Note: Do not change media query declations. Changing the declaration from "max-width:px;" to "min-width:px;" on the media quey allows the aside image to stack on-top of header rather than be removed completely*/
-
+/*For samll-standard mobile screen size*/
 @media all and (max-width: 320px) {
     body {
         margin: 0;
@@ -747,9 +741,10 @@ footer {
         "main"
         "footer";
     }
-    /*For standard mobile screen size*/
-}/*The declarations in this code/element has been created by myself, influenced by the principles shown in  Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
+}
 
+/*The declarations in this code/element has been created by myself, influenced by the principles shown in Original Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
+  /*For standard desktop screen size*/
 @media only screen and (min-width: 768px) {
     body {
         margin: 0;
@@ -762,7 +757,6 @@ footer {
         "sidebar main main main"
         "sidebar footer footer footer";
     }
-    /*For standard desktop screen size*/
-}/*The declarations in this code/element has been created by myself, influenced by the principles shown in  Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
+}
 
 /*MEDIA QUERIES - ENDS*/

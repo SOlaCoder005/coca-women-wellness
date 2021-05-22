@@ -245,7 +245,7 @@ color: rgb(255, 215, 0);
 
 .recipe-header h1 {    
     padding: 25px 50px;
-    color: rgb(62, 13, 5, .85);
+    color: rgb(151, 231, 29, 0.5);
     font-family: 'Oswald', sans-serif;
     letter-spacing: .05em;
     font-size: 60px;
@@ -622,6 +622,7 @@ input:hover {
 .our-details i:hover {
     color: rgb(99, 172, 229);
 }
+
 /*Note: The '.connect-footer-style...' elements (below) has been created as the other :hover elements on the other pages' footers blends in with the footer background-colour of the connect.html page*/
 .connect-footer-style {
     background-color:rgb(255, 165, 0);
@@ -629,30 +630,29 @@ input:hover {
 /*CONNECT PAGE - ENDS*/
 
 /*BACK TO TOP BUTTON - STARTS*/
+
 /* The properties for the #backToTop id has been adapted from a W3School tutorial. 
 However, some of the values have been customised by myself to suit the site's layout. 
-Source:[https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_scroll_to_top]*/
-
+Source:[https://www.w3schools.com/howto/howto_js_scroll_to_top.asp]*/
 #backtoheader {
     display: none;
     position: fixed;
-    bottom: 20px;
-    right: 30px;
+    bottom: 10px;
+    right: 10px;
     z-index: 99;
     font-size: 18px;
     border: none;
     outline: none;
-    background-color: red;
-    color: white;
+    background-color: rgb(255, 255, 255, .7);
+    color: rgba(133, 51, 51, 0.5);
     cursor: pointer;
-    padding: 15px;
+    padding: 10px;
     border-radius: 4px;
 }
 
 #backtoheader:hover {
-    background-color: pink;
+    background-color: rgb(93, 93, 93, 0.2);
 }
-
 /*BACK TO TOP BUTTON - ENDS*/
 
 
@@ -664,9 +664,10 @@ footer {
     text-align: center;
     margin-top: 20px;
 }
+
 #copyright-style {
     font-size: 15px;
-    color: #3e0d05d9;
+    color: rgba(62, 13, 5, 0.5);
     font-weight: 500;
 }
 
@@ -684,7 +685,7 @@ footer {
     text-decoration: none;
     border-radius: 0;
     font-size: 30px;
-    color: #3e0d05d9;
+    color: rgba(62, 13, 5, 0.5);
 }
 
 .sm-links a:hover {
@@ -695,12 +696,10 @@ footer {
 
 /*MEDIA QUERIES - STARTS*/
 /*Some of the declarations, property values and conditions in the media query code has been influenced by the guidance shown in the following Sources:
-
 [https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]
 [https://getbootstrap.com/docs/5.0/layout/breakpoints/] 
 [https://www.emailonacid.com/blog/article/email-development/emailology_media_queries_demystified_min-width_and_max-width/]
 [https://docs.microsoft.com/en-us/windows/uwp/design/layout/screen-sizes-and-breakpoints-for-responsive-design]
-
 */
 
 /*Small mobile screens.*/

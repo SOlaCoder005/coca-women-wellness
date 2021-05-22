@@ -119,9 +119,10 @@
                 </div>  
             </div>
         </main>
-        
-        <!--The code for the element button has been adapted from a W3School tutorial. Source:[https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_scroll_to_top]-->
-        <button onclick="topFucntion()" id="backtoheader" title="Go to Top">Up to Top</button>
+
+        <!-- The code for the element button has been adapted from a W3School tutorial. Source:[https://www.w3schools.com/howto/howto_js_scroll_to_top.asp]-->
+        <button onclick="topFunction()" id="backtoheader" title="Go to top"><i class="far fa-arrow-alt-circle-up"></i></button>
+
         
         <!--The class 'home-footer-style' dictates the stylyling of the element (e.g. yellow for the index.html)'-->
         <footer class="home-footer-style" id="footer">
@@ -137,41 +138,23 @@
             <div id="copyright-style">Copyright<span> &#169; </span> Coca Women's Wellness. All Rights Reserved 2021.</div>
         </footer>
 
-        <!--This script has been adapted from a W3School Tutorial. the 'getElementById' condition has been customised by me. Source:[https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_scroll_to_top]-->
-        
-        <!-- <script>
-            var mybutton = document.getElementById("backtoheader");
-            window.onscroll = function() {scrollFunction()};
-
-            function scrollFunction() {
-                if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-                    mybutton.style.display = "block";
-                } else {
-                    mybutton.style.display = "none";
-                }
-            }
-
-            function topFunction() {
-                document.body.scrollTop = 0;
-                document.documentElement.scrollTop = 0;
-            }
-        </script> -->
-
+        <!--This script has been adapted from a W3School Tutorial. The 'getElementById' condition has been customised by me. Source:[https://www.w3schools.com/howto/howto_js_scroll_to_top.asp]-->
         <script>
             var mybutton = document.getElementById("backtoheader");
+            
             window.onscroll = function() {scrollFunction()};
 
             function scrollFunction() {
-                if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-                    mybutton.style.display = "block";
-                } else {
-                    mybutton.style.display = "none";
-                }
+            if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+                mybutton.style.display = "block";
+            } else {
+                mybutton.style.display = "none";
+            }
             }
 
             function topFunction() {
-                document.body.scrollTop = 0;
-                document.documentElement.scrollTop = 0;
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
             }
         </script>
 

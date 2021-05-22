@@ -667,8 +667,17 @@ footer {
 
 
 /*MEDIA QUERIES - STARTS*/
+/*
+Some of the declarations, property values and conditions in the media query code has been influenced by the guidance shown in the following Sources:
+[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]
+[https://getbootstrap.com/docs/5.0/layout/breakpoints/] 
+[https://www.emailonacid.com/blog/article/email-development/emailology_media_queries_demystified_min-width_and_max-width/]
+[https://docs.microsoft.com/en-us/windows/uwp/design/layout/screen-sizes-and-breakpoints-for-responsive-design]
+*/
+
+/*Small mobile screens.*/
 /*Aside/Sidebar element stacks underneath header*/
-@media only screen and  (max-width: 500px) {
+@media only screen and  (max-width: 320px) {
 
     body {
         margin: 0;
@@ -693,9 +702,29 @@ footer {
     }
 }
 
-/*For standard tablet screens in portrait orientation*/
+/*For scaling in between small mobile screens (up to 320px in width) to larger screens (700px in width and greater).*/
 /*Aside/Sidebar element stacks underneath header*/
-@media only screen and (min-width: 700px) {
+@media only screen and (min-width: 320px) and  (max-width: 768px) {
+
+    body {
+        margin: 0;
+        display: grid; 
+        grid-template-columns: 100%;
+        grid-template-rows: auto;
+        grid-template-areas:
+        "header"
+        "sidebar"
+        "sect1" 
+        "sect2" 
+        "sect3"
+        "main"
+        "footer";
+    } 
+}
+
+/*For standard tablet screens, in portrait orientation*/
+/*Aside/Sidebar element stacks underneath header*/
+@media only screen and (min-width: 768px) {
     body {
         margin: 0;
         display: grid; 
@@ -712,7 +741,7 @@ footer {
     }
 }
 
-/*Standard to larger dekstop/laptop screens. The conditions values have been set in response reccomendations from Bootstrap.com: [https://getbootstrap.com/docs/5.0/layout/breakpoints/]*/
+/*Standard to larger dekstop/laptop screens.*/
 /*Aside/Sidebar element positions on the left-side of the device's screen*/
 @media only screen and  (min-width: 900px) {
     body {
@@ -728,7 +757,7 @@ footer {
     }
 }
 
-/*Larger desktop screens. The conditions values have been set in response reccomendations from Bootstrap.com:[https://getbootstrap.com/docs/5.0/layout/breakpoints/] */
+/*Larger desktop screens. */
 /*Aside/Sidebar element positions on the left-side of the device's screen*/
 @media only screen and (min-width: 1200px) {
 
@@ -745,5 +774,4 @@ footer {
     }
 }
 /*MEDIA QUERIES - ENDS*/
-/*Some of the declarations in the media query code has been influenced by the principles shown in Original Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
-/*For standard mobile screens in portrait orientation*/
+

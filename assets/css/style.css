@@ -667,12 +667,13 @@ footer {
 
 
 /*MEDIA QUERIES - STARTS*/
-/*
-Some of the declarations, property values and conditions in the media query code has been influenced by the guidance shown in the following Sources:
+/*Some of the declarations, property values and conditions in the media query code has been influenced by the guidance shown in the following Sources:
+
 [https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]
 [https://getbootstrap.com/docs/5.0/layout/breakpoints/] 
 [https://www.emailonacid.com/blog/article/email-development/emailology_media_queries_demystified_min-width_and_max-width/]
 [https://docs.microsoft.com/en-us/windows/uwp/design/layout/screen-sizes-and-breakpoints-for-responsive-design]
+
 */
 
 /*Small mobile screens.*/

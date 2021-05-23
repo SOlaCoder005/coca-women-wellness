@@ -637,22 +637,24 @@ Source:[https://www.w3schools.com/howto/howto_js_scroll_to_top.asp]*/
 #backtoheader {
     display: none;
     position: fixed;
-    bottom: 10px;
-    right: 10px;
+    bottom: 5px;
+    right: 5px;
     z-index: 99;
+    border: 3px solid rgba(62, 13, 5);
     font-size: 18px;
-    border: none;
     outline: none;
-    background-color: rgb(255, 255, 255, .7);
-    color: rgba(133, 51, 51, 0.5);
+    background-color: rgb(255, 255, 255);
+    color: rgba(62, 13, 5);
     cursor: pointer;
     padding: 10px;
     border-radius: 4px;
 }
 
 #backtoheader:hover {
-    background-color: rgb(93, 93, 93, 0.2);
+    background-color: white;
+    border: none;
 }
+
 /*BACK TO TOP BUTTON - ENDS*/
 
 
@@ -731,7 +733,7 @@ footer {
 
 /*For scaling in between small mobile screens (up to 320px in width) to larger screens (700px in width and greater).*/
 /*Aside/Sidebar element stacks underneath header*/
-@media only screen and (min-width: 320px) and  (max-width: 640px) {
+@media only screen and (max-width: 640px) and (min-width: 320px) {
 
     body {
         margin: 0;
@@ -777,7 +779,7 @@ footer {
 
 /*For standard tablet screens, in portrait orientation*/
 /*Aside/Sidebar element stacks underneath header*/
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 700px) {
     body {
         margin: 0;
         display: grid; 
@@ -824,6 +826,11 @@ footer {
         "sidebar sect1 sect2 sect3"
         "sidebar main main main"
         "sidebar footer footer footer";
+    }
+
+    p {
+        
+        font-size: 1.25rem;
     }
 }
 /*MEDIA QUERIES - ENDS*/

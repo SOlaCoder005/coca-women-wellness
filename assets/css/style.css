@@ -534,7 +534,7 @@ div iframe {
     display: inline-block;
     color: rgb(255, 165, 0);
     text-align: left;
-    padding: 40px;
+    padding: 15px;
 }
 
 .handle  input {
@@ -553,12 +553,8 @@ div iframe {
     background-color: rgb(255, 255, 255);
 }
 
-div input {
-    margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 20px;
-    width: auto;
+.button-style {
+    padding: 30px;
 }
 
 .button-style input  {
@@ -722,13 +718,6 @@ footer {
         "main"
         "footer";
     } 
-
-    .handle i {
-        font-size: 30px;
-        display: block;
-        color: rgb(255, 165, 0);
-        text-align: left;
-    }
 }
 
 /*For scaling in between small mobile screens (up to 320px in width) to larger screens (700px in width and greater).*/
@@ -752,7 +741,7 @@ footer {
 
     .handle i {
         font-size: 30px;
-        display: block;
+        display: inline-block;
         color: rgb(255, 165, 0);
         text-align: left;
     }
@@ -794,6 +783,38 @@ footer {
         "main"
         "footer";
     }
+
+    .handle i {
+        font-size: 30px;
+        display: block;
+        color: rgb(255, 165, 0);
+        text-align: left;
+    }
+}
+
+
+@media only screen and (min-width: 768px) {
+    body {
+        margin: 0;
+        display: grid; 
+        grid-template-columns: 100%;
+        grid-template-rows: auto;
+        grid-template-areas:
+        "header"
+        "sidebar"
+        "sect1" 
+        "sect2" 
+        "sect3"
+        "main"
+        "footer";
+    }
+
+    .handle i {
+        font-size: 30px;
+        display: inline-block;
+        color: rgb(255, 165, 0);
+        text-align: left;
+    }
 }
 
 /*Standard to larger dekstop/laptop screens.*/
@@ -828,9 +849,11 @@ footer {
         "sidebar footer footer footer";
     }
 
-    p {
-        
-        font-size: 1.25rem;
+    .handle i {
+        font-size: 30px;
+        display: block;
+        color: rgb(255, 165, 0);
+        text-align: left;
     }
 }
 /*MEDIA QUERIES - ENDS*/

@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+    <!--Please Note: All icons on the site have been sourced from fontawesomewesome.com [https://fontawesome.com/] and W3Schools.com [https://www.w3schools.com/howto/howto_css_social_media_buttons.asp]-->
+    <!--Please Note: All images on the site have been sourced from FontAwesome.com [https://www.pexels.com/]-->
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width-device-width, initial-scale=1.0">
@@ -16,7 +18,7 @@
         
         <!--This tag holds the sidebar image-->
         <aside>
-            <img class="img-about" src="assets/images/pexels-koolshooters-7346634_cropped72dpi.jpg" alt="young lady meditating, pink backdrop"> 
+            <img class="img-about" src="assets/images/pexels-koolshooters-7346634_cropped72dpi.jpg" alt="young lady meditating, against pink backdrop"> 
         </aside>
 
         <!--The class 'about-header-style dictates the stylyling of the element (e.g. pink for the about.html)'-->
@@ -61,14 +63,14 @@
             <!--The aria-label has been used insted of aria-labelledby as there is no visible text text is not visble. For more information: [https://www.w3.org/TR/wai-aria/#aria-label]-->
             <!--The "aria-hidden=true" element been applied to the icon tags as they have sematic meaning. For more information: [https://fontawesome.com/how-to-use/on-the-web/other-topics/accessibility]-->
             <div class="about">
-                <h2><i class="fas fa-bullhorn"></i> Our mission</h2>
+                <h2><i aria-label="megaphone-icon" aria-hidden="true" class="fas fa-bullhorn"></i> Our mission</h2>
                 <p>As an online platform, our mission is to host online resources designed to develop mindful practices which can help to boost overall wellbeing. 
                 <p>For greater ease and accessibility, we use digital mediums (e.g. videos, playlists, images) to showcase primary-sourced (e.g. recipes) and secondary-sourced content. Some of these include but are not limited to videos on physical exercise, mindful practices, recipes, music, social discussions and even meditations techniques.</p>
                 <p>We hope you find Coca Women Wellness a useful tool in your day-to-day life and hope to connect with you somewhere across our social media channels!</p>
             </div> 
 
             <div class="about">
-                <h2><i class="fas fa-feather-alt"></i> About the founder</h2>
+                <h2><i aria-label="feather-icon" aria-hidden="true" class="fas fa-feather-alt"></i> About the founder</h2>
                 <p>Between 2015 and 2019 Sam attend the University of Greenwich, graduating with a 1st Class degree in BA Hons Public Relations & Communications. Once moving out and to another city in 2019, the pandemic hit, the world was in lockdown, and social interactions were almost completely limited to the screen.</p> 
                 <p>Such developments encouraged Sam to create Coca Women Wellness, an online platform designed to provide online communities with resources focused on promoting mindfulness practices and wellbeing.</p>
                 <p>In line with her passion for African & Caribbean culture(s), health, and wellbeing, she decided to create the online platform - Coca Women Wellness. Her key aspiration and hopes for this site is to increase awareness around a variety of content that positively influences African & Caribbean culture, and the wellbeing of those within it.</p>
@@ -77,7 +79,7 @@
         </main>
 
         <!-- The code for the element button has been adapted from a W3School tutorial. Source:[https://www.w3schools.com/howto/howto_js_scroll_to_top.asp]-->
-        <button onclick="topFunction()" id="backtoheader" title="Go to top"><i class="fas fa-arrow-up"></i></button>
+        <button onclick="topFunction()" id="backtoheader" title="Go to top"><i aria-label="upward-arrow-pointer" aria-hidden="true" class="fas fa-arrow-up"></i></button>
 
         <!--The class 'about-footer-style' dictates the stylyling of the element (e.g. pink for the about.html)'-->
         <footer class="about-footer-style">
@@ -90,7 +92,7 @@
                 <a href="https://www.youtube.com/" target="_blank" rel="external" aria-label="youtube-tag" aria-hidden="true" class="fa fa-youtube"></a>
                 <a href="https://www.pinterest.co.uk/" target="_blank" rel="external" aria-label="pinterest-tag" aria-hidden="true" class="fa fa-pinterest"></a>
             </div>
-            <div id="copyright-style">Copyright<span> &#169; </span> Coca Women's Wellness. All Rights Reserved 2021.</div>
+            <div id="copyright-style">Copyright<span aria-label="copyright" aria-hidden="true"> &#169; </span> Coca Women's Wellness. All Rights Reserved 2021.</div>
         </footer>
 
         <!--This script has been adapted from a W3School Tutorial. The 'getElementById' condition has been customised by me. Source:[https://www.w3schools.com/howto/howto_js_scroll_to_top.asp]-->

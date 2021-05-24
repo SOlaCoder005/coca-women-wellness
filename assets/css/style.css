@@ -299,7 +299,6 @@ section .recipe-boxes {
     margin-left: auto;
     margin-right: auto;
     border-radius: 1%;
-    font-weight: 500;
     background-color: rgb(151, 231, 29, .5);
 }
   
@@ -341,7 +340,6 @@ section .recipe-boxes {
     margin-left: auto;
     margin-right: auto;
     border-radius: 1%;
-    font-weight: 500;
     background-color: rgb(151, 231, 29, 0.5);
 }
   
@@ -376,7 +374,6 @@ section .recipe-boxes {
     margin-left: auto;
     margin-right: auto;
     border-radius: 1%;
-    font-weight: 500;
     background-color: rgb(151, 231, 29, 0.5);
 }
   

@@ -75,13 +75,13 @@
                     <!--The "aria-hidden=true" element been applied to the icon tags as they have sematic meaning. For more information: [https://fontawesome.com/how-to-use/on-the-web/other-topics/accessibility]-->
                     <div class="handle"> 
                         
-                        <label for="igtag"><i aria-label="instagram-tag" aria-hidden="true" class="fab fa-instagram"></i>Instagram</label>    
+                        <label for="igtag" aria-label="instagram-tag" aria-hidden="true"><i class="fab fa-instagram"></i>Instagram</label>    
                         <input type="text" name="handles" id="igtag" aria-label="enter your instagram handle" aria-required="false" placeholder=" @your_handle ">
                                     
-                        <label for="twittertag"><i aria-label="twitter-tag" aria-hidden="true" class="fab fa-twitter"></i>Twitter</label>
+                        <label for="twittertag" aria-label="twitter-tag" aria-hidden="true"><i class="fab fa-twitter"></i>Twitter</label>
                         <input type="text" name="handles" id="twittertag" aria-label=" enter your twitter handle" aria-required="false" placeholder=" @your_handle">
                          
-                        <label for="pintag"><i aria-label="pinterest-tag" aria-hidden="true" class="fab fa-pinterest-p"></i>Pinterest</label>
+                        <label for="pintag" aria-label="pinterest-tag" aria-hidden="true"><i class="fab fa-pinterest-p"></i>Pinterest</label>
                         <input type="text" name="handles" id="pintag" aria-label="enter your pinterest handle"  aria-required="false" placeholder=" @your_handle">
             
                     </div>  
@@ -89,7 +89,7 @@
                     <h4>What type of content would you like to be notified about?</h4>
 
                     <!--The aria-labelledby has been used as there is visible text. For more information: [https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-labelledby_attribute]-->        
-                    <i aria-label="hand-pointer-right-icon" aria-hidden="true" class="far fa-hand-point-right"></i>
+                    <i class="far fa-hand-point-right"></i>
                     <span id="radio-group">
                         <label for="recipes">Recipes</label>
                         <input type="radio" name="content" value="recipies" aria-labelledby="radio-group" aria-hidden="true" id="recipes">
@@ -115,22 +115,21 @@
                     <!--The iframe and a elements have been genertaed by Google's Maps widget feature. Origin Source: [https://maps-website.com/]-->
                     <!--Google Map widget below-->
                     <div>
-                        <iframe aria-label="google-maps-widget" aria-hidden="true" width="520" height="400" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=Piccadilly%20Gardens%20%20Manchester+(Coca%20Women%20Wellness)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> 
+                        <iframe aria-label="google-maps-widget" aria-hidden="true" width="520" height="400" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=Piccadilly%20Gardens%20%20Manchester+(Coca%20Women%20Wellness)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> 
                         
                         <!--Do not edit this tag as it supporst the Google Map iframe-->
                         <a href='https://www.add-map.net/' aria-label="google map iframe widget">Embedding a google map</a>
                     </div>
 
                     <h5>Our Details: </h5>
-                        <a href="mailto:missamfelicia@gmail.com" target="_blank" rel="external"><i aria-label="letter-icon" aria-hidden="true" class="far fa-envelope"></i>missamfelicia@gmail.com</a>
+                        <a href="mailto:missamfelicia@gmail.com" target="_blank" rel="external" aria-label="letter-icon" aria-hidden="true"><i class="far fa-envelope"></i>missamfelicia@gmail.com</a>
                         <br>
-                        <a href="https://uk.linkedin.com/" target="_blank" rel="external"><i aria-label="linkedin-icon" aria-hidden="true" class="fab fa-linkedin-in"></i>https://uk.linkedin.com/cww</a>
+                        <a href="https://uk.linkedin.com/" target="_blank" rel="external" aria-label="linkedin-icon" aria-hidden="true"><i class="fab fa-linkedin-in"></i>https://uk.linkedin.com/cww</a>
                 </div>
              
                 <div class="our-details">
-                    <h5><i aria-label="map-pointer-icon" aria-hidden="true" class="fas fa-map-marker-alt"></i>Our Address: </h5>
+                    <h5>Our Address: </h5>
                     <span>
-                        <p>
                             Coca Women Wellness
                             <br>
                             PO Box 9945
@@ -139,14 +138,13 @@
                             <br>
                             M60 9LS
                             UK
-                        </p>
                     </span>
                 </div>
             </div>
         </main>
 
         <!-- The code for the element button has been adapted from a W3School tutorial. Source:[https://www.w3schools.com/howto/howto_js_scroll_to_top.asp]-->
-        <button onclick="topFunction()" id="backtoheader" title="Go to top"><i aria-label="upward-arrow-pointer" aria-hidden="true" class="fas fa-arrow-up"></i></button>
+        <button onclick="topFunction()" id="backtoheader" title="Go to top" aria-label="upward arrow scrolls to top" aria-hidden="true"><i class="fas fa-arrow-up"></i></button>
 
         <!--The class 'connect-footer-style' dictates the stylyling of the element (e.g. blue for the playlists.html)'-->
         <footer class="connect-footer-style">
@@ -159,7 +157,7 @@
                 <a href="https://www.youtube.com/" target="_blank" rel="external" aria-label="youtube-tag" aria-hidden="true" class="fa fa-youtube"></a>
                 <a href="https://www.pinterest.co.uk/" target="_blank" rel="external" aria-label="pinterest-tag" aria-hidden="true" class="fa fa-pinterest"></a>
             </div>
-            <div id="copyright-style">Copyright<span aria-label="copyright" aria-hidden="true"> &#169; </span> Coca Women's Wellness. All Rights Reserved 2021.</div>
+            <div id="copyright-style">Copyright<span> &#169; </span> Coca Women's Wellness. All Rights Reserved 2021.</div>
         </footer>
 
         <!--This script has been adapted from a W3School Tutorial. The 'getElementById' condition has been customised by me. Source:[https://www.w3schools.com/howto/howto_js_scroll_to_top.asp]-->
@@ -195,6 +193,6 @@
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
         
         <!--The script below has been genertaed by Google's Maps widget feature. Origin Source: [https://maps-website.com/]-->
-        <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=6894868a1b6ed1661dd1f550f276295dadccdf6f'></script>
+        <script src='https://embedmaps.com/google-maps-authorization/script.js?id=6894868a1b6ed1661dd1f550f276295dadccdf6f'></script>
     </body>
 </html>

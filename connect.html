@@ -55,7 +55,7 @@
 
         <main>
             <div id="connect-background">
-                
+
                 <!--The structure of this form has been developed from referencing the 'form' activities and challenges provided by the Code Institue. 
                 The 'action=' value has been used after receiving approval from Code Institue's Tutoring Support team.
                 Origin Source:[https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/ee2afa91c35e4268b7de2ea21fe311dd/9?activate_block_id=block-v1%3ACodeInstitute%2BHE101%2B2020%2Btype%40vertical%2Bblock%4004ae28359c4340048efdeeacf3363eb0].-->
@@ -70,7 +70,8 @@
                     <input type="email" name="email" id="email" placeholder=" youremail@gmail.com " aria-label="your-email-input" aria-hidden="true" aria-required="true" required/>
                             
                     <h4>Want to connect via our social media? Why not share your handle?</h4>
-                    <!--The aria-label has been used insted of aria-labelledby as there is no visible text text is not visble. For more information: [https://www.w3.org/TR/wai-aria/#aria-label]-->
+
+                    <!--The aria-label has been used insted of aria-labelledby as text is not visble. For more information: [https://www.w3.org/TR/wai-aria/#aria-label]-->
                     <!--The "aria-hidden=true" element been applied to the icon tags as they have sematic meaning. For more information: [https://fontawesome.com/how-to-use/on-the-web/other-topics/accessibility]-->
                     <div class="handle"> 
                         
@@ -87,6 +88,7 @@
                                                             
                     <h4>What type of content would you like to be notified about?</h4>
 
+                    <!--The aria-labelledby has been used as there is visible text. For more information: [https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-labelledby_attribute]-->        
                     <i aria-label="hand-pointer-right-icon" aria-hidden="true" class="far fa-hand-point-right"></i>
                     <label for="recipes">Recipes</label>
                     <input type="radio" name="content" value="recipies" aria-labelledby="radio-group" aria-hidden="true" id="recipes">

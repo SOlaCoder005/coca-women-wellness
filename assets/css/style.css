@@ -363,6 +363,12 @@ section .recipe-boxes {
     font-weight: 600;
     font-size: 18px;
 }
+
+#box2 p {
+    padding: 5px 5px;
+    font-weight: 600;
+    font-size: 18px;
+}
   
 #box2 li {
     display: list-item;

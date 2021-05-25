@@ -177,9 +177,9 @@ Mintel reports have indicated that the growth of digital resources and platforms
 
 As such, the key initiatives of CWW are to: 
 
-    - Bolster users’ exposure to digital content and resources that helps develop positive mindfulness practices which will likely promote overall wellbeing. 
+- Bolster users’ exposure to digital content and resources that helps develop positive mindfulness practices which will likely promote overall wellbeing. 
 
-    - Expose users to influencers that curate content around wellbeing, with the African/Caribbean diaspora in mind.  
+- Expose users to influencers that curate content around wellbeing, with the African/Caribbean diaspora in mind.  
 
 #### **2.2.2 Competitors: How does CWW differs competitors?**
 
@@ -227,7 +227,7 @@ Many of these cultures have assigned positive connotations to the colour yellow.
 
 The other colours throughout the site were sourced from the images on the left-hand-side of the website’s pages (on desktop screen). Below is a list of the colours, with their respective HEX and RGB values: 
 
-![]( /docs/colour-theme/colour-pallet-cww.png)
+![](/docs/colour-theme/colour-pallet-cww.png)
 
 
 ## 5. Technologies Used
@@ -237,10 +237,10 @@ Below is a list of all the technologies, languages and tools that has aided the 
 
 #### 5.1 Languages
 
-- HTML – Supported the core structure of the website.
-- CSS – Supported the styling elements on the website.
-- JavaScript - Supported specific functionalities within the site (e.g. the navigation bar on the website)
-- JQuery – Supported specific functionalities (e.g. the scroll features on the website) within the site through simplifying ‘Document Object Model’ (DOM) manipulation (Developer.mozilla.org, 2021). 
+- **HTML** – Supported the core structure of the website.
+- **CSS** – Supported the styling elements on the website.
+- **JavaScript** - Supported specific functionalities within the site (e.g. the navigation bar on the website)
+- **JQuery** – Supported specific functionalities (e.g. the scroll features on the website) within the site through simplifying ‘Document Object Model’ (DOM) manipulation (Developer.mozilla.org, 2021). 
 
 #### 5.2 Libraries, Resources and Tools
 

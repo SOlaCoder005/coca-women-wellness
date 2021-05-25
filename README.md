@@ -19,6 +19,8 @@
 
 
 ## 1. Overview
+===============
+
 - This website is the product of the Portfolio Project 1: HTML & CSS Essentials (a.k.a. Milestone Project 1, MS1). 
 
 - It is part of the Code Institutes’ (CI) Diploma in Full Stack Software Development Diploma (5P).
@@ -32,6 +34,7 @@
 
 
 ## 2. User Experience (UX)
+==========================
 
 ### 2.1 User Stories (Strategy)
 
@@ -115,8 +118,7 @@ In extension to the research, the principles outlined in the [‘strategy plane�
 
 Based on the interpretations derived from the data, it can be argued that goals of first-time and reoccurring visitors as well as the site owner are as follows: 
 
-First-time visitor(s) goals
-=============================
+**First-time visitor(s) goals**
 
 When visiting the Coca Women Wellness site I want to: 
 
@@ -133,8 +135,7 @@ When visiting the Coca Women Wellness site I want to:
 
 4. See the site present content that reflects topics relevant to my ethnicity and cultural background.
 
-Reoccurring visitor(s) goals
-==============================
+**Reoccurring visitor(s) goals**
 
 When visiting the Coca Women Wellness site, I want to:
 
@@ -146,8 +147,8 @@ When visiting the Coca Women Wellness site, I want to:
 
 Additionally, the interpretation of the data charts above the indicated the perceived priorities (goals) for the site owner: 
 
-Site owner goals
-=================
+**Site owner goals**
+
 As a site owner I want to:
 
 9. Host and share resources that helps site visitors learn mindful, wellbeing and self-improvement techniques. 
@@ -193,7 +194,8 @@ While these resources are appropriate and invaluable to addressing and supportin
 
 
 
-## 5. Technologies Used 
+## 5. Technologies Used
+=======================
 
 Below is a list of all the technologies, languages and tools that has aided the construction of the Coca Women Website.
 

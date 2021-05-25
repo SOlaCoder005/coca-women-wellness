@@ -286,13 +286,13 @@ This section provides an overview of the features on the Coca Women Wellness web
 
     2.1 Navigation Menu – Hamburger Menu 
 
-    - Additionally, when the site is accessed on a mobile (or device with a narrow screen), the menu turns into a hamburger icon, displayed on the left. 
+        - Additionally, when the site is accessed on a [mobile](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/assets/images/website-screenshots-and-elements/cww-home-mobile.png) (or device with a narrow screen), the menu turns into a hamburger icon, displayed on the left. 
 
-    - Clicking on the hamburger menu allows the menu to expand and collapse in the centre of the screen. 
+        - Clicking on the hamburger menu allows the menu to expand and collapse in the centre of the screen. 
 
-    - When the link to a page is clicked on, the text becomes underlined. 
+        - When the link to a page is clicked on, the text becomes underlined. 
 
-    - The menu has been positioned this way on mobile screen to address the user’s priority. For instance, on mobile the main priority of the user is to navigate around the website with ease. 
+        - The menu has been positioned this way on mobile screen to address the user’s priority. For instance, on mobile the main priority of the user is to navigate around the website with ease. 
 
 3. Footer – Social Media Icons
 
@@ -335,16 +335,21 @@ This section provides an overview of the features on the Coca Women Wellness web
 ![](assets/images/website-screenshots-and-elements/cww-home-tablet.png)
 
 1. ‘COCA WOMEN WELLNESS’ top row icons: ‘Our Socials’, ‘Our Resources’ and ‘Our Community’
+
 - The primary purpose for these links is to direct users to internal pages and the social media icons in the site’s footer. 
+
 - Akin to the header, when each icon is hovered over with the cursor, the icon turns to a light shade of orange. The hover function has been used to create a visual difference through user interaction. 
-- The icons’ colour change aims to communicate with the user that the icon provides an additional function (e.g. linking to another page).  
+
+- The icons’ colour change aims to communicate with the user that the icon provides an additional function (e.g. linking to another page).
 
 2. ‘OUR MEETUPS’ Links
 - The primary purpose for these links is to direct users to external pages (i.e. Linked in and zoom) where the user can sign-up to attend the social meetings. Akin to the first row of icons:  
-- When each icon is hovered over with the cursor, 
-- The icon turns to a light shade of orange.
-- The hover function has been used to create a visual difference through user interaction. 
-- The colour change aims to communicate with the user that the icon provides an additional function (e.g. linking to another page).  
+
+    - When each icon is hovered over with the cursor, the icon turns to a light shade of orange.
+
+    - The hover function has been used to create a visual difference through user interaction. 
+
+    - The colour change aims to communicate with the user that the icon provides an additional function (e.g. linking to another page).  
 
 #### **4.2.1 User Story/Stories Addressed**
 

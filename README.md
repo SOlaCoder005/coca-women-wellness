@@ -73,9 +73,13 @@ Prior to creating the website, some market research was conducted to gain insigh
 The research specifically focused on their expectations when visiting sites that offer content and resources around mindfulness and/or wellbeing. As such, several women were asked the following questions:
 
 1.	Do you visit any wellbeing sites/apps? If so could provide some names?
+
 2.	Do you follow any black female wellbeing influencers?
+
 3.	Do you think wellbeing content created by and for black women would help support your wellbeing?
+
 4.	If you were looking at a wellbeing site designed to promote the wellbeing of black women - what type of content would you like to see? 
+
 5.	How do you prefer wellbeing topics/content to be presented to you (e.g. via blogs, videos, images, courses, or books)?
 
 |Q/User| User ‘R’| User ‘A’| User ‘L’| User ‘AM’| 
@@ -103,7 +107,7 @@ In extension to this research, the principles outlined in the [‘strategy plane
 |SO| Site Owner|
 
 
-<img src="assets/docs/data-docs/strategy-planning.jpg">
+![](docs/data-docs/strategy-planning.jpg)
 
 
 **2.1.5 User stories – A Summary** 

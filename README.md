@@ -399,6 +399,43 @@ This section provides an overview of the features on the Coca Women Wellness web
 |First-time visitors | 4. | See the site present content that reflects topics relevant to my ethnicity and cultural background| “… The content I would like to [see]...**Healthy** vegetarian **meals**...”- _– User L_| 
 
 
+### 4.5 Page: ‘PLAYLISTS’
+
+![](assets/images/website-screenshots-and-elements/cww-playlists-desktop(1).png)
+
+![](assets/images/website-screenshots-and-elements/cww-playlists-desktop(2).png)
+
+1. Icons: ‘Food, ‘Body’, ‘Social’, ‘Music’ and ‘Mind’
+
+    - The primary purpose for these icons is to direct users to external customised YouTube playlists. The playlists have been set-up this way to allow users to save videos to their YouTube accounts should they wish to do so.  
+
+    - Each playlist contains content relating to the icons’ titles.
+
+    - Akin to the icons on the ‘HOME’ page, when each icon is hovered over with the cursor, the icon turns to a light shade of blue. The hover function has been used to create a visual difference through user interaction. 
+
+- The icons’ colour change aims to communicate with the user that the icon provides an additional function (e.g. linking to another page). 
+
+2. Banner videos 
+
+    - Each video has been included to provide the users with an idea of the content the CWW playlists intend to share – healthy food, physical and meditation practices. 
+
+    - Further, pausing the video on the site allows the user to see a preview of additional content made by the influencer. 
+
+![](assets/images/website-screenshots-and-elements/ cww-videoexample.png) 
+
+    - Each video can be controlled by the user visiting the site (e.g. ability to start, stop and mute the video).
+
+#### **4.5.1 User Story/Stories Addressed**
+
+| User Type |User Story Number| Description| Supporting Statement|
+|-----|-----|-----|-----| 
+|First-time visitor |2. | Engage with visual, auditory, and literary content that develops and positively addresses multiple facets of wellbeing | N/A|  
+|Site Owner |9. | Host and share resources that helps site visitors learn mindful, wellbeing and self-improvement techniques | N/A | 
+| First-time visitor | 4. | See the site present content that reflects topics relevant to my ethnicity and cultural background| “…I think it would be the importance of vulnerability, and black women have it in is too.  I think **self-concept** is vital too.” _- User A_ | 
+|Site Owner | 12. | Host and promote wellbeing and mindfulness content, particularly made by influencers of the African and Caribbean diaspora| “I would like to see content relating to **emotional, physical and spiritual well-being**, basically **all aspects of life**”_- User AM_ | 
+
+
+
 
 ## 5. Technologies Used
 

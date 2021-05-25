@@ -212,10 +212,11 @@ The wireframes below depict the **preliminary structure** for the CWW website. T
 5.	[Wireframe – CONNECT]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/playlists-pages "Wireframes for Connect page")
 
  - **PLEASE NOTE:** The structure and appearance of the live deployed CWW website differs considerably from the preliminary wireframes. These differences resulted from responsiveness issues that arose during the initial design of the CWW website. Further information around this has been documented in the [TESTING.md](https://github.com/SOlaCoder005/coca-women-wellness/blob/a5c2068f53f901115928df67ad9651ef0c35415e/docs/testing/TESTING.md) document within this repository’s directory.
+ 
 Although the final structure of the site differs considerably to the preliminary wireframes; the live deployed CWW has greater responsiveness when accessed by different devices (incl. Desktop, mobile and tablet screens). 
 
 
-#### 3.2 User Experience Design (UXD)
+#### 3.2 User Experience Design (UXD) elements
 
 #### **3.2.1 Colour Pallet Rationale** 
 

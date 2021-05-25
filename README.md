@@ -271,38 +271,38 @@ This section provides an overview of the features on the Coca Women Wellness web
 
 1. Logo
 
-- The logo in the top left corner of the page has been applied to establish the site identity. 
+    - The logo in the top left corner of the page has been applied to establish the site identity. 
 
-- Clicking on the image on any of the pages on the site will return the user back to the homepage.
+    - Clicking on the image on any of the pages on the site will return the user back to the homepage.
 
 2.  Navigation Menu
 
-- This menu consists of links that directs the users through the five pages of the Coca Women Wellness website.
+    - This menu consists of links that directs the users through the five pages of the Coca Women Wellness website.
 
-- When each page is hovered over with the cursor, the text (e.g. HOME) turns white. 
+    - When each page is hovered over with the cursor, the text (e.g. HOME) turns white. 
 
-- When the link is clicked on, the user is directed to the page and the text becomes underlined. 
+    - When the link is clicked on, the user is directed to the page and the text becomes underlined. 
 
 3. Footer – Social  Media Icons
 
-- Each social media icon links to external social media pages (e.g. YouTube, Discord and Twitter). 
+    - Each social media icon links to external social media pages (e.g. YouTube, Discord and Twitter). 
 
-- The customer would have to sign into their social media accounts and would then be directed to the respective Coca Women Wellness profile. 
+    - The customer would have to sign into their social media accounts and would then be directed to the respective Coca Women Wellness profile. 
 
 4. Vertical banner image
 
-- Each vertical banner image on the left-hand of the website has been used to establish the tone of the website. The website is intended to evoke ‘upbeat’ positive emotions.
+    - Each vertical banner image on the left-hand of the website has been used to establish the tone of the website. The website is intended to evoke ‘upbeat’ positive emotions.
 
-- The images are also intended to implicitly suggests to the user the primary initiative of the website. That is, a platform that hosts and shares content that promotes wellbeing, particularly for women from the African and Caribbean diaspora. 
+    - The images are also intended to implicitly suggests to the user the primary initiative of the website. That is, a platform that hosts and shares content that promotes wellbeing, particularly for women from the African and Caribbean diaspora. 
 
 
 5. Scroll button 
 
-- The scroll button in the bottom-right corner of each page has been implemented to aid user’s navigation around the website’s pages, thus increasing user’s experiences. 
+    - The scroll button in the bottom-right corner of each page has been implemented to aid user’s navigation around the website’s pages, thus increasing user’s experiences. 
 
-- The feature is present across several devices (e.g. desktop screens, mobiles and tablets). 
+    - The feature is present across several devices (e.g. desktop screens, mobiles and tablets). 
 
-- As mobile screens tend to be smaller and narrower, website pages can lengthen considerably compared to other device types. As such this feature is particularly useful when the website is accessed via mobile. 
+    - As mobile screens tend to be smaller and narrower, website pages can lengthen considerably compared to other device types. As such this feature is particularly useful when the website is accessed via mobile. 
 
 #### **4.1.1 User Story/Stories Addressed**
 

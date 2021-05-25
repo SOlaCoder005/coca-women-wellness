@@ -619,6 +619,6 @@ Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING
 
    
 
-## Section 11: References
+## Section 10: References
 
 Several resources have been referred to throughout the development of the Coca Women Website. A list has been provided, [here](/docs/charts-and-graphs/refs.md).

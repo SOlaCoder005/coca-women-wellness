@@ -423,7 +423,7 @@ This section provides an overview of the features on the Coca Women Wellness web
 
     - Further, pausing the video on the site allows the user to see a preview of additional content made by the influencer. 
 
-![](assets/images/website-screenshots-and-elements/cww-videoexample.png) 
+![](assets/images/website-screenshots-and-elements/cww-videoexample.PNG) 
 
 #### **4.5.1 User Story/Stories Addressed**
 

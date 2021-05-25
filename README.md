@@ -5,7 +5,7 @@
 
 
 ## Contents
-### [1. Overview](##1-Overview)
+### [1. Overview](#1-Overview)
 ### [2. User Experience (UX)](##2-User-Experience-UX)
 ### [3. Content](#3-Content) 
 ### [4. Features](#4-Features)
@@ -18,7 +18,7 @@
 
 
 
-## 1. Overview
+## [1. Overview](#1.-Overview)
 
 - This website is the product of the Portfolio Project 1: HTML & CSS Essentials (a.k.a. Milestone Project 1, MS1). 
 

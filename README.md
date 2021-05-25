@@ -1,5 +1,5 @@
 # Contents
-## [1. Overview](## 1. Overview)
+## [1. Overview](#1-Overview)
 ## [User Design (UX)]()
 ## [Section 3: Features]()
 ## [Section 4: Technologies Used]()
@@ -14,4 +14,4 @@
 
 
 
-## 1. Overview
+## 1.Overview

@@ -5,8 +5,8 @@
 
 
 ## Contents
-### [1. Overview](#1-Overview)
-### [2. User Experience (UX)](#2-User-Experience-UX)
+### [1. Overview](##1-Overview)
+### [2. User Experience (UX)](##2-User-Experience-UX)
 ### [3. Content](#3-Content) 
 ### [4. Features](#4-Features)
 ### [5. Technologies Used](#5-Technologies-Used)
@@ -20,51 +20,58 @@
 
 ## 1. Overview
 - This website is the product of the Portfolio Project 1: HTML & CSS Essentials (a.k.a. Milestone Project 1, MS1). 
+
 - It is part of the Code Institutes’ (CI) Diploma in Full Stack Software Development Diploma (5P).
 
 #### 1.1 Chosen Project Idea 
-- Out of several ideas presented, Project Idea 0 was chosen as the project asked to ‘…bring your own ideas to life…” through the creation of a website.  
+- Out of several ideas presented, Project Idea 0 was chosen as the project asked to ‘…bring your own ideas to life…” through the creation of a website.
+
 - To provide more conceptual structure to the project, the Coca Women Wellness (CWW) website uses the concepts presented in Project Idea Example 3 as a point of reference.  
 
 #### 1.2 Project Goals 
-Below is a summary of the goals of the project. 
-
-1.2.1 Goals of the Coca Women Website
-
-
-The CWW site aims to develop users’ mindful practices (e.g. yoga, meditation etc.) which can help to boost overall wellbeing. The website hosts several digital mediums to reach this goal (e.g. videos on physical exercise, mindful practices, recipes, music, social activities and even meditations techniques). Such resources have been included on the site to reflect the feedback gained from users’ stories. Such stories were gathered at the early stages of website development and shall be expanded on in later sections of this file. 
-
-
-
-1.2.2 User goals 
-
-the users’ salient goal when visiting the site is to engage with visual and written content that develops and positively impacts multiple facets of their wellbeing. From the users’ stories, such facets include, but are not limited to; meditation practices, relationship content, hair and ‘healthy’ food recipes. As such, the CWW site inherently focus on such topics, through the lens of African/Caribbean culture.
 
 
 ## 2. User Experience (UX)
 
 #### 2.1 User Stories (Strategy)
-2.1.1 Market climate
+
+**2.1.1 Market climate**
 Through market research, the following findings supported the conceptualisation of the Coca Women Wellness Website: 
+
 - Due to ongoing sociocultural and social-economic inequality in multiple societies (e.g. COVID-19 and continued social inequality), there has been increased discourse on raising awareness around, and providing greater support for improving people’s wellbeing. 
+
 - Further, there has been an increased volume of socio-economic initiatives that aim to bolster the mental, social, and emotional wellbeing of minority groups, particularly those in the African and/or Caribbean diaspora. 
+
 Considering this, the CWW hosts primary and secondary wellbeing media and resources (e.g. images, videos, tutorials, influencers, and recipes) curated by, and for, communities of the African/Caribbean diaspora. 
-2.1.2 Essential Definitions – ‘Mindfulness’ and ‘Wellbeing’
+
+**2.1.2 Essential Definitions – ‘Mindfulness’ and ‘Wellbeing’**
+
 An essential step in the development of Coca Women Wellness was to understand the semantic meaning and differences between the terms ‘Mindfulness’ and ‘Wellbeing’. 
-**Wellbeing**  
+
+Wellbeing 
+
 While the terms _‘wellbeing’_  and  _‘mindfulness’_ are often used interchangeably. It is worth noting that wellbeing is considered a _‘… broad concept…relating to…personal dignity (including treatment of the individual with respect)…, physical and mental health and emotional wellbeing,.. social and economic wellbeing. To summarise, ‘…Wellbeing encompasses several areas of life.'.  As such, it is a growing consensus that _‘…using a holistic approach to ensure a clear understanding of the individual’s views is vital to identifying and defining wellbeing in each case.”_ (Hpft.nhs.uk., 2021).
-**Mindfulness** 
+
+Mindfulness
+
 Similarly, mindfulness is characterised as _“…the practice of maintaining a non-judgmental state of heightened or complete awareness of one's thoughts, emotions, or experiences on a moment-to-moment basis.”_  (Merriam-Webster.com, 2021).
+
 With these definitions in mind, rather than being interchangeable, wellbeing and mindfulness can be regarded as adjoining concepts, where developing mindful practices (in whatever area of life) is likely to positively impact overall wellbeing.
-2.1.3 Key Demographic(s)
+
+**2.1.3 Key Demographic(s)**
 ‘Demographics’ relates to the characteristics of a population and the specific groups within it. As such, the key demographic factors considered when choosing the target audience of the Coca Women Wellness website were:  
-- Sex: Women 
-- Age: 16-40
-- Ethnicity: African and/or Caribbean heritage 
-2.1.4 Psychographics
+
+    - Sex: Women 
+    - Age: 16-40
+    - Ethnicity: African and/or Caribbean heritage 
+
+**2.1.4 Psychographics**
+
 ‘Psychographics’ refers to the common socio-psychological factors (e.g. motivations, priorities, perspectives etc.) that influences a person’s or groups’, beliefs, expectations, perspectives and hence behaviours.
 Prior to creating the website, some market research was conducted to gain insight into the potential psychographic expectations of the target audience. 
+
 The research specifically focused on their expectations when visiting sites that offer content and resources around mindfulness and/or wellbeing. As such, several women were asked the following questions:
+
 1.	Do you visit any wellbeing sites/apps? If so could provide some names?
 2.	Do you follow any black female wellbeing influencers?
 3.	Do you think wellbeing content created by and for black women would help support your wellbeing?
@@ -79,7 +86,7 @@ The research specifically focused on their expectations when visiting sites that
 |Q4.|N/A|N/A|“… The content I would like to say is **skin care**, brightening creams/lotions. **Products** that make **chocolate skin glow**....**Healthy** vegetarian **meals**… Also more thing Samara, **hair** products for relaxed hair.”|- “I would like to see content relating to **emotional, physical and spiritual well-being**, basically **all aspects of life**”|
 |Q5.|N/A|“Blogs and videos.”|N/A|“…books (audio books); videos; vlogs; blogs”|
 
-In extension to this research, the principles outlined in the [‘strategy plane’]( https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.), of the  5 Planes of UX Design model was referred to. This plane assisted in identifying the deliverables of the site. These deliverables were determined and valued by perceived importance, viability, and feasibility. This approached produced the following findings: 
+In extension to this research, the principles outlined in the [‘strategy plane’](https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.), of the  5 Planes of UX Design model was referred to. This plane assisted in identifying the deliverables of the site. These deliverables were determined and valued by perceived importance, viability, and feasibility. This approached produced the following findings: 
 
 | Opportunities | IMPORTANCE| VIABILITY/FEASIBILITY| 
 |-------------|:-------------:|:-------------:|
@@ -95,29 +102,43 @@ In extension to this research, the principles outlined in the [‘strategy plane
 | U | User |
 |SO| Site Owner|
 
-<p align="center">
-<img src="/assets/docs/data-docs/strategy-planning.jpg">
-<p>
 
-2.1.5 User stories – A Summary 
+<img src="assets/docs/data-docs/strategy-planning.jpg">
+
+
+**2.1.5 User stories – A Summary** 
+
 Based on the interpretations derived from the data, it can be argued that goals of first-time and reoccurring visitors as well as the site owner are as follows: 
-**First-time visitor(s) goals**
+
+First-time visitor(s) goals
 When visiting the Coca Women Wellness site I want to: 
+
 1. Be introduced to new ways of developing my wellbeing and mindfulness practices.
-2. Engage with visual, auditory, and literary content that develops and positively addresses multiple facets of wellbeing. 
-3. Gain exposure to ‘other’ and new influencers who provide content on multiple topics relevant to promoting my wellbeing. Such facets include, but are not limited to; 
-- Meditation practices
-- Platonic, familial, and romantic relationships/social interaction 
-- Hair and Skin care products/practices 
-- ‘Healthy’ food  
+
+2. Engage with visual, auditory, and literary content that develops and positively addresses multiple facets of wellbeing.
+
+3. Gain exposure to ‘other’ and new influencers who provide content on multiple topics relevant to promoting my wellbeing. Such facets include, but are not limited to;
+
+    - Meditation practices
+    - Platonic, familial, and romantic relationships/social interaction 
+    - Hair and Skin care products/practices 
+    - ‘Healthy’ food  
+
 4. See the site present content that reflects topics relevant to my ethnicity and cultural background.
-**Reoccurring visitor(s) goals**
+
+Reoccurring visitor(s) goals
+
 When visiting the Coca Women Wellness site, I want to: 
 6. Stay updated on the recent developments of the site through emails and/or newsletters.
+
 7. Engage in the Online and In-person meetups hosted by Coca Women Wellness.
+
 8. Engage with the Coca Women Wellness online community (e.g. via discord and other social media channels).
+
 Additionally, the interpretation of the data charts above the indicated the perceived priorities (goals) for the site owner: 
-**Site owner goals**
+
+Site owner goals
+
 As a site owner I want to:
 9. Host and share resources that helps site visitors learn mindful, wellbeing and self-improvement techniques. 
 
@@ -131,20 +152,30 @@ As a site owner I want to:
 
 #### 2.2 Website value (Scope)
 The [‘scope plane’]( https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.), in the 5 Planes of UX Design model suggests that designers should focus on *‘what content may be required to meet users’ needs..’*.  
-2.2.1 Valuableness of the website 
+
+**2.2.1 Valuableness of the website** 
 The Coca Women Wellness website provides serves several purposes which increases its value: 
+
 1.  The site intends to bolster users’ wellbeing through exposing them to wellbeing influencers and resources primarily sourced from the African/Caribbean diaspora. 
+
 2. Based on some excerpts from the users’ stories – several women had limited knowledge of wellbeing influencers, specifically those of African and/or Caribbean decent. Lack of exposure of such influencers in media has been a prevalent issue that is being addressed in the current social climate. It has led to the implementation of inclusion and diversity initiatives in media such as [#YouTubeBlack](https://www.youtube.com/intl/ALL_za/creators/ytbvoicesfund/). Coca women wellness attempts to address these issues though the nature of the site’s content. 
+
 3.  The website provides a free, contemporary way of distributing information by presenting non-literary approaches to accessing wellbeing content. 
 Mintel reports have indicated that the growth of digital resources and platforms have encouraged people to engage with more visual content, specifically on digital devices like laptops and smartphones (McGrath, 2020).  Moreover, visual content (e.g. films, art, images etc.) has greater engagement from those aged people aged 16-44. Such findings echo trend reports’ assertions that around 26% of UK adults are likely to engage in traditional reading (e.g. hardcover books) (Ryan, 2020). 
+
 As such, the key initiatives of CWW are to: 
-- Bolster users’ exposure to digital content and resources that helps develop positive mindfulness practices which will likely promote overall wellbeing. 
-- Expose users to influencers that curate content around wellbeing, with the African/Caribbean diaspora in mind.  
-2.2.2 Competitors: How does CWW differs competitors?
+    - Bolster users’ exposure to digital content and resources that helps develop positive mindfulness practices which will likely promote overall wellbeing. 
+    - Expose users to influencers that curate content around wellbeing, with the African/Caribbean diaspora in mind.  
+
+**2.2.2 Competitors: How does CWW differs competitors?**
+
 To determine the valuableness of the site, it was essential to analyse how the CWW differs from competitor sites. 
+
 Arguably, a lot of wellbeing and mindfulness websites portray a clinical narrative which is often reflected in their content (e.g. aesthetical design) and services (e.g. therapeutic services and treatment). For instance, sites such as [Rethink Mental Illness]( https://www.rethink.org/advice-and-information/living-with-mental-illness/wellbeing-physical-health/black-asian-and-minority-ethnic-mental-health/) offer clinical services such as counselling and priced therapeutic materials (e.g. meditation courses, books). Moreover, a Google search of the phrase ‘black wellbeing’ presented a list of wide range of articles and resources written in extremely formal tones. 
+
 While these resources are appropriate and invaluable to addressing and supporting matters around wellbeing, CWW has been designed with a more informal tone. Specifically, CWW hosts wellbeing resources in an informal relaxed way, reflecting websites such as: 
-- [World Changer Life]( https://www.worldchangerlife.com/)
-- [Kwanda]( https://kwanda.co/), 
-- [Black Zen](https://www.blackzen.co/#services-and-more) 
-- [Black Women Healing Retreats]( https://www.blackwomenhealingretreats.com/about-black-women-healing-retreats.html).  
+
+    - [World Changer Life]( https://www.worldchangerlife.com/)
+    - [Kwanda]( https://kwanda.co/), 
+    - [Black Zen](https://www.blackzen.co/#services-and-more) 
+    - [Black Women Healing Retreats]( https://www.blackwomenhealingretreats.com/about-black-women-healing-retreats.html).  

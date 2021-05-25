@@ -234,7 +234,7 @@ The other colours throughout the site were sourced from the images on the left-h
 
 The fonts used on the CWW site were imported from [Google Fonts](https://fonts.google.com/) and were used on the website for the following reasons: 
 
-![](docs/colour-theme/fonts-cww.PNG)
+![](docs/colour-theme/font-cww.PNG)
 
 1. **Oswald**: This is a considerably ‘weighted’ sans-serif font. It was used on the header sections to ensure that the navigation titles remained prominent across the varying header colours.
 

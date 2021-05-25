@@ -240,6 +240,22 @@ The fonts used on the CWW site were imported from [Google Fonts](https://fonts.g
 
 2. **Open Sans**: Aside from the header, this font was used throughout the site. It was chosen to compliment the ‘feminine’ theme of the site. Arguably, round shapes are often associated with feminine characteristics. As such, the rounded characteristics of this font conveys a softer tone to the overall page compared to the Oswald font and vibrant colours used. 
 
+#### **3.2.2 Coca Women Wellness Logo** 
+
+![](images/website-screenshots-and-elements/logowithtext.png) 
+
+The logo for the site was created initial by hand and then illustrated through the following software:
+
+- Adobe Illustrator
+- Adobe Photoshop
+- Adobe InDesign 
+
+The colour **#3E0D05** was applied to the logo illustration for two key reasons:
+
+1. Maintain aesthetic continuity across the site’s element (e.g. majority of the site text, social media icons and some header titles). 
+
+2. Reduce the risk of creating a harsh contrast between the background and foreground. For instance, typically, within deigns and visual content that aim to convey warning or alerts will tend to use a combination of bright yellow(s), white and black. As this is not the purpose of the CWW website, the use of the colour black was avoided.    
+
 
 ## 5. Technologies Used
 

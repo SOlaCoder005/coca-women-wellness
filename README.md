@@ -584,14 +584,22 @@ Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING
 
 #### **6.2.1 Blurry images on the CWW’s pages**
 
-- **Issue**: While the photos used on the site were sourced from Pexels.com with a high resolution, the images were blurry on several web browsers and device screens.  
+- **Issue**: 
 
-- **Solution**: After conducting further research into image quality within coding, the issue was resolved by using the property **‘object-fix:___;’** as a function within the .css style sheet. 
+    While the photos used on the site were sourced from Pexels.com with a high resolution, the images were blurry on several web browsers and device screens.  
+
+- **Solution**: 
+    
+    After conducting further research into image quality within coding, the issue was resolved by using the property **‘object-fix:___;’** as a function within the .css style sheet. 
 
 #### **6.2.2 CWW's images failed to display on one web browser but not the other**
 
-- **Issue**: When using an android tablet, the images on CWW did not display on a Google Chrome browser but did on the Microsoft Edge browser. This issue persisted after clearing the cache and cookies data on the Google Chrome browser multiple times.  However, during this time, the images were displaying on Google Chrome browsers on android mobile devices (e.g. Oppo Reno Z) and Google Chrome’s desktop application. 
+- **Issue**: 
+    
+    When using an android tablet, the images on CWW did not display on a Google Chrome browser but did on the Microsoft Edge browser. This issue persisted after clearing the cache and cookies data on the Google Chrome browser multiple times.  However, during this time, the images were displaying on Google Chrome browsers on android mobile devices (e.g. Oppo Reno Z) and Google Chrome’s desktop application. 
 
--  **Solution**: The issue was resolved by manually resizing images’ dimensions (px) and reducing the resolution (dpi) values. This was achieved using Adobe Photoshop. Arguably, this method can cause issues when printing images, however as the images were to be displayed digitally, reducing the resolution of the images did not have a detrimental impact on the images’ aesthetics.  After resizing, the images showed on both browsers on tablet, mobile and desktop devices. 
+-  **Solution**: 
+    
+    The issue was resolved by manually resizing images’ dimensions (px) and reducing the resolution (dpi) values. This was achieved using Adobe Photoshop. Arguably, this method can cause issues when printing images, however as the images were to be displayed digitally, reducing the resolution of the images did not have a detrimental impact on the images’ aesthetics.  After resizing, the images showed on both browsers on tablet, mobile and desktop devices. 
 
 

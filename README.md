@@ -3,16 +3,16 @@
 
 
 ## Contents
-### [1. Overview](#1.-Overview)
-### [2. User Experience (UX)](#2.-User-Experience-UX)
-### [3. Content](#3-Content) 
-### [4. Features](#4-Features)
-### [5. Technologies Used](#5-Technologies-Used)
-### [6. Testing](#6-Testing)
-### [7. Deployment](#7-Deployment)
-### [8. Credits](#8-Credits)
-### [9. Acknowledgements](#9-Acknowledgements)
-### [10. References](#10-References)
+### 1. Overview
+### 2. User Experience (UX)
+### 3. Content 
+### 4. Features
+### 5. Technologies Used
+### 6. Testing
+### 7. Deployment
+### 8. Credits
+### 9. Acknowledgements
+### 10. References
 
 
 
@@ -618,3 +618,7 @@ Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING
     Another unresolved bug on the CWW site is the positioning of the text when displayed on a vertical tablet screen. On a vertical mobile screen, the text elements stack on top of each other in a column. This aligns with how the site is intended to respond to smaller screen sizes. However; When the site is displayed on a tablet screen that is rotated vertically the text elements do not stack on top of each other. Rather, the elements reduce in size proportionally to fit on the screen. 
 
    
+
+## Section 11: References
+
+Several resources have been referred to throughout the development of the Coca Women Website. A list has been provided, [here](/docs/charts-and-graphs/refs.md).

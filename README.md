@@ -16,17 +16,6 @@
 ### [9. Acknowledgements](#9-Acknowledgements)
 ### [10. References](#10-References)
 
-## 1.Overview
-## 2. User Experience (UX)
-## 3. Content
-## 4. Features
-## 5. Technologies Used
-## 6. Testing
-## 7. Deployment
-## 8. Credits
-## 9. Acknowledgements
-## 10. References
-
 
 
 ## 1. Overview

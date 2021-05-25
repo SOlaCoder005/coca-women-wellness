@@ -444,6 +444,8 @@ This section provides an overview of the features on the Coca Women Wellness web
 
     - The form requires the user to enter their name and email address if they intend to submit the form. The ‘@your_handle’ input fields and the radio choice buttons are optional. 
 
+    ![](assets/images/website-screenshots-and-elements/formfillinfield.png) 
+
     - Each playlist contains content relating to the icons’ titles. 
 
 2. ‘Our Details’ Icons
@@ -471,7 +473,19 @@ This section provides an overview of the features on the Coca Women Wellness web
 |Reoccurring visitors | 7. |Engage in the Online and In-person meetups hosted by Coca Women Wellness| N/A | 
 |Reoccurring visitors | 8. | Engage with the Coca Women Wellness online community (e.g. via discord and other social media channels| N/A | 
 
+### 4.7 Page: ‘404 ERROR’
 
+![](assets/images/website-screenshots-and-elements/cww-404error-desktop.png) 
+
+- The primary purpose for this page is to redirect users to the ‘HOME’ page. 
+
+- The key feature on the page is the **‘HERE’**. When hovered over with the cursor, the icon turns to white. When clicked the user is redirected to the homepage. 
+
+#### **4.7.1 User Story/Stories Addressed**
+
+| User Type |User Story Number| Description| Supporting Statement|
+|-----|-----|-----|-----| 
+|Site Owner |10. | Create a functional website where the user can navigate around easily and access content effortlessly. |N/A| 
 
 
 ## 5. Technologies Used

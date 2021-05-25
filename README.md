@@ -413,17 +413,17 @@ This section provides an overview of the features on the Coca Women Wellness web
 
     - Akin to the icons on the ‘HOME’ page, when each icon is hovered over with the cursor, the icon turns to a light shade of blue. The hover function has been used to create a visual difference through user interaction. 
 
-- The icons’ colour change aims to communicate with the user that the icon provides an additional function (e.g. linking to another page). 
+    - The icons’ colour change aims to communicate with the user that the icon provides an additional function (e.g. linking to another page). 
 
 2. Banner videos 
 
     - Each video has been included to provide the users with an idea of the content the CWW playlists intend to share – healthy food, physical and meditation practices. 
 
+    - Each video can be controlled by the user visiting the site (e.g. ability to start, stop and mute the video).
+
     - Further, pausing the video on the site allows the user to see a preview of additional content made by the influencer. 
 
-![](assets/images/website-screenshots-and-elements/ cww-videoexample.png) 
-
-    - Each video can be controlled by the user visiting the site (e.g. ability to start, stop and mute the video).
+![](assets/images/website-screenshots-and-elements/cww-videoexample.png) 
 
 #### **4.5.1 User Story/Stories Addressed**
 
@@ -433,7 +433,6 @@ This section provides an overview of the features on the Coca Women Wellness web
 |Site Owner |9. | Host and share resources that helps site visitors learn mindful, wellbeing and self-improvement techniques | N/A | 
 | First-time visitor | 4. | See the site present content that reflects topics relevant to my ethnicity and cultural background| “…I think it would be the importance of vulnerability, and black women have it in is too.  I think **self-concept** is vital too.” _- User A_ | 
 |Site Owner | 12. | Host and promote wellbeing and mindfulness content, particularly made by influencers of the African and Caribbean diaspora| “I would like to see content relating to **emotional, physical and spiritual well-being**, basically **all aspects of life**”_- User AM_ | 
-
 
 
 

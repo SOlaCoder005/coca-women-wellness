@@ -272,48 +272,49 @@ This section provides an overview of the features on the Coca Women Wellness web
 ### 4.1 Site-wide Features
 1. Logo
 
-- The logo in the top left corner of the page has been applied to establish the site identity. 
+    - The logo in the top left corner of the page has been applied to establish the site identity. 
 
-- Clicking on the image on any of the pages on the site will return the user back to the homepage.
+    - Clicking on the image on any of the pages on the site will return the user back to the homepage.
 
 2.  Navigation Menu - Full Scale
 
-- This menu consists of links that directs the users through the five pages of the Coca Women Wellness website.
+    - This menu consists of links that directs the users through the five pages of the Coca Women Wellness website.
 
-- When each page is hovered over with the cursor, the text (e.g. HOME) turns white. 
+    - When each page is hovered over with the cursor, the text (e.g. HOME) turns white. 
 
-- When the link to a page is clicked on, the text becomes underlined. 
+    - When the link to a page is clicked on, the text becomes underlined. 
 
-2.1 Navigation Menu – Hamburger Menu 
+    2.1 Navigation Menu – Hamburger Menu 
 
-- Additionally, when the site is accessed on a mobile (or device with a narrow screen), the menu turns into a hamburger icon, displayed on the left. 
+    - Additionally, when the site is accessed on a mobile (or device with a narrow screen), the menu turns into a hamburger icon, displayed on the left. 
 
-- Clicking on the hamburger menu allows the menu to expand and collapse in the centre of the screen. 
+    - Clicking on the hamburger menu allows the menu to expand and collapse in the centre of the screen. 
 
-- When the link to a page is clicked on, the text becomes underlined. 
+    - When the link to a page is clicked on, the text becomes underlined. 
 
-- The menu has been positioned this way on mobile screen to address the user’s priority. For instance, on mobile the main priority of the user is to navigate around the website with ease. 
+    - The menu has been positioned this way on mobile screen to address the user’s priority. For instance, on mobile the main priority of the user is to navigate around the website with ease. 
 
 3. Footer – Social Media Icons
 
-- Each social media icon links to external social media pages (e.g. YouTube, Discord and Twitter). 
+    - Each social media icon links to external social media pages (e.g. YouTube, Discord and Twitter). 
 
-- The customer would have to sign into their social media accounts and would then be directed to the respective Coca Women Wellness profile. 
+    - The customer would have to sign into their social media accounts and would then be directed to the respective Coca Women Wellness profile. 
 
 4. Vertical banner image
 
-- Each vertical banner image on the left-hand of the website has been used to establish the tone of the website. The website is intended to evoke ‘upbeat’ positive emotions.
+    - Each vertical banner image on the left-hand of the website has been used to establish the tone of the website. The website is intended to evoke ‘upbeat’ positive emotions.
 
-- The images are also intended to implicitly suggests to the user the primary initiative of the website. That is, a platform that hosts and shares content that promotes wellbeing, particularly for women from the African and Caribbean diaspora. 
+    - The images are also intended to implicitly suggests to the user the primary initiative of the website. That is, a platform that hosts and shares content that promotes wellbeing, particularly for women from the African and Caribbean diaspora. 
 
 5. Scroll button 
-- The scroll button in the bottom-right corner of each page and appear after the user has scrolled at least 100px down the screen. When clicked, it takes the user to the top of the page.
 
--The feature has been implemented to aid user’s navigation around the website’s pages, thus increasing user’s experiences. 
+    - The scroll button in the bottom-right corner of each page and appear after the user has scrolled at least 100px down the screen. When clicked, it takes the user to the top of the page.
 
-- The feature is present across several devices (e.g. desktop screens, mobiles, and tablets).
+    - The feature has been implemented to aid user’s navigation around the website’s pages, thus increasing user’s experiences. 
 
-- As mobile screens tend to be smaller and narrower, website pages can lengthen considerably compared to other device types. As such this feature is particularly useful when the website is accessed via mobile. 
+    - The feature is present across several devices (e.g. desktop screens, mobiles, and tablets).
+
+    - As mobile screens tend to be smaller and narrower, website pages can lengthen considerably compared to other device types. As such this feature is particularly useful when the website is accessed via mobile. 
  
 
 #### **4.1.1 User Story/Stories Addressed**
@@ -325,6 +326,32 @@ This section provides an overview of the features on the Coca Women Wellness web
 |Reoccurring visitors |8. | Engage with the Coca Women Wellness online community (e.g. via discord and other social media channels).| N/A|
 |Site Owner| 11.| Provide resources that promotes wellbeing, particularly for women of the African and Caribbean diaspora. |N/A|
 
+### 4.2 Page: ‘HOME’ 
+
+![](assets/images/website-screenshots-and-elements/cww-home-desktop.png)
+
+![](assets/images/website-screenshots-and-elements/cww-home-mobile.png) 
+
+![](assets/images/website-screenshots-and-elements/cww-home-tablet.png)
+
+1. ‘COCA WOMEN WELLNESS’ top row icons: ‘Our Socials’, ‘Our Resources’ and ‘Our Community’
+- The primary purpose for these links is to direct users to internal pages and the social media icons in the site’s footer. 
+- Akin to the header, when each icon is hovered over with the cursor, the icon turns to a light shade of orange. The hover function has been used to create a visual difference through user interaction. 
+- The icons’ colour change aims to communicate with the user that the icon provides an additional function (e.g. linking to another page).  
+
+2. ‘OUR MEETUPS’ Links
+- The primary purpose for these links is to direct users to external pages (i.e. Linked in and zoom) where the user can sign-up to attend the social meetings. Akin to the first row of icons:  
+- When each icon is hovered over with the cursor, 
+- The icon turns to a light shade of orange.
+- The hover function has been used to create a visual difference through user interaction. 
+- The colour change aims to communicate with the user that the icon provides an additional function (e.g. linking to another page).  
+
+#### **4.2.1 User Story/Stories Addressed**
+
+| User Type |User Story Number| Description| Supporting Statement|
+|-----|-----|-----|-----| 
+|Reoccurring visitors| 7. | Engage in the Online and In-person meetups hosted by Coca Women Wellness| N/A | 
+|First-time visitors| 2. | Engage with visual, auditory, and literary content that develops and positively addresses multiple facets of wellbeing| N/A | 
 
 ## 5. Technologies Used
 

@@ -1,7 +1,5 @@
 # Coca Women Wellness Website
-<p align="center">
-<img src="/assets/images/website-screenshots-and-elements/ ">
-</p>
+
 
 
 ## Contents
@@ -526,3 +524,56 @@ Below are a list of all the technologies, languages and tools that has aided the
 -   [W3 Schools](https://www.w3schools.com/): This was used as a reference tool to assist with HTML coding techniques. 
 -   [W3.CSS](https://www.w3schools.com/w3css/default.asp): This was used as a reference tool to assist with CSS coding techniques.
 -   [Youtube](https://www.youtube.com/): Referred to for useful coding and UXD tips and tutorials.
+
+
+## 6. Testing
+
+A series of tests have been conducted on the CWW site’s functionality and its source-code. An extensive report of the tests conducted can be accessed [here](/docs/testing/TESTING.md); titled as ‘TESTING.md’. The report discusses the multiple factors that arose throughout the testing process of the site. The key points discussed in the report include:
+
+- Responsiveness issues with CWW site’s initial design and structure (reflected in the wireframes). 
+
+- Explanation of how the issues above contributed to the need to change CWW site’s structure and design.
+
+- Methods undertaken to create and test the current CWW site’s structure and responsiveness. 
+
+- User Stories testing process. 
+
+#### 6.1 Validator Testing
+
+To ensure that the source code for the CWW met industry standards, each page was run through the [W3C Validator](https://validator.w3.org/) and [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator). 
+
+#### **6.1.1 HTML Validator Tests**
+
+The [W3C Validator](https://validator.w3.org/) was used to test the HTML code. The results produced **0 errors**, thus passing the test. Evidence for each page is below: 
+
+- [HOME (index.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/validator-results/date-240521/W3C%20Validator%20results%20for%20index.html_PASS_240521.pdf)
+
+- [ABOUT (about.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/validator-results/date-240521/W3C%20Validator%20results%20for%20about.html_PASS_240521.pdf)
+
+- [RECIPES (recipes.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/validator-results/date-240521/W3C%20Validator%20results%20for%20recipes.html_PASS_240521.pdf)
+
+- [PLAYLISTS (playlists.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/validator-results/date-240521/W3C%20Validator%20results%20for%20playlists.html_PASS_240521.pdf)
+
+- [CONNECT (connect.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/validator-results/date-240521/W3C%20Validator%20results%20for%20connect.html_PASS_240521.pdf)
+
+- [404 Error (404.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/validator-results/date-240521/W3C%20Validator%20results%20for%20404.html_PASS_240521.pdf)
+
+#### **6.1.2 CSS Validator Test**
+
+The [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator) was used to test the CSS code. The results produced **0 errors**, thus passing the test. Evidence for this can be found, [here](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/validator-results/date-240521/W3C%20CSS%20Validator%20results%20for%20style.css%20(CSS%20level%203%20%2B%20SVG)_PASS_240521.pdf)
+
+#### **6.1.3 Accessibility Tests**
+The [WAVE Accessibility Evaluation Tool](https://wave.webaim.org) was used to test the degree to which the site is considered accessible. The results produced **0 errors**, thus passing the test.Evidence for each page is below: 
+
+- [HOME (index.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/accesibility-results/date-240521/WAVE_index.html_accessibility_PASS_240521.PNG)
+
+- [ABOUT (about.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/accesibility-results/date-240521/WAVE_about.html_accessibility_PASS_240521.PNG)
+
+- [RECIPES (recipes.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/accesibility-results/date-240521/WAVE_recipes.html_accessibility_PASS_240521.PNG)
+
+- [PLAYLISTS (playlists.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/accesibility-results/date-240521/WAVE_playlists.html_accessibility_PASS_240521.PNG)
+
+- [CONNECT (connect.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/accesibility-results/date-240521/WAVE_connect.html_accessibility_PASS_240521.PNG)
+
+- [404 Error (404.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/accesibility-results/date-240521/WAVE_404.html_accessibility_PASS_240521.PNG)
+

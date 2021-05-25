@@ -605,7 +605,9 @@ Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING
 #### **6.4.1 Structural Integrity: The awkward positioning of the label and input elements of the form on the ‘CONNECT’ page** 
 - Issue: 
     An unresolved bug on the CWW site is the positioning of the form’s input boxes on the connect page, when orientated vertically on a tablet screen (640px-768px). For instance:
+
     - When the form is accessed on a tablet; the ‘handles’ input element (e.g. Pinterest) will not display on same line as its label and icon. 
+
     - However, the positioning of these elements aligns when the devices are rotated and used horizontally. 
 
 
@@ -615,6 +617,4 @@ Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING
 
     Another unresolved bug on the CWW site is the positioning of the text when displayed on a vertical tablet screen. On a vertical mobile screen, the text elements stack on top of each other in a column. This aligns with how the site is intended to respond to smaller screen sizes. However; When the site is displayed on a tablet screen that is rotated vertically the text elements do not stack on top of each other. Rather, the elements reduce in size proportionally to fit on the screen. 
 
-#### **Potential cause for bugs:**
-
-    The bugs highlighted above is likely to result from my developing knowledge around coding principles for responsive design. This limitation shall be resolved through further study and implementation of gained knowledge in future coding projects.   
+   

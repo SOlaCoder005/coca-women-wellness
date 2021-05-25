@@ -396,7 +396,7 @@ This section provides an overview of the features on the Coca Women Wellness web
 |-----|-----|-----|-----| 
 |First-time visitor |3. | Gain exposure to ‘other’ and new influencers who provide content on multiple topics relevant to promoting my wellbeing. Such facets include, but are not limited to ‘Healthy’ food.  |N/A| 
 |Site Owner |9. | Host and share resources that helps site visitors learn mindful, wellbeing and self-improvement techniques |N/A| 
-|First-time visitors | 4. | See the site present content that reflects topics relevant to my ethnicity and cultural background| “… The content I would like to...**Healthy** vegetarian **meals**...”|- _– User L_| 
+|First-time visitors | 4. | See the site present content that reflects topics relevant to my ethnicity and cultural background| “… The content I would like to [see]...**Healthy** vegetarian **meals**...”- _– User L_| 
 
 
 

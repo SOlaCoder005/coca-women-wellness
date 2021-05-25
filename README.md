@@ -13,8 +13,8 @@
 
 
 
-## 1.Overview
-## 2. User Design
+## 1. Overview
+## 2. User Design (UX)
 ## 3. Features
 ## 4. Technologies Used
 ## 5. Testing

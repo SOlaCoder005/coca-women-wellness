@@ -354,6 +354,26 @@ This section provides an overview of the features on the Coca Women Wellness web
 |Reoccurring visitors| 7. | Engage in the Online and In-person meetups hosted by Coca Women Wellness| N/A | 
 |First-time visitors| 2. | Engage with visual, auditory, and literary content that develops and positively addresses multiple facets of wellbeing| N/A | 
 
+![]( assets/images/website-screenshots-and-elements/cww-about-desktop.png) 
+
+### 4.3 Page: ABOUT
+
+1. Central image
+
+- The main purpose of this page is to provide information about (‘Our Mission’ statement) the site and the founder’s vision for the site.
+
+- The purpose of including an image of the site owner is to strengthen to concepts presented in the website – promoting wellbeing through content curated by and for women of the African and Caribbean diaspora. 
+
+- Arguably, adding an image of the site owner provides the site with a more informal, welcoming tone. 
+
+#### **4.3.1 User Story/Stories Addressed**
+
+| User Type |User Story Number| Description| Supporting Statement|
+|-----|-----|-----|-----| 
+|Site Owner |10. | Create a functional website where the user can navigate around easily and access content effortlessly. |N/A| 
+|First-time visitors | 4. | See the site present content that reflects topics relevant to my ethnicity and cultural background| “Yes it would be **encouraging** to see **other black women** who are passionate about looking after **their well-being**…” _– User AM_| 
+
+
 ## 5. Technologies Used
 
 Below are a list of all the technologies, languages and tools that has aided the construction of the Coca Women Website.

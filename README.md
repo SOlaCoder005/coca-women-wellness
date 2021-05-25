@@ -115,7 +115,8 @@ In extension to the research, the principles outlined in the [â€˜strategy planeâ
 
 Based on the interpretations derived from the data, it can be argued that goals of first-time and reoccurring visitors as well as the site owner are as follows: 
 
-**First-time visitor(s) goals**
+First-time visitor(s) goals
+=============================
 
 When visiting the Coca Women Wellness site I want to: 
 
@@ -132,7 +133,8 @@ When visiting the Coca Women Wellness site I want to:
 
 4. See the site present content that reflects topics relevant to my ethnicity and cultural background.
 
-**Reoccurring visitor(s) goals**
+Reoccurring visitor(s) goals
+==============================
 
 When visiting the Coca Women Wellness site, I want to:
 
@@ -144,8 +146,8 @@ When visiting the Coca Women Wellness site, I want to:
 
 Additionally, the interpretation of the data charts above the indicated the perceived priorities (goals) for the site owner: 
 
-**Site owner goals**
-
+Site owner goals
+=================
 As a site owner I want to:
 
 9. Host and share resources that helps site visitors learn mindful, wellbeing and self-improvement techniques. 

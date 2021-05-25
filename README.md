@@ -59,6 +59,7 @@ Similarly, mindfulness is characterised as _“…the practice of maintaining a 
 With these definitions in mind, rather than being interchangeable, wellbeing and mindfulness can be regarded as adjoining concepts, where developing mindful practices (in whatever area of life) is likely to positively impact overall wellbeing.
 
 #### **2.1.3 Key Demographic(s)**
+
 ‘Demographics’ relates to the characteristics of a population and the specific groups within it. As such, the key demographic factors considered when choosing the target audience of the Coca Women Wellness website were:  
 
     - Sex: Women 
@@ -182,7 +183,7 @@ Arguably, a lot of wellbeing and mindfulness websites portray a clinical narrati
 
 While these resources are appropriate and invaluable to addressing and supporting matters around wellbeing, CWW has been designed with a more informal tone. Specifically, CWW hosts wellbeing resources in an informal relaxed way, reflecting websites such as: 
 
-    - [World Changer Life]( https://www.worldchangerlife.com/)
-    - [Kwanda]( https://kwanda.co/), 
-    - [Black Zen](https://www.blackzen.co/#services-and-more) 
-    - [Black Women Healing Retreats]( https://www.blackwomenhealingretreats.com/about-black-women-healing-retreats.html).  
+- [World Changer Life](https://www.worldchangerlife.com/)
+- [Kwanda](https://kwanda.co/), 
+- [Black Zen](https://www.blackzen.co/#services-and-more) 
+- [Black Women Healing Retreats](https://www.blackwomenhealingretreats.com/about-black-women-healing-retreats.html).  

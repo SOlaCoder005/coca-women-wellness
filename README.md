@@ -90,7 +90,7 @@ The research specifically focused on their expectations when visiting sites that
 |Q4.|N/A|N/A|“… The content I would like to say is **skin care**, brightening creams/lotions. **Products** that make **chocolate skin glow**....**Healthy** vegetarian **meals**… Also more thing Samara, **hair** products for relaxed hair.”|- “I would like to see content relating to **emotional, physical and spiritual well-being**, basically **all aspects of life**”|
 |Q5.|N/A|“Blogs and videos.”|N/A|“…books (audio books); videos; vlogs; blogs”|
 
-In extension to this research, the principles outlined in the [‘strategy plane’](https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.), of the  5 Planes of UX Design model was referred to. This plane assisted in identifying the deliverables of the site. These deliverables were determined and valued by perceived importance, viability, and feasibility. This approached produced the following findings: 
+In extension to the research, the principles outlined in the [‘strategy plane’](https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.), of the  5 Planes of UX Design model was referred to. This plane assisted in identifying the deliverables of the site. These deliverables were determined and valued by perceived importance, viability, and feasibility. This approached produced the following findings: 
 
 | Opportunities | IMPORTANCE| VIABILITY/FEASIBILITY| 
 |-------------|:-------------:|:-------------:|
@@ -114,7 +114,8 @@ In extension to this research, the principles outlined in the [‘strategy plane
 
 Based on the interpretations derived from the data, it can be argued that goals of first-time and reoccurring visitors as well as the site owner are as follows: 
 
-First-time visitor(s) goals
+++First-time visitor(s) goals++
+
 When visiting the Coca Women Wellness site I want to: 
 
 1. Be introduced to new ways of developing my wellbeing and mindfulness practices.
@@ -130,9 +131,10 @@ When visiting the Coca Women Wellness site I want to:
 
 4. See the site present content that reflects topics relevant to my ethnicity and cultural background.
 
-Reoccurring visitor(s) goals
+++Reoccurring visitor(s) goals++
 
-When visiting the Coca Women Wellness site, I want to: 
+When visiting the Coca Women Wellness site, I want to:
+
 6. Stay updated on the recent developments of the site through emails and/or newsletters.
 
 7. Engage in the Online and In-person meetups hosted by Coca Women Wellness.
@@ -141,9 +143,10 @@ When visiting the Coca Women Wellness site, I want to:
 
 Additionally, the interpretation of the data charts above the indicated the perceived priorities (goals) for the site owner: 
 
-Site owner goals
+++Site owner goals++
 
 As a site owner I want to:
+
 9. Host and share resources that helps site visitors learn mindful, wellbeing and self-improvement techniques. 
 
 10. Create a functional website where the user can navigate around easily and access content effortlessly. 

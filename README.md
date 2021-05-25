@@ -442,7 +442,7 @@ This section provides an overview of the features on the Coca Women Wellness web
 
     - The primary purpose for the form is for users to sign up and stay updated about the services the Coca Women Wellness website offers. 
 
-    - The form requires the user to enter their name and email address if they intend to submit the form. The ‘@your_handle’ input fields and the radio choice buttons are optional. 
+    - The form requires the user to enter their name and email address if they intend to submit the form. The _‘@your_handle’_ input fields and the radio choice buttons are optional. 
 
     ![](assets/images/website-screenshots-and-elements/formfillinfield.PNG) 
 

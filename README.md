@@ -5,8 +5,8 @@
 
 
 ## Contents
-### [1. Overview](https://github.com/SOlaCoder005/coca-women-wellness#1.-Overview)
-### [2. User Experience (UX)](https://github.com/SOlaCoder005/coca-women-wellness#2.-User-Experience-UX)
+### [1. Overview](#1.-Overview)
+### [2. User Experience (UX)](#2.-User-Experience-UX)
 ### [3. Content](#3-Content) 
 ### [4. Features](#4-Features)
 ### [5. Technologies Used](#5-Technologies-Used)
@@ -261,21 +261,71 @@ The colour **#3E0D05** was applied to the logo illustration for two key reasons:
 
 1. To maintain aesthetic continuity across the site’s element (e.g. majority of the site text, social media icons and some header titles). 
 
-2. To reduce the risk of creating a harsh contrast between the background and foreground. For instance, typically, within deigns and visual content that aim to convey warning or alerts will tend to use a combination of bright yellow(s), white and black. As this is not the purpose of the CWW website, the use of the colour black was avoided.    
+2. To reduce the risk of creating a harsh contrast between the background and foreground. For instance, typically, within deigns and visual content that aim to convey warning or alerts will tend to use a combination of bright yellow(s), white and black. As this is not the purpose of the CWW website, the use of the colour black was avoided.
+
+## 4. Features
+
+This section provides an overview of the features on the Coca Women Wellness website, and where relevant, the way in which the feature(s) address the user stories in prior sections.
+
+### 4.1 Site-wide Features
+
+1. Logo
+
+- The logo in the top left corner of the page has been applied to establish the site identity. 
+
+- Clicking on the image on any of the pages on the site will return the user back to the homepage.
+
+2.  Navigation Menu
+
+- This menu consists of links that directs the users through the five pages of the Coca Women Wellness website.
+
+- When each page is hovered over with the cursor, the text (e.g. HOME) turns white. 
+
+- When the link is clicked on, the user is directed to the page and the text becomes underlined. 
+
+3. Footer – Social  Media Icons
+
+- Each social media icon links to external social media pages (e.g. YouTube, Discord and Twitter). 
+
+- The customer would have to sign into their social media accounts and would then be directed to the respective Coca Women Wellness profile. 
+
+4. Vertical banner image
+
+- Each vertical banner image on the left-hand of the website has been used to establish the tone of the website. The website is intended to evoke ‘upbeat’ positive emotions.
+
+- The images are also intended to implicitly suggests to the user the primary initiative of the website. That is, a platform that hosts and shares content that promotes wellbeing, particularly for women from the African and Caribbean diaspora. 
+
+
+5. Scroll button 
+
+- The scroll button in the bottom-right corner of each page has been implemented to aid user’s navigation around the website’s pages, thus increasing user’s experiences. 
+
+- The feature is present across several devices (e.g. desktop screens, mobiles and tablets). 
+
+- As mobile screens tend to be smaller and narrower, website pages can lengthen considerably compared to other device types. As such this feature is particularly useful when the website is accessed via mobile. 
+
+#### **4.1.1 User Story/Stories Addressed**
+
+| User Type |User Story Number| Description| Supporting Statement|
+|-----|-----|-----|-----| 
+|Site Owner |10. | Create a functional website where the user can navigate around easily and access content effortlessly. |N/A| 
+|Site Owner |13. |Increase user interaction across social media platforms.| N/A|
+|Reoccurring visitors |8. | Engage with the Coca Women Wellness online community (e.g. via discord and other social media channels).| N/A|
+|Site Owner| 11.| Provide resources that promotes wellbeing, particularly for women of the African and Caribbean diaspora. |N/A|
 
 
 ## 5. Technologies Used
 
 Below are a list of all the technologies, languages and tools that has aided the construction of the Coca Women Website.
 
-#### 5.1 Languages
+### 5.1 Languages
 
 - **HTML** – Supported the core structure of the website.
 - **CSS** – Supported the styling elements on the website.
 - **JavaScript** - Supported specific functionalities within the site (e.g. the navigation bar on the website)
 - **JQuery** – Supported specific functionalities (e.g. the scroll features on the website) within the site through simplifying ‘Document Object Model’ (DOM) manipulation (Developer.mozilla.org, 2021). 
 
-#### 5.2 Libraries, Resources and Tools
+### 5.2 Libraries, Resources and Tools
 
 -	[Adobe Creative Cloud](https://www.adobe.com/uk/creativecloud.html): Specifically, I used the applications - Illustrator (AI), Photoshop (PS) and InDesign (InD) to create the website log. In more detail AI was used to create the design (from my hand drawing), PS used to help design my logo for the website and also select specific colour values that form the colour scheme of the website. Lastly, InD was used to apply and align the ‘Coca Women Wellness’ name to the logo once it was created in AI. 
 -   [Balsamiq]( https://balsamiq.com/): An application that allows designers sketch up User Interfaces (UI)

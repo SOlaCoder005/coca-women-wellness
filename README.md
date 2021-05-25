@@ -286,13 +286,13 @@ This section provides an overview of the features on the Coca Women Wellness web
 
     2.1 Navigation Menu – Hamburger Menu 
 
-        - Additionally, when the site is accessed on a [mobile](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/assets/images/website-screenshots-and-elements/cww-home-mobile.png) (or device with a narrow screen), the menu turns into a hamburger icon, displayed on the left. 
+    - Additionally, when the site is accessed on a [mobile](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/assets/images/website-screenshots-and-elements/cww-home-mobile.png) (or device with a narrow screen), the menu turns into a hamburger icon, displayed on the left. 
 
-        - Clicking on the hamburger menu allows the menu to expand and collapse in the centre of the screen. 
+    - Clicking on the hamburger menu allows the menu to expand and collapse in the centre of the screen. 
 
-        - When the link to a page is clicked on, the text becomes underlined. 
+    - When the link to a page is clicked on, the text becomes underlined. 
 
-        - The menu has been positioned this way on mobile screen to address the user’s priority. For instance, on mobile the main priority of the user is to navigate around the website with ease. 
+    - The menu has been positioned this way on mobile screen to address the user’s priority. For instance, on mobile the main priority of the user is to navigate around the website with ease. 
 
 3. Footer – Social Media Icons
 
@@ -329,10 +329,6 @@ This section provides an overview of the features on the Coca Women Wellness web
 ### 4.2 Page: ‘HOME’ 
 
 ![](assets/images/website-screenshots-and-elements/cww-home-desktop.png)
-
-![](assets/images/website-screenshots-and-elements/cww-home-mobile.png) 
-
-![](assets/images/website-screenshots-and-elements/cww-home-tablet.png)
 
 1. ‘COCA WOMEN WELLNESS’ top row icons: ‘Our Socials’, ‘Our Resources’ and ‘Our Community’
 

@@ -444,7 +444,7 @@ This section provides an overview of the features on the Coca Women Wellness web
 
     - The form requires the user to enter their name and email address if they intend to submit the form. The ‘@your_handle’ input fields and the radio choice buttons are optional. 
 
-    ![](assets/images/website-screenshots-and-elements/formfillinfield.png) 
+    ![](assets/images/website-screenshots-and-elements/formfillinfield.PNG) 
 
     - Each playlist contains content relating to the icons’ titles. 
 
@@ -475,7 +475,7 @@ This section provides an overview of the features on the Coca Women Wellness web
 
 ### 4.7 Page: ‘404 ERROR’
 
-![](assets/images/website-screenshots-and-elements/cww-404error-desktop.PNG) 
+![](assets/images/website-screenshots-and-elements/cww-404error-desktop.png) 
 
 - The primary purpose for this page is to redirect users to the ‘HOME’ page. 
 

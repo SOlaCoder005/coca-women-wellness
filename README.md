@@ -225,7 +225,8 @@ Below is a list of all the technologies, languages and tools that has aided the 
 -   [Pixabay](https://pixabay.com/): Aside from the CWW logo, some of the photos included on the live website has been sourced from Pixabay. Pexels provides royalty-free stock images. 
 -   [Pinterest](https://www.pinterest.co.uk/feli_fierce/cww_website_colourtheme/): An application where I collated visuals for my mood board for the website’s colour schemes (include live link to board).
 -   [Responsively](https://responsively.app/download): Web Browser that allows you to check the degree to which you website is responsive on various device sizes and screen orientations.
--   [Stack Overflow](https://stackoverflow.com/): This was used as a reference tool to assist with both HTML coding techniques.[VSCode](https://code.visualstudio.com/): An open source IDE that can be used online and locally on your desktop.
+-   [Stack Overflow](https://stackoverflow.com/): This was used as a reference tool to assist with both HTML coding techniques.
+- [VSCode](https://code.visualstudio.com/): An open source IDE that can be used online and locally on your desktop.
 - [Visme](https://www.visme.co/): An online application that assist with building visual content (e.g. graphs and charts) for business purposes. 
 -   [Wave]( https://wave.webaim.org/): A ‘Web Accessibility Evaluation Tool’ that determines the extent to which a site is accessible. 
 -   [W3C Validator](https://validator.w3.org/): This has been used to check the quality of my HTML code and ensures it passes coding standards.

@@ -32,7 +32,7 @@ aside {
 Origin Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 header {
     grid-area: header;
-    background-color: #ffd700;
+    background-color: rgb(255, 215, 0);
 }
 
 #menu li {
@@ -96,7 +96,7 @@ Origin Source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
 Origin Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 main {
     grid-area: main;
-    background-color: white;
+    background-color: #ffffff;
     font-family: 'Open Sans', sans-serif;
 }
 

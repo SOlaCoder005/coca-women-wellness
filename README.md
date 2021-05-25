@@ -475,7 +475,7 @@ This section provides an overview of the features on the Coca Women Wellness web
 
 ### 4.7 Page: ‘404 ERROR’
 
-![](assets/images/website-screenshots-and-elements/cww-404error-desktop.png) 
+![](assets/images/website-screenshots-and-elements/cww-404error-desktop.PNG) 
 
 - The primary purpose for this page is to redirect users to the ‘HOME’ page. 
 

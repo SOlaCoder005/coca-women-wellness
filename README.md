@@ -35,7 +35,7 @@
 
 ### 2.1 User Stories (Strategy)
 
-**#### 2.1.1 Market climate**
+#### **2.1.1 Market climate**
 Through market research, the following findings supported the conceptualisation of the Coca Women Wellness Website: 
 
 - Due to ongoing sociocultural and social-economic inequality in multiple societies (e.g. COVID-19 and continued social inequality), there has been increased discourse on raising awareness around, and providing greater support for improving people’s wellbeing. 
@@ -44,28 +44,28 @@ Through market research, the following findings supported the conceptualisation 
 
 Considering this, the CWW hosts primary and secondary wellbeing media and resources (e.g. images, videos, tutorials, influencers, and recipes) curated by, and for, communities of the African/Caribbean diaspora. 
 
-**#### 2.1.2 Essential Definitions – ‘Mindfulness’ and ‘Wellbeing’**
+#### **2.1.2 Essential Definitions – ‘Mindfulness’ and ‘Wellbeing’**
 
 An essential step in the development of Coca Women Wellness was to understand the semantic meaning and differences between the terms ‘Mindfulness’ and ‘Wellbeing’. 
 
-++Wellbeing++ 
+**Wellbeing**
 
 While the terms _‘wellbeing’_  and  _‘mindfulness’_ are often used interchangeably. It is worth noting that wellbeing is considered a _‘… broad concept…relating to…personal dignity (including treatment of the individual with respect)…, physical and mental health and emotional wellbeing,.. social and economic wellbeing. To summarise, ‘…Wellbeing encompasses several areas of life.'.  As such, it is a growing consensus that _‘…using a holistic approach to ensure a clear understanding of the individual’s views is vital to identifying and defining wellbeing in each case.”_ (Hpft.nhs.uk., 2021).
 
-++Mindfulness++
+**Mindfulness**
 
 Similarly, mindfulness is characterised as _“…the practice of maintaining a non-judgmental state of heightened or complete awareness of one's thoughts, emotions, or experiences on a moment-to-moment basis.”_  (Merriam-Webster.com, 2021).
 
 With these definitions in mind, rather than being interchangeable, wellbeing and mindfulness can be regarded as adjoining concepts, where developing mindful practices (in whatever area of life) is likely to positively impact overall wellbeing.
 
-**#### 2.1.3 Key Demographic(s)**
+#### **2.1.3 Key Demographic(s)**
 ‘Demographics’ relates to the characteristics of a population and the specific groups within it. As such, the key demographic factors considered when choosing the target audience of the Coca Women Wellness website were:  
 
     - Sex: Women 
     - Age: 16-40
     - Ethnicity: African and/or Caribbean heritage 
 
-**#### 2.1.4 Psychographics**
+#### **2.1.4 Psychographics**
 
 ‘Psychographics’ refers to the common socio-psychological factors (e.g. motivations, priorities, perspectives etc.) that influences a person’s or groups’, beliefs, expectations, perspectives and hence behaviours.
 Prior to creating the website, some market research was conducted to gain insight into the potential psychographic expectations of the target audience. 
@@ -110,11 +110,11 @@ In extension to the research, the principles outlined in the [‘strategy plane�
 ![](docs/data-docs/strategy-planning.jpg)
 
 
-**#### 2.1.5 User stories – A Summary** 
+#### **2.1.5 User stories – A Summary** 
 
 Based on the interpretations derived from the data, it can be argued that goals of first-time and reoccurring visitors as well as the site owner are as follows: 
 
-++First-time visitor(s) goals++
+**First-time visitor(s) goals**
 
 When visiting the Coca Women Wellness site I want to: 
 
@@ -131,7 +131,7 @@ When visiting the Coca Women Wellness site I want to:
 
 4. See the site present content that reflects topics relevant to my ethnicity and cultural background.
 
-++Reoccurring visitor(s) goals++
+**Reoccurring visitor(s) goals**
 
 When visiting the Coca Women Wellness site, I want to:
 
@@ -143,7 +143,7 @@ When visiting the Coca Women Wellness site, I want to:
 
 Additionally, the interpretation of the data charts above the indicated the perceived priorities (goals) for the site owner: 
 
-++Site owner goals++
+Site owner goals
 
 As a site owner I want to:
 
@@ -160,7 +160,7 @@ As a site owner I want to:
 ### 2.2 Website value (Scope)
 The [‘scope plane’]( https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.), in the 5 Planes of UX Design model suggests that designers should focus on *‘what content may be required to meet users’ needs..’*.  
 
-**#### 2.2.1 Valuableness of the website** 
+#### **2.2.1 Valuableness of the website** 
 The Coca Women Wellness website provides serves several purposes which increases its value: 
 
 1.  The site intends to bolster users’ wellbeing through exposing them to wellbeing influencers and resources primarily sourced from the African/Caribbean diaspora. 
@@ -174,7 +174,7 @@ As such, the key initiatives of CWW are to:
     - Bolster users’ exposure to digital content and resources that helps develop positive mindfulness practices which will likely promote overall wellbeing. 
     - Expose users to influencers that curate content around wellbeing, with the African/Caribbean diaspora in mind.  
 
-**#### 2.2.2 Competitors: How does CWW differs competitors?**
+#### **2.2.2 Competitors: How does CWW differs competitors?**
 
 To determine the valuableness of the site, it was essential to analyse how the CWW differs from competitor sites. 
 

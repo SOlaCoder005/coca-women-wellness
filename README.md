@@ -249,13 +249,14 @@ The fonts used on the CWW site were imported from [Google Fonts](https://fonts.g
 
 #### **3.2.3 Coca Women Wellness Logo** 
 
-![](assets/images/website-screenshots-and-elements/logowithtext.png) 
-
 The logo for the site was created initial by hand and then illustrated through the following software:
 
 - Adobe Illustrator
 - Adobe Photoshop
 - Adobe InDesign 
+
+![](assets/images/website-screenshots-and-elements/logowithtext.png) 
+
 
 The colour **#3E0D05** was applied to the logo illustration for two key reasons:
 

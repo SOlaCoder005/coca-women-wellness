@@ -144,7 +144,7 @@ When visiting the Coca Women Wellness site, I want to:
 
 Additionally, the interpretation of the data charts above the indicated the perceived priorities (goals) for the site owner: 
 
-Site owner goals
+**Site owner goals**
 
 As a site owner I want to:
 
@@ -187,3 +187,44 @@ While these resources are appropriate and invaluable to addressing and supportin
 - [Kwanda](https://kwanda.co/), 
 - [Black Zen](https://www.blackzen.co/#services-and-more) 
 - [Black Women Healing Retreats](https://www.blackwomenhealingretreats.com/about-black-women-healing-retreats.html).  
+
+
+
+
+## 5. Technologies Used 
+
+Below is a list of all the technologies, languages and tools that has aided the construction of the Coca Women Website.
+
+#### 5.1 Languages
+
+- HTML – Supported the core structure of the website.
+- CSS – Supported the styling elements on the website.
+- JavaScript - Supported specific functionalities within the site (e.g. the navigation bar on the website)
+- JQuery – Supported specific functionalities (e.g. the scroll features on the website) within the site through simplifying ‘Document Object Model’ (DOM) manipulation (Developer.mozilla.org, 2021). 
+
+#### 5.2 Libraries, Resources and Tools
+
+-	[Adobe Creative Cloud](https://www.adobe.com/uk/creativecloud.html): Specifically, I used the applications - Illustrator (AI), Photoshop (PS) and InDesign (InD) to create the website log. In more detail AI was used to create the design (from my hand drawing), PS used to help design my logo for the website and also select specific colour values that form the colour scheme of the website. Lastly, InD was used to apply and align the ‘Coca Women Wellness’ name to the logo once it was created in AI. 
+-   [Balsamiq]( https://balsamiq.com/): An application that allows designers sketch up User Interfaces (UI)
+-	[Bootstrap](https://getbootstrap.com/): Provided useful components that assisted my site’s functionality (e.g. responsive navigation menu).
+-	[Cite This for Me](https://www.citethisforme.com/): This was primarily used to cite the websites and resources I referred to help build the site. 
+-   [Dillinger](https://dillinger.io/): An extremely useful markdown complier tool that allows you to check your code is formatted correctly on the README.md file.
+-   [Font Awesome](https://fontawesome.com/) - While the site hosts a number of resources, most of the icons used on the live site has been sourced from Font Awesome.
+-	[GitHub](https://github.com/): A version control software that can has both desktop and online platforms. 
+-   [GitPod](https://www.gitpod.io/): An IDE that can be used online and locally on your desktop.
+-	[Google Drive](https://drive.google.com/): This was mainly used to backup my repo once saved to my local drive.
+-   [Google Fonts](https://fonts.google.com/): This platform was used to select and import the desired font into my source code.
+-   [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/): This has been used to check the quality of my CSS code and ensures it passes coding standards.
+-   [Lighthouse](https://developers.google.com/web/tools/lighthouse): Provides analytical reports on the degree to which a site is responsive. 
+-   [nekoCalc](https://nekocalc.com/px-to-rem-converter): An online application that converts px to rem. 
+-   [Pexels](https://www.pexels.com/): Aside from the CWW logo, some of the photos included on the live website has been sourced from Pexels. Pexels provides royalty-free stock images. 
+-   [Pixabay](https://pixabay.com/): Aside from the CWW logo, some of the photos included on the live website has been sourced from Pixabay. Pexels provides royalty-free stock images. 
+-   [Pinterest](https://www.pinterest.co.uk/feli_fierce/cww_website_colourtheme/): An application where I collated visuals for my mood board for the website’s colour schemes (include live link to board).
+-   [Responsively](https://responsively.app/download): Web Browser that allows you to check the degree to which you website is responsive on various device sizes and screen orientations.
+-   [Stack Overflow](https://stackoverflow.com/): This was used as a reference tool to assist with both HTML coding techniques.[VSCode](https://code.visualstudio.com/): An open source IDE that can be used online and locally on your desktop.
+- [Visme](https://www.visme.co/): An online application that assist with building visual content (e.g. graphs and charts) for business purposes. 
+-   [Wave]( https://wave.webaim.org/): A ‘Web Accessibility Evaluation Tool’ that determines the extent to which a site is accessible. 
+-   [W3C Validator](https://validator.w3.org/): This has been used to check the quality of my HTML code and ensures it passes coding standards.
+-   [W3 Schools](https://www.w3schools.com/): This was used as a reference tool to assist with HTML coding techniques. 
+-   [W3.CSS](https://www.w3schools.com/w3css/default.asp): This was used as a reference tool to assist with CSS coding techniques.
+-   [Youtube](https://www.youtube.com/): Referred to for useful coding and UXD tips and tutorials.

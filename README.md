@@ -190,7 +190,7 @@ Arguably, a lot of wellbeing and mindfulness websites portray a clinical narrati
 While these resources are appropriate and invaluable to addressing and supporting matters around wellbeing, CWW has been designed with a more informal tone. Specifically, CWW hosts wellbeing resources in an informal relaxed way, reflecting websites such as: 
 
 - [World Changer Life](https://www.worldchangerlife.com/)
-- [Kwanda](https://kwanda.co/), 
+- [Kwanda](https://kwanda.co/) 
 - [Black Zen](https://www.blackzen.co/#services-and-more) 
 - [Black Women Healing Retreats](https://www.blackwomenhealingretreats.com/about-black-women-healing-retreats.html).  
 
@@ -217,7 +217,6 @@ The wireframes below depict the **preliminary structure** for the CWW website. T
  - **PLEASE NOTE:** The structure and appearance of the live deployed CWW website differs considerably from the preliminary wireframes. These differences resulted from responsiveness issues that arose during the initial design of the CWW website. Further information around this has been documented in the [TESTING.md](https://github.com/SOlaCoder005/coca-women-wellness/blob/a5c2068f53f901115928df67ad9651ef0c35415e/docs/testing/TESTING.md) document within this repository’s directory.
 
 Although the final structure of the site differs considerably to the preliminary wireframes; the live deployed CWW has greater responsiveness when accessed by different devices (incl. Desktop, mobile and tablet screens). 
-
 
 ### 3.2 User Experience Design (UXD) elements (Surface)
 
@@ -260,9 +259,9 @@ The logo for the site was created initial by hand and then illustrated through t
 
 The colour **#3E0D05** was applied to the logo illustration for two key reasons:
 
-1. Maintain aesthetic continuity across the site’s element (e.g. majority of the site text, social media icons and some header titles). 
+1. To maintain aesthetic continuity across the site’s element (e.g. majority of the site text, social media icons and some header titles). 
 
-2. Reduce the risk of creating a harsh contrast between the background and foreground. For instance, typically, within deigns and visual content that aim to convey warning or alerts will tend to use a combination of bright yellow(s), white and black. As this is not the purpose of the CWW website, the use of the colour black was avoided.    
+2. To reduce the risk of creating a harsh contrast between the background and foreground. For instance, typically, within deigns and visual content that aim to convey warning or alerts will tend to use a combination of bright yellow(s), white and black. As this is not the purpose of the CWW website, the use of the colour black was avoided.    
 
 
 ## 5. Technologies Used

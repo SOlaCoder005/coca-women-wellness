@@ -197,7 +197,10 @@ While these resources are appropriate and invaluable to addressing and supportin
 
 ## 3. Content
 
-In line with the [‘structure’ and ‘skeleton’ planes]( https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.) of the 5 Planes of UX Design model. The producing the initial wireframes were key to the development of the site’s User Interface (UI).  Below are links to serval documents that have supported the conceptualisation and implementation of designing the CWW website. The content in this section includes wireframes, mood boards and colour pallets, font selection and logo design.   
+In line with the [‘structure’ and ‘skeleton’ planes]( https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.) of the 5 Planes of UX Design model, producing the initial wireframes were key to the development of the site’s User Interface (UI).  
+
+This section outlines several elements  that have supported the conceptualisation and implementation of designing the CWW website. The content in this section includes wireframes, mood boards and colour pallets, font selection and logo design.   
+  
 
 ### 3.1. Wireframes (Structure and Skeleton)
 
@@ -217,6 +220,10 @@ Although the final structure of the site differs considerably to the preliminary
 
 
 ### 3.2 User Experience Design (UXD) elements (Surface)
+
+Akin to recommendations highlighted in the [‘surface’ plane](https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.) of the 5 Planes of UX Design model, the visual characteristics were finalised nearing the end of the site development. 
+
+The following sections outline key visual elements that have supported the conceptualisation and implementation of designing the CWW website (incl. colour pallet choices, fonts and logo).
 
 #### **3.2.1 [Colour Pallet](https://www.pinterest.co.uk/feli_fierce/cww_website_colourtheme/) Rationale** 
 
@@ -240,7 +247,7 @@ The fonts used on the CWW site were imported from [Google Fonts](https://fonts.g
 
 2. **Open Sans**: Aside from the header, this font was used throughout the site. It was chosen to compliment the ‘feminine’ theme of the site. Arguably, round shapes are often associated with feminine characteristics. As such, the rounded characteristics of this font conveys a softer tone to the overall page compared to the Oswald font and vibrant colours used. 
 
-#### **3.2.2 Coca Women Wellness Logo** 
+#### **3.2.3 Coca Women Wellness Logo** 
 
 ![](images/website-screenshots-and-elements/logowithtext.png) 
 

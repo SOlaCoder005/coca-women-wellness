@@ -62,9 +62,9 @@ With these definitions in mind, rather than being interchangeable, wellbeing and
 
 ‘Demographics’ relates to the characteristics of a population and the specific groups within it. As such, the key demographic factors considered when choosing the target audience of the Coca Women Wellness website were:  
 
-    - Sex: Women 
-    - Age: 16-40
-    - Ethnicity: African and/or Caribbean heritage 
+- Sex: Women 
+- Age: 16-40
+- Ethnicity: African and/or Caribbean heritage 
 
 #### **2.1.4 Psychographics**
 

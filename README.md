@@ -1,17 +1,25 @@
 # Contents
 ## [1. Overview](#1-Overview)
-## [User Design (UX)]()
-## [Section 3: Features]()
-## [Section 4: Technologies Used]()
-## [Section 5: JQuery]()
-## [Section 6: Testing]()
-## [Section 7: Deployment]()
-## [Section 8: Credits]()
-## [Section 9: Content]()
-## [Section 10: Acknowledgements]()
-## [Section 11: References]()
+## [2. User Design (UX)](#2-User-Deign-UX)
+## [3. Features](#3-Features)
+## [4. Technologies Used](#4-Technologies-Used)
+## [5. Testing](#5-Testing)
+## [6. Deployment](#6-Deployment)
+## [8. Credits](#8-Credits)
+## [9. Content](#9-Content)
+## [10. Acknowledgements](#10-Acknowledgements)
+## [11. References](#11-References)
 
 
 
 
 ## 1.Overview
+## 2. User Design
+## 3. Features
+## 4. Technologies Used
+## 5. Testing
+## 6. Deployment
+## 7. Credits
+## 8. Content
+## 9. Acknowledgements
+## 10. References

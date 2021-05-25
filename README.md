@@ -42,6 +42,7 @@ the users’ salient goal when visiting the site is to engage with visual and wr
 
 
 ## 2. User Experience (UX)
+
 #### 2.1 User Stories (Strategy)
 2.1.1 Market climate
 Through market research, the following findings supported the conceptualisation of the Coca Women Wellness Website: 
@@ -69,6 +70,7 @@ The research specifically focused on their expectations when visiting sites that
 3.	Do you think wellbeing content created by and for black women would help support your wellbeing?
 4.	If you were looking at a wellbeing site designed to promote the wellbeing of black women - what type of content would you like to see? 
 5.	How do you prefer wellbeing topics/content to be presented to you (e.g. via blogs, videos, images, courses, or books)?
+
 |Q/User| User ‘R’| User ‘A’| User ‘L’| User ‘AM’| 
 |-------------|:-------------:|:-------------:|:-------------:|:-------------
 |Q1.|- “…Influencers: **kokobo fitness** - recommended by my sister but I don't know such black influencers myself.”| N/A| “…Emmm I normally go on **skin care** websites. Cleansers/lotions designed for the **black skin**…”|“No I haven’t visited any well-being apps recently.”|

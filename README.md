@@ -267,42 +267,54 @@ The colour **#3E0D05** was applied to the logo illustration for two key reasons:
 
 This section provides an overview of the features on the Coca Women Wellness website, and where relevant, the way in which the feature(s) address the user stories in prior sections.
 
-### 4.1 Site-wide Features
+This section provides an overview of the features on the Coca Women Wellness website, and where relevant, the way in which the feature(s) address the user stories in prior sections. 
 
+### 4.1 Site-wide Features
 1. Logo
 
-    - The logo in the top left corner of the page has been applied to establish the site identity. 
+- The logo in the top left corner of the page has been applied to establish the site identity. 
 
-    - Clicking on the image on any of the pages on the site will return the user back to the homepage.
+- Clicking on the image on any of the pages on the site will return the user back to the homepage.
 
-2.  Navigation Menu
+2.  Navigation Menu - Full Scale
 
-    - This menu consists of links that directs the users through the five pages of the Coca Women Wellness website.
+- This menu consists of links that directs the users through the five pages of the Coca Women Wellness website.
 
-    - When each page is hovered over with the cursor, the text (e.g. HOME) turns white. 
+- When each page is hovered over with the cursor, the text (e.g. HOME) turns white. 
 
-    - When the link is clicked on, the user is directed to the page and the text becomes underlined. 
+- When the link to a page is clicked on, the text becomes underlined. 
 
-3. Footer – Social  Media Icons
+2.1 Navigation Menu – Hamburger Menu 
 
-    - Each social media icon links to external social media pages (e.g. YouTube, Discord and Twitter). 
+- Additionally, when the site is accessed on a mobile (or device with a narrow screen), the menu turns into a hamburger icon, displayed on the left. 
 
-    - The customer would have to sign into their social media accounts and would then be directed to the respective Coca Women Wellness profile. 
+- Clicking on the hamburger menu allows the menu to expand and collapse in the centre of the screen. 
+
+- When the link to a page is clicked on, the text becomes underlined. 
+
+- The menu has been positioned this way on mobile screen to address the user’s priority. For instance, on mobile the main priority of the user is to navigate around the website with ease. 
+
+3. Footer – Social Media Icons
+
+- Each social media icon links to external social media pages (e.g. YouTube, Discord and Twitter). 
+
+- The customer would have to sign into their social media accounts and would then be directed to the respective Coca Women Wellness profile. 
 
 4. Vertical banner image
 
-    - Each vertical banner image on the left-hand of the website has been used to establish the tone of the website. The website is intended to evoke ‘upbeat’ positive emotions.
+- Each vertical banner image on the left-hand of the website has been used to establish the tone of the website. The website is intended to evoke ‘upbeat’ positive emotions.
 
-    - The images are also intended to implicitly suggests to the user the primary initiative of the website. That is, a platform that hosts and shares content that promotes wellbeing, particularly for women from the African and Caribbean diaspora. 
-
+- The images are also intended to implicitly suggests to the user the primary initiative of the website. That is, a platform that hosts and shares content that promotes wellbeing, particularly for women from the African and Caribbean diaspora. 
 
 5. Scroll button 
+- The scroll button in the bottom-right corner of each page and appear after the user has scrolled at least 100px down the screen. When clicked, it takes the user to the top of the page.
 
-    - The scroll button in the bottom-right corner of each page has been implemented to aid user’s navigation around the website’s pages, thus increasing user’s experiences. 
+-The feature has been implemented to aid user’s navigation around the website’s pages, thus increasing user’s experiences. 
 
-    - The feature is present across several devices (e.g. desktop screens, mobiles and tablets). 
+- The feature is present across several devices (e.g. desktop screens, mobiles, and tablets).
 
-    - As mobile screens tend to be smaller and narrower, website pages can lengthen considerably compared to other device types. As such this feature is particularly useful when the website is accessed via mobile. 
+- As mobile screens tend to be smaller and narrower, website pages can lengthen considerably compared to other device types. As such this feature is particularly useful when the website is accessed via mobile. 
+ 
 
 #### **4.1.1 User Story/Stories Addressed**
 

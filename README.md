@@ -212,13 +212,13 @@ The wireframes below depict the **preliminary structure** for the CWW website. T
 5.	[Wireframe – CONNECT]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/playlists-pages "Wireframes for Connect page")
 
  - **PLEASE NOTE:** The structure and appearance of the live deployed CWW website differs considerably from the preliminary wireframes. These differences resulted from responsiveness issues that arose during the initial design of the CWW website. Further information around this has been documented in the [TESTING.md](https://github.com/SOlaCoder005/coca-women-wellness/blob/a5c2068f53f901115928df67ad9651ef0c35415e/docs/testing/TESTING.md) document within this repository’s directory.
- 
+
 Although the final structure of the site differs considerably to the preliminary wireframes; the live deployed CWW has greater responsiveness when accessed by different devices (incl. Desktop, mobile and tablet screens). 
 
 
-#### 3.2 User Experience Design (UXD) elements
+### 3.2 User Experience Design (UXD) elements (Surface)
 
-#### **3.2.1 Colour Pallet Rationale** 
+#### **3.2.1 [Colour Pallet](https://www.pinterest.co.uk/feli_fierce/cww_website_colourtheme/) Rationale** 
 
 Keeping cultural characteristics in mind, a combination of brown and other warm hues were incorporated into the colour scheme CWW. For instance, the conscious decision to apply yellow as the primary colour scheme of the homepage was linked to the strong social-cultural, semantic, and symbolic meaning it conveys within several African/Caribbean communities. 
 
@@ -228,13 +228,22 @@ Many of these cultures have assigned positive connotations to the colour yellow.
 
 The other colours throughout the site were sourced from the images on the left-hand-side of the website’s pages (on desktop screen). Below is a list of the colours, with their respective HEX and RGB values: 
 
-![](/docs/colour-theme/colour-pallet-cww.png)
+![](docs/colour-theme/colour-pallet-cww.png)
+
+#### **3.2.2 Fonts** 
+
+The fonts used on the CWW site were imported from [Google Fonts](https://fonts.google.com/) and were used on the website for the following reasons: 
+
+![](docs/colour-theme/fonts-cww.png)
+
+1. **Oswald**: This is a considerably ‘weighted’ sans-serif font. It was used on the header sections to ensure that the navigation titles remained prominent across the varying header colours.
+
+2. **Open Sans**: Aside from the header, this font was used throughout the site. It was chosen to compliment the ‘feminine’ theme of the site. Arguably, round shapes are often associated with feminine characteristics. As such, the rounded characteristics of this font conveys a softer tone to the overall page compared to the Oswald font and vibrant colours used. 
 
 
 ## 5. Technologies Used
 
-
-Below is a list of all the technologies, languages and tools that has aided the construction of the Coca Women Website.
+Below are a list of all the technologies, languages and tools that has aided the construction of the Coca Women Website.
 
 #### 5.1 Languages
 

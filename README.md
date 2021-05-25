@@ -19,7 +19,6 @@
 
 
 ## 1. Overview
-===============
 
 - This website is the product of the Portfolio Project 1: HTML & CSS Essentials (a.k.a. Milestone Project 1, MS1). 
 
@@ -34,7 +33,7 @@
 
 
 ## 2. User Experience (UX)
-==========================
+
 
 ### 2.1 User Stories (Strategy)
 
@@ -179,7 +178,7 @@ Mintel reports have indicated that the growth of digital resources and platforms
 As such, the key initiatives of CWW are to: 
 
     - Bolster users’ exposure to digital content and resources that helps develop positive mindfulness practices which will likely promote overall wellbeing. 
-    
+
     - Expose users to influencers that curate content around wellbeing, with the African/Caribbean diaspora in mind.  
 
 #### **2.2.2 Competitors: How does CWW differs competitors?**
@@ -197,7 +196,6 @@ While these resources are appropriate and invaluable to addressing and supportin
 
 
 ## 3. Content
-=============
 
 In line with the [‘structure’ and ‘skeleton’ planes]( https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.) of the 5 Planes of UX Design model. The producing the initial wireframes were key to the development of the site’s User Interface (UI).  Below are links to serval documents that have supported the conceptualisation and implementation of designing the CWW website. The content in this section includes wireframes, mood boards and colour pallets, font selection and logo design.   
 
@@ -233,7 +231,7 @@ The other colours throughout the site were sourced from the images on the left-h
 
 
 ## 5. Technologies Used
-=======================
+
 
 Below is a list of all the technologies, languages and tools that has aided the construction of the Coca Women Website.
 

@@ -434,6 +434,44 @@ This section provides an overview of the features on the Coca Women Wellness web
 | First-time visitor | 4. | See the site present content that reflects topics relevant to my ethnicity and cultural background| “…I think it would be the importance of vulnerability, and black women have it in is too.  I think **self-concept** is vital too.” _- User A_ | 
 |Site Owner | 12. | Host and promote wellbeing and mindfulness content, particularly made by influencers of the African and Caribbean diaspora| “I would like to see content relating to **emotional, physical and spiritual well-being**, basically **all aspects of life**”_- User AM_ | 
 
+### 4.6 Page: ‘CONNECT’
+
+![](assets/images/website-screenshots-and-elements/cww-connect-desktop.png) 
+
+1. ‘Connect with us!’ FORM
+
+    - The primary purpose for the form is for users to sign up and stay updated about the services the Coca Women Wellness website offers. 
+
+    - The form requires the user to enter their name and email address if they intend to submit the form. The ‘@your_handle’ input fields and the radio choice buttons are optional. 
+
+    - Each playlist contains content relating to the icons’ titles. 
+
+2. ‘Our Details’ Icons
+
+    - Akin to the icons on the ‘PLAYLISTS’ page, when each icon is hovered over with the cursor, the icon turns to a light shade of blue. The hover function has been used to create a visual difference through user interaction. 
+
+    - The icons’ colour change aims to communicate with the user that the icon provides an additional function (e.g. linking to another page).
+
+    - Clicking on these icons directs the users to the external LinkedIn page. The email Icon also allows the user to send an email to the Coca Women Wellness team via their own email account.
+
+3. Google Map 
+
+    - The map has been incorporated into the form to provide the user with a visual aid for two key reasons:
+
+        - Provide users with a visual aid for the location of the Coca Women Wellness team.
+
+        -  Provide a visual aid for users to navigate to the social meetings that are commonly held in the borough of Manchester, Piccadilly Gardens.
+
+#### **4.6.1 User Story/Stories Addressed**
+
+| User Type |User Story Number| Description| Supporting Statement|
+|-----|-----|-----|-----| 
+|First-time visitors | 2. |Engage with visual, auditory, and literary content that develops and positively addresses multiple facets of wellbeing |N/A| 
+|Reoccurring visitors | 6. |Stay updated on the recent developments of the site through emails and/or newsletters |N/A| 
+|Reoccurring visitors | 7. |Engage in the Online and In-person meetups hosted by Coca Women Wellness| N/A | 
+|Reoccurring visitors | 8. | Engage with the Coca Women Wellness online community (e.g. via discord and other social media channels| N/A | 
+
+
 
 
 ## 5. Technologies Used

@@ -873,6 +873,10 @@ footer {
         color: rgb(255, 165, 0);
         text-align: left;
     }
+
+    .handle label{
+        padding: 10px;
+    }
 }
 
 /*Standard to larger dekstop/laptop screens.*/

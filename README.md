@@ -162,9 +162,11 @@ As a site owner I want to:
 13. Increase user interaction across social media platforms.
 
 ### 2.2 Website value (Scope)
+
 The [‘scope plane’]( https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.), in the 5 Planes of UX Design model suggests that designers should focus on *‘what content may be required to meet users’ needs..’*.  
 
 #### **2.2.1 Valuableness of the website** 
+
 The Coca Women Wellness website provides serves several purposes which increases its value: 
 
 1.  The site intends to bolster users’ wellbeing through exposing them to wellbeing influencers and resources primarily sourced from the African/Caribbean diaspora. 
@@ -175,7 +177,9 @@ The Coca Women Wellness website provides serves several purposes which increases
 Mintel reports have indicated that the growth of digital resources and platforms have encouraged people to engage with more visual content, specifically on digital devices like laptops and smartphones (McGrath, 2020).  Moreover, visual content (e.g. films, art, images etc.) has greater engagement from those aged people aged 16-44. Such findings echo trend reports’ assertions that around 26% of UK adults are likely to engage in traditional reading (e.g. hardcover books) (Ryan, 2020). 
 
 As such, the key initiatives of CWW are to: 
+
     - Bolster users’ exposure to digital content and resources that helps develop positive mindfulness practices which will likely promote overall wellbeing. 
+    
     - Expose users to influencers that curate content around wellbeing, with the African/Caribbean diaspora in mind.  
 
 #### **2.2.2 Competitors: How does CWW differs competitors?**
@@ -192,6 +196,40 @@ While these resources are appropriate and invaluable to addressing and supportin
 - [Black Women Healing Retreats](https://www.blackwomenhealingretreats.com/about-black-women-healing-retreats.html).  
 
 
+## 3. Content
+=============
+
+In line with the [‘structure’ and ‘skeleton’ planes]( https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.) of the 5 Planes of UX Design model. The producing the initial wireframes were key to the development of the site’s User Interface (UI).  Below are links to serval documents that have supported the conceptualisation and implementation of designing the CWW website. The content in this section includes wireframes, mood boards and colour pallets, font selection and logo design.   
+
+### 3.1. Wireframes (Structure and Skeleton)
+
+The wireframes below depict the **preliminary structure** for the CWW website. These have been grouped by page and device type. 
+
+![](docs/wireframes/desktopwireframespreview.png)
+
+1.	[Wireframe – HOME]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/home-pages "Wireframes for Home page") 
+2.	[Wireframe – ABOUT]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/about-pages  "Wireframes for About page")
+3.	[Wireframe – RECIPES]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/recipes-pages   "Wireframes for Recipes page")
+4.	[Wireframe – PLAYLISTS]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/playlists-pages "Wireframes for Playlists page")
+5.	[Wireframe – CONNECT]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/playlists-pages "Wireframes for Connect page")
+
+ - **PLEASE NOTE:** The structure and appearance of the live deployed CWW website differs considerably from the preliminary wireframes. These differences resulted from responsiveness issues that arose during the initial design of the CWW website. Further information around this has been documented in the [TESTING.md](https://github.com/SOlaCoder005/coca-women-wellness/blob/a5c2068f53f901115928df67ad9651ef0c35415e/docs/testing/TESTING.md) document within this repository’s directory.
+Although the final structure of the site differs considerably to the preliminary wireframes; the live deployed CWW has greater responsiveness when accessed by different devices (incl. Desktop, mobile and tablet screens). 
+
+
+#### 3.2 User Experience Design (UXD)
+
+#### **3.2.1 Colour Pallet Rationale** 
+
+Keeping cultural characteristics in mind, a combination of brown and other warm hues were incorporated into the colour scheme CWW. For instance, the conscious decision to apply yellow as the primary colour scheme of the homepage was linked to the strong social-cultural, semantic, and symbolic meaning it conveys within several African/Caribbean communities. 
+
+![](docs/colour-theme/cww-website-colourtheme.png)
+
+Many of these cultures have assigned positive connotations to the colour yellow. For instance, concepts around wealth, femininity and fertility in some African cultures are often illustrated with yellow aspects, this can be incorporated into garment colour schemes and even religious characterisations. For instance, the Yoruba Orisha – Oshun has been often been drawn wearing yellow garments (Britannica.com, 2021).  Similarly, within the Caribbean, specifically Rastafarian cultures, the colour yellow has been included in their native attire and artefacts. Yellow in this culture is used to signify wealth and prosperity (BBC.co.uk, 2009).  
+
+The other colours throughout the site were sourced from the images on the left-hand-side of the website’s pages (on desktop screen). Below is a list of the colours, with their respective HEX and RGB values: 
+
+![]( /docs/colour-theme/colour-pallet-cww.png)
 
 
 ## 5. Technologies Used

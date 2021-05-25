@@ -354,17 +354,18 @@ This section provides an overview of the features on the Coca Women Wellness web
 |Reoccurring visitors| 7. | Engage in the Online and In-person meetups hosted by Coca Women Wellness| N/A | 
 |First-time visitors| 2. | Engage with visual, auditory, and literary content that develops and positively addresses multiple facets of wellbeing| N/A | 
 
-![]( assets/images/website-screenshots-and-elements/cww-about-desktop.png) 
 
-### 4.3 Page: ABOUT
+### 4.3 Page: 'ABOUT'
+
+![]( assets/images/website-screenshots-and-elements/cww-about-desktop.png) 
 
 1. Central image
 
-- The main purpose of this page is to provide information about (‘Our Mission’ statement) the site and the founder’s vision for the site.
+    - The main purpose of this page is to provide information about (‘Our Mission’ statement) the site and the founder’s vision for the site.
 
-- The purpose of including an image of the site owner is to strengthen to concepts presented in the website – promoting wellbeing through content curated by and for women of the African and Caribbean diaspora. 
+    - The purpose of including an image of the site owner is to strengthen to concepts presented in the website – promoting wellbeing through content curated by and for women of the African and Caribbean diaspora. 
 
-- Arguably, adding an image of the site owner provides the site with a more informal, welcoming tone. 
+    - Arguably, adding an image of the site owner provides the site with a more informal, welcoming tone. 
 
 #### **4.3.1 User Story/Stories Addressed**
 
@@ -372,6 +373,31 @@ This section provides an overview of the features on the Coca Women Wellness web
 |-----|-----|-----|-----| 
 |Site Owner |10. | Create a functional website where the user can navigate around easily and access content effortlessly. |N/A| 
 |First-time visitors | 4. | See the site present content that reflects topics relevant to my ethnicity and cultural background| “Yes it would be **encouraging** to see **other black women** who are passionate about looking after **their well-being**…” _– User AM_| 
+
+### 4.4 Page: ‘RECIPES’
+
+![]( assets/images/website-screenshots-and-elements/cww-recipes-desktop(1).png) 
+
+![]( assets/images/website-screenshots-and-elements/cww-recipes-desktop(2).png) 
+
+1. Recipe images
+
+    - The purpose of including images of food on this page is to give the user an idea of how to create the dishes.  
+
+2. Recipe Instructions
+
+    - The recipes include prep time icons and descriptions to give the users some idea of how long it will take to prep the meal. 
+
+    - Each recipe opens with a description of the benefits of each dish. This is to provide the users with information on how the dishes suggested are healthy.
+
+#### **4.4.1 User Story/Stories Addressed**
+
+| User Type |User Story Number| Description| Supporting Statement|
+|-----|-----|-----|-----| 
+|First-time visitor |3. | Gain exposure to ‘other’ and new influencers who provide content on multiple topics relevant to promoting my wellbeing. Such facets include, but are not limited to ‘Healthy’ food.  |N/A| 
+|Site Owner |9. | Host and share resources that helps site visitors learn mindful, wellbeing and self-improvement techniques |N/A| 
+|First-time visitors | 4. | See the site present content that reflects topics relevant to my ethnicity and cultural background| “… The content I would like to...**Healthy** vegetarian **meals**...”|- _– User L_| 
+
 
 
 ## 5. Technologies Used

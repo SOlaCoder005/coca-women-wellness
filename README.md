@@ -40,7 +40,6 @@
 
     - #### 4.8 Future Features
 
-
 5. [Technologies Used](#5-Technologies-Used)
 
     - ####  5.1 Languages
@@ -55,7 +54,7 @@
 
     - ####  6.3 Unfixed Bugs 
 
-7. [Deployment](#7-Deployment)
+7. [Deployment](##7-Deployment)
 
 8. [Credits](#8-Credits)
 

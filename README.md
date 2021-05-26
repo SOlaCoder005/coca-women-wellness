@@ -684,11 +684,11 @@ Below is an overview on how to deploy a project via GitHub’s GitHub Pages. Thi
 
 - Out of several ideas presented, Project Idea 0 was chosen as the project asked to ‘…bring your own ideas to life…’  through the creation of a website.
 
-- To provide more conceptual structure to the project, the Coca Women Wellness (CWW) website uses the concepts presented in Project Idea Example 3 as a point of reference.  
-
-Although some of the resources credited below are already listed in the ‘5. Technologies Used’ section and [References document](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/data-docs/refs.md); the credits listed here are relative to specific content that has been incorporated into the Coca Women website: 
+- To provide more conceptual structure to the project, the Coca Women Wellness (CWW) website uses the concepts presented in Project Idea Example 3 as a point of reference.   
 
 ### 8.2 Content 
+
+Although some of the resources credited below are already listed in the ‘5. Technologies Used’ section and [References document](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/data-docs/refs.md); the credits listed here are relative to specific content that has been incorporated into the Coca Women website:
 
 -	[Bootstrap](https://getbootstrap.com/): Provided useful components that assisted my site’s functionality. Specifically; 
 

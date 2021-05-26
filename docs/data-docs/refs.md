@@ -17,7 +17,7 @@ Below are a list of references that has aided the programmer's knowledge and und
 
 -	Hpft.nhs.uk. 2021. The Care Act: Wellbeing. [online] Available at: <https://www.hpft.nhs.uk/information-and-resources/care-act-2014/the-care-act-wellbeing/> [Accessed 7 May 2021].
 
-Learn.codeinstitute.net. 2021. 27_HTML_Forms_Form_Attributes | Code Institute. [online] Available at: <https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/ee2afa91c35e4268b7de2ea21fe311dd/9?activate_block_id=block-v1%3ACodeInstitute%2BHE101%2B2020%2Btype%40vertical%2Bblock%4004ae28359c4340048efdeeacf3363eb0> [Accessed 18 May 2021].
+- Learn.codeinstitute.net. 2021. 27_HTML_Forms_Form_Attributes | Code Institute. [online] Available at: <https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/ee2afa91c35e4268b7de2ea21fe311dd/9?activate_block_id=block-v1%3ACodeInstitute%2BHE101%2B2020%2Btype%40vertical%2Bblock%4004ae28359c4340048efdeeacf3363eb0> [Accessed 18 May 2021].
 
 - Mark Otto, A., 2021. Navbar. [online] Getbootstrap.com. Available at: <https://getbootstrap.com/docs/4.0/components/navbar/> [Accessed 18 May 2021].
 

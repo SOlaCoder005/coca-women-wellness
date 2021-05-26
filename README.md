@@ -497,32 +497,31 @@ Below are a list of all the technologies, languages and tools that has aided the
 
 ### 5.2 Libraries, Resources and Tools
 
--	[Adobe Creative Cloud](https://www.adobe.com/uk/creativecloud.html): Specifically, I used the applications - Illustrator (AI), Photoshop (PS) and InDesign (InD) to create the website log. In more detail AI was used to create the design (from my hand drawing), PS used to help design my logo for the website and also select specific colour values that form the colour scheme of the website. Lastly, InD was used to apply and align the ‘Coca Women Wellness’ name to the logo once it was created in AI. 
+-	[Adobe Creative Cloud](https://www.adobe.com/uk/creativecloud.html): Specifically, the applications - Illustrator (AI), Photoshop (PS) and InDesign (InD) were used to create the website log. In more detail AI was used to create the design, PS used to help design the logo for the website and also select specific colour values that form the colour scheme of the website. Lastly, InD was used to apply and align the ‘Coca Women Wellness’ name to the logo once it was created in AI. 
 -   [Balsamiq]( https://balsamiq.com/): An application that allows designers sketch up User Interfaces (UI)
--	[Bootstrap](https://getbootstrap.com/): Provided useful components that assisted my site’s functionality (e.g. responsive navigation menu).
--	[Cite This for Me](https://www.citethisforme.com/): This was primarily used to cite the websites and resources I referred to help build the site. 
+-	[Bootstrap](https://getbootstrap.com/): Provided useful components that assisted the site’s functionality (e.g. responsive navigation menu).
+-	[Cite This for Me](https://www.citethisforme.com/): This was primarily used to cite the websites and resources referred to help build the site. 
 -   [Dillinger](https://dillinger.io/): An extremely useful markdown complier tool that allows you to check your code is formatted correctly on the README.md file.
 -   [Font Awesome](https://fontawesome.com/) - While the site hosts a number of resources, most of the icons used on the live site has been sourced from Font Awesome.
 -	[GitHub](https://github.com/): A version control software that can has both desktop and online platforms. 
 -   [GitPod](https://www.gitpod.io/): An IDE that can be used online and locally on your desktop.
--	[Google Drive](https://drive.google.com/): This was mainly used to backup my repo once saved to my local drive.
--   [Google Fonts](https://fonts.google.com/): This platform was used to select and import the desired font into my source code.
--   [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/): This has been used to check the quality of my CSS code and ensures it passes coding standards.
+-	[Google Drive](https://drive.google.com/): This was mainly used to backup the repo once saved to a local drive.
+-   [Google Fonts](https://fonts.google.com/): This platform was used to select and import the desired font into the website's source code.
+-   [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/): This has been used to check the quality of the CSS code and ensures it passes coding standards.
 -   [Lighthouse](https://developers.google.com/web/tools/lighthouse): Provides analytical reports on the degree to which a site is responsive. 
 -   [nekoCalc](https://nekocalc.com/px-to-rem-converter): An online application that converts px to rem. 
--   [Pexels](https://www.pexels.com/): Aside from the CWW logo, some of the photos included on the live website has been sourced from Pexels. Pexels provides royalty-free stock images. 
--   [Pixabay](https://pixabay.com/): Aside from the CWW logo, some of the photos included on the live website has been sourced from Pixabay. Pexels provides royalty-free stock images. 
--   [Pinterest](https://www.pinterest.co.uk/feli_fierce/cww_website_colourtheme/): An application where I collated visuals for my mood board for the website’s colour schemes (include live link to board).
+-   [Pexels](https://www.pexels.com/): Pexels provides royalty-free stock images. 
+-   [Pixabay](https://pixabay.com/): Pixabay provides royalty-free stock images.  
+-   [Pinterest](https://www.pinterest.co.uk/feli_fierce/cww_website_colourtheme/): An application where visuals were collated for a mood-board influencing the website’s colour schemes.
 -   [Responsively](https://responsively.app/download): Web Browser that allows you to check the degree to which you website is responsive on various device sizes and screen orientations.
 -   [Stack Overflow](https://stackoverflow.com/): This was used as a reference tool to assist with both HTML coding techniques.
 -   [VSCode](https://code.visualstudio.com/): An open source IDE that can be used online and locally on your desktop.
 -   [Visme](https://www.visme.co/): An online application that assist with building visual content (e.g. graphs and charts) for business purposes. 
 -   [Wave]( https://wave.webaim.org/): A ‘Web Accessibility Evaluation Tool’ that determines the extent to which a site is accessible. 
--   [W3C Validator](https://validator.w3.org/): This has been used to check the quality of my HTML code and ensures it passes coding standards.
+-   [W3C Validator](https://validator.w3.org/): This has been used to check the quality of HTML code and ensures it passes coding standards.
 -   [W3 Schools](https://www.w3schools.com/): This was used as a reference tool to assist with HTML coding techniques. 
 -   [W3.CSS](https://www.w3schools.com/w3css/default.asp): This was used as a reference tool to assist with CSS coding techniques.
 -   [Youtube](https://www.youtube.com/): Referred to for useful coding and UXD tips and tutorials.
-
 
 ## 6. Testing
 
@@ -662,7 +661,68 @@ Below is an overview on how to deploy a project via GitHub’s GitHub Pages. Thi
 
 7. Once refreshing, a green box with the text and clickable link; **Your site is published at...**. 
 
-8. Clicking on the website’s hyperlink in the green box will direct to the live deployed website.  
+8. Clicking on the website’s hyperlink in the green box will direct to the live deployed website.
+
+## 8. Credits
+
+Although some of the resources credited below are already listed in the ‘5. Technologies Used’ section and [References document](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/data-docs/refs.md); the credits listed here are relative to specific content that has been incorporated into the Coca Women website: 
+
+### 8.1 Content 
+
+-	[Bootstrap](https://getbootstrap.com/): Provided useful components that assisted my site’s functionality. Specifically; 
+
+    - [Navigation menu](https://getbootstrap.com/docs/4.0/components/navbar/) code has been adapted to create the navigation menu, some of the code has been customised to suir the needs of the website. 
+    - [Grid system](https://getbootstrap.com/docs/4.1/layout/grid/) code has been adapted and incorporated on some of the  website’s pages (e.g. on the HOME and PLAYLISTS page).
+
+-	[Code Institute](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecommerce): The Code Institute's lesson and challenges has been referred to help with the construction and functionality of the site. For instance: 
+
+    - The Code Institute’s URL (https://formdump.codeinstitute.net) has been incorporated into the form on the ‘CONNECT’ page of the website. The tutorial can be found [here](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/ee2afa91c35e4268b7de2ea21fe311dd/9?activate_block_id=block-v1%3ACodeInstitute%2BHE101%2B2020%2Btype%40vertical%2Bblock%4004ae28359c4340048efdeeacf3363eb0).
+
+-   [Font Awesome](https://fontawesome.com/): This majority of the icons used on the website has been sourced from Font Awesome.
+
+-   [Google Fonts](https://fonts.google.com/): This was used to select and import the desired font into the website’s CSS stylesheet. As such the fonts have been used across the website. 
+
+-   [Google Maps](https://www.google.com/maps): Google Maps was used for the map feature provided on the ‘CONNECT’ page form.
+
+-   [Stack Overflow](https://stackoverflow.com/): This was used as a reference tool to assist with both HTML coding techniques.
+
+-   [W3 Schools](https://www.w3schools.com/): This was used as a reference tool to assist with HTML coding techniques. In more detail:
+
+    - Scroll button feature: The code was referenced from a [W3Schools tutorial](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp) and incorporated into the CWW website source code. The styling elements and some HTML code was customised. 
+
+-   [W3.CSS](https://www.w3schools.com/w3css/default.asp): This was used as a reference tool to assist with CSS coding techniques. 
+
+-   [Youtube](https://www.youtube.com/): Referred to for useful coding and UXD tips and tutorials.
+
+#### **8.1.1 Language and Scripts**
+
+- JavaScript: The JavaScript code used across the site assists with specific functionalities (e.g. Navigation Menu, Scroll Feature, and Use of Icons). The scrips have been sourced from the following sites: 
+
+    - W3Schools: https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
+    - Bootstrap: https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js
+    - Font Awesome: https://kit.fontawesome.com/1699136767.js
+
+- JQuery: The JQuery code used across the site assists with specific functionalities (e.g. Scroll Feature). The scripts have been sourced from the following sites:
+
+    - Bootstrap: https://code.jquery.com/jquery-3.3.1.slim.min.js 
+
+- CSS: Alongside my CSS Stylesheet file, there has been supportive Bootstrap CSS code incorporated into the sites structure to assist with some of the Bootstrap elements used. The scripts have been sourced from the following repo [location](assets/css/bootstrap-sourcecode/bootstrap.min.css).
+
+### 8.2 Media 
+
+- [Pexels](https://www.pexels.com/): Aside from the CWW logo, majority of  photos (royalty free) included on the live website has been sourced from Pexels.  Specific mention is given to the following content creates that provided the images for the website:
+
+    - [Charlotte May](https://www.pexels.com/@charlotte-may)
+    - [KoolShooters](https://www.pexels.com/@kool-shooters)
+    - [3Motional Studio](https://www.pexels.com/@3motional-studio-407102)
+    - [Asa Dugger](https://www.pexels.com/@iamasadugger)
+    - [Pixabay (Pexels account)](https://www.pexels.com/@pixabay)
+    - [RF._.studio](https://www.pexels.com/@rethaferguson)
+    - [Vicky Tran](https://www.pexels.com/@vicky)
+
+- [Pixabay](https://pixabay.com/): Aside from the CWW logo, some of the photos included on the live website has been sourced from Pixabay. 
+- [Youtube](https://www.youtube.com/): Was used to incorporate **iframe elements** into the PLAYLISTS page of the website. 
+
 
 
 

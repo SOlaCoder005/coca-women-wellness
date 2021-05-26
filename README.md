@@ -69,7 +69,7 @@
 
     - ####  9.1 Personal Acknowledgements
 
-### 10. [References](#10-References)
+<h1> 10. [References](#10-References) </h1>
 
 
 ## 1. Overview

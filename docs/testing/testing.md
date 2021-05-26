@@ -40,7 +40,7 @@ Through screen rotation, as well as reducing and expanding screen size, the foll
 
 These issues persisted even after applying media queries to the website. Visual examples of the issues mentioned are evidenced below: 
 
-![](/assets/images/testing-evidence/cww-oldwebsitestructure.png). 
+![](/assets/images/testing-evidence/cww-oldwebsitestructure.png)
 
 ### **Solution:** 
 

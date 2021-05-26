@@ -475,7 +475,7 @@ This section provides an overview of the features on the Coca Women Wellness web
 
     - The form requires the user to enter their name and email address if they intend to submit the form. The _‘@your_handle’_ input fields and the radio choice buttons are optional. 
 
-    ![](assets/images/testing-evidence/formfillinfield.PNG) 
+    ![](assets/images/website-screenshots-and-elements/formfillinfield.PNG) 
 
     - Each playlist contains content relating to the icons’ titles. 
 

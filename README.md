@@ -578,13 +578,11 @@ Below are a list of all the technologies, languages and tools that has aided the
 
 A series of tests have been conducted on the CWW site’s functionality and its source-code. An extensive report of the tests conducted can be found in the [testing.md](/docs/testing/testing.md). The document discusses the multiple factors that arose throughout the testing process of the site, such as;
 
-- Responsiveness issues with CWW site’s initial design and structure (reflected in the wireframes). 
+1. [Responsiveness issues with CWW site’s initial design and structure](#1-Responsiveness-issues-with-CWW-site’s-initial-designand-structure)
 
-- Explanation of how the issues above contributed to the need to change CWW site’s structure and design.
+2. [Methods undertaken to assess the live CWW site’s structure and responsiveness](#2-Methods-undertaken-to-assess-the-live-CWW-sites-structure-and-responsiveness)
 
-- Methods undertaken to assess the live CWW site’s structure and responsiveness. 
-
-- Users’ feedback on their website experience.
+3. [Users’ feedback on their experience using the CWW website](#3-Users-feedback-on-their-experience-using-the-CWW-website)
 
 
 ### 6.1 Validator Testing

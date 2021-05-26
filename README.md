@@ -489,11 +489,11 @@ The following ideas could be implemented in further developments of the site to 
 
 Idea 1: Separate the playlists into separate subpages. 
 
-    Implementation: Each subpage can have additional content (e.g. articles or blogs) focused on the parent topic (e.g. family or food). 
+    - Implementation: Each subpage can have additional content (e.g. articles or blogs) focused on the parent topic (e.g. family or food). 
 
 Idea 2: Create a library page that hosts literary resources.
 
-    Implementation:  An additional page on the website would be labelled ‘Library’ and The page can provide downloadable documents on specific mindfulness techniques, such as  [EFT tapping](https://www.healthline.com/health/eft-tapping). 
+    - Implementation:  An additional page on the website would be labelled ‘Library’ and The page can provide downloadable documents on specific mindfulness techniques, such as  [EFT tapping](https://www.healthline.com/health/eft-tapping). 
 
 
 

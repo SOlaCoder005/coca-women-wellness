@@ -18,17 +18,11 @@
 
 ## 1. Overview
 
-- This website is the product of the Portfolio Project 1: HTML & CSS Essentials (a.k.a. Milestone Project 1, MS1). 
+The Coca Women Wellness (CWW) website hosts and provides primary and secondary content that helps users develop mindfulness practices that can bolster their wellbeing. 
 
-- It is part of the Code Institutes’ (CI) Diploma in Full Stack Software Development Diploma (5P).
+CWW aspires to assist in supporting initiatives around the wellbeing of minority ethnic communities, particularly African and Caribbean communities. As a means to contribute to diversity and inclusion initiatives in the creative industry, CWW also shares content that has been curated by mindfulness and wellbeing influencers from African Caribbean diaspora. 
 
-### 1.1 Chosen Project Idea 
-- Out of several ideas presented, Project Idea 0 was chosen as the project asked to ‘…bring your own ideas to life…” through the creation of a website.
-
-- To provide more conceptual structure to the project, the Coca Women Wellness (CWW) website uses the concepts presented in Project Idea Example 3 as a point of reference.  
-
-### 1.2 Project Goals 
-
+A secondary goal for CWW is to foster an online wellbeing community for users through digital resources, online communities (e.g. Discord) and social meetups (e.g. in-person and zoom). 
 
 ## 2. User Experience (UX)
 
@@ -678,9 +672,23 @@ Below is an overview on how to deploy a project via GitHub’s GitHub Pages. Thi
 
 ## 8. Credits
 
+### 8.1 The Project 
+
+#### **8.1.1 Project Goals**
+
+- This website is the final product of the Portfolio Project 1: HTML & CSS Essentials (a.k.a. Milestone Project 1, MS1). 
+
+- It is part of the Code Institutes’ (CI) Diploma in Full Stack Software Development Diploma (5P).
+
+#### **8.1.2 Chosen Project Idea** 
+
+- Out of several ideas presented, Project Idea 0 was chosen as the project asked to ‘…bring your own ideas to life…’  through the creation of a website.
+
+- To provide more conceptual structure to the project, the Coca Women Wellness (CWW) website uses the concepts presented in Project Idea Example 3 as a point of reference.  
+
 Although some of the resources credited below are already listed in the ‘5. Technologies Used’ section and [References document](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/data-docs/refs.md); the credits listed here are relative to specific content that has been incorporated into the Coca Women website: 
 
-### 8.1 Content 
+### 8.2 Content 
 
 -	[Bootstrap](https://getbootstrap.com/): Provided useful components that assisted my site’s functionality. Specifically; 
 
@@ -708,7 +716,7 @@ Although some of the resources credited below are already listed in the ‘5. Te
 
 -   [Youtube](https://www.youtube.com/): Referred to for useful coding and UXD tips and tutorials.
 
-#### **8.1.1 Language and Scripts**
+#### **8.2.1 Language and Scripts**
 
 - JavaScript: The JavaScript code used across the site assists with specific functionalities (e.g. Navigation Menu, Scroll Feature, and Use of Icons). The scrips have been sourced from the following sites: 
 
@@ -722,7 +730,7 @@ Although some of the resources credited below are already listed in the ‘5. Te
 
 - CSS: Alongside my CSS Stylesheet file, there has been supportive Bootstrap CSS code incorporated into the sites structure to assist with some of the Bootstrap elements used. The scripts have been sourced from the following repo [location](assets/css/bootstrap-sourcecode/bootstrap.min.css).
 
-### 8.2 Media 
+### 8.3 Media 
 
 - [Pexels](https://www.pexels.com/): Aside from the CWW logo, majority of  photos (royalty free) included on the live website has been sourced from Pexels.  Specific mention is given to the following content creates that provided the images for the website:
 

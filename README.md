@@ -14,7 +14,7 @@
 ### 9. Acknowledgements
 ### 10. References
 
-
+![](assets/images/website-screenshots-and-elements/cww-devicemockup.png) 
 
 ## 1. Overview
 
@@ -498,8 +498,11 @@ Below are a list of all the technologies, languages and tools that has aided the
 ### 5.1 Languages
 
 - **HTML** – Supported the core structure of the website.
+
 - **CSS** – Supported the styling elements on the website.
-- **JavaScript** - Supported specific functionalities within the site (e.g. the navigation bar on the website)
+
+- **JavaScript** - Supported specific functionalities within the site (e.g. the navigation bar on the website).
+
 - **JQuery** – Supported specific functionalities (e.g. the scroll features on the website) within the site through simplifying ‘Document Object Model’ (DOM) manipulation (Developer.mozilla.org, 2021). 
 
 ### 5.2 Libraries, Resources and Tools

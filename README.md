@@ -6,22 +6,23 @@
 
 
 ## List of Contents
-1. [Overview](#1-Overview)
 
-2. [User Experience (UX)](#2-User-Experience-UX)
+### 1. [Overview](#1-Overview)
+
+### 2. [User Experience (UX)](#2-User-Experience-UX)
 
     - #### 2.1 User Stories (Strategy)
 
     - #### 2.2 Website value (Scope)
 
 
-3. [Content](#3-Content)
+### 3. [Content](#3-Content)
 
    - #### 3.1. Wireframes (Structure and Skeleton)
 
    - #### 3.2 User Experience Design (UXD) elements (Surface)
 
-4. [Features](#4-Features)
+### 4. [Features](#4-Features)
 
     - #### 4.1 Site-wide Features
 
@@ -40,12 +41,35 @@
     - #### 4.8 Future Features
 
 
-5. [Technologies Used](#5-Technologies-Used)
-6. [Testing](#6-Testing)
-7. [Deployment](#7-Deployment)
-8. [Credits](#8-Credits)
-9. [Acknowledgements](#9-Acknowledgements)
-10. [References](#10-References)
+### 5. [Technologies Used](#5-Technologies-Used)
+
+    - ####  5.1 Languages
+
+    - ####  5.2 Libraries, Resources and Tools
+
+### 6. [Testing](#6-Testing)
+
+    - ####  6.1 Validator Testing
+
+    - ####  6.2 Fixed bugs
+
+    - ####  6.3 Unfixed Bugs 
+
+### 7. [Deployment](#7-Deployment)
+
+### 8. [Credits](#8-Credits)
+
+    - ####  8.1 The Project 
+
+    - ####  8.2 Content 
+
+    - ####  8.3 Media 
+
+### 9. [Acknowledgements](#9-Acknowledgements)
+
+    - ####  9.1 Personal Acknowledgements
+
+### 10. [References](#10-References)
 
 
 ## 1. Overview

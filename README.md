@@ -582,9 +582,10 @@ A series of tests have been conducted on the CWW site’s functionality and its 
 
 - Explanation of how the issues above contributed to the need to change CWW site’s structure and design.
 
-- Methods undertaken to create and test the current CWW site’s structure and responsiveness. 
+- Methods undertaken to assess the live CWW site’s structure and responsiveness. 
 
-- User Stories testing process. 
+- Users’ feedback on their website experience.
+
 
 ### 6.1 Validator Testing
 

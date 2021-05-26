@@ -50,12 +50,19 @@ In more detail, the site structure was changed by applying a grid method to form
 
 In addition to altering the CWW site’s structure, [Responsively](https://responsively.app/download) application [Google (Chrome) Development Tools](https://developer.chrome.com/docs/devtools/open/). Which supported the consistent assessment of the degree to which website is responsive on various device sizes and screen orientations. This is demonstrated in the visuals below: 
 
- ![]()
- ![]()
- ![]()
- ![]()
- ![]()
- ![]()
+ 
+![](/assets/images/testing-evidence/responsivelyapp-testing-home.html-cww.PNG)
+
+![](/assets/images/testing-evidence/responsivelyapp-testing-about.html-cww.PNG)
+
+![](/assets/images/testing-evidence/responsivelyapp-testing-recipes.html-cww.PNG)
+
+![](/assets/images/testing-evidence/responsivelyapp-testing-playlists.html-cww.PNG)
+
+![](/assets/images/testing-evidence/responsivelyapp-testing-connect.html-cww.PNG)
+
+![](/assets/images/testing-evidence/responsivelyapp-testing-404.html-cww.PNG)
+
 
 
 ## 3. Users’ feedback on their experience using the CWW website

@@ -1,6 +1,6 @@
 # Coca Women Wellness
 
-### Contents
+### List of Contents
 #### 1. Overview
 #### 2. User Experience (UX)
 #### 3. Content 

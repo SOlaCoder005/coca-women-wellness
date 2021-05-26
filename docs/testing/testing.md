@@ -4,15 +4,15 @@ TESTING.MD FILE
 
 ## [Overview](#Overview)
 
-## 1. [Responsiveness issues with CWW site’s initial design and structure](#1-Responsiveness-issues-with-CWW-site’s-initial-designand-structure)
+### 1. Responsiveness issues with CWW site’s initial design and structure
 
-## 2. [Methods undertaken to assess the live CWW site’s structure and responsiveness](#2-Methods-undertaken-to-assess-the-live-CWW-sites-structure-and-responsiveness)
+### 2. Methods undertaken to assess the live CWW site’s structure and responsiveness
 
-## 3. [Users’ feedback on their experience using the CWW website](#3-Users-feedback-on-their-experience-using-the-CWW-website)
+### 3. Users’ feedback on their experience using the CWW website
 
 
 
-### Overview
+## Overview
 
 This document Is an extension of ‘6. Testing’ section in the Coca Women Wellness repository. The document will provide information on factors that contributed to the development of the Coca Women Wellness website: 
 
@@ -22,9 +22,9 @@ This document Is an extension of ‘6. Testing’ section in the Coca Women Well
 
 - Users’ feedback on their experience using the CWW website
 
-### 1. Responsiveness issues with CWW site’s initial design and structure
+## 1. Responsiveness issues with CWW site’s initial design and structure
 
-#### **Issue:**
+### **Issue:**
 
 Although the initial wireframes for the CWW presented a feasible concept, execution of the plans proved to raise multiple issue. 
 
@@ -40,13 +40,13 @@ Through screen rotation, as well as reducing and expanding screen size, the foll
 
 These issues persisted even after applying media queries to the website. Visual examples of the issues mentioned can be viewed [here](). 
 
-#### **Solution:** 
+### **Solution:** 
 
 As evidence in the live CWW site, the issues mentioned above were resolved. However, there was need to restructure the site. For this reason, the live CWW structure differs from the initial wireframes. 
 
 In more detail, the site structure was changed by applying a grid method to form the foundational structure of the CWW site. This method increased the site’s degree of responsivity to the changing screen widths and lengths when accessed on varying devices.
 
-### 2. Methods undertaken to assess the live CWW site’s structure and responsiveness
+## 2. Methods undertaken to assess the live CWW site’s structure and responsiveness
 
 In addition to altering the CWW site’s structure, [Responsively](https://responsively.app/download) application [Google (Chrome) Development Tools](https://developer.chrome.com/docs/devtools/open/). Which supported the consistent assessment of the degree to which website is responsive on various device sizes and screen orientations. This is demonstrated in the visuals below: 
 
@@ -58,7 +58,7 @@ In addition to altering the CWW site’s structure, [Responsively](https://respo
  ![]()
 
 
-### 3. Users’ feedback on their experience using the CWW website
+## 3. Users’ feedback on their experience using the CWW website
 
 As part of additional testing of the CWW site, the users that participated in earlier stages of target audience research (see ‘2. User Stories’ of the [README.md file](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/README.md)) to test their access to thee site and provide feedback on their user experience when engaging with the content. 
 

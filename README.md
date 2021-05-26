@@ -576,7 +576,7 @@ Below are a list of all the technologies, languages and tools that has aided the
 
 ## 6. Testing
 
-A series of tests have been conducted on the CWW site’s functionality and its source-code. An extensive report of the tests conducted can be found in the [TESTING.md](/docs/testing/TESTING.md) report. The report discusses the multiple factors that arose throughout the testing process of the site, such as;
+A series of tests have been conducted on the CWW site’s functionality and its source-code. An extensive report of the tests conducted can be found in the [TESTING.md document](/docs/testing/TESTING.md). The document discusses the multiple factors that arose throughout the testing process of the site, such as;
 
 - Responsiveness issues with CWW site’s initial design and structure (reflected in the wireframes). 
 
@@ -657,7 +657,7 @@ The CWW website functions correctly on the following browsers:
 - Microsoft Edge 
 - Firefox 
 
-Further testing around responsiveness elements of the site can be found in the [TESTING.md document](/docs/testing/TESTING.md)  and  [6.3 Unfixed bugs](#6-3-Unfixed-Bugs) section.
+Further testing around responsiveness elements of the site can be found in the [TESTING.md document](/docs/testing/TESTING.md) and **6.3 Unfixed bugs** section.
 
 ### 6.2 Fixed bugs
 

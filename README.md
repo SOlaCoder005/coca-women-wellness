@@ -556,6 +556,7 @@ Below are a list of all the technologies, languages and tools that has aided the
 -   [Font Awesome](https://fontawesome.com/) - While the site hosts a number of resources, most of the icons used on the live site has been sourced from Font Awesome.
 -	[GitHub](https://github.com/): A version control software that can has both desktop and online platforms. 
 -   [GitPod](https://www.gitpod.io/): An IDE that can be used online and locally on your desktop.
+-   [Google (Chrome) Development Tools](https://developer.chrome.com/docs/devtools/open/): Described as a browser 'authoring and debugging tool' for websites. 
 -	[Google Drive](https://drive.google.com/): This was mainly used to backup the repo once saved to a local drive.
 -   [Google Fonts](https://fonts.google.com/): This platform was used to select and import the desired font into the website's source code.
 -   [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/): This has been used to check the quality of the CSS code and ensures it passes coding standards.
@@ -578,11 +579,11 @@ Below are a list of all the technologies, languages and tools that has aided the
 
 A series of tests have been conducted on the CWW site’s functionality and its source-code. An extensive report of the tests conducted can be found in the [testing.md](/docs/testing/testing.md). The document discusses the multiple factors that arose throughout the testing process of the site, such as;
 
-1. [Responsiveness issues with CWW site’s initial design and structure](#1-Responsiveness-issues-with-CWW-site’s-initial-designand-structure)
+1. Responsiveness issues with CWW site’s initial design and structure
 
-2. [Methods undertaken to assess the live CWW site’s structure and responsiveness](#2-Methods-undertaken-to-assess-the-live-CWW-sites-structure-and-responsiveness)
+2. Methods undertaken to assess the live CWW site’s structure and responsiveness
 
-3. [Users’ feedback on their experience using the CWW website](#3-Users-feedback-on-their-experience-using-the-CWW-website)
+3. Users’ feedback on their experience using the CWW website
 
 
 ### 6.1 Validator Testing

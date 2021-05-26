@@ -644,6 +644,20 @@ The [Lighthouse](https://developers.google.com/web/tools/lighthouse#devtools) wa
 - [404 Error (404.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/performance-results/Performance%20testing_Lighthouse_404.html_PASS_260521.pdf)
 
 
+#### **6.1.5 Responsiveness**
+The Coca Women Wellness website is responsive to the following device types:
+
+- Mobiles (Android and IOS)
+- Tablets
+- Desktops and Desktop Monitors
+
+The CWW website functions correctly on the following browsers:
+
+- Google Chrome
+- Microsoft Edge 
+- Firefox 
+
+Further testing around responsiveness elements of the site can be found in the [TESTING.md document](/docs/testing/TESTING.md)  and  [6.3 Unfixed bugs](#6-3-Unfixed-Bugs) section.
 
 ### 6.2 Fixed bugs
 

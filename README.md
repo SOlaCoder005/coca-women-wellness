@@ -515,8 +515,8 @@ Below are a list of all the technologies, languages and tools that has aided the
 -   [Pinterest](https://www.pinterest.co.uk/feli_fierce/cww_website_colourtheme/): An application where I collated visuals for my mood board for the website’s colour schemes (include live link to board).
 -   [Responsively](https://responsively.app/download): Web Browser that allows you to check the degree to which you website is responsive on various device sizes and screen orientations.
 -   [Stack Overflow](https://stackoverflow.com/): This was used as a reference tool to assist with both HTML coding techniques.
-- [VSCode](https://code.visualstudio.com/): An open source IDE that can be used online and locally on your desktop.
-- [Visme](https://www.visme.co/): An online application that assist with building visual content (e.g. graphs and charts) for business purposes. 
+-   [VSCode](https://code.visualstudio.com/): An open source IDE that can be used online and locally on your desktop.
+-   [Visme](https://www.visme.co/): An online application that assist with building visual content (e.g. graphs and charts) for business purposes. 
 -   [Wave]( https://wave.webaim.org/): A ‘Web Accessibility Evaluation Tool’ that determines the extent to which a site is accessible. 
 -   [W3C Validator](https://validator.w3.org/): This has been used to check the quality of my HTML code and ensures it passes coding standards.
 -   [W3 Schools](https://www.w3schools.com/): This was used as a reference tool to assist with HTML coding techniques. 
@@ -561,6 +561,7 @@ The [W3C Validator](https://validator.w3.org/) was used to test the HTML code. T
 The [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator) was used to test the CSS code. The results produced **0 errors**, thus passing the test. Evidence for this can be found, [here](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/validator-results/date-240521/W3C%20CSS%20Validator%20results%20for%20style.css%20(CSS%20level%203%20%2B%20SVG)_PASS_240521.pdf).
 
 #### **6.1.3 Accessibility Tests**
+
 The [WAVE Accessibility Evaluation Tool](https://wave.webaim.org) was used to test the degree to which the site is considered accessible. The results produced **0 errors**, thus passing the test.Evidence for each page is below: 
 
 - [HOME (index.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/accesibility-results/date-240521/WAVE_index.html_accessibility_PASS_240521.PNG)

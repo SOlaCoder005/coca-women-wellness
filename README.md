@@ -576,34 +576,53 @@ The [WAVE Accessibility Evaluation Tool](https://wave.webaim.org) was used to te
 - [404 Error (404.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/accesibility-results/date-240521/WAVE_404.html_accessibility_PASS_240521.PNG)
 
 
+#### **6.1.4 Website Performance Audit: Desktop Devices**
+
+The [Lighthouse](https://developers.google.com/web/tools/lighthouse#devtools) was used to test the performance of the CWW website. An audit report was produced for each page, showing that on desktop devices, the website was operating at optimal performance. Each page achieved a score between **91-99 out of 100**. Evidence for each page is below: 
+
+- [HOME (index.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/performance-results/Performance%20testing_Lighthouse_index.html_PASS_260521.pdf)
+
+- [ABOUT(about.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/performance-results/Performance%20testing_Lighthouse_about.html_PASS_260521.pdf)
+
+- [RECIPES (recipes.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/performance-results/Performance%20testing_Lighthouse_recipes.html_PASS_260521.pdf)
+
+- [PLAYLISTS (playlists.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/performance-results/Performance%20testing_Lighthouse_playlists.html_PASS_260521.pdf)
+
+- [CONNECT (connect.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/performance-results/Performance%20testing_Lighthouse_connect.html_PASS_260521.pdf)
+
+- [404 Error (404.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/performance-results/Performance%20testing_Lighthouse_404.html_PASS_260521.pdf)
+
+
+
 ### 6.2 Fixed bugs
 
 Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING.md) report, two additional ‘bugs’ frequently arose throughout the development of the CWW site, until a solution was found. For instance:  
 
 #### **6.2.1 Blurry images on the CWW’s pages**
 
-- **Issue**: 
+- **Issue:** 
 
     While the photos used on the site were sourced from Pexels.com with a high resolution, the images were blurry on several web browsers and device screens.  
 
-- **Solution**: 
+- **Solution:** 
     
     After conducting further research into image quality within coding, the issue was resolved by using the property **‘object-fix:___;’** as a function within the .css style sheet. 
 
 #### **6.2.2 CWW's images failed to display on one web browser but not the other**
 
-- **Issue**: 
+- **Issue:** 
     
     When using an android tablet, the images on CWW did not display on a Google Chrome browser but did on the Microsoft Edge browser. This issue persisted after clearing the cache and cookies data on the Google Chrome browser multiple times.  However, during this time, the images were displaying on Google Chrome browsers on android mobile devices (e.g. Oppo Reno Z) and Google Chrome’s desktop application. 
 
--  **Solution**: 
+-  **Solution:**
     
     The issue was resolved by manually resizing images’ dimensions (px) and reducing the resolution (dpi) values. This was achieved using Adobe Photoshop. Arguably, this method can cause issues when printing images, however as the images were to be displayed digitally, reducing the resolution of the images did not have a detrimental impact on the images’ aesthetics.  After resizing, the images showed on both browsers on tablet, mobile and desktop devices. 
 
 ### 6.3 Unfixed Bugs 
 
 #### **6.3.1 Structural Integrity: The awkward positioning of the label and input elements of the form on the ‘CONNECT’ page** 
-- Issue: 
+- Issue:
+
     An unresolved bug on the CWW site is the positioning of the form’s input boxes on the connect page, when orientated vertically on a tablet screen (640px-768px). For instance:
 
     - When the form is accessed on a tablet; the ‘handles’ input element (e.g. Pinterest) will not display on same line as its label and icon. 
@@ -617,7 +636,15 @@ Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING
 
     Another unresolved bug on the CWW site is the positioning of the text when displayed on a vertical tablet screen. On a vertical mobile screen, the text elements stack on top of each other in a column. This aligns with how the site is intended to respond to smaller screen sizes. However, when the site is displayed on a tablet screen that is rotated vertically the text elements do not stack on top of each other. Rather, the elements reduce in size proportionally to fit on the screen. 
 
-   
+#### **6.3.3 Website Performance Audit: Mobile Devices**
+
+- **Issue:** 
+
+    Although the CWW site has passed the validator and accessibility tests, when accessed on mobile devices, some pages have been shown to have lower performance ratings, according to the [Lighthouse](https://developers.google.com/web/tools/lighthouse#devtools) development tool audit.
+
+    A primary factor contributing to this performance on mobiles is the quantity and size of the images. This result is prevalent after reducing the resolution (dpi) values and size (px) of the images.  
+
+
 ## Section 10: References
 
 Several resources have been referred to throughout the development of the Coca Women Website. A list has been provided, [here](/docs/data-docs/refs.md).

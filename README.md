@@ -247,7 +247,7 @@ The wireframes below depict the **preliminary structure** for the CWW website. T
 4.	[Wireframe – PLAYLISTS]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/playlists-pages "Wireframes for Playlists page")
 5.	[Wireframe – CONNECT]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/playlists-pages "Wireframes for Connect page")
 
- - **PLEASE NOTE:** The structure and appearance of the live deployed CWW website differs considerably from the preliminary wireframes. These differences resulted from responsiveness issues that arose during the initial design of the CWW website. Further information around this has been documented in the [TESTING.md](/docs/testing/testing.md) document within this repository’s directory.
+ - **PLEASE NOTE:** The structure and appearance of the live deployed CWW website differs considerably from the preliminary wireframes. These differences resulted from responsiveness issues that arose during the initial design of the CWW website. Further information around this has been documented in the [testing.md](/docs/testing/testing.md) document within this repository’s directory.
 
 Although the final structure of the site differs considerably to the preliminary wireframes; the live deployed CWW has greater responsiveness when accessed by different devices (incl. Desktop, mobile and tablet screens). 
 
@@ -576,7 +576,7 @@ Below are a list of all the technologies, languages and tools that has aided the
 
 ## 6. Testing
 
-A series of tests have been conducted on the CWW site’s functionality and its source-code. An extensive report of the tests conducted can be found in the [TESTING.md document](/docs/testing/TESTING.md). The document discusses the multiple factors that arose throughout the testing process of the site, such as;
+A series of tests have been conducted on the CWW site’s functionality and its source-code. An extensive report of the tests conducted can be found in the [testing.md](/docs/testing/testing.md). The document discusses the multiple factors that arose throughout the testing process of the site, such as;
 
 - Responsiveness issues with CWW site’s initial design and structure (reflected in the wireframes). 
 
@@ -658,11 +658,11 @@ The CWW website functions correctly on the following browsers:
 - Microsoft Edge 
 - Firefox 
 
-Further testing around responsiveness elements of the site can be found in the [TESTING.md document](/docs/testing/TESTING.md) and **6.3 Unfixed bugs** section.
+Further testing around responsiveness elements of the site can be found in the [testing.md](/docs/testing/testing.md) and **6.3 Unfixed bugs** section.
 
 ### 6.2 Fixed bugs
 
-Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING.md) report, two additional ‘bugs’ frequently arose throughout the development of the CWW site, until a solution was found. For instance:  
+Aside from the testing discussed in the [testing.md](/docs/testing/testing.md) report, two additional ‘bugs’ frequently arose throughout the development of the CWW site, until a solution was found. For instance:  
 
 #### **6.2.1 Blurry images on the CWW’s pages**
 

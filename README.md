@@ -672,11 +672,12 @@ Although some of the resources credited below are already listed in the ‘5. Te
 -	[Bootstrap](https://getbootstrap.com/): Provided useful components that assisted my site’s functionality. Specifically; 
 
     - [Navigation menu](https://getbootstrap.com/docs/4.0/components/navbar/) code has been adapted to create the navigation menu, some of the code has been customised to suir the needs of the website. 
+    
     - [Grid system](https://getbootstrap.com/docs/4.1/layout/grid/) code has been adapted and incorporated on some of the  website’s pages (e.g. on the HOME and PLAYLISTS page).
 
 -	[Code Institute](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecommerce): The Code Institute's lesson and challenges has been referred to help with the construction and functionality of the site. For instance: 
 
-    - The Code Institute’s URL (https://formdump.codeinstitute.net) has been incorporated into the form on the ‘CONNECT’ page of the website. The tutorial can be found [here](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/ee2afa91c35e4268b7de2ea21fe311dd/9?activate_block_id=block-v1%3ACodeInstitute%2BHE101%2B2020%2Btype%40vertical%2Bblock%4004ae28359c4340048efdeeacf3363eb0).
+    - Form validation URL: The Code Institute’s URL (https://formdump.codeinstitute.net) has been incorporated into the form on the ‘CONNECT’ page of the website. The tutorial can be found [here](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/ee2afa91c35e4268b7de2ea21fe311dd/9?activate_block_id=block-v1%3ACodeInstitute%2BHE101%2B2020%2Btype%40vertical%2Bblock%4004ae28359c4340048efdeeacf3363eb0).
 
 -   [Font Awesome](https://fontawesome.com/): This majority of the icons used on the website has been sourced from Font Awesome.
 

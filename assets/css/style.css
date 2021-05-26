@@ -571,7 +571,7 @@ Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
 }
 
 .button-style {
-    padding: 30px;
+    padding: 20px;
 }
 
 .button-style input  {
@@ -583,7 +583,7 @@ Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 100%;
     color: rgb(255, 165, 0);
 }  
     
@@ -611,6 +611,7 @@ input:hover {
     font-weight: 700; 
     color:rgb(255, 165, 0);
     text-decoration: underline;
+    padding-top: 10px;
 }
 
 .our-details i {
@@ -642,6 +643,17 @@ footers blends in with the footer background-colour of the connect.html page*/
     background-color:rgb(255, 165, 0);
 }
 /*CONNECT PAGE - ENDS*/
+
+
+/*GOOGLE MAPS SCREENSHOT - STARTS*/
+
+.gmaps {
+    width: 100%;
+    height: auto;
+    padding: 15px;
+}
+
+/*GOOGLE MAPS SCREENSHOT - ENDSS*/
 
 /*SCROLL FEATURE - STARTS*/
 
@@ -874,7 +886,7 @@ footer {
         text-align: left;
     }
 
-    .handle label{
+    .handle label {
         padding: 10px;
     }
 }

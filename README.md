@@ -721,9 +721,20 @@ Although some of the resources credited below are already listed in the ‘5. Te
     - [Vicky Tran](https://www.pexels.com/@vicky)
 
 - [Pixabay](https://pixabay.com/): Aside from the CWW logo, some of the photos included on the live website has been sourced from Pixabay. 
+
 - [Youtube](https://www.youtube.com/): Was used to incorporate **iframe elements** into the PLAYLISTS page of the website. 
 
 
+## 9. Acknowledgements
+
+As part of the preliminary conceptualisation of the Coca Women Wellness, some popular websites that depicted common cultural characteristics within different communities of the African/Caribbean diaspora were looked at. Below are links to some of the sites that provided inspiration: 
+
+- [Beleaf In Fatherhood](https://www.beleafinfatherhood.com/)
+- [Evelyn From The Internets](https://www.evelynfromtheinternets.com/)
+- [Jessamyn Stanley](http://jessamynstanley.com/)
+- [World Changer Life](https://www.worldchangerlife.com/)
+- [GLAM Africa](https://www.glamafrica.com/)
+- [AKOMA Skincare](https://www.akomaskincare.co.uk/)
 
 
 ## Section 10: References

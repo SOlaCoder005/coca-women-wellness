@@ -526,7 +526,7 @@ Below are a list of all the technologies, languages and tools that has aided the
 
 ## 6. Testing
 
-A series of tests have been conducted on the CWW site’s functionality and its source-code. An extensive report of the tests conducted can be found in the [TESTED.md](/docs/testing/TESTING.md) report. The report discusses the multiple factors that arose throughout the testing process of the site, such as;
+A series of tests have been conducted on the CWW site’s functionality and its source-code. An extensive report of the tests conducted can be found in the [TESTING.md](/docs/testing/TESTING.md) report. The report discusses the multiple factors that arose throughout the testing process of the site, such as;
 
 - Responsiveness issues with CWW site’s initial design and structure (reflected in the wireframes). 
 
@@ -644,6 +644,26 @@ Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING
     Although the CWW site has passed the validator and accessibility tests, when accessed on mobile devices, some pages have been shown to have lower performance ratings, according to the [Lighthouse](https://developers.google.com/web/tools/lighthouse#devtools) development tool audit.
 
     A primary factor contributing to this performance on mobiles is the quantity and size of the images. This result is prevalent after reducing the resolution (dpi) values and size (px) of the images.  
+
+## 7. Deployment
+
+Below is an overview on how to deploy a project via GitHub’s GitHub Pages. This method was used to deploy the Coca Women Wellness website:
+
+1. Create a project **repository** on [GitHub](https://github.com/) using a registered GitHub account.
+
+2. Once the repository is created, click on the repository, then the **Settings** tab, this is the last tab in the top right of the repository’s **navigation bar**. 
+
+3. Once on the settings page, navigate to and click on **Pages** (titled as ‘Pages’ as of May 2021) listed in the left-hand menu pane.
+
+4. Under the header **Source**,  select **master branch**  from the drop-down list. This will change the neighbouring selector box to **/(root)**. 
+5. Then click **Save**.
+
+6. Wait for a minute and then **refresh** the webpage. 
+
+7. Once refreshing, a green box with the text and clickable link; **Your site is published at...**. 
+
+8. Clicking on the website’s hyperlink in the green box will direct to the live deployed website.  
+
 
 
 ## Section 10: References

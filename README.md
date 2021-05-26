@@ -8,8 +8,35 @@
 ## List of Contents
 1. [Overview](#1-Overview)
 2. [User Experience (UX)](#2-User-Experience-UX)
+
+- [2.1 User Stories (Strategy)](#2.1-User-Stories-Strategy)
+
+- [2.2 Website value (Scope)](#2.2-Website-value-Scope)
+
 3. [Content](#3-Content)
+
+- [3.1. Wireframes (Structure and Skeleton)](#3.1-Wireframes-Structure-and-Skeleton)
+
+- [3.2 User Experience Design (UXD) elements (Surface)](#3.2-User-Experience-Design-UXD-elements-Surface)
+
 4. [Features](#4-Features)
+
+- [4.1 Site-wide Features](#4.1-Site-wide-Features)
+
+- [4.2 Page: 'HOME'](#4.2-Page-HOME]
+
+- [4.3 Page: 'ABOUT'](#4.3-Page-ABOUT)
+
+- [4.4 Page: ‘RECIPES’](#4.4-Page-RECIPES)
+
+- [4.5 Page: ‘PLAYLISTS’](#4.5-Page-PLAYLISTS)
+
+- [4.6 Page: ‘CONNECT’](#4.6-Page-CONNECT)
+
+- [4.7 Page: ‘404 ERROR’](#4.7-Page-404-ERROR)
+
+- [4.8 Future Features](#4.8-Future-Features)
+
 5. [Technologies Used](#5-Technologies-Used)
 6. [Testing](#6-Testing)
 7. [Deployment](#7-Deployment)

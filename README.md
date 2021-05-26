@@ -2,14 +2,14 @@
 
 ### List of Contents
 1. [Overview](#1-Overview)
-2. User Experience (UX)
-3. Content 
-4. Features
-5. Technologies Used
-6. Testing
-7. Deployment
-8. Credits
-9. Acknowledgements
+2. [User Experience (UX)](#2-User-Experience-UX)
+3. [Content](#3-Content)
+4. [Features](#4-Features)
+5. [Technologies Used](#5-Technologies-Used)
+6. [Testing](#6-Testing)
+7. [Deployment](#7-Deployment)
+8. [Credits](#8-Credits)
+9. [Acknowledgements](#9-Acknowledgements)
 10. [References](#10-References)
 
 
@@ -776,6 +776,6 @@ I would like to thank…
 - All the users that participated in the user research stage of the project. Your feedback was invaluable!
 
 
-## Section 10: References
+## 10. References
 
 Several resources have been referred to throughout the development of the Coca Women Website. A list has been provided, [here](/docs/data-docs/refs.md).

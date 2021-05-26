@@ -5,7 +5,7 @@
 ![](assets/images/website-screenshots-and-elements/cww-devicemockup.png)
 
 
-### List of Contents
+## List of Contents
 1. [Overview](#1-Overview)
 2. [User Experience (UX)](#2-User-Experience-UX)
 3. [Content](#3-Content)

@@ -28,10 +28,10 @@ A secondary goal for CWW is to foster an online wellbeing community for users th
 
 ## 2. User Experience (UX)
 
-
 ### 2.1 User Stories (Strategy)
 
 #### **2.1.1 Market climate**
+
 Through market research, the following findings supported the conceptualisation of the Coca Women Wellness Website: 
 
 - Due to ongoing sociocultural and social-economic inequality in multiple societies (e.g. COVID-19 and continued social inequality), there has been increased discourse on raising awareness around, and providing greater support for improving people’s wellbeing. 
@@ -693,7 +693,7 @@ Below is an overview on how to deploy a project via GitHub’s GitHub Pages. Thi
 
 ### 8.2 Content 
 
-Although some of the resources credited below are already listed in the ‘5. Technologies Used’ section and [References document](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/data-docs/refs.md); the credits listed here are relative to specific content that has been incorporated into the Coca Women website:
+Although some of the resources credited below are already listed in the [5. Technologies Used](#5-Technologies-Used) section of the README and [References document](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/data-docs/refs.md); the credits listed here are relative to specific content that has been incorporated into the Coca Women website:
 
 -	[Bootstrap](https://getbootstrap.com/): Provided useful components that assisted my site’s functionality. Specifically; 
 

@@ -481,7 +481,20 @@ This section provides an overview of the features on the Coca Women Wellness web
 
 | User Type |User Story Number| Description| Supporting Statement|
 |-----|-----|-----|-----| 
-|Site Owner |10. | Create a functional website where the user can navigate around easily and access content effortlessly. |N/A| 
+|Site Owner |10. | Create a functional website where the user can navigate around easily and access content effortlessly. |N/A|
+
+### 4.8 Future Features
+
+The following ideas could be implemented in further developments of the site to increase usefulness and engagement. 
+
+Idea 1: Separate the playlists into separate subpages. 
+
+    Implementation: Each subpage can have additional content (e.g. articles or blogs) focused on the parent topic (e.g. family or food). 
+
+Idea 2: Create a library page that hosts literary resources.
+
+    Implementation:  An additional page on the website would be labelled ‘Library’ and The page can provide downloadable documents on specific mindfulness techniques, such as  [EFT tapping](https://www.healthline.com/health/eft-tapping). 
+
 
 
 ## 5. Technologies Used
@@ -672,7 +685,7 @@ Although some of the resources credited below are already listed in the ‘5. Te
 -	[Bootstrap](https://getbootstrap.com/): Provided useful components that assisted my site’s functionality. Specifically; 
 
     - [Navigation menu](https://getbootstrap.com/docs/4.0/components/navbar/) code has been adapted to create the navigation menu, some of the code has been customised to suir the needs of the website. 
-    
+
     - [Grid system](https://getbootstrap.com/docs/4.1/layout/grid/) code has been adapted and incorporated on some of the  website’s pages (e.g. on the HOME and PLAYLISTS page).
 
 -	[Code Institute](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecommerce): The Code Institute's lesson and challenges has been referred to help with the construction and functionality of the site. For instance: 

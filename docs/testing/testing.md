@@ -38,7 +38,9 @@ Through screen rotation, as well as reducing and expanding screen size, the foll
 
 - Similarly, when reducing the screen width, elements such as the form would spill over the footer and header sections. Further, icons on the playlist page would overlay the previous ones.
 
-These issues persisted even after applying media queries to the website. Visual examples of the issues mentioned can be viewed [here](). 
+These issues persisted even after applying media queries to the website. Visual examples of the issues mentioned are evidenced below: 
+
+![](/assets/images/testing-evidence/cww-oldwebsitestructure.png). 
 
 ### **Solution:** 
 

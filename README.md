@@ -536,7 +536,7 @@ A series of tests have been conducted on the CWW site’s functionality and its 
 
 - User Stories testing process. 
 
-#### 6.1 Validator Testing
+### 6.1 Validator Testing
 
 To ensure that the source code for the CWW met industry standards, each page was run through the [W3C Validator](https://validator.w3.org/) and [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator). 
 
@@ -600,9 +600,9 @@ Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING
     
     The issue was resolved by manually resizing images’ dimensions (px) and reducing the resolution (dpi) values. This was achieved using Adobe Photoshop. Arguably, this method can cause issues when printing images, however as the images were to be displayed digitally, reducing the resolution of the images did not have a detrimental impact on the images’ aesthetics.  After resizing, the images showed on both browsers on tablet, mobile and desktop devices. 
 
-### 6.4 Unfixed Bugs 
+### 6.3 Unfixed Bugs 
 
-#### **6.4.1 Structural Integrity: The awkward positioning of the label and input elements of the form on the ‘CONNECT’ page** 
+#### **6.3.1 Structural Integrity: The awkward positioning of the label and input elements of the form on the ‘CONNECT’ page** 
 - Issue: 
     An unresolved bug on the CWW site is the positioning of the form’s input boxes on the connect page, when orientated vertically on a tablet screen (640px-768px). For instance:
 
@@ -611,11 +611,11 @@ Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING
     - However, the positioning of these elements aligns when the devices are rotated and used horizontally. 
 
 
-#### **6.4.2 Structural Integrity: The collapsing of section on the ‘HOME’ and ‘PLAYLISTS’ pages**
+#### **6.3.2 Structural Integrity: The collapsing of section on the ‘HOME’ and ‘PLAYLISTS’ pages**
 
 - **Issue:** 
 
-    Another unresolved bug on the CWW site is the positioning of the text when displayed on a vertical tablet screen. On a vertical mobile screen, the text elements stack on top of each other in a column. This aligns with how the site is intended to respond to smaller screen sizes. However; When the site is displayed on a tablet screen that is rotated vertically the text elements do not stack on top of each other. Rather, the elements reduce in size proportionally to fit on the screen. 
+    Another unresolved bug on the CWW site is the positioning of the text when displayed on a vertical tablet screen. On a vertical mobile screen, the text elements stack on top of each other in a column. This aligns with how the site is intended to respond to smaller screen sizes. However, when the site is displayed on a tablet screen that is rotated vertically the text elements do not stack on top of each other. Rather, the elements reduce in size proportionally to fit on the screen. 
 
    
 

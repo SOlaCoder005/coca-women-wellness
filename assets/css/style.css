@@ -646,13 +646,11 @@ footers blends in with the footer background-colour of the connect.html page*/
 
 
 /*GOOGLE MAPS SCREENSHOT - STARTS*/
-
 .gmaps {
     width: 100%;
     height: auto;
     padding: 15px;
 }
-
 /*GOOGLE MAPS SCREENSHOT - ENDSS*/
 
 /*SCROLL FEATURE - STARTS*/
@@ -680,7 +678,6 @@ Source:[https://www.w3schools.com/howto/howto_js_scroll_to_top.asp]*/
     background-color: white;
     border: none;
 }
-
 /*SCROLL FEATURE- ENDS*/
 
 
@@ -722,7 +719,7 @@ footer {
 /*FOOTER - ENDS*/
 
 /*404 ERROR PAGE - STARTS*/
-/*Content on page has been centred using the values from w3School guidance. Source:[https://www.w3schools.com/howto/howto_css_image_center.asp] */
+/*Content on page has been centred using the values from w3School guidance. Source:[https://www.w3schools.com/howto/howto_css_image_center.asp]*/
 .error-container {
     background-color: #ffd700;
 }

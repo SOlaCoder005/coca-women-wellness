@@ -1,5 +1,10 @@
 # Coca Women Wellness
 
+
+
+![](assets/images/website-screenshots-and-elements/cww-devicemockup.png)
+
+
 ### List of Contents
 1. [Overview](#1-Overview)
 2. [User Experience (UX)](#2-User-Experience-UX)
@@ -11,11 +16,6 @@
 8. [Credits](#8-Credits)
 9. [Acknowledgements](#9-Acknowledgements)
 10. [References](#10-References)
-
-
-
-![](assets/images/website-screenshots-and-elements/cww-devicemockup.png) 
-
 
 
 ## 1. Overview

@@ -750,6 +750,18 @@ As part of the preliminary conceptualisation of the Coca Women Wellness, some po
 - [GLAM Africa](https://www.glamafrica.com/)
 - [AKOMA Skincare](https://www.akomaskincare.co.uk/)
 
+I’d like to thank Code Institute and all the resources, tutoring, student care and mentoring support they have, and continue to, provide throughout the course.
+
+### 9.1 Personal Acknowledgements
+
+I would like to thank…
+
+- God for the continued strength given to me throughout this course. 
+
+- My beautiful Husband for all the encouragement he has given me through this project and for seeing my potential even at times when I couldn’t. 
+
+- All the users that participated in the user research stage of the project. Your feedback was invaluable!
+
 
 ## Section 10: References
 

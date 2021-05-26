@@ -477,7 +477,6 @@ This section provides an overview of the features on the Coca Women Wellness web
 
     ![](assets/images/website-screenshots-and-elements/formfillinfield.PNG) 
 
-    - Each playlist contains content relating to the icons’ titles. 
 
 2. ‘Our Details’ Icons
 

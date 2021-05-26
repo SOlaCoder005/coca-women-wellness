@@ -526,7 +526,7 @@ Below are a list of all the technologies, languages and tools that has aided the
 
 ## 6. Testing
 
-A series of tests have been conducted on the CWW site’s functionality and its source-code. An extensive report of the tests conducted can be accessed [here](/docs/testing/TESTING.md); titled as ‘TESTING.md’. The report discusses the multiple factors that arose throughout the testing process of the site. The key points discussed in the report include:
+A series of tests have been conducted on the CWW site’s functionality and its source-code. An extensive report of the tests conducted can be found in the [TESTED.md](/docs/testing/TESTING.md) report. The report discusses the multiple factors that arose throughout the testing process of the site, such as;
 
 - Responsiveness issues with CWW site’s initial design and structure (reflected in the wireframes). 
 

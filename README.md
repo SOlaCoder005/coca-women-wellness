@@ -558,7 +558,7 @@ The [W3C Validator](https://validator.w3.org/) was used to test the HTML code. T
 
 #### **6.1.2 CSS Validator Test**
 
-The [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator) was used to test the CSS code. The results produced **0 errors**, thus passing the test. Evidence for this can be found, [here](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/validator-results/date-240521/W3C%20CSS%20Validator%20results%20for%20style.css%20(CSS%20level%203%20%2B%20SVG)_PASS_240521.pdf)
+The [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator) was used to test the CSS code. The results produced **0 errors**, thus passing the test. Evidence for this can be found, [here](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/validator-results/date-240521/W3C%20CSS%20Validator%20results%20for%20style.css%20(CSS%20level%203%20%2B%20SVG)_PASS_240521.pdf).
 
 #### **6.1.3 Accessibility Tests**
 The [WAVE Accessibility Evaluation Tool](https://wave.webaim.org) was used to test the degree to which the site is considered accessible. The results produced **0 errors**, thus passing the test.Evidence for each page is below: 
@@ -618,7 +618,6 @@ Aside from the testing discussed in the [‘TESTING.md’](/docs/testing/TESTING
     Another unresolved bug on the CWW site is the positioning of the text when displayed on a vertical tablet screen. On a vertical mobile screen, the text elements stack on top of each other in a column. This aligns with how the site is intended to respond to smaller screen sizes. However, when the site is displayed on a tablet screen that is rotated vertically the text elements do not stack on top of each other. Rather, the elements reduce in size proportionally to fit on the screen. 
 
    
-
 ## Section 10: References
 
 Several resources have been referred to throughout the development of the Coca Women Website. A list has been provided, [here](/docs/data-docs/refs.md).

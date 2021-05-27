@@ -6,6 +6,7 @@
 
 1. [Overview](#1-Overview)
 2. [User Experience (UX)](#2-User-Experience-UX)
+    Market Reserach
 3. [Content](#3-Content)
 4. [Features](#4-Features)
 5. [Technologies Used](#5-Technologies-Used)
@@ -22,13 +23,13 @@ The Coca Women Wellness (CWW) website hosts and provides primary and secondary c
 
 CWW aspires to assist in supporting initiatives around the wellbeing of minority ethnic communities, particularly African and Caribbean communities. As a means to contribute to diversity and inclusion initiatives in the creative industry, CWW also shares content that has been curated by mindfulness and wellbeing influencers from the African Caribbean diaspora. 
 
-A secondary goal for CWW is to foster an online wellbeing community for users through sharing digital resources as well as hosting in-person/online and social meetups (e.g. in-person and zoom). 
+A secondary goal for CWW is to foster an online wellbeing community for users through sharing digital resources; as well as hosting in-person/online and social meetups (e.g. in-person and zoom). 
 
 ## 2. User Experience (UX)
 
 ### 2.1 User Stories (Strategy)
 
-#### **2.1.1 Market climate**
+#### **2.1.1 Market Research**
 
 Through market research, the following findings supported the conceptualisation of the Coca Women Wellness Website: 
 

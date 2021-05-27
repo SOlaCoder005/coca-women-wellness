@@ -1,4 +1,4 @@
-TESTING.MD FILE
+TESTING.md Document 
 
 # List of Contents
 
@@ -14,7 +14,8 @@ TESTING.MD FILE
 
 ## Overview
 
-This document Is an extension of ‘6. Testing’ section in the Coca Women Wellness repository. The document will provide information on factors that contributed to the development of the Coca Women Wellness website: 
+This document is an extension of the ‘6. Testing’ section in the Coca Women Wellness [README.md file](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/README.md)). 
+The document will provide information on factors that contributed to the development of the Coca Women Wellness website. The key factors are listed below: 
 
 - Responsiveness issues with CWW site’s initial design and structure
 
@@ -26,11 +27,11 @@ This document Is an extension of ‘6. Testing’ section in the Coca Women Well
 
 ### **Issue:**
 
-Although the initial wireframes for the CWW presented a feasible concept, execution of the plans proved to raise multiple issue. 
+Although the initial wireframes for the CWW site presented a feasible concept around the site’s structure; execution of the plans proved to raise multiple issue. 
 
-Once creating the initial pages, responsiveness testing identified that the structure was severely limited in terms of responsiveness. For instance: 
+Once creating the initial pages, testing identified that the structure was severely limited in terms of responsiveness. For instance: 
 
-- While structure of the site was functional on **_desktop viewports_**, the structure of the site was not functional on **_smaller devices_** when rotated both horizontally and vertically. 
+- While the structure of the site was functional on **_desktop screens_**, the structure of the site was not functional on **_smaller device screens_** when rotated both horizontally and vertically. 
 
 Through screen rotation, as well as reducing and expanding screen size, the following issues arose: 
 
@@ -38,19 +39,21 @@ Through screen rotation, as well as reducing and expanding screen size, the foll
 
 - Similarly, when reducing the screen width, elements such as the form would spill over the footer and header sections. Further, icons on the playlist page would overlay the previous ones.
 
-These issues persisted even after applying media queries to the website. Visual examples of the issues mentioned are evidenced below: 
+These issues persisted even after applying media queries to the website’s initial structure. Visual examples of the issues mentioned above are evidenced in the image below: 
 
 ![](/assets/images/testing-evidence/cww-oldwebsitestructure.png)
 
 ### **Solution:** 
 
-As evidence in the live CWW site, the issues mentioned above were resolved. However, there was need to restructure the site. For this reason, the live CWW structure differs from the initial wireframes. 
+As demonstrated by the live CWW site, the responsiveness issue was resolved by a complete restructure of the site. It is for this reason, that the structure of live deployed CWW site differs from the initial wireframes. 
 
-In more detail, the site structure was changed by applying a grid method to form the foundational structure of the CWW site. This method increased the site’s degree of responsivity to the changing screen widths and lengths when accessed on varying devices.
+In more detail, the initial site’s structure was improved by applying a ‘grid system’. This method: 
+- Helped form a robust structure of the live CWW site, and;
+- Increased the site’s degree of responsivity to the changing screen widths and lengths (when accessed on varying devices).
 
 ## 2. Methods undertaken to assess the live CWW site’s structure and responsiveness
 
-In addition to altering the CWW site’s structure, [Responsively](https://responsively.app/download) application [Google (Chrome) Development Tools](https://developer.chrome.com/docs/devtools/open/). Which supported the consistent assessment of the degree to which website is responsive on various device sizes and screen orientations. This is demonstrated in the visuals below: 
+In addition to altering the CWW site’s structure, the [Responsively](https://responsively.app/download) and [Google (Chrome) Development Tools](https://developer.chrome.com/docs/devtools/open/) applications were used. These applications helped to assess the degree to which the CWW website is responsive on various device sizes and screen orientations. This is demonstrated in the visuals below: 
 
  
 ![](/assets/images/testing-evidence/responsivelyapp-testing-home.html-cww.PNG)
@@ -69,19 +72,19 @@ In addition to altering the CWW site’s structure, [Responsively](https://respo
 
 ## 3. Users’ feedback on their experience using the CWW website
 
-As part of additional testing of the CWW site, the users that participated in earlier stages of target audience research (see ‘2. User Stories’ of the [README.md file](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/README.md)) to test their access to thee site and provide feedback on their user experience when engaging with the content. 
+As part of additional testing, the users that participated in earlier stages of target audience research (see ‘2. User Stories’ of the [README.md file](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/README.md)) were asked to test their access to the site and provide feedback on their experience when engaging with the site’s content. 
 
-Specifically the users were asked if they could: 
+Specifically, the users were asked if they could: 
 
-1. Confirm if there are any pages that don’t work?
+1. Confirm if there are any pages and links that don’t work.
 
-2. Take a mobile screenshot of their favourite page on the site and send a reply via Whatsapp? 
+2. Take a mobile screenshot of their favourite page on the site and send a reply.  
 
-3.  Confirm what type of phone they use (e.g. IPhone7, Samsung Galaxy S4)?
+3.  Confirm what type of phone they use (e.g. IPhone7, Samsung Galaxy S4).
 
-4. Not fill the form at the end. 
+4. Not fill the form on the CONNECT page. 
 
-As the CWW form uses: https://formdump.codeinstitute.net as the post URL, and in line with policies around data protection (e.g. GDPR practices), it was best for the users not to submit their personal information. Further, the form had already been tested and confirmed that it works, as shown below: 
+As the CWW form uses: https://formdump.codeinstitute.net as the post URL, and in line with policies around data protection (e.g. GDPR practices), the users were asked not to submit their personal information. Further, the form had already been tested and submitted information successfully. Please see the image below: 
 
 ![](/assets/images/testing-evidence/cww-form-submit-pass.PNG)
 
@@ -100,8 +103,8 @@ Based on the feedback provided by the users;
 
 2. The **_HOME, ABOUT and RECIPES_** pages were favoured the most. The **_PLAYLISTS_** page was also popular. 
 
-3. The CWW website is accessible on multiple devices, including buyt not limited to: 
+3. The CWW website is accessible on multiple devices, including: 
 
     - Samsung Series(S10) 
     - iPhone (XR and 11)
-    - Oppo Reno (Z and 4) 
+    - Oppo Reno (Z and 4)

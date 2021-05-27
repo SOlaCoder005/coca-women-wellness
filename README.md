@@ -730,7 +730,8 @@ Below is an overview on how to deploy a project via GitHub’s GitHub Pages. Thi
 
 3. Once on the settings page, navigate to and click on **Pages** (titled as ‘Pages’ as of May 2021) listed in the left-hand menu pane.
 
-4. Under the header - **Source**,  select **master branch**  from the drop-down list. This will change the neighbouring selector box to **/(root)**. 
+4. Under the header - **Source**,  select **master branch**  from the drop-down list. This will change the neighbouring selector box to **/(root)**.
+
 5. Then click **Save**.
 
 6. Wait for a minute and then **refresh** the webpage. 
@@ -791,17 +792,17 @@ Although some of the resources credited below are already listed in the [5. Tech
 
 #### **8.2.1 Language and Scripts**
 
-- JavaScript: The JavaScript used within the source-code assists with specific functionalities (e.g. Navigation Menu, Scroll button, and Icons). The scripts have been sourced from the following sites: 
+- **JavaScript:** The JavaScript used within the source-code assists with specific functionalities (e.g. Navigation Menu, Scroll button, and Icons). The scripts have been sourced from the following sites: 
 
     - W3Schools: https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
     - Bootstrap: https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js
     - Font Awesome: https://kit.fontawesome.com/1699136767.js
 
-- JQuery: The JQuery code used across the site assists with specific functionalities (e.g. Scroll button). The scripts have been sourced from the following sites:
+- **JQuery:** The JQuery code used across the site assists with specific functionalities (e.g. Scroll button). The scripts have been sourced from the following sites:
 
     - Bootstrap: https://code.jquery.com/jquery-3.3.1.slim.min.js 
 
-- CSS: Alongside my CSS Stylesheet file, there has been supportive Bootstrap CSS code incorporated into the sites structure to assist with some of the Bootstrap elements used. The scripts has been sourced from the following repo [location](assets/css/bootstrap-sourcecode/bootstrap.min.css).
+- **CSS:** Alongside my CSS Stylesheet file, there has been supportive Bootstrap CSS code incorporated into the sites structure to assist with some of the Bootstrap elements used. The scripts has been sourced from the following repo [location](assets/css/bootstrap-sourcecode/bootstrap.min.css).
 
 ### 8.3 Media 
 
@@ -821,18 +822,15 @@ Although some of the resources credited below are already listed in the [5. Tech
  
 
 ## 9. Acknowledgements
+As part of the preliminary conceptualisation of the CWW website; there was need to review existent websites that depicted common cultural characteristics within different communities of the African & Caribbean diaspora.  Below are links to some of the sites that provided inspiration: 
 
-As part of the preliminary conceptualisation of the Coca Women Wellness, some popular websites that depicted common cultural characteristics within different communities of the African/Caribbean diaspora were looked at. Below are links to some of the sites that provided inspiration: 
-
-- [Beleaf In Fatherhood](https://www.beleafinfatherhood.com/)
+- [Beleaf in Fatherhood](https://www.beleafinfatherhood.com/)
 - [Evelyn From The Internets](https://www.evelynfromtheinternets.com/)
 - [Jessamyn Stanley](http://jessamynstanley.com/)
 - [World Changer Life](https://www.worldchangerlife.com/)
 - [GLAM Africa](https://www.glamafrica.com/)
 - [AKOMA Skincare](https://www.akomaskincare.co.uk/)
 - [Forward UK](https://www.forwarduk.org.uk/black-womens-mental-health-matter/?gclid=Cj0KCQjwhr2FBhDbARIsACjwLo3d0DmNx-OaZqTJav9C1SySBlLxrRx80OJ17F40X8W-2hZFzw68cWkaAm4AEALw_wcB#)
-
-I’d like to thank Code Institute and all the resources, tutoring, student care and mentoring support they have, and continue to, provide throughout the course.
 
 ### 9.1 Personal Acknowledgements
 
@@ -843,6 +841,7 @@ I would like to thank…
 - My beautiful Husband for all the encouragement he has given me through this project and for seeing my potential even at times when I couldn’t. 
 
 - All the users that participated in the user research stage of the project. Your feedback was invaluable!
+- The Code Institute and all the resources, tutoring, student care and mentoring support they have, and continue to  provide throughout the course.
 
 
 ## 10. References

@@ -20,9 +20,9 @@
 
 The Coca Women Wellness (CWW) website hosts and provides primary and secondary content that helps users develop mindfulness practices that can bolster their wellbeing. 
 
-CWW aspires to assist in supporting initiatives around the wellbeing of minority ethnic communities, particularly African and Caribbean communities. As a means to contribute to diversity and inclusion initiatives in the creative industry, CWW also shares content that has been curated by mindfulness and wellbeing influencers from African Caribbean diaspora. 
+CWW aspires to assist in supporting initiatives around the wellbeing of minority ethnic communities, particularly African and Caribbean communities. As a means to contribute to diversity and inclusion initiatives in the creative industry, CWW also shares content that has been curated by mindfulness and wellbeing influencers from the African Caribbean diaspora. 
 
-A secondary goal for CWW is to foster an online wellbeing community for users through digital resources, online communities (e.g. Discord) and social meetups (e.g. in-person and zoom). 
+A secondary goal for CWW is to foster an online wellbeing community for users through sharing digital resources as well as hosting in-person/online and social meetups (e.g. in-person and zoom). 
 
 ## 2. User Experience (UX)
 

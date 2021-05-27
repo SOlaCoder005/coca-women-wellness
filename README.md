@@ -18,13 +18,13 @@
     - #### 4.6 Page: ‘CONNECT’
     - #### 4.7 Page: ‘404 ERROR’
     - #### 4.8 Future Features
-5. [Technologies Used](#5-Technologies-Used)
+# 5. [Technologies Used](#5-Technologies-Used)
     - ####  5.1 Languages
     - ####  5.2 Libraries, Resources and Tools
-6. [Testing](#6-Testing)
-    - ####  6.1 Validator Testing
-    - ####  6.2 Fixed bugs
-    - ####  6.3 Unfixed Bugs 
+# 6. [Testing](#6-Testing)
+    - 6.1 Validator Testing
+    - 6.2 Fixed bugs
+    - 6.3 Unfixed Bugs 
 7. [Deployment](##7-Deployment)
 8. [Credits](#8-Credits)
     - ####  8.1 The Project 

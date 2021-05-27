@@ -73,7 +73,7 @@ header {
 
 
 /*HOME (INDEX) PAGE - STARTS*/
-/*The properties and values in this code/element has been amended to suit the need of my website. 
+/*The properties and values in this element has been amended to suit the need of my website. 
 Origin Source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
 .img-index {
     width: 100%;
@@ -82,11 +82,11 @@ Origin Source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
     object-position: 50% 50%;  
 }
 
-/*The declarations in this code/element has been amended to suit the need of my website. 
+/*The declarations has been amended to suit the need of my website. 
 Origin Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 main {
     grid-area: main;
-    background-color: #ffffff;
+    background-color: rgb(255, 255, 255);
     font-family: 'Open Sans', sans-serif;
 }
 

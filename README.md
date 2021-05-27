@@ -822,6 +822,7 @@ Although some of the resources credited below are already listed in the [5. Tech
  
 
 ## 9. Acknowledgements
+
 As part of the preliminary conceptualisation of the CWW website; there was need to review existent websites that depicted common cultural characteristics within different communities of the African & Caribbean diaspora.  Below are links to some of the sites that provided inspiration: 
 
 - [Beleaf in Fatherhood](https://www.beleafinfatherhood.com/)

@@ -65,6 +65,7 @@ With these definitions in mind, rather than being interchangeable, wellbeing and
 #### **2.1.4 Psychographics**
 
 ‘Psychographics’ refers to the common socio-psychological factors (e.g. motivations, priorities, perspectives etc.) that influences a person’s or groups’, beliefs, expectations, perspectives and hence behaviours.
+
 Prior to creating the website, some market research was conducted to gain insight into the potential psychographic expectations of the target audience. The research specifically focused on their expectations when visiting sites that offer resources around mindfulness and/or wellbeing. As such, several women were asked the following questions:
 
 1.	Do you visit any wellbeing sites/apps? If so could provide some names?
@@ -87,7 +88,7 @@ The participants’ responses are documented in the table below:
 |Q4.|N/A|N/A|“… The content I would like to say is **skin care**, brightening creams/lotions. **Products** that make **chocolate skin glow**....**Healthy** vegetarian **meals**… Also more thing Samara, **hair** products for relaxed hair.”| “I would like to see content relating to **emotional, physical and spiritual well-being**, basically **all aspects of life**”|
 |Q5.|N/A|“Blogs and videos.”|N/A|“…books (audio books); videos; vlogs; blogs”|
 
-In extension to the research, the methods outlined in the ‘5 Planes of UX Design Model’ was referred to. In particular, the [‘strategy plane’](https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.) principle assisted in identifying the key deliverables of the site. These deliverables were determined and valued by perceived importance, viability, and feasibility. This approach produced the following data: 
+In extension to the research, the methods outlined in the ‘5 Planes of UX Design Model’ (5PUXD) was referred to. In particular, the [‘strategy plane’](https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.) principle assisted in identifying the key deliverables of the site. These deliverables were determined and valued by perceived importance, viability, and feasibility. This approach produced the following data: 
 
 | Opportunities | IMPORTANCE| VIABILITY/FEASIBILITY| 
 |-------------|:-------------:|:-------------:|
@@ -155,24 +156,27 @@ As a site owner; I want to:
 
 ### 2.2 Website value (Scope)
 
-The [‘scope plane’]( https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.), in the 5 Planes of UX Design model suggests that designers should focus on *‘what content may be required to meet users’ needs..’*.  
+The [‘scope plane’]( https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.) in the 5PUXD Model suggests that designers should consider the core features and functions that are needed in the intended site. 
+Such considerations encourage the designer(s) to assess. 
+-  The value (e.g. products and services) the commissioned site would add to the customers’ experience. 
+- How this value differs from competing counterparts.
 
 #### **2.2.1 Valuableness of the website** 
 
-The Coca Women Wellness website provides serves several purposes which increases its value: 
+The Coca Women Wellness website serves several purposes which increases its value: 
 
-1.  The site intends to bolster users’ wellbeing through exposing them to wellbeing influencers and resources primarily sourced from the African/Caribbean diaspora. 
+1.  The site intends to bolster users’ wellbeing through exposing them to wellbeing influencers and resources primarily sourced from African & Caribbean communities.  
 
-2. Based on some excerpts from the users’ stories – several women had limited knowledge of wellbeing influencers, specifically those of African and/or Caribbean decent. Lack of exposure of such influencers in media has been a prevalent issue that is being addressed in the current social climate. It has led to the implementation of inclusion and diversity initiatives in media such as [#YouTubeBlack](https://www.youtube.com/intl/ALL_za/creators/ytbvoicesfund/). Coca women wellness attempts to address these issues though the nature of the site’s content. 
+2. Based on some excerpts from the users’ stories – several women had limited knowledge of wellbeing influencers, specifically those of African and/or Caribbean decent. The lack of exposure to (and promotion of) such influencers within media and creative industries has been a prevalent issue that is now being addressed in the current social climate. It has led to the implementation of inclusion and diversity initiatives such as [#YouTubeBlack](https://www.youtube.com/intl/ALL_za/creators/ytbvoicesfund/). 
 
-3.  The website provides a free, contemporary way of distributing information by presenting non-literary approaches to accessing wellbeing content. 
-Mintel reports have indicated that the growth of digital resources and platforms have encouraged people to engage with more visual content, specifically on digital devices like laptops and smartphones (McGrath, 2020).  Moreover, visual content (e.g. films, art, images etc.) has greater engagement from those aged people aged 16-44. Such findings echo trend reports’ assertions that around 26% of UK adults are likely to engage in traditional reading (e.g. hardcover books) (Ryan, 2020). 
+3. Coca Women Wellness attempts support such initiatives highlighted above by providing users with a free, contemporary way of accessing and distributing information around wellbeing and mindfulness practices.  
 
-As such, the key initiatives of CWW are to: 
+4. Mintel reports have indicated that the growth of digital resources and platforms have encouraged people to engage with more visual content, specifically on digital devices like laptops and smartphones (McGrath, 2020).  Moreover, visual content (e.g. films, art, images etc.) has greater engagement from those aged people aged 16-44. Such findings echo trend reports’ assertions that around 26% of UK adults are likely to engage in traditional reading (e.g. hardcover books) (Ryan, 2020). As such, the key initiatives of CWW are to: 
 
 - Bolster users’ exposure to digital content and resources that helps develop positive mindfulness practices which will likely promote overall wellbeing. 
 
-- Expose users to influencers that curate content around wellbeing, with the African/Caribbean diaspora in mind.  
+- Expose users to influencers that curate content around wellbeing, with the African & Caribbean diaspora in mind.  
+  
 
 #### **2.2.2 Competitors: How does CWW differs competitors?**
 
@@ -186,6 +190,7 @@ While these resources are appropriate and invaluable to addressing and supportin
 - [Kwanda](https://kwanda.co/) 
 - [Black Zen](https://www.blackzen.co/#services-and-more) 
 - [Black Women Healing Retreats](https://www.blackwomenhealingretreats.com/about-black-women-healing-retreats.html).  
+
 
 
 ## 3. Content

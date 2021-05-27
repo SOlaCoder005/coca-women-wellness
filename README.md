@@ -686,9 +686,7 @@ Aside from the testing discussed in the **[testing.md document](/docs/testing/te
 
 - **Issue:** 
     
-- When using an android tablet, the images on CWW did not display on a Google Chrome browser but did on the Microsoft Edge browser. 
-- This issue persisted after clearing the cache and cookies data on the Google Chrome browser multiple times.  
-- However, during this time, the images were displaying on Google Chrome browsers on android mobile devices (e.g. Oppo Reno Z) and Google Chrome’s desktop application. 
+    When using an android tablet, the images on CWW did not display on a Google Chrome browser but did on the Microsoft Edge browser. This issue persisted after clearing the cache and cookies data on the Google Chrome browser multiple times. However, during this time, the images were displaying on Google Chrome browsers on android mobile devices (e.g. Oppo Reno Z) and Google Chrome’s desktop application. 
 
 -  **Solution:**
     
@@ -732,12 +730,12 @@ Below is an overview on how to deploy a project via GitHub’s GitHub Pages. Thi
 
 3. Once on the settings page, navigate to and click on **Pages** (titled as ‘Pages’ as of May 2021) listed in the left-hand menu pane.
 
-4. Under the header **Source**,  select **master branch**  from the drop-down list. This will change the neighbouring selector box to **/(root)**. 
+4. Under the header - **Source**,  select **master branch**  from the drop-down list. This will change the neighbouring selector box to **/(root)**. 
 5. Then click **Save**.
 
 6. Wait for a minute and then **refresh** the webpage. 
 
-7. Once refreshing, a green box with the text and clickable link; **Your site is published at...**. 
+7. Once refreshing, a green box with the text and clickable link; **'Your site is published at...'**. 
 
 8. Clicking on the website’s hyperlink in the green box will direct to the live deployed website.
 
@@ -761,11 +759,11 @@ Below is an overview on how to deploy a project via GitHub’s GitHub Pages. Thi
 
 Although some of the resources credited below are already listed in the [5. Technologies Used](#5-Technologies-Used) section of the README and [References document](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/data-docs/refs.md); the credits listed here are relative to specific content that has been incorporated into the Coca Women Wellness website:
 
--	[Bootstrap](https://getbootstrap.com/): Provided useful components that assisted my site’s functionality. Specifically; 
+-	[Bootstrap](https://getbootstrap.com/): Provided useful components that assisted the site’s functionality. Specifically; 
 
-    - [Navigation menu](https://getbootstrap.com/docs/4.0/components/navbar/) code has been adapted to create the navigation menu, some of the code has been customised to suir the needs of the website. 
+    - The [Navigation menu](https://getbootstrap.com/docs/4.0/components/navbar/) code has been adapted to create the navigation menu, some of the code has been customised to suit the needs of the website. 
 
-    - [Grid system](https://getbootstrap.com/docs/4.1/layout/grid/) code has been adapted and incorporated on some of the  website’s pages (e.g. on the HOME and PLAYLISTS page).
+    - The [Grid system](https://getbootstrap.com/docs/4.1/layout/grid/) code has been adapted and incorporated on some of the  website’s pages (e.g. on the HOME and PLAYLISTS page).
 
 -	[Code Institute](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecommerce): The Code Institute's lesson and challenges has been referred to help with the construction and functionality of the site. For instance: 
 
@@ -777,37 +775,37 @@ Although some of the resources credited below are already listed in the [5. Tech
 
 -   [Google Maps](https://www.google.com/maps): Google Maps was used for the map feature provided on the ‘CONNECT’ page form.
 
--   [Stack Overflow](https://stackoverflow.com/): This was used as a reference tool to assist with both HTML coding techniques.
+-   [Stack Overflow](https://stackoverflow.com/): This was used as a reference tool to assist with troubleshooting both HTML and CSS code issues. 
 
 -   [W3 Schools](https://www.w3schools.com/): This was used as a reference tool to assist with HTML coding techniques. In more detail:
 
-    - Scroll button feature: The code was referenced from a [W3Schools tutorial](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp) and incorporated into the CWW website source code. The styling elements and some HTML code was customised. 
+    - Scroll button feature: The code was sourced from a [W3Schools tutorial](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp) and incorporated into the CWW website source code. The styling elements and some HTML code was customised. 
 
 -   [W3.CSS](https://www.w3schools.com/w3css/default.asp): This was used as a reference tool to assist with CSS coding techniques. 
 
--   [Youtube](https://www.youtube.com/): Referred to for useful coding and UXD tips and tutorials. Including: 
+-   [Youtube](https://www.youtube.com/): This was used to refer to useful coding and UXD tips and tutorials. Including: 
 
-    - [DesignCourse](https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=12): Code exampled in this turorial was referenced and adapted to suit this site's structure.
+   - [DesignCourse](https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=12): Code exampled in this turorial was referenced and adapted to suit this site's structure.
 
     - [Kevin Powell](https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s): Code exampled how to use "object-fit:_;" CSS property. This method was applied to the images on the left hand page of each webiste page. 
 
 #### **8.2.1 Language and Scripts**
 
-- JavaScript: The JavaScript code used across the site assists with specific functionalities (e.g. Navigation Menu, Scroll Feature, and Use of Icons). The scrips have been sourced from the following sites: 
+- JavaScript: The JavaScript used within the source-code assists with specific functionalities (e.g. Navigation Menu, Scroll button, and Icons). The scripts have been sourced from the following sites: 
 
     - W3Schools: https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
     - Bootstrap: https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js
     - Font Awesome: https://kit.fontawesome.com/1699136767.js
 
-- JQuery: The JQuery code used across the site assists with specific functionalities (e.g. Scroll Feature). The scripts have been sourced from the following sites:
+- JQuery: The JQuery code used across the site assists with specific functionalities (e.g. Scroll button). The scripts have been sourced from the following sites:
 
     - Bootstrap: https://code.jquery.com/jquery-3.3.1.slim.min.js 
 
-- CSS: Alongside my CSS Stylesheet file, there has been supportive Bootstrap CSS code incorporated into the sites structure to assist with some of the Bootstrap elements used. The scripts have been sourced from the following repo [location](assets/css/bootstrap-sourcecode/bootstrap.min.css).
+- CSS: Alongside my CSS Stylesheet file, there has been supportive Bootstrap CSS code incorporated into the sites structure to assist with some of the Bootstrap elements used. The scripts has been sourced from the following repo [location](assets/css/bootstrap-sourcecode/bootstrap.min.css).
 
 ### 8.3 Media 
 
-- [Pexels](https://www.pexels.com/): Aside from the CWW logo, majority of  photos (royalty free) included on the live website has been sourced from Pexels.  Specific mention is given to the following content creates that provided the images for the website:
+- [Pexels](https://www.pexels.com/): Aside from the CWW logo, the photos (royalty free) included on the live website has been sourced from Pexels.  Specific mention is given to the following content creators that have provided the images used on the website:
 
     - [Charlotte May](https://www.pexels.com/@charlotte-may)
     - [KoolShooters](https://www.pexels.com/@kool-shooters)
@@ -820,7 +818,7 @@ Although some of the resources credited below are already listed in the [5. Tech
 - [Pixabay](https://pixabay.com/): Aside from the CWW logo, some of the photos included on the live website has been sourced from Pixabay. 
 
 - [Youtube](https://www.youtube.com/): Was used to incorporate **iframe elements** into the PLAYLISTS page of the website. 
-
+ 
 
 ## 9. Acknowledgements
 

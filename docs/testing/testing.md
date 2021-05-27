@@ -85,16 +85,18 @@ As the CWW form uses: https://formdump.codeinstitute.net as the post URL, and in
 
 ![](/assets/images/testing-evidence/cww-form-submit-pass.PNG)
 
+### 3.1 Summary: User's feedback
+
+Based on the feedback provided by the users;
+
+1. All pages appear to function as expected.
+
 The users’ feedback can be found below: 
 
 - [User A](/assets/images/testing-evidence/userafeedback.PNG) 
 - [User R](/assets/images/testing-evidence/userrfeedback.PNG) 
 - [User AM](/assets/images/testing-evidence/useramfeedback.PNG) 
 - [User L](/assets/images/testing-evidence/userlfeedback.PNG) 
-
-Based on the feedback;
-
-1. All pages appear to function as expected.
 
 2. The **_HOME, ABOUT and RECIPES_** pages were favoured the most. The **_PLAYLISTS_** page was also popular. 
 

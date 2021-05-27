@@ -494,8 +494,8 @@ div iframe {
 
 
 /*CONNECT PAGE - STARTS*/
-/*The properties and values in this code/element has been amended to suit the need of my website. 
-Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
+/*The properties and values in this element has been amended to suit the need of my website. 
+Origin Source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
 .img-connect {
     width: 100%;
     height: 100%;
@@ -639,8 +639,8 @@ input:hover {
     color: rgb(99, 172, 229);
 }
 
-/*Note: The '.connect-footer-style...' elements (below) has been created as the other :hover elements on the other pages' 
-footers blends in with the footer background-colour of the connect.html page*/
+/*The '.connect-footer-style...' element has been created as the :hover property are on the other pages' 
+footers. Thier values blend in with the footer background-colour of the connect.html page*/
 .connect-footer-style {
     background-color:rgb(255, 165, 0);
 }

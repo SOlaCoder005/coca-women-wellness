@@ -277,50 +277,52 @@ The colour **#3E0D05** was applied to the logo illustration for two key reasons:
 
 ## 4. Features
 
-This section provides an overview of the features on the Coca Women Wellness website, and where relevant, the way in which the feature(s) address the user stories in prior sections.
+This section provides an overview of the features on the Coca Women Wellness website, and where relevant, the way in which theses feature(s) address the users’ stories in prior sections.
 
 ### 4.1 Site-wide Features
 1. Logo
 
-    - The logo in the top left corner of the page has been applied to establish the site identity. 
+    - The logo in the top left corner of the page has been applied to establish the site’s identity. 
 
-    - Clicking on the image on any of the pages on the site will return the user back to the homepage.
+    - Clicking on the logo on any of the pages on the site will return the user back to the homepage.
 
 2.  Navigation Menu - Full Scale
 
-    - This menu consists of links that directs the users through the five pages of the Coca Women Wellness website.
+    - This menu consists of five page titles that directs the users through the pages of the Coca Women Wellness website.
 
-    - When each page is hovered over with the cursor, the text (e.g. HOME) turns white. 
+    - When each page title is hovered over with the cursor, the text (e.g. HOME) turns white. 
 
-    - When the link to a page is clicked on, the text becomes underlined. 
+    - When the title of  a page is clicked on, the text becomes underlined. 
 
     2.1 Navigation Menu – Hamburger Menu 
 
-    - Additionally, when the site is accessed on a [mobile](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/assets/images/website-screenshots-and-elements/cww-home-mobile.png) (or device with a narrow screen), the menu turns into a hamburger icon, displayed on the left. 
+    - Additionally, when the site is accessed on a [mobile](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/assets/images/website-screenshots-and-elements/cww-home-mobile.png) (or device with a narrow screen), the navigation menu turns into a hamburger icon, displayed on the left. 
 
-    - Clicking on the hamburger menu allows the menu to expand and collapse in the centre of the screen. 
+    - Clicking on the hamburger menu allows the menu to expand and collapse in the centre of the device’s screen. 
 
-    - When the link to a page is clicked on, the text becomes underlined. 
+    - When the title to a page is clicked on, the text becomes underlined. 
 
     - The menu has been positioned this way on mobile screen to address the user’s priority. For instance, on mobile the main priority of the user is to navigate around the website with ease. 
 
 3. Footer – Social Media Icons
 
-    - Each social media icon links to external social media pages (e.g. YouTube, Discord and Twitter). 
+    - Each social media icon links to external social media pages (e.g. YouTube, Discord and Twitter). These open in a new tab.
 
-    - The customer would have to sign into their social media accounts and would then be directed to the respective Coca Women Wellness profile. 
+    - The customer would have to sign into their social media accounts and would then be directed to the respective Coca Women Wellness social media account (e.g. Instagram). 
 
 4. Vertical banner image
 
-    - Each vertical banner image on the left-hand of the website has been used to establish the tone of the website. The website is intended to evoke ‘upbeat’ positive emotions.
+    - Each vertical banner image on the left-hand of the website has been used to establish the tone of the website. The website is intended to evoke positive emotions.
 
-    - The images are also intended to implicitly suggests to the user the primary initiative of the website. That is, a platform that hosts and shares content that promotes wellbeing, particularly for women from the African and Caribbean diaspora. 
+    - The images are also intended to implicitly suggest to the user that the website hosts and shares content that promotes wellbeing.
 
 5. Scroll button 
 
-    - The scroll button in the bottom-right corner of each page and appear after the user has scrolled at least 100px down the screen. When clicked, it takes the user to the top of the page.
+    - The scroll button appears in the bottom-right corner of each page. 
 
-    - The feature has been implemented to aid user’s navigation around the website’s pages, thus increasing user’s experiences. 
+    - The button appears after the user has scrolled at least 100px down the screen. When clicked, it takes the user to the top of the page.
+
+    - The feature has been implemented to aid users’ navigation around the website’s pages, thus bolstering positive engagement with the site. 
 
     - The feature is present across several devices (e.g. desktop screens, mobiles, and tablets).
 
@@ -332,9 +334,9 @@ This section provides an overview of the features on the Coca Women Wellness web
 | User Type |User Story Number| Description| Supporting Statement|
 |-----|-----|-----|-----| 
 |Site Owner |10. | Create a functional website where the user can navigate around easily and access content effortlessly. |N/A| 
-|Site Owner |13. |Increase user interaction across social media platforms.| N/A|
-|Reoccurring visitors |8. | Engage with the Coca Women Wellness online community (e.g. via discord and other social media channels).| N/A|
-|Site Owner| 11.| Provide resources that promotes wellbeing, particularly for women of the African and Caribbean diaspora. |N/A|
+|Site Owner |13. |Increase user interaction across social media platforms. | N/A|
+|Reoccurring visitors |8. | Engage with the Coca Women Wellness online community (e.g. via discord and other social media channels). | N/A|
+|Site Owner| 11. | Provide resources that promotes wellbeing, particularly for women of the African and Caribbean diaspora. |N/A|
 
 ### 4.2 Page: ‘HOME’ 
 
@@ -346,23 +348,24 @@ This section provides an overview of the features on the Coca Women Wellness web
 
 - Akin to the header, when each icon is hovered over with the cursor, the icon turns to a light shade of orange. The hover function has been used to create a visual difference through user interaction. 
 
-- The icons’ colour change aims to communicate with the user that the icon provides an additional function (e.g. linking to another page).
+- The icons’ colour change aims to suggest that the icons provide an additional function (e.g. linking to another page).
 
-2. ‘OUR MEETUPS’ Links
-- The primary purpose for these links is to direct users to external pages (i.e. Linked in and zoom) where the user can sign-up to attend the social meetings. Akin to the first row of icons:  
+2. ‘OUR MEETUPS’ bottom row icons: ‘In-person’ and ‘Online’ socials
+
+- The primary purpose for these links is to direct users to external pages (i.e. Linked in and Zoom); where the user can sign-up to attend the social meetings. Akin to the first row of icons:  
 
     - When each icon is hovered over with the cursor, the icon turns to a light shade of orange.
 
     - The hover function has been used to create a visual difference through user interaction. 
 
-    - The colour change aims to communicate with the user that the icon provides an additional function (e.g. linking to another page).  
+    - The colour change suggests that the icons provide an additional function (e.g. linking to another page).  
 
 #### **4.2.1 User Story/Stories Addressed**
 
 | User Type |User Story Number| Description| Supporting Statement|
 |-----|-----|-----|-----| 
-|Reoccurring visitors| 7. | Engage in the Online and In-person meetups hosted by Coca Women Wellness| N/A | 
-|First-time visitors| 2. | Engage with visual, auditory, and literary content that develops and positively addresses multiple facets of wellbeing| N/A | 
+|Reoccurring visitors| 7. | Engage in the Online and In-person meetups hosted by Coca Women Wellness. | N/A | 
+|First-time visitors| 2. | Engage with visual, auditory, and literary content that develops and positively addresses multiple facets of wellbeing. | N/A | 
 
 
 ### 4.3 Page: 'ABOUT'
@@ -382,13 +385,22 @@ This section provides an overview of the features on the Coca Women Wellness web
 | User Type |User Story Number| Description| Supporting Statement|
 |-----|-----|-----|-----| 
 |Site Owner |10. | Create a functional website where the user can navigate around easily and access content effortlessly. |N/A| 
-|First-time visitors | 4. | See the site present content that reflects topics relevant to my ethnicity and cultural background| “Yes it would be **encouraging** to see **other black women** who are passionate about looking after **their well-being**…” _– User AM_| 
+|First-time visitors | 4. | See the site present content that reflects topics relevant to my ethnicity and cultural background.| “Yes it would be **encouraging** to see **other black women** who are passionate about looking after **their well-being**…” _– User AM_| 
 
 ### 4.4 Page: ‘RECIPES’
 
+
+
+
 ![]( assets/images/website-screenshots-and-elements/cww-recipes-desktop(1).png) 
 
+
+
+
 ![]( assets/images/website-screenshots-and-elements/cww-recipes-desktop(2).png) 
+
+
+
 
 1. Recipe images
 
@@ -398,22 +410,29 @@ This section provides an overview of the features on the Coca Women Wellness web
 
     - The recipes include prep time icons and descriptions to give the users some idea of how long it will take to prep the meal. 
 
-    - Each recipe opens with a description of the benefits of each dish. This is to provide the users with information on how the dishes suggested are healthy.
+    - Each recipe opens with a description of the benefits of each dish. This is to provide the users with information on how the dishes are healthy.
 
 #### **4.4.1 User Story/Stories Addressed**
 
 | User Type |User Story Number| Description| Supporting Statement|
 |-----|-----|-----|-----| 
 |First-time visitor |3. | Gain exposure to ‘other’ and new influencers who provide content on multiple topics relevant to promoting my wellbeing. Such facets include, but are not limited to ‘Healthy’ food.  |N/A| 
-|Site Owner |9. | Host and share resources that helps site visitors learn mindful, wellbeing and self-improvement techniques |N/A| 
-|First-time visitors | 4. | See the site present content that reflects topics relevant to my ethnicity and cultural background| “… The content I would like to [see]...**Healthy** vegetarian **meals**...”- _– User L_| 
+|Site Owner |9. | Host and share resources that helps site visitors learn mindful, wellbeing and self-improvement techniques. |N/A| 
+|First-time visitors | 4. | See the site present content that reflects topics relevant to my ethnicity and cultural background. | “… The content I would like to [see]...**Healthy** vegetarian **meals**...”- _– User L_| 
 
 
 ### 4.5 Page: ‘PLAYLISTS’
 
+
+
 ![](assets/images/website-screenshots-and-elements/cww-playlists-desktop(1).png)
 
+
+
+
 ![](assets/images/website-screenshots-and-elements/cww-playlists-desktop(2).png)
+
+
 
 1. Icons: ‘Food, ‘Body’, ‘Social’, ‘Music’ and ‘Mind’
 
@@ -423,7 +442,7 @@ This section provides an overview of the features on the Coca Women Wellness web
 
     - Akin to the icons on the ‘HOME’ page, when each icon is hovered over with the cursor, the icon turns to a light shade of blue. The hover function has been used to create a visual difference through user interaction. 
 
-    - The icons’ colour change aims to communicate with the user that the icon provides an additional function (e.g. linking to another page). 
+    - The icons’ colour change suggests that the icon provides an additional function (e.g. linking to another page). 
 
 2. Banner videos 
 
@@ -431,18 +450,22 @@ This section provides an overview of the features on the Coca Women Wellness web
 
     - Each video can be controlled by the user visiting the site (e.g. ability to start, stop and mute the video).
 
-    - Further, pausing the video on the site allows the user to see a preview of additional content made by the influencer. 
+    - Further, pausing the video on the CWW site allows the user to see a preview of some additional content made by the influencer. 
+
+
 
 ![](assets/images/website-screenshots-and-elements/cww-videoexample.PNG) 
+
+
 
 #### **4.5.1 User Story/Stories Addressed**
 
 | User Type |User Story Number| Description| Supporting Statement|
 |-----|-----|-----|-----| 
-|First-time visitor |2. | Engage with visual, auditory, and literary content that develops and positively addresses multiple facets of wellbeing | N/A|  
-|Site Owner |9. | Host and share resources that helps site visitors learn mindful, wellbeing and self-improvement techniques | N/A | 
-| First-time visitor | 4. | See the site present content that reflects topics relevant to my ethnicity and cultural background| “…I think it would be the importance of vulnerability, and black women have it in is too.  I think **self-concept** is vital too.” _- User A_ | 
-|Site Owner | 12. | Host and promote wellbeing and mindfulness content, particularly made by influencers of the African and Caribbean diaspora| “I would like to see content relating to **emotional, physical and spiritual well-being**, basically **all aspects of life**”_- User AM_ | 
+|First-time visitor |2. | Engage with visual, auditory, and literary content that develops and positively addresses multiple facets of wellbeing. | N/A|  
+|Site Owner |9. | Host and share resources that helps site visitors learn mindful, wellbeing and self-improvement techniques. | N/A | 
+| First-time visitor | 4. | See the site present content that reflects topics relevant to my ethnicity and cultural background. | “…I think it would be the importance of vulnerability, and black women have it in is too.  I think **self-concept** is vital too.” _- User A_ | 
+|Site Owner | 12. | Host and promote wellbeing and mindfulness content, particularly made by influencers of the African and Caribbean diaspora. | “I would like to see content relating to **emotional, physical and spiritual well-being**, basically **all aspects of life**”_- User AM_ | 
 
 ### 4.6 Page: ‘CONNECT’
 
@@ -461,34 +484,40 @@ This section provides an overview of the features on the Coca Women Wellness web
 
     - Akin to the icons on the ‘PLAYLISTS’ page, when each icon is hovered over with the cursor, the icon turns to a light shade of blue. The hover function has been used to create a visual difference through user interaction. 
 
-    - The icons’ colour change aims to communicate with the user that the icon provides an additional function (e.g. linking to another page).
+    - The icons’ colour change suggests that the icon provides an additional function (e.g. linking to another page).
 
-    - Clicking on these icons directs the users to the external LinkedIn page. The email Icon also allows the user to send an email to the Coca Women Wellness team via their own email account.
+    - Clicking on the LinkedIn icon will direct the users to the external LinkedIn page. 
+    
+    - The email icon also allows the user to send an email to the Coca Women Wellness team via their own email account.
 
 3. Google Map 
 
     - The map has been incorporated into the form to provide the user with a visual aid for two key reasons:
 
-        - Provide users with a visual aid for the location of the Coca Women Wellness team.
+    1. Provide users with a visual aid for the location of the Coca Women Wellness team.
 
-        -  Provide a visual aid for users to navigate to the social meetings that are commonly held in the borough of Manchester, Piccadilly Gardens.
+    2. Provide a visual aid for users to see where social meetings are commonly held (i.e. in the borough of Manchester, Piccadilly Gardens).
 
 #### **4.6.1 User Story/Stories Addressed**
 
 | User Type |User Story Number| Description| Supporting Statement|
 |-----|-----|-----|-----| 
-|First-time visitors | 2. |Engage with visual, auditory, and literary content that develops and positively addresses multiple facets of wellbeing |N/A| 
-|Reoccurring visitors | 6. |Stay updated on the recent developments of the site through emails and/or newsletters |N/A| 
-|Reoccurring visitors | 7. |Engage in the Online and In-person meetups hosted by Coca Women Wellness| N/A | 
-|Reoccurring visitors | 8. | Engage with the Coca Women Wellness online community (e.g. via discord and other social media channels| N/A | 
+|First-time visitors | 2. |Engage with visual, auditory, and literary content that develops and positively addresses multiple facets of wellbeing. |N/A| 
+|Reoccurring visitors | 6. |Stay updated on the recent developments of the site through emails and/or newsletters. |N/A| 
+|Reoccurring visitors | 7. |Engage in the Online and In-person meetups hosted by Coca Women Wellness. | N/A | 
+|Reoccurring visitors | 8. | Engage with the Coca Women Wellness online community (e.g. via discord and other social media channels. | N/A | 
 
 ### 4.7 Page: ‘404 ERROR’
 
+
+
 ![](assets/images/website-screenshots-and-elements/cww-404error-desktop.png) 
+
+
 
 - The primary purpose for this page is to redirect users to the ‘HOME’ page. 
 
-- The key feature on the page is the **‘HERE’**. When hovered over with the cursor, the icon turns to white. When clicked the user is redirected to the homepage. 
+- The key feature on the page is the **‘HERE’** anchor link. When hovered over with the cursor, the icon turns to white. When clicked,  the user is redirected to the homepage. 
 
 #### **4.7.1 User Story/Stories Addressed**
 
@@ -498,7 +527,7 @@ This section provides an overview of the features on the Coca Women Wellness web
 
 ### 4.8 Future Features
 
-The following ideas could be implemented in further developments of the site to increase usefulness and engagement. 
+The following ideas could be implemented in future development of the site. These proposed features can help increase the site’s usefulness and user engagement. 
 
 Idea 1: Separate the playlists into separate subpages. 
 
@@ -506,7 +535,7 @@ Idea 1: Separate the playlists into separate subpages.
 
 Idea 2: Create a library page that hosts literary resources.
 
-- Implementation: An additional page on the website would be labelled ‘Library’ and The page can provide downloadable documents on specific mindfulness techniques, such as [EFT tapping](https://www.healthline.com/health/eft-tapping). 
+- Implementation: An additional page on the website would be labelled ‘Library’ and the page can provide downloadable documents. The documents would provide specific mindfulness techniques, such as [EFT tapping](https://www.healthline.com/health/eft-tapping). 
 
 
 

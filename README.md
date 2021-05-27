@@ -20,7 +20,7 @@
 
 The Coca Women Wellness (CWW) website hosts and provides primary and secondary content that helps users develop mindfulness practices that can bolster their wellbeing. 
 
-CWW aspires to assist in supporting initiatives around the wellbeing of minority ethnic communities, particularly African and Caribbean communities. As a means to contribute to diversity and inclusion initiatives in the creative industry, CWW also shares content that has been curated by mindfulness and wellbeing influencers from the African & Caribbean diaspora. 
+CWW aspires to assist in supporting initiatives around the wellbeing of minority ethnic communities, particularly African and Caribbean communities. To contribute to diversity and inclusion initiatives in the creative industry, CWW also shares content that has been curated by mindfulness and wellbeing influencers from the African & Caribbean diaspora. 
 
 A secondary goal for CWW is to foster an online wellbeing community for users through sharing digital resources; as well as hosting in-person/online and social meetups (e.g. in-person and zoom). 
 
@@ -30,69 +30,69 @@ A secondary goal for CWW is to foster an online wellbeing community for users th
 
 #### **2.1.1 Market Research**
 
-Market reasearch was conducted during the early stages of building the CWW website. Primary focus was placed on societal factors that commonly impact people's wellbeing. The research unearthed several findings around the topic of wellbeing, which contributed to the conceptualisation of the Coca Women Wellness Website. Some of the findings are listed below:  
+Market research was conducted during the early stages of building the CWW website. Primary focus was placed on societal factors that commonly impact people's wellbeing. The research unearthed several findings around the topic of wellbeing, which contributed to the conceptualisation of the Coca Women Wellness website. Some of the findings are listed below:  
 
-- Due to ongoing socio-cultural and social-economic inequality in multiple societies (e.g. COVID-19 and continued social inequality); there has been an increaseed demand to raise awareness around, and provide greater support for improving people’s wellbeing. 
+- Due to ongoing socio-cultural and social-economic inequality in multiple societies (e.g. COVID-19 and continued social inequality); there has been an increased demand to raise awareness around, and provide greater support for improving people’s wellbeing. 
 
 - Further, there has been an increased volume of socio-economic initiatives that aim to bolster the mental, social, and emotional wellbeing of minority groups, including those within the African & Caribbean diaspora. 
 
-- The findings produced from many reports into BAME wellbeing has suggested that UK BAME women, particularly those of African & Carribbean hertaige, are at a greater risk of experiencing socio-economic inequalities. In turn, such inequalities can increase the risk of many women from these groups developing health issues such as anxiety, stress and even depression (Forward UK, 2021). 
+- The findings produced from many reports into BAME wellbeing has suggested that UK BAME women, particularly those of African & Caribbean heritage, are at a greater risk of experiencing socio-economic inequalities. In turn, such inequalities can increase the risk of many women from these groups developing health issues such as anxiety, stress and even depression (Forward UK, 2021). 
 
 Considering this, a primary service that CWW provides is hosting and sharing primary and secondary wellbeing media and resources (e.g. images, videos, tutorials, influencers, and recipes) tailored to the interests of women within African & Caribbean communities. 
 
 #### **2.1.2 Essential Definitions – ‘Mindfulness’ and ‘Wellbeing’**
 
-An essential step in the development of Coca Women Wellness was to understand the semantic meaning and differences between the terms ‘Mindfulness’ and ‘Wellbeing’. 
+Understanding the semantic meaning and differences between the terms ‘Mindfulness’ and ‘Wellbeing’ was an essential step in the development of the Coca Women Wellness website. These concepts are defined below: 
 
 **Wellbeing**
 
-While the terms _‘wellbeing’_  and  _‘mindfulness’_ are often used interchangeably. It is worth noting that wellbeing is considered a _‘… broad concept…relating to…personal dignity (including treatment of the individual with respect)…, physical and mental health and emotional wellbeing,.. social and economic wellbeing. To summarise, ‘…Wellbeing encompasses several areas of life.'.  As such, it is a growing consensus that _‘…using a holistic approach to ensure a clear understanding of the individual’s views is vital to identifying and defining wellbeing in each case.”_ (Hpft.nhs.uk., 2021).
+Wellbeing is considered a _‘… broad concept…relating to…personal dignity (including treatment of the individual with respect)…, physical and mental health and emotional wellbeing,.. social and economic wellbeing. To summarise, ‘…Wellbeing encompasses several areas of life.'.  As such, it is a growing consensus that _‘…using a holistic approach to ensure a clear understanding of the individual’s views is vital to identifying and defining wellbeing in each case.”_ (Hpft.nhs.uk., 2021).
 
 **Mindfulness**
 
-Similarly, mindfulness is characterised as _“…the practice of maintaining a non-judgmental state of heightened or complete awareness of one's thoughts, emotions, or experiences on a moment-to-moment basis.”_  (Merriam-Webster.com, 2021).
+Mindfulness is characterised as _“…the practice of maintaining a non-judgmental state of heightened or complete awareness of one's thoughts, emotions, or experiences on a moment-to-moment basis.”_  (Merriam-Webster.com, 2021).
 
-With these definitions in mind, rather than being interchangeable, wellbeing and mindfulness can be regarded as adjoining concepts, where developing mindful practices (in whatever area of life) is likely to positively impact overall wellbeing.
+With these definitions in mind, rather than being interchangeable, wellbeing and mindfulness can be regarded as adjoining concepts. Arguably, developing mindful practices (in whatever area(s)of life) is likely to positively impact overall wellbeing.
 
 #### **2.1.3 Key Demographic(s)**
 
-‘Demographics’ relates to the characteristics of a population and the specific groups within it. As such, the key demographic factors considered when choosing the target audience of the Coca Women Wellness website were:  
+‘Demographics’ relates to the characteristics of a population and the specific groups within it. As such, the key demographical factors of CWW’s target audience are: 
 
 - Sex: Women 
 - Age: 16-40
-- Ethnicity: African and/or Caribbean heritage 
+- Ethnicity: African & Caribbean heritage 
 
 #### **2.1.4 Psychographics**
 
 ‘Psychographics’ refers to the common socio-psychological factors (e.g. motivations, priorities, perspectives etc.) that influences a person’s or groups’, beliefs, expectations, perspectives and hence behaviours.
-Prior to creating the website, some market research was conducted to gain insight into the potential psychographic expectations of the target audience. 
-
-The research specifically focused on their expectations when visiting sites that offer content and resources around mindfulness and/or wellbeing. As such, several women were asked the following questions:
+Prior to creating the website, some market research was conducted to gain insight into the potential psychographic expectations of the target audience. The research specifically focused on their expectations when visiting sites that offer resources around mindfulness and/or wellbeing. As such, several women were asked the following questions:
 
 1.	Do you visit any wellbeing sites/apps? If so could provide some names?
 
 2.	Do you follow any black female wellbeing influencers?
 
-3.	Do you think wellbeing content created by and for black women would help support your wellbeing?
+3.	Do you think wellbeing content created by, and for, black women would help support your wellbeing?
 
-4.	If you were looking at a wellbeing site designed to promote the wellbeing of black women - what type of content would you like to see? 
+4.	If you were looking at a wellbeing sites designed to promote the wellbeing of black women - what type of content would you like to see? 
 
 5.	How do you prefer wellbeing topics/content to be presented to you (e.g. via blogs, videos, images, courses, or books)?
+
+The participants’ responses are documented in the table below: 
 
 |Q/User| User ‘R’| User ‘A’| User ‘L’| User ‘AM’| 
 |-------------|:-------------:|:-------------:|:-------------:|:-------------
 |Q1.|- “…Influencers: **kokobo fitness** - recommended by my sister but I don't know such black influencers myself.”| N/A| “…Emmm I normally go on **skin care** websites. Cleansers/lotions designed for the **black skin**…”|“No I haven’t visited any well-being apps recently.”|
 |Q2.|“…Not ones specifically for black woman per se but I use the **Headspace app**.”|N/A|N/A|“Not specifically for well-being no.”|
 |Q3.|“…Yeah, BW content could support my wellbeing but I haven't really looked for it.” |“…I think it would be the importance of vulnerability, and black women have it in is too.  I think **self concept** is vital too.” |N/A|“Yes it would be **encouraging** to see **other black women** who are passionate about looking after **their well-being**…”|
-|Q4.|N/A|N/A|“… The content I would like to say is **skin care**, brightening creams/lotions. **Products** that make **chocolate skin glow**....**Healthy** vegetarian **meals**… Also more thing Samara, **hair** products for relaxed hair.”|- “I would like to see content relating to **emotional, physical and spiritual well-being**, basically **all aspects of life**”|
+|Q4.|N/A|N/A|“… The content I would like to say is **skin care**, brightening creams/lotions. **Products** that make **chocolate skin glow**....**Healthy** vegetarian **meals**… Also more thing Samara, **hair** products for relaxed hair.”| “I would like to see content relating to **emotional, physical and spiritual well-being**, basically **all aspects of life**”|
 |Q5.|N/A|“Blogs and videos.”|N/A|“…books (audio books); videos; vlogs; blogs”|
 
-In extension to the research, the principles outlined in the [‘strategy plane’](https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.), of the  5 Planes of UX Design model was referred to. This plane assisted in identifying the deliverables of the site. These deliverables were determined and valued by perceived importance, viability, and feasibility. This approached produced the following findings: 
+In extension to the research, the methods outlined in the ‘5 Planes of UX Design Model’ was referred to. In particular, the [‘strategy plane’](https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.) principle assisted in identifying the key deliverables of the site. These deliverables were determined and valued by perceived importance, viability, and feasibility. This approach produced the following data: 
 
 | Opportunities | IMPORTANCE| VIABILITY/FEASIBILITY| 
 |-------------|:-------------:|:-------------:|
 | (U/SO) a. Host and share resources that helps users learn mindful, wellbeing and self-improvement techniques. |5 | 5 |
-| (U/SO) b. Provide resources that promotes wellbeing, particularly for women in the African Diaspora. | 4 |5|
+| (U/SO) b. Provide resources that promotes wellbeing, particularly for women in the African Caribbean diaspora. | 4 |5|
 | (U/SO) c. Promote wellbeing content made by influencers and creators of the African Diaspora. | 3 | 2 |
 | (U/SO) d. Create a functional website with easy navigation. | 5 | 4 |
 |(U/SO) e. Increase user interaction across social media platforms. | 2 | 2 |
@@ -109,11 +109,11 @@ In extension to the research, the principles outlined in the [‘strategy plane�
 
 #### **2.1.5 User stories – A Summary** 
 
-Based on the interpretations derived from the data, it can be argued that goals of first-time and reoccurring visitors as well as the site owner are as follows: 
+Based on the interpretations derived from the data; the core goals of first-time visitors, reoccurring visitors and the site owner are: 
 
-**First-time visitor(s) goals**
+#### **First-time visitor(s) goals**
 
-When visiting the Coca Women Wellness site I want to: 
+When visiting the Coca Women Wellness website, I want to: 
 
 1. Be introduced to new ways of developing my wellbeing and mindfulness practices.
 
@@ -128,9 +128,9 @@ When visiting the Coca Women Wellness site I want to:
 
 4. See the site present content that reflects topics relevant to my ethnicity and cultural background.
 
-**Reoccurring visitor(s) goals**
+#### **Reoccurring visitor(s) goals**
 
-When visiting the Coca Women Wellness site, I want to:
+When visiting the Coca Women Wellness website; I want to:
 
 6. Stay updated on the recent developments of the site through emails and/or newsletters.
 
@@ -138,11 +138,9 @@ When visiting the Coca Women Wellness site, I want to:
 
 8. Engage with the Coca Women Wellness online community (e.g. via discord and other social media channels).
 
-Additionally, the interpretation of the data charts above the indicated the perceived priorities (goals) for the site owner: 
+#### **Site owner goals**
 
-**Site owner goals**
-
-As a site owner I want to:
+As a site owner; I want to:
 
 9. Host and share resources that helps site visitors learn mindful, wellbeing and self-improvement techniques. 
 
@@ -153,6 +151,7 @@ As a site owner I want to:
 12. Host and promote wellbeing and mindfulness content, particularly made by influencers of the African and Caribbean diaspora. 
 
 13. Increase user interaction across social media platforms.
+
 
 ### 2.2 Website value (Scope)
 

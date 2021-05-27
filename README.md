@@ -24,6 +24,8 @@ CWW aspires to assist in supporting initiatives around the wellbeing of minority
 
 A secondary goal for CWW is to foster an online wellbeing community for users through sharing digital resources; as well as hosting in-person/online and social meetups (e.g. in-person and zoom). 
 
+- Live Site: https://solacoder005.github.io/coca-women-wellness/connect.html
+
 ## 2. User Experience (UX)
 
 ### 2.1 User Stories (Strategy)

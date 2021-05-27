@@ -10,7 +10,7 @@
 4. [Features](#4-Features)
 5. [Technologies Used](#5-Technologies-Used)
 6. [Testing](#6-Testing)
-7. [Deployment](##7-Deployment)
+7. [Deployment](#7-Deployment)
 8. [Credits](#8-Credits)
 9. [Acknowledgements](#9-Acknowledgements)
 10. [References](#10-References)

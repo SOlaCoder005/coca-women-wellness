@@ -14,7 +14,8 @@ TESTING.md Document
 
 ## Overview
 
-This document is an extension of the ‘6. Testing’ section in the Coca Women Wellness [README.md file](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/README.md)). 
+This document is an extension of the ‘6. Testing’ section in the Coca Women Wellness [README.md file](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/README.md). 
+
 The document will provide information on factors that contributed to the development of the Coca Women Wellness website. The key factors are listed below: 
 
 - Responsiveness issues with CWW site’s initial design and structure
@@ -48,12 +49,14 @@ These issues persisted even after applying media queries to the website’s init
 As demonstrated by the live CWW site, the responsiveness issue was resolved by a complete restructure of the site. It is for this reason, that the structure of live deployed CWW site differs from the initial wireframes. 
 
 In more detail, the initial site’s structure was improved by applying a ‘grid system’. This method: 
+
 - Helped form a robust structure of the live CWW site, and;
+
 - Increased the site’s degree of responsivity to the changing screen widths and lengths (when accessed on varying devices).
 
 ## 2. Methods undertaken to assess the live CWW site’s structure and responsiveness
 
-In addition to altering the CWW site’s structure, the [Responsively](https://responsively.app/download) and [Google (Chrome) Development Tools](https://developer.chrome.com/docs/devtools/open/) applications were used. These applications helped to assess the degree to which the CWW website is responsive on various device sizes and screen orientations. This is demonstrated in the visuals below: 
+The [Responsively](https://responsively.app/download) and [Google (Chrome) Development Tools](https://developer.chrome.com/docs/devtools/open/) applications were used to consistently assess the degree to which the CWW website is responsive on various device sizes and screen orientations. This is demonstrated in the visuals below: 
 
  
 ![](/assets/images/testing-evidence/responsivelyapp-testing-home.html-cww.PNG)

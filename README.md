@@ -842,6 +842,7 @@ I would like to thank…
 - My beautiful Husband for all the encouragement he has given me through this project and for seeing my potential even at times when I couldn’t. 
 
 - All the users that participated in the user research stage of the project. Your feedback was invaluable!
+
 - The Code Institute and all the resources, tutoring, student care and mentoring support they have, and continue to  provide throughout the course.
 
 

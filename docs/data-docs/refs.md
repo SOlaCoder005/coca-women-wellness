@@ -15,6 +15,8 @@ Below are a list of references that has aided the programmer's knowledge and und
 
 - DunkDesign, K., Bosh, H., Agarwal, A. and Liu, J., 2021. "The frameborder attribute on the iframe element is obsolete. Use CSS instead.". [online] Stack Overflow. Available at: <https://stackoverflow.com/questions/26274082/the-frameborder-attribute-on-the-iframe-element-is-obsolete-use-css-instead> [Accessed 19 May 2021].
 
+- Forward UK, 2021., FORWARD Covid-19 survey - Coronavirus and BAME Women [PDF] Available at: <https://www.forwarduk.org.uk/wp-content/uploads/2020/08/FORWARD-COVID-19-SURVEY-SUMMARY-REPORT.pdf> [Accessed 27 May 2021].
+
 -	Hpft.nhs.uk. 2021. The Care Act: Wellbeing. [online] Available at: <https://www.hpft.nhs.uk/information-and-resources/care-act-2014/the-care-act-wellbeing/> [Accessed 7 May 2021].
 
 - Learn.codeinstitute.net. 2021. 27_HTML_Forms_Form_Attributes | Code Institute. [online] Available at: <https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/ee2afa91c35e4268b7de2ea21fe311dd/9?activate_block_id=block-v1%3ACodeInstitute%2BHE101%2B2020%2Btype%40vertical%2Bblock%4004ae28359c4340048efdeeacf3363eb0> [Accessed 18 May 2021].

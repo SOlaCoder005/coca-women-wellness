@@ -6,8 +6,6 @@
 
 1. [Overview](#1-Overview)
 2. [User Experience (UX)](#2-User-Experience-UX)
-    - Market Reserach
-    - test
 3. [Content](#3-Content)
 4. [Features](#4-Features)
 5. [Technologies Used](#5-Technologies-Used)
@@ -22,7 +20,7 @@
 
 The Coca Women Wellness (CWW) website hosts and provides primary and secondary content that helps users develop mindfulness practices that can bolster their wellbeing. 
 
-CWW aspires to assist in supporting initiatives around the wellbeing of minority ethnic communities, particularly African and Caribbean communities. As a means to contribute to diversity and inclusion initiatives in the creative industry, CWW also shares content that has been curated by mindfulness and wellbeing influencers from the African Caribbean diaspora. 
+CWW aspires to assist in supporting initiatives around the wellbeing of minority ethnic communities, particularly African and Caribbean communities. As a means to contribute to diversity and inclusion initiatives in the creative industry, CWW also shares content that has been curated by mindfulness and wellbeing influencers from the African & Caribbean diaspora. 
 
 A secondary goal for CWW is to foster an online wellbeing community for users through sharing digital resources; as well as hosting in-person/online and social meetups (e.g. in-person and zoom). 
 
@@ -32,13 +30,15 @@ A secondary goal for CWW is to foster an online wellbeing community for users th
 
 #### **2.1.1 Market Research**
 
-Through market research, the following findings supported the conceptualisation of the Coca Women Wellness Website: 
+Market reasearch was conducted during the early stages of building the CWW website. Primary focus was placed on societal factors that commonly impact people's wellbeing. The research unearthed several findings around the topic of wellbeing, which contributed to the conceptualisation of the Coca Women Wellness Website. Some of the findings are listed below:  
 
-- Due to ongoing sociocultural and social-economic inequality in multiple societies (e.g. COVID-19 and continued social inequality), there has been increased discourse on raising awareness around, and providing greater support for improving people’s wellbeing. 
+- Due to ongoing socio-cultural and social-economic inequality in multiple societies (e.g. COVID-19 and continued social inequality); there has been an increaseed demand to raise awareness around, and provide greater support for improving people’s wellbeing. 
 
-- Further, there has been an increased volume of socio-economic initiatives that aim to bolster the mental, social, and emotional wellbeing of minority groups, particularly those in the African and/or Caribbean diaspora. 
+- Further, there has been an increased volume of socio-economic initiatives that aim to bolster the mental, social, and emotional wellbeing of minority groups, including those within the African & Caribbean diaspora. 
 
-Considering this, the CWW hosts primary and secondary wellbeing media and resources (e.g. images, videos, tutorials, influencers, and recipes) curated by, and for, communities of the African/Caribbean diaspora. 
+- The findings produced from many reports into BAME wellbeing has suggested that UK BAME women, particularly those of African & Carribbean hertaige, are at a greater risk of experiencing socio-economic inequalities. In turn, such inequalities can increase the risk of many women from these groups developing health issues such as anxiety, stress and even depression (Forward UK, 2021). 
+
+Considering this, a primary service that CWW provides is hosting and sharing primary and secondary wellbeing media and resources (e.g. images, videos, tutorials, influencers, and recipes) tailored to the interests of women within African & Caribbean communities. 
 
 #### **2.1.2 Essential Definitions – ‘Mindfulness’ and ‘Wellbeing’**
 
@@ -779,6 +779,7 @@ As part of the preliminary conceptualisation of the Coca Women Wellness, some po
 - [World Changer Life](https://www.worldchangerlife.com/)
 - [GLAM Africa](https://www.glamafrica.com/)
 - [AKOMA Skincare](https://www.akomaskincare.co.uk/)
+- [Forward UK](https://www.forwarduk.org.uk/black-womens-mental-health-matter/?gclid=Cj0KCQjwhr2FBhDbARIsACjwLo3d0DmNx-OaZqTJav9C1SySBlLxrRx80OJ17F40X8W-2hZFzw68cWkaAm4AEALw_wcB#)
 
 I’d like to thank Code Institute and all the resources, tutoring, student care and mentoring support they have, and continue to, provide throughout the course.
 

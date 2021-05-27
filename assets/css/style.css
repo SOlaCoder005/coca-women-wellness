@@ -188,10 +188,6 @@ Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
     background-color: rgba(253, 139, 196, .7);
 }
 
-.about-footer-style {
-    background-color:rgba(253, 139, 196, .7);
-}
-
  .about-container{
      box-sizing: border-box;
 }
@@ -227,6 +223,10 @@ Tutorial/Guidance source:[https://www.w3schools.com/howto/howto_css_image_center
     margin-left: auto;
     margin-right: auto;
     padding: 25px;  
+}
+
+.about-footer-style {
+    background-color:rgba(253, 139, 196, .7);
 }
 /*ABOUT PAGE - ENDS*/
 
@@ -683,7 +683,7 @@ Source:[https://www.w3schools.com/howto/howto_js_scroll_to_top.asp]*/
 
 /*FOOTER -STARTS*/
 /*The declarations in this code/element has been amended to suit the need of my website. 
-Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
+/* Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/ */
 footer {
     grid-area: footer;
     padding: 10px 0 20px 0;

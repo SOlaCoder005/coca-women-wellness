@@ -81,7 +81,9 @@ Specifically the users were asked if they could:
 
 4. Not fill the form at the end. 
 
-As the CWW form uses: https://formdump.codeinstitute.net as the post URL, and in line with policies around data protection (e.g. GDPR practices), it was best for the users not to submit their personal information. Further, the form had already been tested and confirmed that it works (see ‘4.6 Page: CONNECT’ of the [README.md file](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/README.md)).
+As the CWW form uses: https://formdump.codeinstitute.net as the post URL, and in line with policies around data protection (e.g. GDPR practices), it was best for the users not to submit their personal information. Further, the form had already been tested and confirmed that it works, as shown below: 
+
+![](assets/images/testing-evidence/cww-form-submit-pass.PNG)
 
 The users’ feedback can be found below: 
 

@@ -173,9 +173,9 @@ The Coca Women Wellness website serves several purposes which increases its valu
 
 4. Mintel reports have indicated that the growth of digital resources and platforms have encouraged people to engage with more visual content, specifically on digital devices like laptops and smartphones (McGrath, 2020).  Moreover, visual content (e.g. films, art, images etc.) has greater engagement from those aged people aged 16-44. Such findings echo trend reports’ assertions that around 26% of UK adults are likely to engage in traditional reading (e.g. hardcover books) (Ryan, 2020). As such, the key initiatives of CWW are to: 
 
-- Bolster users’ exposure to digital content and resources that helps develop positive mindfulness practices which will likely promote overall wellbeing. 
+    - Bolster users’ exposure to digital content and resources that helps develop positive mindfulness practices which will likely promote overall wellbeing. 
 
-- Expose users to influencers that curate content around wellbeing, with the African & Caribbean diaspora in mind.  
+    - Expose users to influencers that curate content around wellbeing, with the African & Caribbean diaspora in mind.  
   
 
 #### **2.2.2 Competitors: How does CWW differs competitors?**

@@ -191,13 +191,11 @@ While these resources are appropriate and invaluable to addressing and supportin
 - [Black Zen](https://www.blackzen.co/#services-and-more) 
 - [Black Women Healing Retreats](https://www.blackwomenhealingretreats.com/about-black-women-healing-retreats.html).  
 
-
-
 ## 3. Content
 
-In line with the [‘structure’ and ‘skeleton’ planes]( https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.) of the 5 Planes of UX Design model, producing the initial wireframes were key to the development of the site’s User Interface (UI).  
+In line with the 5PUXD Model’s [‘structure’ and ‘skeleton’ planes]( https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.); the production of the initial wireframes were key to the development of the site’s User Interface (UI).  
 
-This section outlines several elements  that have supported the conceptualisation and implementation of designing the CWW website. The content in this section includes wireframes, mood boards and colour pallets, font selection and logo design.   
+This section outlines several elements which have supported the conceptualisation and implementation of designing the CWW website. The content in this section includes wireframes, mood boards and colour pallets, font selection and logo design.   
   
 
 ### 3.1. Wireframes (Structure and Skeleton)
@@ -212,54 +210,70 @@ The wireframes below depict the **preliminary structure** for the CWW website. T
 4.	[Wireframe – PLAYLISTS]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/playlists-pages "Wireframes for Playlists page")
 5.	[Wireframe – CONNECT]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/playlists-pages "Wireframes for Connect page")
 
- - **PLEASE NOTE:** The structure and appearance of the live deployed CWW website differs considerably from the preliminary wireframes. These differences resulted from responsiveness issues that arose during the initial design of the CWW website. Further information around this has been documented in the [testing.md](/docs/testing/testing.md) document within this repository’s directory.
+- **PLEASE NOTE:** The structure and appearance of the live deployed CWW website differs considerably from the preliminary wireframes. These differences resulted from responsiveness issues that arose during the initial design and implementation of the CWW website. Further information around this has been documented in the **[testing.md](/docs/testing/testing.md) document** within this repository’s directory.
 
-Although the final structure of the site differs considerably to the preliminary wireframes; the live deployed CWW has greater responsiveness when accessed by different devices (incl. Desktop, mobile and tablet screens). 
+Although the structure of the live deployed CWW site differs to the preliminary wireframes; the CWW website has greater responsiveness when accessed by different devices (incl. desktop, mobile and tablet screens). 
 
 ### 3.2 User Experience Design (UXD) elements (Surface)
 
-Akin to recommendations highlighted in the [‘surface’ plane](https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.) of the 5 Planes of UX Design model, the visual characteristics were finalised nearing the end of the site development. 
+Akin to recommendations highlighted in the [‘surface’ plane](https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.) principle of the 5PUXD Model; the visual characteristics of the site were finalised nearing the end of the site’s development. 
 
 The following sections outline key visual elements that have supported the conceptualisation and implementation of designing the CWW website (incl. colour pallet choices, fonts and logo).
 
 #### **3.2.1 [Colour Pallet](https://www.pinterest.co.uk/feli_fierce/cww_website_colourtheme/) Rationale** 
 
-Keeping cultural characteristics in mind, a combination of brown and other warm hues were incorporated into the colour scheme CWW. For instance, the conscious decision to apply yellow as the primary colour scheme of the homepage was linked to the strong social-cultural, semantic, and symbolic meaning it conveys within several African/Caribbean communities. 
+
 
 ![](docs/colour-theme/cww-website-colourtheme.png)
 
-Many of these cultures have assigned positive connotations to the colour yellow. For instance, concepts around wealth, femininity and fertility in some African cultures are often illustrated with yellow aspects, this can be incorporated into garment colour schemes and even religious characterisations. For instance, the Yoruba Orisha – Oshun has been often been drawn wearing yellow garments (Britannica.com, 2021).  Similarly, within the Caribbean, specifically Rastafarian cultures, the colour yellow has been included in their native attire and artefacts. Yellow in this culture is used to signify wealth and prosperity (BBC.co.uk, 2009).  
 
-The other colours throughout the site were sourced from the images on the left-hand-side of the website’s pages (on desktop screen). Below is a list of the colours, with their respective HEX and RGB values: 
+
+Keeping cultural characteristics in mind, a combination of yellow and other warm hues was incorporated into the CWW website colour scheme. For instance, yellow was used as the primary colour scheme for the homepage as it often evokes positive emotions. 
+
+Moreover, yellow has strong social-cultural, semantic, and symbolic connotations within several African & Caribbean communities. For instance, many of these cultures have assigned positive connotations to the colour yellow. Arguably, concepts around wealth, femininity and fertility in some African cultures are often depicted by yellow features (e.g. incorporated into garment colour schemes). As an example, when the Yoruba Orisha – Oshun is represented in visual images, she is often shown to be wearing yellow garments (Britannica.com, 2021).  Similarly, within the Caribbean, specifically Rastafarian cultures, the colour yellow has been included in their native attire and artefacts. Yellow in this culture conveys wealth and prosperity (BBC.co.uk, 2009).  
+
+The other colours throughout the site were sourced from the images on the left-hand-side of the website’s pages. Below is a list of the colours used, with their respective HEX and RGB values: 
+
+
 
 ![](docs/colour-theme/colour-pallet-cww.png)
+
+
+
 
 #### **3.2.2 Fonts** 
 
 The fonts used on the CWW site were imported from [Google Fonts](https://fonts.google.com/) and were used on the website for the following reasons: 
 
+
+
 ![](docs/colour-theme/font-cww.PNG)
 
-1. **Oswald**: This is a considerably ‘weighted’ sans-serif font. It was used on the header sections to ensure that the navigation titles remained prominent across the varying header colours.
 
-2. **Open Sans**: Aside from the header, this font was used throughout the site. It was chosen to compliment the ‘feminine’ theme of the site. Arguably, round shapes are often associated with feminine characteristics. As such, the rounded characteristics of this font conveys a softer tone to the overall page compared to the Oswald font and vibrant colours used. 
+
+1. **Oswald**: This is a considerably ‘heavy’ sans-serif font. It was used on the header sections to ensure that the navigation titles remained prominent across the varying header colours.
+
+2. **Open Sans**: Aside from the header, this font was used throughout the site. It was chosen to compliment the ‘feminine’ theme of the site. Arguably, round shapes are often associated with feminine characteristics. As such, the rounded characteristics of this font conveys a softer tone to the overall page compared to the Oswald font. 
 
 #### **3.2.3 Coca Women Wellness Logo** 
 
-The logo for the site was created initial by hand and then illustrated through the following software:
+The logo for the site was created initially by hand and then illustrated through the following software:
 
 - Adobe Illustrator
 - Adobe Photoshop
 - Adobe InDesign 
 
-![](assets/images/website-screenshots-and-elements/logowithtext.png) 
+
+
+![](assets/images/website-screenshots-and-elements/logowithtext.png)
 
 
 The colour **#3E0D05** was applied to the logo illustration for two key reasons:
 
 1. To maintain aesthetic continuity across the site’s element (e.g. majority of the site text, social media icons and some header titles). 
 
-2. To reduce the risk of creating a harsh contrast between the background and foreground. For instance, typically, within deigns and visual content that aim to convey warning or alerts will tend to use a combination of bright yellow(s), white and black. As this is not the purpose of the CWW website, the use of the colour black was avoided.
+2. To reduce the risk of creating a harsh contrast between the background and foreground. For instance, within visual design practices, bright yellow(s), white and black are often used to indicate warning or danger. As this is not the purpose of the CWW website, the use of the colour black was avoided.
+
 
 ## 4. Features
 

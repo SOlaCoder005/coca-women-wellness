@@ -679,15 +679,15 @@ Source:[https://www.w3schools.com/howto/howto_js_scroll_to_top.asp]*/
 }
 
 #backtoheader:hover {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     border: none;
 }
 /*SCROLL FEATURE- ENDS*/
 
 
 /*FOOTER -STARTS*/
-/*The declarations in this code/element has been amended to suit the need of my website. 
-Tutorial/Guidance Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
+/*The declarations has been amended to suit the need of my website. 
+Origin Source:[https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=11]*/
 footer {
     grid-area: footer;
     padding: 10px 0 20px 0;
@@ -723,10 +723,12 @@ footer {
 }
 /*FOOTER - ENDS*/
 
+
 /*404 ERROR PAGE - STARTS*/
-/*Content on page has been centred using the values from w3School guidance. Source:[https://www.w3schools.com/howto/howto_css_image_center.asp]*/
+/*The properties and values in this code/element has been amended to suit the need of my website. 
+Source: [https://www.w3schools.com/howto/howto_css_image_center.asp]*/
 .error-container {
-    background-color: #ffd700;
+    background-color: rgb(255, 215, 0);
 }
 
 .error-logo {

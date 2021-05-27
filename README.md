@@ -786,8 +786,8 @@ Although some of the resources credited below are already listed in the [5. Tech
 -   [Youtube](https://www.youtube.com/): This was used to refer to useful coding and UXD tips and tutorials. Including: 
 
    - [DesignCourse](https://www.youtube.com/watch?v=qTGbWfEEnKI&list=PLH7H7OKKWG3T0SAJxSVBxr-Qz-219iWeH&index=12): Code exampled in this turorial was referenced and adapted to suit this site's structure.
-
-    - [Kevin Powell](https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s): Code exampled how to use "object-fit:_;" CSS property. This method was applied to the images on the left hand page of each webiste page. 
+   
+   - [Kevin Powell](https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s): Code exampled how to use "object-fit:_;" CSS property. This method was applied to the images on the left hand page of each webiste page. 
 
 #### **8.2.1 Language and Scripts**
 

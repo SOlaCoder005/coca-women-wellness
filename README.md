@@ -585,18 +585,18 @@ Below are a list of all the technologies, languages and tools that has aided the
 
 ## 6. Testing
 
-A series of tests have been conducted on the CWW site’s functionality and its source-code. An extensive report of the tests conducted can be found in the [testing.md](/docs/testing/testing.md). The document discusses the multiple factors that arose throughout the testing process of the site, such as;
+A series of tests have been conducted on the CWW site’s functionality and its source-code. An extensive report of the tests conducted can be found in the **[testing.md document](/docs/testing/testing.md)**. The document discusses several factors that arose throughout the testing process of the site, such as;
 
-1. Responsiveness issues with CWW site’s initial design and structure
+1. Responsiveness issues with CWW site’s initial design and structure.
 
-2. Methods undertaken to assess the live CWW site’s structure and responsiveness
+2. Methods undertaken to assess the live CWW site’s structure and responsiveness.
 
-3. Users’ feedback on their experience using the CWW website
+3. Users’ feedback on their experience using the CWW website.
 
 
 ### 6.1 Validator Testing
 
-To ensure that the source code for the CWW met industry standards, each page was run through the [W3C Validator](https://validator.w3.org/) and [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator). 
+To ensure that the source-code for the CWW met industry standards, each page was run through the [W3C Validator](https://validator.w3.org/) and [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator). 
 
 #### **6.1.1 HTML Validator Tests**
 
@@ -620,7 +620,7 @@ The [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator) was used to test t
 
 #### **6.1.3 Accessibility Tests**
 
-The [WAVE Accessibility Evaluation Tool](https://wave.webaim.org) was used to test the degree to which the site is considered accessible. The results produced **0 errors**, thus passing the test.Evidence for each page is below: 
+The [WAVE Accessibility Evaluation Tool](https://wave.webaim.org) was used to test the degree to which the site is considered accessible. The results produced **0 errors**, thus passing the test. Evidence for the results of each page is below: 
 
 - [HOME (index.html)](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/testing/accesibility-results/date-240521/WAVE_index.html_accessibility_PASS_240521.PNG)
 
@@ -653,7 +653,8 @@ The [Lighthouse](https://developers.google.com/web/tools/lighthouse#devtools) wa
 
 
 #### **6.1.5 Responsiveness**
-The Coca Women Wellness website is responsive to the following device types:
+
+The Coca Women Wellness website is responsive on the following device types:
 
 - Mobiles (Android and IOS)
 - Tablets
@@ -665,27 +666,29 @@ The CWW website functions correctly on the following browsers:
 - Microsoft Edge 
 - Firefox 
 
-Further testing around responsiveness elements of the site can be found in the [testing.md](/docs/testing/testing.md) and **6.3 Unfixed bugs** section.
+Further testing around responsiveness elements of the site can be found in the **[testing.md document](/docs/testing/testing.md)** and **6.3 Unfixed bugs** section.
 
 ### 6.2 Fixed bugs
 
-Aside from the testing discussed in the [testing.md](/docs/testing/testing.md) report, two additional ‘bugs’ frequently arose throughout the development of the CWW site, until a solution was found. For instance:  
+Aside from the testing discussed in the **[testing.md document](/docs/testing/testing.md)**, two additional ‘bugs’ frequently arose throughout the development of the CWW site, until a solution was found. For instance:  
 
 #### **6.2.1 Blurry images on the CWW’s pages**
 
 - **Issue:** 
 
-    While the photos used on the site were sourced from Pexels.com with a high resolution, the images were blurry on several web browsers and device screens.  
+    While the photos used on the site were sourced from Pexels.com with a high resolution values (dpi), the images were blurry on several web browsers and device screens.  
 
 - **Solution:** 
     
-    After conducting further research into image quality within coding, the issue was resolved by using the property **‘object-fix:___;’** as a function within the .css style sheet. 
+    After conducting further research into image quality within coding, the issue was resolved by using the property **‘object-fix:___;’** as within the .css style sheet. 
 
 #### **6.2.2 CWW's images failed to display on one web browser but not the other**
 
 - **Issue:** 
     
-    When using an android tablet, the images on CWW did not display on a Google Chrome browser but did on the Microsoft Edge browser. This issue persisted after clearing the cache and cookies data on the Google Chrome browser multiple times.  However, during this time, the images were displaying on Google Chrome browsers on android mobile devices (e.g. Oppo Reno Z) and Google Chrome’s desktop application. 
+- When using an android tablet, the images on CWW did not display on a Google Chrome browser but did on the Microsoft Edge browser. 
+- This issue persisted after clearing the cache and cookies data on the Google Chrome browser multiple times.  
+- However, during this time, the images were displaying on Google Chrome browsers on android mobile devices (e.g. Oppo Reno Z) and Google Chrome’s desktop application. 
 
 -  **Solution:**
     
@@ -693,7 +696,8 @@ Aside from the testing discussed in the [testing.md](/docs/testing/testing.md) r
 
 ### 6.3 Unfixed Bugs 
 
-#### **6.3.1 Structural Integrity: The awkward positioning of the label and input elements of the form on the ‘CONNECT’ page** 
+#### **6.3.1 Structural Integrity: Positioning of a label and input element within the form on the ‘CONNECT’ page** 
+
 - Issue:
 
     An unresolved bug on the CWW site is the positioning of the form’s input boxes on the connect page, when orientated vertically on a tablet screen (640px-768px). For instance:
@@ -703,7 +707,7 @@ Aside from the testing discussed in the [testing.md](/docs/testing/testing.md) r
     - However, the positioning of these elements aligns when the devices are rotated and used horizontally. 
 
 
-#### **6.3.2 Structural Integrity: The collapsing of section on the ‘HOME’ and ‘PLAYLISTS’ pages**
+#### **6.3.2 Structural Integrity: Stacking of text sections on the ‘HOME’ and ‘PLAYLISTS’ pages**
 
 - **Issue:** 
 
@@ -714,8 +718,9 @@ Aside from the testing discussed in the [testing.md](/docs/testing/testing.md) r
 - **Issue:** 
 
     Although the CWW site has passed the validator and accessibility tests, when accessed on mobile devices, some pages have been shown to have lower performance ratings, according to the [Lighthouse](https://developers.google.com/web/tools/lighthouse#devtools) development tool audit.
-
+    
     A primary factor contributing to this performance on mobiles is the quantity and size of the images. This result is prevalent after reducing the resolution (dpi) values and size (px) of the images.  
+  
 
 ## 7. Deployment
 

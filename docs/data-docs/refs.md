@@ -1,7 +1,5 @@
 # Reference List
 
-### Overview
-
 Below are a list of references that has aided the programmer's knowledge and understanding of coding principles which has helped build the Coca Women Wellness website. 
 
 -	BBC.co.uk. 2009. ”Rastafari at a glance”. [online]. Available at: https://www.bbc.co.uk/religion/religions/rastafari/ataglance/glance.shtml#:~:text=Rastafarian%20colours&text=Red%20signifies%20the%20blood%20of,the%20Africans%20who%20initiated%20Rastafari (Accessed: 07/05/21)

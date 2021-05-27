@@ -483,6 +483,11 @@ div iframe {
     font-size: 60px;
 }
 
+#playlist-header span {
+    color: rgba(63, 25, 202, .5);
+    font-weight: 700;
+}
+
 .playlisticon i {
     font-size: 70px;
     padding: 5px 5px;

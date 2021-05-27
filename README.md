@@ -538,10 +538,9 @@ Idea 2: Create a library page that hosts literary resources.
 - Implementation: An additional page on the website would be labelled ‘Library’ and the page can provide downloadable documents. The documents would provide specific mindfulness techniques, such as [EFT tapping](https://www.healthline.com/health/eft-tapping). 
 
 
-
 ## 5. Technologies Used
 
-Below are a list of all the technologies, languages and tools that has aided the construction of the Coca Women Website.
+Below are a list of all the technologies, languages and tools that has aided the construction of the Coca Women Wellness website.
 
 ### 5.1 Languages
 
@@ -551,36 +550,38 @@ Below are a list of all the technologies, languages and tools that has aided the
 
 - **JavaScript** - Supported specific functionalities within the site (e.g. the navigation bar on the website).
 
-- **JQuery** – Supported specific functionalities (e.g. the scroll features on the website) within the site through simplifying ‘Document Object Model’ (DOM) manipulation (Developer.mozilla.org, 2021). 
+- **JQuery** – Supported specific functionalities (e.g. the scroll button) within the site through simplifying ‘Document Object Model’ (DOM) manipulation (Developer.mozilla.org, 2021). 
 
 ### 5.2 Libraries, Resources and Tools
 
--	[Adobe Creative Cloud](https://www.adobe.com/uk/creativecloud.html): Specifically, the applications - Illustrator (AI), Photoshop (PS) and InDesign (InD) were used to create the website log. In more detail AI was used to create the design, PS used to help design the logo for the website and also select specific colour values that form the colour scheme of the website. Lastly, InD was used to apply and align the ‘Coca Women Wellness’ name to the logo once it was created in AI. 
--   [Balsamiq]( https://balsamiq.com/): An application that allows designers sketch up User Interfaces (UI)
--	[Bootstrap](https://getbootstrap.com/): Provided useful components that assisted the site’s functionality (e.g. responsive navigation menu).
--	[Cite This for Me](https://www.citethisforme.com/): This was primarily used to cite the websites and resources referred to help build the site. 
--   [Dillinger](https://dillinger.io/): An extremely useful markdown complier tool that allows you to check your code is formatted correctly on the README.md file.
--   [Font Awesome](https://fontawesome.com/) - While the site hosts a number of resources, most of the icons used on the live site has been sourced from Font Awesome.
--	[GitHub](https://github.com/): A version control software that can has both desktop and online platforms. 
+-	[Adobe Creative Cloud](https://www.adobe.com/uk/creativecloud.html): Specifically, the applications - Illustrator (AI), Photoshop (PS) and InDesign (InD) were used to create the website log. In more detail:
+    - AI was used to create the design. 
+    - PS used to help design the logo for the website and select specific colour values that form the colour scheme of the website. 
+    - InD was used to apply and align the ‘Coca Women Wellness’ name to the logo once it was created in AI. 
+-   [Balsamiq]( https://balsamiq.com/): An application that allows designers sketch up User Interfaces (UI).
+-	[Bootstrap](https://getbootstrap.com/): Provided useful components that assisted with the site’s functionality (e.g. responsive navigation menu).
+-	[Cite This for Me](https://www.citethisforme.com/): This was primarily used to cite the websites and resources referred to in the [Reference document](/docs/data-docs/refs.md). 
+-   [Dillinger](https://dillinger.io/): A markdown complier tool that allows you to check that your mark-up is formatted correctly for the README.md file.
+-   [Font Awesome](https://fontawesome.com/) – Most of the icons used on the live site has been sourced from Font Awesome.
+-	[GitHub](https://github.com/): A version control software that can has both desktop and online applications. This is used to host the site and the current repository. 
 -   [GitPod](https://www.gitpod.io/): An IDE that can be used online and locally on your desktop.
 -   [Google (Chrome) Development Tools](https://developer.chrome.com/docs/devtools/open/): Described as a browser 'authoring and debugging tool' for websites. 
--	[Google Drive](https://drive.google.com/): This was mainly used to backup the repo once saved to a local drive.
--   [Google Fonts](https://fonts.google.com/): This platform was used to select and import the desired font into the website's source code.
--   [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/): This has been used to check the quality of the CSS code and ensures it passes coding standards.
--   [Lighthouse](https://developers.google.com/web/tools/lighthouse): Provides analytical reports on the degree to which a site is responsive. 
--   [nekoCalc](https://nekocalc.com/px-to-rem-converter): An online application that converts px to rem. 
+-   [Google Fonts](https://fonts.google.com/): This platform was used to select and import the desired font(s) into the website's source code.
+-   [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/): This has been used to validate the CSS code and ensure it passes coding standards.
+-   [Lighthouse](https://developers.google.com/web/tools/lighthouse): Provides analytical reports on the performance level of a site.
 -   [Pexels](https://www.pexels.com/): Pexels provides royalty-free stock images. 
 -   [Pixabay](https://pixabay.com/): Pixabay provides royalty-free stock images.  
--   [Pinterest](https://www.pinterest.co.uk/feli_fierce/cww_website_colourtheme/): An application where visuals were collated for a mood-board influencing the website’s colour schemes.
--   [Responsively](https://responsively.app/download): Web Browser that allows you to check the degree to which you website is responsive on various device sizes and screen orientations.
+-   [Pinterest](https://www.pinterest.co.uk/) An application where the visuals were collated, influencing the design of CWW website’s colour scheme.
+-   [Responsively](https://responsively.app/download): Web developer browser that checks the degree to which a website is responsive on various device sizes and screen orientations.
 -   [Stack Overflow](https://stackoverflow.com/): This was used as a reference tool to assist with both HTML coding techniques.
 -   [VSCode](https://code.visualstudio.com/): An open source IDE that can be used online and locally on your desktop.
 -   [Visme](https://www.visme.co/): An online application that assist with building visual content (e.g. graphs and charts) for business purposes. 
--   [Wave]( https://wave.webaim.org/): A ‘Web Accessibility Evaluation Tool’ that determines the extent to which a site is accessible. 
--   [W3C Validator](https://validator.w3.org/): This has been used to check the quality of HTML code and ensures it passes coding standards.
--   [W3 Schools](https://www.w3schools.com/): This was used as a reference tool to assist with HTML coding techniques. 
+-   [Wave]( https://wave.webaim.org/): A ‘Web Accessibility Evaluation Tool’ that determines the extent to which a site is ‘accessible’. 
+-   [W3C Validator](https://validator.w3.org/): This has been used to validate HTML code and ensures it passes coding standards.
+-   [W3 Schools](https://www.w3schools.com/): This was used as a reference tool to assist with HTML and CSS coding techniques. 
 -   [W3.CSS](https://www.w3schools.com/w3css/default.asp): This was used as a reference tool to assist with CSS coding techniques.
 -   [Youtube](https://www.youtube.com/): Referred to for useful coding and UXD tips and tutorials.
+
 
 ## 6. Testing
 
@@ -753,7 +754,7 @@ Below is an overview on how to deploy a project via GitHub’s GitHub Pages. Thi
 
 ### 8.2 Content 
 
-Although some of the resources credited below are already listed in the [5. Technologies Used](#5-Technologies-Used) section of the README and [References document](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/data-docs/refs.md); the credits listed here are relative to specific content that has been incorporated into the Coca Women website:
+Although some of the resources credited below are already listed in the [5. Technologies Used](#5-Technologies-Used) section of the README and [References document](https://github.com/SOlaCoder005/coca-women-wellness/blob/master/docs/data-docs/refs.md); the credits listed here are relative to specific content that has been incorporated into the Coca Women Wellness website:
 
 -	[Bootstrap](https://getbootstrap.com/): Provided useful components that assisted my site’s functionality. Specifically; 
 
@@ -843,4 +844,4 @@ I would like to thank…
 
 ## 10. References
 
-Several resources have been referred to throughout the development of the Coca Women Website. A list has been provided, [here](/docs/data-docs/refs.md).
+Several resources have been referred to throughout the development of the Coca Women Wellness Website. A list has been provided, [here](/docs/data-docs/refs.md).

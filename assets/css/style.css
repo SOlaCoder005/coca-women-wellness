@@ -273,6 +273,7 @@ Tutorial/Guidance source:[https://www.youtube.com/watch?v=6yAAV-uP0po&t=29s]*/
     padding: 10px;
     color: rgb(62, 13, 5, .85);
     text-decoration: none;
+    font-weight: 500;
 }
   
 .recipe-boxes {
@@ -301,6 +302,9 @@ section .recipe-boxes {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+.recipe-header a:hover {
+    color:rgb(151, 231, 29);
 }
 
 /*For RECIPE-BOX1*/

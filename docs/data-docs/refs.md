@@ -19,11 +19,15 @@ Below are a list of references that has aided my knowledge and understanding of 
 
 - Learn.codeinstitute.net. 2021. 27_HTML_Forms_Form_Attributes | Code Institute. [online] Available at: <https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/ee2afa91c35e4268b7de2ea21fe311dd/9?activate_block_id=block-v1%3ACodeInstitute%2BHE101%2B2020%2Btype%40vertical%2Bblock%4004ae28359c4340048efdeeacf3363eb0> [Accessed 18 May 2021].
 
+- Legg, T.J., 2018. What Is EFT Tapping? 5-Step Technique for Anxiety Relief. [online] Available at: <https://www.healthline.com/health/eft-tapping> [Accessed 28 May 2021].
+
 - Mark Otto, A., 2021. Navbar. [online] Getbootstrap.com. Available at: <https://getbootstrap.com/docs/4.0/components/navbar/> [Accessed 18 May 2021].
 
--	McGrath, R.,  2021. Media Trends Spring - UK - March 2020 - Market Research Report. [online] Available at: <https://reports.mintel.com/display/988498/?highlight> [Accessed 7 May 2021].
+-   McGrath, R.,  2021. Media Trends Spring - UK - March 2020 - Market Research Report. [online] Available at: <https://reports.mintel.com/display/988498/?highlight> [Accessed 7 May 2021].
 
-- Medium. 2021. Create Emotion With Color In UX Design. [online] Available at: <https://uxplanet.org/create-emotion-with-color-in-ux-design-446a3766b085> [Accessed 18 May 2021].
+- Medium., 2021. Create Emotion With Color In UX Design. [online] Available at: <https://uxplanet.org/create-emotion-with-color-in-ux-design-446a3766b085> [Accessed 18 May 2021].
+
+- Medium., 2021. UX Design using the Five Planes Method. [online] Available at: <https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.> [Accessed 28 May 2021].
 
 -	Merriam-Webster.com,  2021.  [online]. Available at: https://www.merriam-webster.com/dictionary/mindfulness Accessed: 06/05/2021.
 

@@ -536,7 +536,7 @@ Idea 1: Separate the playlists into subpages.
 
 Idea 2: Create a library page that hosts literary resources.
 
-- Implementation: An additional page on the website would be labelled ‘Library’ and the page can provide downloadable documents. The documents would provide specific mindfulness techniques, such as [EFT tapping](https://www.healthline.com/health/eft-tapping). 
+- Implementation: An additional page on the website would be labelled ‘Library’ and the page can provide downloadable documents. The documents would provide specific mindfulness techniques, such as [EFT tapping](https://www.healthline.com/health/eft-tapping) (Legg, 2018). 
 
 
 ## 5. Technologies Used

@@ -85,7 +85,9 @@ Specifically, the users were asked if they could:
 
 4. Not fill the form on the CONNECT page. 
 
-- **Please note:** The CWW form uses: https://formdump.codeinstitute.net as the post URL. It was used after receiving approval from the Code Institute's Tutoring Support team. However, in line with data protection policies (e.g. GDPR), the users were asked not to submit their personal information into this form. Further, the form had already been tested and submitted information successfully. Please see the image below: 
+- **Please NOTE:** The CWW form uses: https://formdump.codeinstitute.net as the post URL and used in the form once receiving approval from the Code Institute's Tutoring Support team. However, in line with data protection policies (e.g. GDPR), the users were asked not to submit their personal information into this form. 
+
+Nonetheless, the form had already been tested and submitted information successfully. Please see the image below: 
 
 ![](/assets/images/testing-evidence/cww-form-submit-pass.PNG)
 

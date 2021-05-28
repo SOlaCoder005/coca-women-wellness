@@ -18,9 +18,9 @@
 
 ## 1. Overview
 
-The Coca Women Wellness (CWW) website hosts and provides primary and secondary content that helps users develop mindfulness practices that can bolster their wellbeing. 
+The Coca Women Wellness (CWW) website provides primary and secondary content that helps users develop mindfulness practices that can bolster their wellbeing. 
 
-CWW aspires to assist in supporting initiatives around the wellbeing of minority ethnic communities, particularly African and Caribbean communities. To contribute to diversity and inclusion initiatives in the creative industry, CWW also shares content that has been curated by mindfulness and wellbeing influencers from the African & Caribbean diaspora. 
+CWW aspires to assist in supporting initiatives around the wellbeing of minority ethnic communities, particularly African & Caribbean communities. To contribute to diversity and inclusion initiatives in the creative industry, CWW also shares content that has been curated by mindfulness and wellbeing influencers from the African & Caribbean diaspora. 
 
 A secondary goal for CWW is to foster an online wellbeing community for users through sharing digital resources; as well as hosting in-person/online and social meetups (e.g. in-person and zoom). 
 
@@ -159,8 +159,10 @@ As a site owner; I want to:
 ### 2.2 Website value (Scope)
 
 The [‘scope plane’]( https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.) in the 5PUXD Model suggests that designers should consider the core features and functions that are needed in the intended site. 
-Such considerations encourage the designer(s) to assess. 
--  The value (e.g. products and services) the commissioned site would add to the customers’ experience. 
+
+Such considerations encourage the designer(s) to assess: 
+
+- The value (e.g. products and services) the commissioned site would add to the users’ experience(s). 
 - How this value differs from competing counterparts.
 
 #### **2.2.1 Valuableness of the website** 
@@ -169,11 +171,9 @@ The Coca Women Wellness website serves several purposes which increases its valu
 
 1.  The site intends to bolster users’ wellbeing through exposing them to wellbeing influencers and resources primarily sourced from African & Caribbean communities.  
 
-2. Based on some excerpts from the users’ stories – several women had limited knowledge of wellbeing influencers, specifically those of African and/or Caribbean decent. The lack of exposure to (and promotion of) such influencers within media and creative industries has been a prevalent issue that is now being addressed in the current social climate. It has led to the implementation of inclusion and diversity initiatives such as [#YouTubeBlack](https://www.youtube.com/intl/ALL_za/creators/ytbvoicesfund/). 
+2. Based on some excerpts from the users’ stories – several women had limited knowledge of wellbeing influencers, specifically those of African and/or Caribbean decent. The lack of exposure to (and promotion of) such influencers within media and creative industries has been a prevalent issue that is now being addressed in the current social climate. It has led to the implementation of inclusion and diversity initiatives such as [#YouTubeBlack](https://www.youtube.com/intl/ALL_za/creators/ytbvoicesfund/). Coca Women Wellness attempts support such initiatives by providing users with a free, contemporary way of accessing and distributing information around wellbeing and mindfulness practices.  
 
-3. Coca Women Wellness attempts support such initiatives highlighted above by providing users with a free, contemporary way of accessing and distributing information around wellbeing and mindfulness practices.  
-
-4. Mintel reports have indicated that the growth of digital resources and platforms have encouraged people to engage with more visual content, specifically on digital devices like laptops and smartphones (McGrath, 2020).  Moreover, visual content (e.g. films, art, images etc.) has greater engagement from those aged people aged 16-44. Such findings echo trend reports’ assertions that around 26% of UK adults are likely to engage in traditional reading (e.g. hardcover books) (Ryan, 2020). As such, the key initiatives of CWW are to: 
+3. Mintel reports have indicated that the growth of digital resources and platforms have encouraged people to engage with more visual content, specifically on digital devices like laptops and smartphones (McGrath, 2020).  Moreover, visual content (e.g. films, art, images etc.) has greater engagement from people aged 16-44. Such findings echo trend reports’ assertions that around 26% of UK adults are likely to engage in traditional reading (e.g. hardcover books) (Ryan, 2020). As such, the key initiatives of CWW are to: 
 
     - Bolster users’ exposure to digital content and resources that helps develop positive mindfulness practices which will likely promote overall wellbeing. 
 
@@ -184,7 +184,7 @@ The Coca Women Wellness website serves several purposes which increases its valu
 
 To determine the valuableness of the site, it was essential to analyse how the CWW differs from competitor sites. 
 
-Arguably, a lot of wellbeing and mindfulness websites portray a clinical narrative which is often reflected in their content (e.g. aesthetical design) and services (e.g. therapeutic services and treatment). For instance, sites such as [Rethink Mental Illness]( https://www.rethink.org/advice-and-information/living-with-mental-illness/wellbeing-physical-health/black-asian-and-minority-ethnic-mental-health/) offer clinical services such as counselling and priced therapeutic materials (e.g. meditation courses, books). Moreover, a Google search of the phrase ‘black wellbeing’ presented a list of wide range of articles and resources written in extremely formal tones. 
+Arguably, a lot of wellbeing and mindfulness websites portray a clinical narrative which is often reflected in their content (e.g. aesthetical design) and services (e.g. therapeutic services and treatment). For instance, sites such as [Rethink Mental Illness]( https://www.rethink.org/advice-and-information/living-with-mental-illness/wellbeing-physical-health/black-asian-and-minority-ethnic-mental-health/) offer clinical services such as counselling and priced therapeutic materials (e.g. meditation courses, books). Moreover, a Google search of the phrase ‘black wellbeing’ presented a wide range of articles and resources written in extremely formal tones. 
 
 While these resources are appropriate and invaluable to addressing and supporting matters around wellbeing, CWW has been designed with a more informal tone. Specifically, CWW hosts wellbeing resources in an informal relaxed way, reflecting websites such as: 
 
@@ -197,7 +197,7 @@ While these resources are appropriate and invaluable to addressing and supportin
 
 In line with the 5PUXD Model’s [‘structure’ and ‘skeleton’ planes]( https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05#:~:text=The%20five%20planes%20%E2%80%94%20strategy%2C%20scope,the%20problem%20as%20a%20whole.); the production of the initial wireframes were key to the development of the site’s User Interface (UI).  
 
-This section outlines several elements which have supported the conceptualisation and implementation of designing the CWW website. The content in this section includes wireframes, mood boards and colour pallets, font selection and logo design.   
+This section outlines several elements which have supported the conceptualisation and implementation of designing the CWW website. The content in this section includes wireframes, mood-boards, colour pallets, font selection and logo design.   
   
 
 ### 3.1. Wireframes (Structure and Skeleton)
@@ -212,7 +212,7 @@ The wireframes below depict the **preliminary structure** for the CWW website. T
 4.	[Wireframe – PLAYLISTS]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/playlists-pages "Wireframes for Playlists page")
 5.	[Wireframe – CONNECT]( https://github.com/SOlaCoder005/coca-women-wellness/tree/master/docs/wireframes/playlists-pages "Wireframes for Connect page")
 
-- **PLEASE NOTE:** The structure and appearance of the live deployed CWW website differs considerably from the preliminary wireframes. These differences resulted from responsiveness issues that arose during the initial design and implementation of the CWW website. Further information around this has been documented in the **[testing.md](/docs/testing/testing.md) document** within this repository’s directory.
+- **PLEASE NOTE:** The structure and appearance of the live deployed CWW website differs from the preliminary wireframes. These differences resulted from **responsiveness issues** that arose during the initial design of the CWW website. Further information around this has been documented in the **[testing.md document](/docs/testing/testing.md)** within this repository’s directory.
 
 Although the structure of the live deployed CWW site differs to the preliminary wireframes; the CWW website has greater responsiveness when accessed by different devices (incl. desktop, mobile and tablet screens). 
 
@@ -234,7 +234,7 @@ Keeping cultural characteristics in mind, a combination of yellow and other warm
 
 Moreover, yellow has strong social-cultural, semantic, and symbolic connotations within several African & Caribbean communities. For instance, many of these cultures have assigned positive connotations to the colour yellow. Arguably, concepts around wealth, femininity and fertility in some African cultures are often depicted by yellow features (e.g. incorporated into garment colour schemes). As an example, when the Yoruba Orisha – Oshun is represented in visual images, she is often shown to be wearing yellow garments (Britannica.com, 2021).  Similarly, within the Caribbean, specifically Rastafarian cultures, the colour yellow has been included in their native attire and artefacts. Yellow in this culture conveys wealth and prosperity (BBC.co.uk, 2009).  
 
-The other colours throughout the site were sourced from the images on the left-hand-side of the website’s pages. Below is a list of the colours used, with their respective HEX and RGB values: 
+The other colours throughout the site were sourced from the images on the left-hand-side of the website’s pages. Below is a diagram of the colours used, with their respective HEX and RGB values: 
 
 
 
@@ -279,7 +279,7 @@ The colour **#3E0D05** was applied to the logo illustration for two key reasons:
 
 ## 4. Features
 
-This section provides an overview of the features on the Coca Women Wellness website, and where relevant, the way in which theses feature(s) address the users’ stories in prior sections.
+This section provides an overview of the features on the Coca Women Wellness website, and where relevant, the way in which theses feature(s) address the users’ stories aforementioned
 
 ### 4.1 Site-wide Features
 1. Logo
@@ -310,7 +310,7 @@ This section provides an overview of the features on the Coca Women Wellness web
 
     - Each social media icon links to external social media pages (e.g. YouTube, Discord and Twitter). These open in a new tab.
 
-    - The customer would have to sign into their social media accounts and would then be directed to the respective Coca Women Wellness social media account (e.g. Instagram). 
+    - The user would have to sign into their social media accounts and would then be directed to the respective Coca Women Wellness social media account (e.g. Instagram). 
 
 4. Vertical banner image
 
@@ -318,7 +318,9 @@ This section provides an overview of the features on the Coca Women Wellness web
 
     - The images are also intended to implicitly suggest to the user that the website hosts and shares content that promotes wellbeing.
 
-5. Scroll button 
+5. Scroll button
+
+As mobile screens tend to be smaller and narrower, website pages can lengthen considerably compared to other device types. As such this feature is particularly useful when the website is accessed via mobile. 
 
     - The scroll button appears in the bottom-right corner of each page. 
 
@@ -327,9 +329,6 @@ This section provides an overview of the features on the Coca Women Wellness web
     - The feature has been implemented to aid users’ navigation around the website’s pages, thus bolstering positive engagement with the site. 
 
     - The feature is present across several devices (e.g. desktop screens, mobiles, and tablets).
-
-    - As mobile screens tend to be smaller and narrower, website pages can lengthen considerably compared to other device types. As such this feature is particularly useful when the website is accessed via mobile. 
- 
 
 #### **4.1.1 User Story/Stories Addressed**
 
@@ -346,15 +345,15 @@ This section provides an overview of the features on the Coca Women Wellness web
 
 1. ‘COCA WOMEN WELLNESS’ top row icons: ‘Our Socials’, ‘Our Resources’ and ‘Our Community’
 
-- The primary purpose for these links is to direct users to internal pages and the social media icons in the site’s footer. 
+    - The primary purpose for these links is to direct users to internal pages and the social media icons in the site’s footer. 
 
-- Akin to the header, when each icon is hovered over with the cursor, the icon turns to a light shade of orange. The hover function has been used to create a visual difference through user interaction. 
+    - Akin to the header, when each icon is hovered over with the cursor, the icon turns to a light shade of orange. The hover function has been used to create a visual difference through user interaction. 
 
-- The icons’ colour change aims to suggest that the icons provide an additional function (e.g. linking to another page).
+    - The icons’ colour change aims to suggest that the icons provide an additional function (e.g. linking to another page).
 
 2. ‘OUR MEETUPS’ bottom row icons: ‘In-person’ and ‘Online’ socials
 
-- The primary purpose for these links is to direct users to external pages (i.e. Linked in and Zoom); where the user can sign-up to attend the social meetings. Akin to the first row of icons:  
+The primary purpose for these links is to direct users to external pages (i.e. Linked in and Zoom); where the user can sign-up to attend the social meetings. Akin to the first row of icons:  
 
     - When each icon is hovered over with the cursor, the icon turns to a light shade of orange.
 
@@ -531,7 +530,7 @@ This section provides an overview of the features on the Coca Women Wellness web
 
 The following ideas could be implemented in future development of the site. These proposed features can help increase the site’s usefulness and user engagement. 
 
-Idea 1: Separate the playlists into separate subpages. 
+Idea 1: Separate the playlists into subpages. 
 
 - Implementation: Each subpage can have additional content (e.g. articles or blogs) focused on the parent topic (e.g. family or food). 
 
@@ -682,7 +681,7 @@ Aside from the testing discussed in the **[testing.md document](/docs/testing/te
 
 - **Solution:** 
     
-    After conducting further research into image quality within coding, the issue was resolved by using the property **‘object-fix:___;’** as within the .css style sheet. 
+    After conducting further research into image quality within coding, the issue was resolved by using the property **‘object-fix:___;’** within the .css style sheet. 
 
 #### **6.2.2 CWW's images failed to display on one web browser but not the other**
 

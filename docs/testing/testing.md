@@ -28,13 +28,11 @@ The document will provide information on factors that contributed to the develop
 
 ### **Issue:**
 
-Although the initial wireframes for the CWW site presented a feasible concept around the site’s structure; execution of the plans proved to raise multiple issue. 
-
-Once creating the initial pages, testing identified that the structure was severely limited in terms of responsiveness. For instance: 
+Although the initial wireframes for the CWW site presented a feasible concept around the site’s structure; execution of the plans raised some challenges. Once creating the initial pages, testing identified that the structure was severely limited in terms of responsiveness. For instance: 
 
 - While the structure of the site was functional on **_desktop screens_**, the structure of the site was not functional on **_smaller device screens_** when rotated both horizontally and vertically. 
 
-Through screen rotation, as well as reducing and expanding screen size, the following issues arose: 
+Moreover, through screen rotation, as well as reducing and expanding screen size, the following issues arose: 
 
 - The text and image elements would not adapt appropriately to the changing screen widths and sizes. 
 
@@ -46,11 +44,11 @@ These issues persisted even after applying media queries to the website’s init
 
 ### **Solution:** 
 
-As demonstrated by the live CWW site, the responsiveness issue was resolved by a complete restructure of the site. It is for this reason, that the structure of live deployed CWW site differs from the initial wireframes. 
+As demonstrated by the live CWW site, the responsiveness issue was resolved byrestructuring the site. It is for this reason, that the structure of live deployed CWW site differs from the initial wireframes. 
 
 In more detail, the initial site’s structure was improved by applying a ‘grid system’. This method: 
 
-- Helped form a robust structure of the live CWW site, and;
+- Helped form a robust structure for the live CWW site, and;
 
 - Increased the site’s degree of responsivity to the changing screen widths and lengths (when accessed on varying devices).
 
@@ -87,7 +85,7 @@ Specifically, the users were asked if they could:
 
 4. Not fill the form on the CONNECT page. 
 
-As the CWW form uses: https://formdump.codeinstitute.net as the post URL, and in line with policies around data protection (e.g. GDPR practices), the users were asked not to submit their personal information. Further, the form had already been tested and submitted information successfully. Please see the image below: 
+- **Please note:** The CWW form uses: https://formdump.codeinstitute.net as the post URL. It was used after receiving approval from the Code Institute's Tutoring Support team. However, in line with data protection policies (e.g. GDPR), the users were asked not to submit their personal information into this form. Further, the form had already been tested and submitted information successfully. Please see the image below: 
 
 ![](/assets/images/testing-evidence/cww-form-submit-pass.PNG)
 
